@@ -4,12 +4,21 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
-<title>Why hasn't SpaceX, worth $2T, paid this Bay Area chef the $70K it owes him?</title>
-<link>https://www.sfchronicle.com/food/restaurants/article/spacex-stateline-napa-late-payment-22463945.php</link>
-<guid isPermaLink="false">8e96006d6c064a4f029014838209ada3351c6b764e6937aa3933128605c58c5a</guid>
+<title>Roko's Basilisk</title>
+<link>https://en.wikipedia.org/wiki/Roko%27s_basilisk</link>
+<guid isPermaLink="false">b7d01fb81a98137767f24bb9472b20147eb441faaf3ab796179c7cf27271316e</guid>
 <source>Hacker News</source>
 <category>technology</category>
-<pubDate>Sun, 11 Oct 2026 16:59:24 +0000</pubDate>
+<pubDate>Sun, 11 Oct 2026 17:23:25 +0000</pubDate>
+<description>Comments</description>
+</item>
+<item>
+<title>apsw: Another Python SQLite Wrapper</title>
+<link>https://github.com/rogerbinns/apsw</link>
+<guid isPermaLink="false">204e3d90b89782114084ae699a53a33f4fe644aa75ab0281578173015e74dec4</guid>
+<source>Hacker News</source>
+<category>technology</category>
+<pubDate>Sun, 11 Oct 2026 16:58:22 +0000</pubDate>
 <description>Comments</description>
 </item>
 <item>
@@ -100,6 +109,15 @@
 <description>Comments</description>
 </item>
 <item>
+<title>How to Build Wealth as a Career Person</title>
+<link>https://asheradeniyi.com/2026/04/10/how-to-build-wealth-as-a-career-person</link>
+<guid isPermaLink="false">7fdd97b40e9c22228f8cf990958679e59598c60d813370e8c4c77e24f39a4fac</guid>
+<source>Hacker News</source>
+<category>technology</category>
+<pubDate>Sun, 11 Oct 2026 16:03:58 +0000</pubDate>
+<description>Comments</description>
+</item>
+<item>
 <title>TechCrunch Mobility: A roadblock clears for self-driving trucks</title>
 <link>https://techcrunch.com/2026/10/11/techcrunch-mobility-a-roadblock-clears-for-self-driving-trucks</link>
 <guid isPermaLink="false">266468c857bec783bc156d43d9f91ad56d0d9b84321c753b190a42cc0aceffcf</guid>
@@ -125,6 +143,15 @@
 <category>technology</category>
 <pubDate>Sun, 11 Oct 2026 16:00:00 +0000</pubDate>
 <description>Richualist is one of TechCrunch's Battlefield 200 Companies!</description>
+</item>
+<item>
+<title>Microsoft calls for AI ‘emergency brake’ - Taipei Times</title>
+<link>https://news.google.com/rss/articles/CBMidkFVX3lxTE9HT2RTcFB4dWw2Z1BiLWo5U1EwUXpkaU5aZWlrcWwzdjZOaGVZbzdIWkRvV3VlTGZPQUpTNm00NU9YRjZyTUItM3BrQW9SR0RQTHV4ZlkyRWVNaXRCQjU0cVozY09jblJGZE5CNnNjVkctTEEwM0E?oc=5</link>
+<guid isPermaLink="false">e92e1d70b6b043a8073fc293a167142446d53cf74331f267c5fac1e8581d07b5</guid>
+<source>Google News Artificial Intelligence</source>
+<category>technology</category>
+<pubDate>Sun, 11 Oct 2026 16:00:00 +0000</pubDate>
+<description>Microsoft calls for AI ‘emergency brake’ Taipei Times</description>
 </item>
 <item>
 <title>Bill Gates warns cyberattacks most imminent AI threat - Yahoo</title>
@@ -256,7 +283,7 @@
 <description>Comments</description>
 </item>
 <item>
-<title>Documents Add to Evidence in Climate Deception Case Against ExxonMobil</title>
+<title>Documents add to evidence in climate deception case against ExxonMobil</title>
 <link>https://insideclimatenews.org/news/07102026/exxonmobil-climate-deception-new-evidence</link>
 <guid isPermaLink="false">35c16d89bd1a23c349edfe8c44d0d1b33ee16a0035e5a3554055a64ce96a0a56</guid>
 <source>Hacker News</source>
@@ -532,15 +559,6 @@
 <media:content url="https://media.wired.com/photos/6ac967401dd8a2ab2e331c51/master/pass/Google-Playground-Gear-PG_THUMBNAIL_BLOG%20(1).png" medium="image"/>
 </item>
 <item>
-<title>Meet the Only AI Stock I'd Buy Over Nvidia in October - The Motley Fool</title>
-<link>https://news.google.com/rss/articles/CBMimAFBVV95cUxQcXktQWhYX2JSSlF3S19OYi0xYUMwSzRPT21tLTVjM3ppeG9uYVpuTjBYOG5fcnl5UE5HNmJIeV8tRllpQlRsOV96Wm40VzRoUEdHdnZkNjc4SnZGdnVYNHljZ1N0U3EyMzVKclZNSXg0d0hDaHZxMURQYnhxM1AwVmhLZjM5V01VRUNTZHRyOUx2ajR1OTktNg?oc=5</link>
-<guid isPermaLink="false">217c5f3c145dd9a54cd7b75eda21757cc31d9de1d78d2117dfa716b8fff5bb3d</guid>
-<source>Google News Artificial Intelligence</source>
-<category>technology</category>
-<pubDate>Sun, 11 Oct 2026 11:17:00 +0000</pubDate>
-<description>Meet the Only AI Stock I'd Buy Over Nvidia in October The Motley Fool</description>
-</item>
-<item>
 <title>Anthropic AI Agent Sent Fake Murder Tip to US Police, Prompting Safety Concerns - Modern Ghana</title>
 <link>https://news.google.com/rss/articles/CBMinAFBVV95cUxNMTFxY2YzaGJCdEJISUNNTk5DNjlHTHpVWDFNeUlpakZlOGpVSnB6dG9UbG9HRm9hVEtldmItZVpqNEhtcmRTQXhrZllpMkRDejZrX1F1aXhpeHFpOUZ6TW9xbVQ2a3JnZi1sSmZMWTQxNDFiLTVRX3ItckNfWUtodVRCb3BjUlNLU1BlMzBmTHZGcmMxUDRVS3c0RVbSAZsBQVVfeXFMTnhSTGt5aFdwdVhrdkdaQlJ5TzVneE9LNHZfZUoxb1haREpSbzBhZ1hSUGtnaVI2YmV0enNFcTA4LXFaamNEWGpjeDlzZUozbTI2bHlwd3BtV2xvb3lmMjNobFk4OWp3X01VcjZybTN4RkhXTHU4QUZTWVlpelVUTXlFRC1HY3N0dmR4b1NNZWpra3pkYm1vZlhYdEk?oc=5</link>
 <guid isPermaLink="false">f4895032db53b713fa2ad7d0c0fbb45ba6283adfb248e64f79f347e9e85b476f</guid>
@@ -767,15 +785,6 @@
 <category>technology</category>
 <pubDate>Sun, 11 Oct 2026 06:18:59 +0000</pubDate>
 <description>Comments</description>
-</item>
-<item>
-<title>AI may change the price of your Big Mac and groceries — what this means for shoppers - CNBC</title>
-<link>https://news.google.com/rss/articles/CBMif0FVX3lxTE1rRnlnS28yaEYyUUY5V2syQTZXaXJCc2R3V0Q0TWJlYjY0bWRVTGZWQndKNFlxLXBHcFJpb3drbS14dFlpb2wxT3Jzb1hMS3EtWjAxWWhpNmhYX2tRam9jLWJnbGREWmlCSkFmdnBhV19MaVZYcldtVlNmYXRUNFnSAYQBQVVfeXFMT01iZlB5ZjJJT0FrbkhVaF9OZTFCYUNFRGV5emIxNVZibkxGT1lINmRaeU52bkZZeFFoWERwTGhaRV9TdkNLbmlIMHVjNVZUcUFNY3FFSFF5cG5RRW9FTFFkV2NXQklpVHJfTHFyUlVyaThvRU1pVFZZYTRPMC1INFlQSXI4?oc=5</link>
-<guid isPermaLink="false">daba494dcc6fc481a5db77f46bea6c806368637387591ad2f777777c8cbc4255</guid>
-<source>Google News Artificial Intelligence</source>
-<category>technology</category>
-<pubDate>Sun, 11 Oct 2026 05:00:01 +0000</pubDate>
-<description>AI may change the price of your Big Mac and groceries — what this means for shoppers CNBC</description>
 </item>
 <item>
 <title>Machines writing novels: can AI write bestsellers? - DW.com</title>
@@ -1617,13 +1626,13 @@
 <description>ICYMI: What landed for AI builders in September 2026 Amazon Web Services (AWS)</description>
 </item>
 <item>
-<title>Five months treating bugs like patients and coding agents like a medical team</title>
-<link>https://www.cockroachlabs.com/blog/experiment-running-hospital-code</link>
-<guid isPermaLink="false">22529611c86d346b0cd56828553ed3cbc265e59a5e6fd7058a315ac465de895e</guid>
-<source>Hacker News</source>
+<title>Artificial Intelligence - ABC News - Breaking News, Latest News and Videos</title>
+<link>https://news.google.com/rss/articles/CBMiXkFVX3lxTFBHQWNlSHQzMUlJUTg1elY2MnlhM0JMRDkyUlMtYUdwNDFYYmF2cktZZzg2X3pDMVluRVhBS01LY0VnRVI0bnk2eElyWkczd0dLdktiOFMybWl5STktVHc?oc=5</link>
+<guid isPermaLink="false">e493019a8adb7a0cafec605daff5a9ff1cfb26b085362fddf65876aa18e8a770</guid>
+<source>Google News Artificial Intelligence</source>
 <category>technology</category>
-<pubDate>Fri, 09 Oct 2026 15:26:33 +0000</pubDate>
-<description>Comments</description>
+<pubDate>Fri, 09 Oct 2026 15:20:16 +0000</pubDate>
+<description>Artificial Intelligence ABC News - Breaking News, Latest News and Videos</description>
 </item>
 <item>
 <title>BCMA: Artificial Intelligence Conference 2026, October 17, 2026 - Florida Hospital News and Healthcare Report</title>
@@ -1644,15 +1653,6 @@
 <description>Apple’s original music player got many things right. Chief among them: It didn’t connect to the internet.</description>
 <enclosure url="https://media.wired.com/photos/6abdb2233241c89b6aaeb7ab/master/pass/Backchannel-iPod-Anniversary-Business-678384.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/6abdb2233241c89b6aaeb7ab/master/pass/Backchannel-iPod-Anniversary-Business-678384.jpg" medium="image"/>
-</item>
-<item>
-<title>Artificial Intelligence - ABC News - Breaking News, Latest News and Videos</title>
-<link>https://news.google.com/rss/articles/CBMiXkFVX3lxTFBHQWNlSHQzMUlJUTg1elY2MnlhM0JMRDkyUlMtYUdwNDFYYmF2cktZZzg2X3pDMVluRVhBS01LY0VnRVI0bnk2eElyWkczd0dLdktiOFMybWl5STktVHc?oc=5</link>
-<guid isPermaLink="false">e493019a8adb7a0cafec605daff5a9ff1cfb26b085362fddf65876aa18e8a770</guid>
-<source>Google News Artificial Intelligence</source>
-<category>technology</category>
-<pubDate>Fri, 09 Oct 2026 14:21:17 +0000</pubDate>
-<description>Artificial Intelligence ABC News - Breaking News, Latest News and Videos</description>
 </item>
 <item>
 <title>OpenAI revenue shortfall exposes vulnerability in artificial intelligence ecosystem - Fox Business</title>
@@ -1907,15 +1907,6 @@
 <description>Trump calls users of term 'artificial intelligence' the 'enemy' Anadolu Ajansı</description>
 </item>
 <item>
-<title>Nix wrote half of my debugger</title>
-<link>https://fzakaria.com/2026/10/07/nix-wrote-half-of-my-debugger</link>
-<guid isPermaLink="false">72035a6bd1e24a1a5e273de1bd66fabe5c8e8e5fe0a1fdab41ef36c29b6e8653</guid>
-<source>Hacker News</source>
-<category>technology</category>
-<pubDate>Fri, 09 Oct 2026 07:29:08 +0000</pubDate>
-<description>Comments</description>
-</item>
-<item>
 <title>Column | Artificial intelligence is a plague in higher education | Columns | Opinion - The Daily Collegian</title>
 <link>https://news.google.com/rss/articles/CBMi8gFBVV95cUxNbW9ELVFyWkJ6d0kyTXJGd3d5VXZrcEtrX0xBU19ydE4xSnlFVDhuUWlVVXFxUnhMWURVQWJ6UFZfc0JiYm16bHlVSGlyM1k5WHpGYXQ1R3dSUzdoWlVLbXA2Vlo1bm5Pd25hb3pid25kZUNDalRFdGZWUHU1T21hUXE4dFFZZDdQR1dVMG1JbDFscm10SFl1dUI2enNIaTZaVUdXZmhtTnZPTVpvcmk4VHp2VUF1enZxd1U4M3JFNGoyNzVpWDdVZnNodVduM3QyeFUtZjE4WHFvWnVsUjdLMi05VHF6S2RRVVR1U0pYbVBIUQ?oc=5</link>
 <guid isPermaLink="false">c6c4b90ab69d25a25599c62e4d09910d07610b0946c374ac03df8b87018fc839</guid>
@@ -1932,6 +1923,28 @@
 <category>technology</category>
 <pubDate>Fri, 09 Oct 2026 06:00:00 +0000</pubDate>
 <description>Most Americans think artificial intelligence is developing too fast, a new AP-NORC poll finds Jackson Hole News&amp;Guide</description>
+</item>
+<item>
+<title>TurboTax Full Service Coupons This October 2026</title>
+<link>https://www.wired.com/story/turbotax-coupon</link>
+<guid isPermaLink="false">80d04aa731f128bbf642a31f154ec69591d7abc25cd478a59b0982e21d21eb43</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Fri, 09 Oct 2026 05:00:00 +0000</pubDate>
+<description>Tax season doesn’t have to be stressful. Score 10% off full service expert on federal tax filings and more exclusive TurboTax discount codes on WIRED.</description>
+<enclosure url="https://media.wired.com/photos/66ea076fca863bb4c1028b64/master/pass/WIRED-Coupons-11.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/66ea076fca863bb4c1028b64/master/pass/WIRED-Coupons-11.jpg" medium="image"/>
+</item>
+<item>
+<title>Instacart Promo Code: $15 Off | October 2026</title>
+<link>https://www.wired.com/story/instacart-promo/code</link>
+<guid isPermaLink="false">bfb4a56914eab186d807b48b4055e006475ac7a924ac7d411b91473969b5797f</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Fri, 09 Oct 2026 05:00:00 +0000</pubDate>
+<description>Find the best Instacart promo code for massive savings in October 2026.</description>
+<enclosure url="https://media.wired.com/photos/67b63b9079f27a355461c964/master/pass/WIRED-Coupons-R2_2.png" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/67b63b9079f27a355461c964/master/pass/WIRED-Coupons-R2_2.png" medium="image"/>
 </item>
 <item>
 <title>Ulta Promo Codes: Up to 20% Off in October 2026</title>
@@ -1998,28 +2011,6 @@
 <description>Save on We-Vibe, including app-controlled bestsellers and popular gift sets designed for couples, connection, and shared pleasure.</description>
 <enclosure url="https://media.wired.com/photos/67b63b98fb14553f0ebd9ffd/master/pass/WIRED-Coupons-R2_15.png" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/67b63b98fb14553f0ebd9ffd/master/pass/WIRED-Coupons-R2_15.png" medium="image"/>
-</item>
-<item>
-<title>TurboTax Full Service Coupons This October 2026</title>
-<link>https://www.wired.com/story/turbotax-coupon</link>
-<guid isPermaLink="false">80d04aa731f128bbf642a31f154ec69591d7abc25cd478a59b0982e21d21eb43</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Fri, 09 Oct 2026 05:00:00 +0000</pubDate>
-<description>Tax season doesn’t have to be stressful. Score 10% off full service expert on federal tax filings and more exclusive TurboTax discount codes on WIRED.</description>
-<enclosure url="https://media.wired.com/photos/66ea076fca863bb4c1028b64/master/pass/WIRED-Coupons-11.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/66ea076fca863bb4c1028b64/master/pass/WIRED-Coupons-11.jpg" medium="image"/>
-</item>
-<item>
-<title>Instacart Promo Code: $15 Off | October 2026</title>
-<link>https://www.wired.com/story/instacart-promo/code</link>
-<guid isPermaLink="false">bfb4a56914eab186d807b48b4055e006475ac7a924ac7d411b91473969b5797f</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Fri, 09 Oct 2026 05:00:00 +0000</pubDate>
-<description>Find the best Instacart promo code for massive savings in October 2026.</description>
-<enclosure url="https://media.wired.com/photos/67b63b9079f27a355461c964/master/pass/WIRED-Coupons-R2_2.png" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/67b63b9079f27a355461c964/master/pass/WIRED-Coupons-R2_2.png" medium="image"/>
 </item>
 <item>
 <title>H&amp;R Block Coupon: 25% Off DIY + Tax Pro Assist</title>
@@ -2239,17 +2230,6 @@
 <description>Artificial Intelligence for Nuclear Deterrence Strategy 2023 Department of Energy (.gov)</description>
 </item>
 <item>
-<title>Amazon Alexa Tablet 12 Pro, Alexa Tablet 11, Alexa Tablet 8: Specs, Features, Price</title>
-<link>https://www.wired.com/story/amazon-alexa-tablets-2026</link>
-<guid isPermaLink="false">f6f3fd72456a77e25024482d20206efb0b721468559347d30b5593158261fa14</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Thu, 08 Oct 2026 13:00:00 +0000</pubDate>
-<description>The three new aluminum Alexa Tablets now run Android with full access to the Google Play Store. There are versions for kids too.</description>
-<enclosure url="https://media.wired.com/photos/6ac61e4b2ab0bbd59ca811da/master/pass/DSC_9820.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/6ac61e4b2ab0bbd59ca811da/master/pass/DSC_9820.jpg" medium="image"/>
-</item>
-<item>
 <title>The New Alexa Tablets Feel Like a Blueprint for an Amazon Phone</title>
 <link>https://www.wired.com/story/alexa-tablets-blueprint-for-upcoming-amazon-phone</link>
 <guid isPermaLink="false">5529e05969830f44679d93da17c4c4db78d14be21edb5f5788fb9fcf87fc6b06</guid>
@@ -2259,6 +2239,17 @@
 <description>Amazon is rumored to be making a smartphone, and the Alexa-powered experiences on its new tablets give us a taste of what might come if that happens.</description>
 <enclosure url="https://media.wired.com/photos/6ac61ed08eeaec50812f97eb/master/pass/DSC_9810.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/6ac61ed08eeaec50812f97eb/master/pass/DSC_9810.jpg" medium="image"/>
+</item>
+<item>
+<title>Amazon Alexa Tablet 12 Pro, Alexa Tablet 11, Alexa Tablet 8: Specs, Features, Price</title>
+<link>https://www.wired.com/story/amazon-alexa-tablets-2026</link>
+<guid isPermaLink="false">f6f3fd72456a77e25024482d20206efb0b721468559347d30b5593158261fa14</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Thu, 08 Oct 2026 13:00:00 +0000</pubDate>
+<description>The three new aluminum Alexa Tablets now run Android with full access to the Google Play Store. There are versions for kids too.</description>
+<enclosure url="https://media.wired.com/photos/6ac61e4b2ab0bbd59ca811da/master/pass/DSC_9820.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6ac61e4b2ab0bbd59ca811da/master/pass/DSC_9820.jpg" medium="image"/>
 </item>
 <item>
 <title>How Massive Is Elon Musk’s Trillion-Dollar Fortune? Spend It Yourself</title>
@@ -2434,6 +2425,15 @@
 <category>technology</category>
 <pubDate>Tue, 29 Sep 2026 07:00:00 +0000</pubDate>
 <description>Inside the Biggest Feud in Artificial Intelligence The Atlantic</description>
+</item>
+<item>
+<title>Artificial intelligence is coming for Israel’s voters - The Economist</title>
+<link>https://news.google.com/rss/articles/CBMisgFBVV95cUxOSFRScU9XY1lQUGNDMEpza1FBdWFfalh2RVZZN0FkU24xa3hMZFgxS3Nsa2ZMVDh1QzRIa3lGNDJBeEI5SGR0ZW8tY1FtdS1KQXB6LVJualVqbEpfd0E5ajlPYVFPalhhSTdVQVBfVjZDT1hSZ1JORFItb0Ezakk2ekpobHVLa0pkS09TVTZ4Ul9xRlpnVnRNbXN2dlRvWTJBYjY0c0w5WkNyb0R0ekZxSjNn?oc=5</link>
+<guid isPermaLink="false">c11fcd46283ec2ab4312b04ed0c0d1ef6d2e9813ad1c3a34c27a76d75ab7cc30</guid>
+<source>Google News Artificial Intelligence</source>
+<category>technology</category>
+<pubDate>Mon, 28 Sep 2026 07:00:00 +0000</pubDate>
+<description>Artificial intelligence is coming for Israel’s voters The Economist</description>
 </item>
 <item>
 <title>How Insurers Are Responding to AI Risks - RAND.org</title>
