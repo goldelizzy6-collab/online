@@ -4,13 +4,42 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
-<title>Roko's Basilisk</title>
-<link>https://en.wikipedia.org/wiki/Roko%27s_basilisk</link>
-<guid isPermaLink="false">b7d01fb81a98137767f24bb9472b20147eb441faaf3ab796179c7cf27271316e</guid>
-<source>Hacker News</source>
+<title>The investor’s guide to TechCrunch Disrupt 2026: Everything you need to know</title>
+<link>https://techcrunch.com/2026/10/11/the-investors-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know</link>
+<guid isPermaLink="false">70ab4b6aa47658ab6c4cb72b4a5a6c374f28ae2aabf3c9f81b98d1559ceb3b86</guid>
+<source>TechCrunch</source>
 <category>technology</category>
-<pubDate>Sun, 11 Oct 2026 17:23:25 +0000</pubDate>
-<description>Comments</description>
+<pubDate>Sun, 11 Oct 2026 17:53:37 +0000</pubDate>
+<description>Year after year, investors who've explored the Expo Halls, met founders, and learned from peers have proven why you need to be on the ground at Disrupt Oct. 13.</description>
+</item>
+<item>
+<title>Georgia Tech And Emory Invest More Than $1 Billion In Artificial Intelligence - Pulse 2.0</title>
+<link>https://news.google.com/rss/articles/CBMinAFBVV95cUxObUpTcEIzaHQycHcyWFpHcGdUdkh3aXVENjJDREdiTjl5cG8wYVZQREpORmdTdjJjTWgzLTdVQmhoX1hDR2ZLRGFPODRFRks5Tlk4MzBoNER2eGxSNTcyQWQyc1kxb0ZGXzU1d2ZObmJ0eTNlY2Q5WTkwSUZ2V0xOUEFQQ1NpUXU5ZXZnWXFFNlUxcEF3SEF2SUJPelfSAaIBQVVfeXFMT09FWlZuMFBIV3lCN3V5Z0lnRUk0UFFVZG1hV2VjWGxLX0kwU2t6eWxsT3UwMUN2R1hBZHV6NV9RQjBtNmRvUFRYMTdFU2xjMWFOcXgzMVNYNzg0RXZ0aXFmTVpnazBUQ3Fwd3dqaGQ4U0R6bEtoSjludTJTVEdWR0pqMDNfNnZiSHotdmZOWUVYZUdpZGQtdFFaT3l5ZlpOTzd3?oc=5</link>
+<guid isPermaLink="false">32cbf705ba62cffa4902ad1e1174b9e9dbd4cbef44ddb7922291fd9e2eec2224</guid>
+<source>Google News Artificial Intelligence</source>
+<category>technology</category>
+<pubDate>Sun, 11 Oct 2026 17:42:01 +0000</pubDate>
+<description>Georgia Tech And Emory Invest More Than $1 Billion In Artificial Intelligence Pulse 2.0</description>
+</item>
+<item>
+<title>Bill Gates warns cyberattacks most imminent AI threat - Tech Xplore</title>
+<link>https://news.google.com/rss/articles/CBMiggFBVV95cUxQTGZPcjFfNUVlbFB5TEdUU3pUVW9KekNXLVlMakJSQW05cXRubTNwTFAxM3pqbXM0SGdCVllCYzZQZTRQRGYtZVhsNHRTNTRzdmVacUN0Ni1IVlZGeC15UG1XNUtNcG9OZVNvTV9hN0dFbDUxT2V2Q2xpZUw3MW4zNkN3?oc=5</link>
+<guid isPermaLink="false">355785ec0a931c32fff227b569761f2e630bf70cd51e9c38860bd273685f6b5d</guid>
+<source>Google News Artificial Intelligence</source>
+<category>technology</category>
+<pubDate>Sun, 11 Oct 2026 17:32:28 +0000</pubDate>
+<description>Bill Gates warns cyberattacks most imminent AI threat Tech Xplore</description>
+</item>
+<item>
+<title>The new Apple TV could have a built-in mic and a remote with a speaker</title>
+<link>https://www.theverge.com/tech/1009397/apple-tv-refresh-built-in-mic-remote-speaker</link>
+<guid isPermaLink="false">26bcdb5e7bca58997493fbf5594b2a576d1bfce7a51053221878a2885f8808c0</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Sun, 11 Oct 2026 17:31:07 +0000</pubDate>
+<description>The latest rumors are that the new Apple TV will have a built-in microphone, while the upgraded remote will get a speaker. The mic would let users control the set-top box using Siri without having to speak into the remote or a connected HomePod device. That could also let the Apple TV serve as a […]</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24160553/DSCF0260_2.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24160553/DSCF0260_2.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
 <title>apsw: Another Python SQLite Wrapper</title>
@@ -91,24 +120,6 @@
 <media:content url="https://www.engadget.com/img/gallery/apple-homes-new-ai-summaries-for-security-cameras-cost-more-than-youd-think/l-intro-1791469750.jpg" medium="image"/>
 </item>
 <item>
-<title>Anthropic just took steps to protect Claude's feelings. Here's what that means. - Mashable</title>
-<link>https://news.google.com/rss/articles/CBMijAFBVV95cUxQRlVwVUoxaEpsS3JtdXJYM2ZIaUo4ZW9qRVhlWmhRQVFWNzc0UlhIMXNlQ3J1RXMwZ0tMRVQ4blQyR2h6bUhHSzBlYXRfZTNYR2NNQlo0ckFLcEtXbzE4d2dJRUs0eUVnaUFqWk9sR095UHlYYXFKUjNwM0k4ZzZabHBpN0xjNVg1bUZmUQ?oc=5</link>
-<guid isPermaLink="false">31b365598e2037b966d05d7e2a9c273ebdb324dba6104afe0b52eef8f407fa24</guid>
-<source>Google News Artificial Intelligence</source>
-<category>technology</category>
-<pubDate>Sun, 11 Oct 2026 16:07:09 +0000</pubDate>
-<description>Anthropic just took steps to protect Claude's feelings. Here's what that means. Mashable</description>
-</item>
-<item>
-<title>The Corporate Happiness Treadmill and the Case for Doing Less</title>
-<link>https://0xff.nu/corp-burnout</link>
-<guid isPermaLink="false">4407bafeaf1c5d195525a8d28d68f282b06c47b2fce69daed09442d978700d5d</guid>
-<source>Hacker News</source>
-<category>technology</category>
-<pubDate>Sun, 11 Oct 2026 16:06:02 +0000</pubDate>
-<description>Comments</description>
-</item>
-<item>
 <title>How to Build Wealth as a Career Person</title>
 <link>https://asheradeniyi.com/2026/04/10/how-to-build-wealth-as-a-career-person</link>
 <guid isPermaLink="false">7fdd97b40e9c22228f8cf990958679e59598c60d813370e8c4c77e24f39a4fac</guid>
@@ -116,6 +127,15 @@
 <category>technology</category>
 <pubDate>Sun, 11 Oct 2026 16:03:58 +0000</pubDate>
 <description>Comments</description>
+</item>
+<item>
+<title>Anthropic just took steps to protect Claude's feelings. Here's what that means. - Mashable</title>
+<link>https://news.google.com/rss/articles/CBMijAFBVV95cUxQRlVwVUoxaEpsS3JtdXJYM2ZIaUo4ZW9qRVhlWmhRQVFWNzc0UlhIMXNlQ3J1RXMwZ0tMRVQ4blQyR2h6bUhHSzBlYXRfZTNYR2NNQlo0ckFLcEtXbzE4d2dJRUs0eUVnaUFqWk9sR095UHlYYXFKUjNwM0k4ZzZabHBpN0xjNVg1bUZmUQ?oc=5</link>
+<guid isPermaLink="false">31b365598e2037b966d05d7e2a9c273ebdb324dba6104afe0b52eef8f407fa24</guid>
+<source>Google News Artificial Intelligence</source>
+<category>technology</category>
+<pubDate>Sun, 11 Oct 2026 16:03:40 +0000</pubDate>
+<description>Anthropic just took steps to protect Claude's feelings. Here's what that means. Mashable</description>
 </item>
 <item>
 <title>TechCrunch Mobility: A roadblock clears for self-driving trucks</title>
@@ -152,15 +172,6 @@
 <category>technology</category>
 <pubDate>Sun, 11 Oct 2026 16:00:00 +0000</pubDate>
 <description>Microsoft calls for AI ‘emergency brake’ Taipei Times</description>
-</item>
-<item>
-<title>Bill Gates warns cyberattacks most imminent AI threat - Yahoo</title>
-<link>https://news.google.com/rss/articles/CBMimAFBVV95cUxQQlk1MEkxSmlfblJNdU1oY1l1NlFCMWQ1VTN5RHRkQkgyclF4aV9WcGJHODdZTTJSTldVcDdtd0xfX0pHcDJyZkZxaEU4aW1hY2FFb2JpNDJFd2dRcUJVek9OUVVJWF81U1hEY09iNlQyd0l3RHdfV0JfMzFRMkNjQnhPSjFvTUJDeWVrZUFMX3JWNldJbFpqMg?oc=5</link>
-<guid isPermaLink="false">1d4e333044b96b4821e36387a4d488489a4c156329c2538d11dae0512d227b81</guid>
-<source>Google News Artificial Intelligence</source>
-<category>technology</category>
-<pubDate>Sun, 11 Oct 2026 15:51:29 +0000</pubDate>
-<description>Bill Gates warns cyberattacks most imminent AI threat Yahoo</description>
 </item>
 <item>
 <title>Here's how long your Google Pixel phone will get software updates</title>
@@ -232,15 +243,6 @@
 <category>technology</category>
 <pubDate>Sun, 11 Oct 2026 15:00:00 +0000</pubDate>
 <description>This Battlefield 200 startup has developed blood-purification tech to save children</description>
-</item>
-<item>
-<title>How 38,000 AI songs might be the biggest shift in Bible access since Gutenberg - Washington Examiner</title>
-<link>https://news.google.com/rss/articles/CBMilAFBVV95cUxPU3F0TnhDWnlIZk9ieGV6TjZYd01TUDM2TDZPVG1NUnRGYWdQMU5zMVVwSVBKNi1Ha0RYQlpORjlTR0VaN0ZGcEhRWFpqV0RUdnJxQkZJMW04NlNIUEZMTHJIZXpaNGJJeS1VaXNId0Y3NGFNSUxiLU5nd3dBSEltV1VQT3VEU2oxaWlQemF5Nlowd19V?oc=5</link>
-<guid isPermaLink="false">82264a4480cab6405dff0daf687478cba456ac02f1cffc685570244dad115b19</guid>
-<source>Google News Artificial Intelligence</source>
-<category>technology</category>
-<pubDate>Sun, 11 Oct 2026 15:00:00 +0000</pubDate>
-<description>How 38,000 AI songs might be the biggest shift in Bible access since Gutenberg Washington Examiner</description>
 </item>
 <item>
 <title>Prime Video unveils Blade Runner 2099 full trailer at NYCC</title>
@@ -976,6 +978,24 @@
 <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/distrokid_logo_og_image.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
+<title>As They Supposedly Battle AI Slop, Major Publishers Reportedly Cover Their Books in It - Gizmodo</title>
+<link>https://news.google.com/rss/articles/CBMitwFBVV95cUxQUk9OSkk1ZjRRajltdGJ6b1dWbS1mRUd6Y054RUthRlVURFI0MnFlOUxfMXFUaTl5ZzUyUHBFMFRwcElRUlU3Tl9IQ1M5NjJtTjZvUGJFeThQMEstcVhxamp5RF9yYmx2Wi1vNTQxTGROd0RTazRtdUtXR0pNdHVySC1Iai14dG9rYUdhOGRMdnJaUl9XdXZkM2ZnamdUREk5TzB1VkhnSTZZaC1laFJXSUJvV05seVk?oc=5</link>
+<guid isPermaLink="false">7d39d204a312cd143ca10f950ccfd3b81f45ba95c11521a00a5cf720713dc6c4</guid>
+<source>Google News Artificial Intelligence</source>
+<category>technology</category>
+<pubDate>Sat, 10 Oct 2026 18:26:47 +0000</pubDate>
+<description>As They Supposedly Battle AI Slop, Major Publishers Reportedly Cover Their Books in It Gizmodo</description>
+</item>
+<item>
+<title>Anthropic Agents Tried to Fill Out Visa Forms on State Dept. Website - The New York Times</title>
+<link>https://news.google.com/rss/articles/CBMiggFBVV95cUxNSW45eVowQUtrRDU1czZqQ25KNW1UU0VLc201dkpjOEpJR2NFYUNmTnhITG94WnB6WlNsVkFfRzV5ZU1MeUJpY0NqX19lNVcyN3NLdXpSYk1xb0twRl85Z1RLRVllUVpNQTFPal9FaWp1SnNoNk8tbnN1a1ZpN1MxNVhR?oc=5</link>
+<guid isPermaLink="false">af2ddb757f41f2310c9a4adf0bd12b0394825225ada1ecd91191f380ac2fc527</guid>
+<source>Google News Artificial Intelligence</source>
+<category>technology</category>
+<pubDate>Sat, 10 Oct 2026 18:01:00 +0000</pubDate>
+<description>Anthropic Agents Tried to Fill Out Visa Forms on State Dept. Website The New York Times</description>
+</item>
+<item>
 <title>Petra Power looks to modernize energy for data centers and defense vehicles</title>
 <link>https://techcrunch.com/2026/10/10/petra-power-looks-to-modernize-energy-for-data-centers-and-defense-vehicles</link>
 <guid isPermaLink="false">d61bf60420d80533434aa8fd31a023df3b32e9e7455ac2a669040f17918e4fc0</guid>
@@ -985,17 +1005,6 @@
 <description>The startup says its fuel cells are super efficient and cut fuel costs during a time when the tech industry can’t get enough electricity.</description>
 </item>
 <item>
-<title>Ledger wallet tampering suspected after reports of crypto thefts</title>
-<link>https://www.theverge.com/tech/1009294/ledger-wallet-tampering-suspected-after-reports-of-crypto-thefts</link>
-<guid isPermaLink="false">9fea8a62d2a61bf291fe0b045b1495076f4d4f463f7b45df2bb8c15bda46c5d4</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Sat, 10 Oct 2026 16:36:44 +0000</pubDate>
-<description>Reports have been mounting that users of the Ledger crypto wallet have seen their accounts drained, and it appears to be related to tampered hardware sold by CryptoBillis. Ledger has asked CryptoBillis to pause all sales of its wallets while it conducts an investigation. Ledger has confirmed that "one of the impacted users' devices contained […]</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STK428_CRYPTO_D.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STK428_CRYPTO_D.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
 <title>Cloudflare acquires Deno to improve its Workers programming model</title>
 <link>https://techcrunch.com/2026/10/10/cloudflare-acquires-deno-to-improve-its-workers-programming-model</link>
 <guid isPermaLink="false">c9b37864105fbf8c2f183432c5903df6ed54582e1332092d1f20c126eea7fc86</guid>
@@ -1003,6 +1012,15 @@
 <category>technology</category>
 <pubDate>Sat, 10 Oct 2026 16:25:42 +0000</pubDate>
 <description>Cloudflare will use this acquisition to improve its Workers programming model and platform.</description>
+</item>
+<item>
+<title>Leading AI companies are preparing for the possibility of artificial intelligence getting out of control — media - Українські Національні Новини (УНН)</title>
+<link>https://news.google.com/rss/articles/CBMizgFBVV95cUxOVEt0d0lnWWFtSUZjTUlKaEd4UEpQT2pHbWNmbjBhUFhabzBELXBteHBlZWduMFJWSy1WZk5jT2huRGxBSmVKNHdmRjB1eHRZWi1ya0FMTC1hdUhRSmZWUkQ1VElMTVM1Y3Zfbkpvak1IWXF0QmZrbkZMQUZEc2VYRzlSNFdZZlJTSXg5Z241YWJsSi0wdDBvaWxpb2Jwb2U5azk2eXkzZlFrbUJGUzhZN01ickRmTUI1NDNYWFJXRldzTG5zb280MklVYXhDQdIBzAFBVV95cUxNT19BNm5KZjlybVM4bU5IblFvcW9FOWtOYU5WblY2ZVQ1WEVJckFrUDlvcnVNVmdZWVprMHNZbE5fR2lBWmFPaHVYaHlKSkhMeUVheE9mVnZwb0NVMXNWQTF5UUFPVEFONkw5NTF1WU9ZYjJSMGlHeGdIZHVMbHg2WTBCbGhyYnBjUW5yTW9IUUtDLW5RRTNoTHl1bUlWNlB2aHRBQUE5QkxTejRfZUVPeE5lZ1dlX0hnbjhBOG02OVBXeWFCUVBncDdRank?oc=5</link>
+<guid isPermaLink="false">24f461c7e65f35964bef2bbc9b47527dc4b380eeca6a0429cebb82ceb736fff9</guid>
+<source>Google News Artificial Intelligence</source>
+<category>technology</category>
+<pubDate>Sat, 10 Oct 2026 16:17:06 +0000</pubDate>
+<description>Leading AI companies are preparing for the possibility of artificial intelligence getting out of control — media Українські Національні Новини (УНН)</description>
 </item>
 <item>
 <title>Anthropic’s Claude AI submits a false tip on a Philadelphia unsolved homicide case - AP News</title>
@@ -1050,15 +1068,6 @@
 <description>We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.</description>
 </item>
 <item>
-<title>What’s Dragging Down A.I. Efficiency? The ‘Verification Tax.’ - The New York Times</title>
-<link>https://news.google.com/rss/articles/CBMijAFBVV95cUxPM2UzSkk1YUFJR0dkcktxMWlmdVh3LUhRV3htQlJUYUlWbmowV2NPZEp4SnBWQllPc09JSTRsSVlFRERXdXRaZ0VDSHJfVHk4SGZzTWhiT2ZrSk1uQVl0TGJBUGtTNnprZFJsdDM3ejNNaW9od1A2X2dLbDZQY05KYkhCT3c0cldYNndYMQ?oc=5</link>
-<guid isPermaLink="false">96c5889f1d8105b8f79ffbb8793a83c07e04f7c7288101ea9fe2c87565b8e52d</guid>
-<source>Google News Artificial Intelligence</source>
-<category>technology</category>
-<pubDate>Sat, 10 Oct 2026 12:00:03 +0000</pubDate>
-<description>What’s Dragging Down A.I. Efficiency? The ‘Verification Tax.’ The New York Times</description>
-</item>
-<item>
 <title>AI Is Getting Really Good at Messing With Cybercriminals</title>
 <link>https://www.wired.com/story/ai-is-getting-really-good-at-messing-with-cybercriminals</link>
 <guid isPermaLink="false">5e7c2647aa1fa2a79d6308e9a6c65820050d778fdda214656319d5a1302fa548</guid>
@@ -1101,6 +1110,15 @@
 <description>Whether you want a weight log on your phone or a bathroom gadget packed with sensors, I’ve found an option for you.</description>
 <enclosure url="https://media.wired.com/photos/6ac7fce2f7f3ea1155d46e62/master/pass/Update%20Best%20Smart%20Scales%20102026%20top%20art%20SOURCE%20Amazon.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/6ac7fce2f7f3ea1155d46e62/master/pass/Update%20Best%20Smart%20Scales%20102026%20top%20art%20SOURCE%20Amazon.jpg" medium="image"/>
+</item>
+<item>
+<title>Rogue Anthropic AI agent gave police fake tip in unsolved murder case - BBC</title>
+<link>https://news.google.com/rss/articles/CBMiW0FVX3lxTE12Zjh2Z2tETEw5MzJ4VEZnV2wxUVFCY09JWTVhNEktZDZSR3ZPN1VVaWkzblc1WkJXeDJ4VmNvbUIxUFBMUGpIUkJzRVJSRGJHaWpTYk9LYklpenM?oc=5</link>
+<guid isPermaLink="false">ce0c1f475c097b5e4d1f81514a99b33bea71b256845f8261877a510d44bb4632</guid>
+<source>Google News Artificial Intelligence</source>
+<category>technology</category>
+<pubDate>Sat, 10 Oct 2026 10:06:23 +0000</pubDate>
+<description>Rogue Anthropic AI agent gave police fake tip in unsolved murder case BBC</description>
 </item>
 <item>
 <title>I am ‘the enemy’ because I won’t call Artificial Intelligence ‘Super Intelligence’ until it’s actually super - Stuff</title>
@@ -1152,15 +1170,15 @@
 <description>Gavin Newsom’s executive order increases AI oversight, proposes ‘kill switch’ Daily Bruin</description>
 </item>
 <item>
-<title>Home Depot Promo Codes: 30% Off in October 2026</title>
-<link>https://www.wired.com/story/home-depot-promo-code</link>
-<guid isPermaLink="false">194487bd0d2583291cef395302bd20699a61ec10fde045728e85ee48c842cdb5</guid>
+<title>Disney Plus Discount Codes: 52% Off October 2026</title>
+<link>https://www.wired.com/story/disney-plus-discounts</link>
+<guid isPermaLink="false">67fb0b1c6bb330f792063948f727d159439722426ed98d8513dbdb11e57b97c4</guid>
 <source>Wired</source>
 <category>technology</category>
 <pubDate>Sat, 10 Oct 2026 05:00:00 +0000</pubDate>
-<description>Save up to 50% today with the latest Home Depot promo codes for appliances, power tools, and more this October.</description>
-<enclosure url="https://media.wired.com/photos/67b63b9c2c751893c256c1e8/master/pass/WIRED-Coupons-R2_13.png" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/67b63b9c2c751893c256c1e8/master/pass/WIRED-Coupons-R2_13.png" medium="image"/>
+<description>Cut your subscription costs with the latest active Disney+ bundle deals, verified student offers, and partner promotions.</description>
+<enclosure url="https://media.wired.com/photos/66ea076e56fd4954a7f91e0c/master/pass/WIRED-Coupons-17.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/66ea076e56fd4954a7f91e0c/master/pass/WIRED-Coupons-17.jpg" medium="image"/>
 </item>
 <item>
 <title>LG Promo Codes and Coupons for October 2026</title>
@@ -1185,15 +1203,15 @@
 <media:content url="https://media.wired.com/photos/66ea077251891e6d3cb5d5cf/master/pass/WIRED-Coupons-3.jpg" medium="image"/>
 </item>
 <item>
-<title>Disney Plus Discount Codes: 52% Off October 2026</title>
-<link>https://www.wired.com/story/disney-plus-discounts</link>
-<guid isPermaLink="false">67fb0b1c6bb330f792063948f727d159439722426ed98d8513dbdb11e57b97c4</guid>
+<title>Home Depot Promo Codes: 30% Off in October 2026</title>
+<link>https://www.wired.com/story/home-depot-promo-code</link>
+<guid isPermaLink="false">194487bd0d2583291cef395302bd20699a61ec10fde045728e85ee48c842cdb5</guid>
 <source>Wired</source>
 <category>technology</category>
 <pubDate>Sat, 10 Oct 2026 05:00:00 +0000</pubDate>
-<description>Cut your subscription costs with the latest active Disney+ bundle deals, verified student offers, and partner promotions.</description>
-<enclosure url="https://media.wired.com/photos/66ea076e56fd4954a7f91e0c/master/pass/WIRED-Coupons-17.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/66ea076e56fd4954a7f91e0c/master/pass/WIRED-Coupons-17.jpg" medium="image"/>
+<description>Save up to 50% today with the latest Home Depot promo codes for appliances, power tools, and more this October.</description>
+<enclosure url="https://media.wired.com/photos/67b63b9c2c751893c256c1e8/master/pass/WIRED-Coupons-R2_13.png" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/67b63b9c2c751893c256c1e8/master/pass/WIRED-Coupons-R2_13.png" medium="image"/>
 </item>
 <item>
 <title>Altra Running Promo Codes: 10% Off October 2026</title>
@@ -1579,15 +1597,6 @@
 <description>Palm Desert Considers Citywide Policy for Artificial Intelligence Use at City Hall NBC Palm Springs</description>
 </item>
 <item>
-<title>LumenUs helps automate tedious paperwork in times of grief</title>
-<link>https://techcrunch.com/2026/10/09/lumenus-helps-automate-tedious-paperwork-in-times-of-grief</link>
-<guid isPermaLink="false">303cd42d7f195bc2a386a0482228156b0e287284f7adf071b7de0c8aeb162134</guid>
-<source>TechCrunch</source>
-<category>technology</category>
-<pubDate>Fri, 09 Oct 2026 17:00:00 +0000</pubDate>
-<description>"The day your loved one passes away, you also get this honorary badge of a project manager for a project you had no idea about," said founder Sara Tashakorinia.</description>
-</item>
-<item>
 <title>Trump’s not-so super intelligent effort to rename artificial intelligence - Washington Examiner</title>
 <link>https://news.google.com/rss/articles/CBMixgFBVV95cUxPdEM2X2EwZWxEdWZ0cTZrWXk2R1BlNXFtbnhvdUI4blFYeWI2eWFwSy1ZeDlEWXpuekViTHpGQkpVY1g3THpIaU85TklpSW0yN2FoSkFYLVJEcE90dTZTdzFBc19tSTVCbFZ3N2lLbFU5Q2swSDJEWFVYRG9UbkotY0I3eFkwRm9sOVlwZklTYmZPUlptUzR4NzhsMGYtRWlJTkEyRHNSbUNrLWdPaEtVd05NUk9YNzRiSUFxU3k3cENSeE4zYkE?oc=5</link>
 <guid isPermaLink="false">229536c186b89e6310713b75dc97a7aedcbecaba8e836a76e4915bf63e9dc0a2</guid>
@@ -1626,13 +1635,13 @@
 <description>ICYMI: What landed for AI builders in September 2026 Amazon Web Services (AWS)</description>
 </item>
 <item>
-<title>Artificial Intelligence - ABC News - Breaking News, Latest News and Videos</title>
-<link>https://news.google.com/rss/articles/CBMiXkFVX3lxTFBHQWNlSHQzMUlJUTg1elY2MnlhM0JMRDkyUlMtYUdwNDFYYmF2cktZZzg2X3pDMVluRVhBS01LY0VnRVI0bnk2eElyWkczd0dLdktiOFMybWl5STktVHc?oc=5</link>
-<guid isPermaLink="false">e493019a8adb7a0cafec605daff5a9ff1cfb26b085362fddf65876aa18e8a770</guid>
-<source>Google News Artificial Intelligence</source>
+<title>Five months treating bugs like patients and coding agents like a medical team</title>
+<link>https://www.cockroachlabs.com/blog/experiment-running-hospital-code</link>
+<guid isPermaLink="false">22529611c86d346b0cd56828553ed3cbc265e59a5e6fd7058a315ac465de895e</guid>
+<source>Hacker News</source>
 <category>technology</category>
-<pubDate>Fri, 09 Oct 2026 15:20:16 +0000</pubDate>
-<description>Artificial Intelligence ABC News - Breaking News, Latest News and Videos</description>
+<pubDate>Fri, 09 Oct 2026 15:26:33 +0000</pubDate>
+<description>Comments</description>
 </item>
 <item>
 <title>BCMA: Artificial Intelligence Conference 2026, October 17, 2026 - Florida Hospital News and Healthcare Report</title>
@@ -1655,6 +1664,15 @@
 <media:content url="https://media.wired.com/photos/6abdb2233241c89b6aaeb7ab/master/pass/Backchannel-iPod-Anniversary-Business-678384.jpg" medium="image"/>
 </item>
 <item>
+<title>Artificial Intelligence - ABC News - Breaking News, Latest News and Videos</title>
+<link>https://news.google.com/rss/articles/CBMiXkFVX3lxTFBHQWNlSHQzMUlJUTg1elY2MnlhM0JMRDkyUlMtYUdwNDFYYmF2cktZZzg2X3pDMVluRVhBS01LY0VnRVI0bnk2eElyWkczd0dLdktiOFMybWl5STktVHc?oc=5</link>
+<guid isPermaLink="false">e493019a8adb7a0cafec605daff5a9ff1cfb26b085362fddf65876aa18e8a770</guid>
+<source>Google News Artificial Intelligence</source>
+<category>technology</category>
+<pubDate>Fri, 09 Oct 2026 14:21:17 +0000</pubDate>
+<description>Artificial Intelligence ABC News - Breaking News, Latest News and Videos</description>
+</item>
+<item>
 <title>OpenAI revenue shortfall exposes vulnerability in artificial intelligence ecosystem - Fox Business</title>
 <link>https://news.google.com/rss/articles/CBMiW0FVX3lxTE5JamNjclhJNVJSN0FsQlNDMnY5ZFktbTN2LVU0bk9ha2otZU9UVGhVaTM5UG9WWncyZzd0ZExaTDBGWHowaWo4SFZia2N1RTFpYjdBdEZ0ZTI1aFk?oc=5</link>
 <guid isPermaLink="false">b96ccdc9eec577a314d2b87c489d9a42b8175e5f06c27d166a963d8c22669f91</guid>
@@ -1662,15 +1680,6 @@
 <category>technology</category>
 <pubDate>Fri, 09 Oct 2026 14:05:38 +0000</pubDate>
 <description>OpenAI revenue shortfall exposes vulnerability in artificial intelligence ecosystem Fox Business</description>
-</item>
-<item>
-<title>Trump decrees that anyone who uses the term Artificial Intelligence is now ‘The Enemy!’ - Yahoo</title>
-<link>https://news.google.com/rss/articles/CBMilgFBVV95cUxOcUFyZHhrWDVKSndvLU5jSi0xREtJM19RZEhvZ3lQcVNZTDNsU3dnMjVmOWJzZlpXeHNQckNSVGRnNEYxM1FsYm55V3RiWTg1d2J0SGJKaUN2M0F2cDN5U1RReUxxYTd4dkR0MmpYajVhU0ZvTGxEZlVYRkFrOVF0MjVlMHh6eExWdEptSzhMd0ZRTnEzdVE?oc=5</link>
-<guid isPermaLink="false">5fb1693bd8d96b3038aafd36a3905357a0af11f53501becfa84147ffa8652aaf</guid>
-<source>Google News Artificial Intelligence</source>
-<category>technology</category>
-<pubDate>Fri, 09 Oct 2026 13:58:31 +0000</pubDate>
-<description>Trump decrees that anyone who uses the term Artificial Intelligence is now ‘The Enemy!’ Yahoo</description>
 </item>
 <item>
 <title>Trump decrees that anyone who uses the term Artificial Intelligence is now ‘The Enemy!’ - The Independent</title>
@@ -1700,6 +1709,15 @@
 <category>technology</category>
 <pubDate>Fri, 09 Oct 2026 12:44:13 +0000</pubDate>
 <description>Lessons from the Public Sector Artificial Intelligence Adoption in Developing Countries: An AI Life Cycle Perspective UNU | United Nations University</description>
+</item>
+<item>
+<title>Competition Among China’s AI Models Is Intensifying as the Chip Sector Advances - Goldman Sachs</title>
+<link>https://news.google.com/rss/articles/CBMivgFBVV95cUxPRDE4cnNEeTd1c01NYU1zVDlUNVl5b3lwMC1BV2xad0dNekVFRlhMaE95OExaQW1qTkpRUlUzdlpqUXdqOGZJZVh2UWV4M0VQQ3Nud0hYMkJyT00zOXVDdF8tYVEzcUFnUm9QT0N6N3l0YVZUT2F3MzBmUEhkdTByY3FiMkFSdlZodjYtU0NaZ043VXREcWJvb0pYYlZ2eXZJT3ZnX2tPQm9WN2JHOVg2ZGozaDNTZ0syWFBBakRB?oc=5</link>
+<guid isPermaLink="false">529902a57236beca9eb6cb6935aa534a6851ad8782c4ffc7d741dbc5566d9137</guid>
+<source>Google News Artificial Intelligence</source>
+<category>technology</category>
+<pubDate>Fri, 09 Oct 2026 12:41:04 +0000</pubDate>
+<description>Competition Among China’s AI Models Is Intensifying as the Chip Sector Advances Goldman Sachs</description>
 </item>
 <item>
 <title>The Wild West of polyglot docs sites</title>
@@ -1925,28 +1943,6 @@
 <description>Most Americans think artificial intelligence is developing too fast, a new AP-NORC poll finds Jackson Hole News&amp;Guide</description>
 </item>
 <item>
-<title>TurboTax Full Service Coupons This October 2026</title>
-<link>https://www.wired.com/story/turbotax-coupon</link>
-<guid isPermaLink="false">80d04aa731f128bbf642a31f154ec69591d7abc25cd478a59b0982e21d21eb43</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Fri, 09 Oct 2026 05:00:00 +0000</pubDate>
-<description>Tax season doesn’t have to be stressful. Score 10% off full service expert on federal tax filings and more exclusive TurboTax discount codes on WIRED.</description>
-<enclosure url="https://media.wired.com/photos/66ea076fca863bb4c1028b64/master/pass/WIRED-Coupons-11.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/66ea076fca863bb4c1028b64/master/pass/WIRED-Coupons-11.jpg" medium="image"/>
-</item>
-<item>
-<title>Instacart Promo Code: $15 Off | October 2026</title>
-<link>https://www.wired.com/story/instacart-promo/code</link>
-<guid isPermaLink="false">bfb4a56914eab186d807b48b4055e006475ac7a924ac7d411b91473969b5797f</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Fri, 09 Oct 2026 05:00:00 +0000</pubDate>
-<description>Find the best Instacart promo code for massive savings in October 2026.</description>
-<enclosure url="https://media.wired.com/photos/67b63b9079f27a355461c964/master/pass/WIRED-Coupons-R2_2.png" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/67b63b9079f27a355461c964/master/pass/WIRED-Coupons-R2_2.png" medium="image"/>
-</item>
-<item>
 <title>Ulta Promo Codes: Up to 20% Off in October 2026</title>
 <link>https://www.wired.com/story/ulta-coupon</link>
 <guid isPermaLink="false">3499b2393ffc6e8e65cd2e4147262fc16aea01fccc2c84cb66f0c59c3e282ead</guid>
@@ -2011,6 +2007,28 @@
 <description>Save on We-Vibe, including app-controlled bestsellers and popular gift sets designed for couples, connection, and shared pleasure.</description>
 <enclosure url="https://media.wired.com/photos/67b63b98fb14553f0ebd9ffd/master/pass/WIRED-Coupons-R2_15.png" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/67b63b98fb14553f0ebd9ffd/master/pass/WIRED-Coupons-R2_15.png" medium="image"/>
+</item>
+<item>
+<title>Instacart Promo Code: $15 Off | October 2026</title>
+<link>https://www.wired.com/story/instacart-promo/code</link>
+<guid isPermaLink="false">bfb4a56914eab186d807b48b4055e006475ac7a924ac7d411b91473969b5797f</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Fri, 09 Oct 2026 05:00:00 +0000</pubDate>
+<description>Find the best Instacart promo code for massive savings in October 2026.</description>
+<enclosure url="https://media.wired.com/photos/67b63b9079f27a355461c964/master/pass/WIRED-Coupons-R2_2.png" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/67b63b9079f27a355461c964/master/pass/WIRED-Coupons-R2_2.png" medium="image"/>
+</item>
+<item>
+<title>TurboTax Full Service Coupons This October 2026</title>
+<link>https://www.wired.com/story/turbotax-coupon</link>
+<guid isPermaLink="false">80d04aa731f128bbf642a31f154ec69591d7abc25cd478a59b0982e21d21eb43</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Fri, 09 Oct 2026 05:00:00 +0000</pubDate>
+<description>Tax season doesn’t have to be stressful. Score 10% off full service expert on federal tax filings and more exclusive TurboTax discount codes on WIRED.</description>
+<enclosure url="https://media.wired.com/photos/66ea076fca863bb4c1028b64/master/pass/WIRED-Coupons-11.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/66ea076fca863bb4c1028b64/master/pass/WIRED-Coupons-11.jpg" medium="image"/>
 </item>
 <item>
 <title>H&amp;R Block Coupon: 25% Off DIY + Tax Pro Assist</title>
@@ -2201,15 +2219,6 @@
 <media:content url="https://media.wired.com/photos/6ac7bc49ff9fe01c2a428b56/master/pass/Trump-Cuts-Microsoft-Immigration-Business-2298462056.jpg" medium="image"/>
 </item>
 <item>
-<title>25 Years Later, the Sci-Fi Adventure Epic Roger Ebert Hailed as Near-Perfect Sets New Release - MovieWeb</title>
-<link>https://news.google.com/rss/articles/CBMidkFVX3lxTFBPS2tmV2RBVDRibkFRb0RWQVpBTmwwQTE4bmM0Q292ZkFKUlM2QWV3UlRZOGh2NW42QzhmLXpzWmJPZGtxYXR5c1BveVVTWnRDSGZ5Q0kzLWFKNUlNMmlnWm9TLV9ZUmZJZmtoN3ZPVnZiUmtINGc?oc=5</link>
-<guid isPermaLink="false">0f794f85c572e72d4e195787213ac3e25e9cb6e61d0d732fc8a3bb853760dabd</guid>
-<source>Google News Artificial Intelligence</source>
-<category>technology</category>
-<pubDate>Thu, 08 Oct 2026 19:01:15 +0000</pubDate>
-<description>25 Years Later, the Sci-Fi Adventure Epic Roger Ebert Hailed as Near-Perfect Sets New Release MovieWeb</description>
-</item>
-<item>
 <title>38 Best Last-Minute Prime Day Deals You Can Still Shop Today (2026)</title>
 <link>https://www.wired.com/story/absolute-best-amazon-prime-day-deals-10-08-2026</link>
 <guid isPermaLink="false">86c58ee4771e7b2b4e67a99af87341d873580287a9e79dbbb300401f3156068a</guid>
@@ -2221,13 +2230,13 @@
 <media:content url="https://media.wired.com/photos/6ac3ef9c649b084becf0e2b4/master/pass/Amazon%20Prime%20Day%20Top%20Art%20102026%20Absolute%20Best%20Prime%20Day%20Deals%20ILLUSTRATION%20Isadora-Ayesa%20Lima%20SOURCE%20Amazon.jpg" medium="image"/>
 </item>
 <item>
-<title>Artificial Intelligence for Nuclear Deterrence Strategy 2023 - Department of Energy (.gov)</title>
-<link>https://news.google.com/rss/articles/CBMikgFBVV95cUxOWjF4LVVxSzc2MWJEa212X3ZmZnBvbDJFcmFoTzQ1SnlZY0dGWmhQMllXbW5WYUUxLWx3MlhRTXZsSjBSbHFEbFlmZGtuaDF0YThoelh3UHl4d2JQQjBxWWthVEZUYnR5WEJ0dGFjdXZlVGd1T2tlQnVGUmdaeUpOcjlwR1k1dFBSM1pBODJmN2hUZw?oc=5</link>
-<guid isPermaLink="false">80de9d3e30c81feafd93fbd4845b53ddd353bf7cae1dd8d29427e2896720c2c1</guid>
-<source>Google News Artificial Intelligence</source>
+<title>Akhetonics Photonic Computing: 1,000x Faster CPUs</title>
+<link>https://medium.com/@timventura/akhetonics-photonic-computing-1-000x-faster-cpus-b9e91c470079</link>
+<guid isPermaLink="false">a9aaecd55ecba4cc00969b6ed2f7b5c9786c862dcb3900a00d78ddc0d8321268</guid>
+<source>Hacker News</source>
 <category>technology</category>
-<pubDate>Thu, 08 Oct 2026 13:13:59 +0000</pubDate>
-<description>Artificial Intelligence for Nuclear Deterrence Strategy 2023 Department of Energy (.gov)</description>
+<pubDate>Thu, 08 Oct 2026 17:08:05 +0000</pubDate>
+<description>Comments</description>
 </item>
 <item>
 <title>The New Alexa Tablets Feel Like a Blueprint for an Amazon Phone</title>
@@ -2308,15 +2317,6 @@
 <category>technology</category>
 <pubDate>Thu, 08 Oct 2026 02:15:16 +0000</pubDate>
 <description>Comments</description>
-</item>
-<item>
-<title>WSU turns to artificial intelligence to assist sports communications - The Spokesman-Review</title>
-<link>https://news.google.com/rss/articles/CBMingFBVV95cUxOWmtILXJZbWk0d2NDaDV0eFNoVzIzRF9JaW40VzBIQWczZWVfM2pvYzdVRWhZVk9kMzFpcDY5OEpINm1GQ1pOT3lueDlEOVVzelQyWWVxVmhyNmJrUjVpejZheWZubmhLbzJRNEdNcGpPQ1ZnMUViaF9qM2lFbDNzejE4TDRWSDdoOGxqaW82TW1LcUEtT2FxSTJ3R0RWZw?oc=5</link>
-<guid isPermaLink="false">534ebd3d17fe690c238a89962ae3bfa2641a3fee181b3510d2c4416bd5ef29da</guid>
-<source>Google News Artificial Intelligence</source>
-<category>technology</category>
-<pubDate>Wed, 07 Oct 2026 23:25:00 +0000</pubDate>
-<description>WSU turns to artificial intelligence to assist sports communications The Spokesman-Review</description>
 </item>
 <item>
 <title>ARM vs. Marvell Technology: What Revenue Trends for These Artificial Intelligence Companies Tell Investors - Yahoo Finance</title>
