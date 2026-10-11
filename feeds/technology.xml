@@ -4,12 +4,41 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>A college in Illinois tried to cancel its Flock contact and it refused</title>
+<link>https://www.theverge.com/tech/1009411/elgin-community-college-flock-safety-cameras</link>
+<guid isPermaLink="false">d5c473b7ac23af477d1fcdfd95d62586b8443c6235af38a43fa935a3cd9f211e</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Sun, 11 Oct 2026 20:06:43 +0000</pubDate>
+<description>In April of 2025, Elgin Community College had six Flock safety cameras installed to "enhance the safety and security of students." But by September of that year, the school's administration grew concerned that Flock was sharing data with Customs and Border Patrol, that camera feeds were not properly secured, and that both law enforcement and […]</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2265184860.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2265184860.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Cognitive Decline or Sanity Incline?</title>
+<link>https://mdelcaro.substack.com/p/cognitive-decline-or-sanity-incline</link>
+<guid isPermaLink="false">0aada3a69526dca88fef919c94ab5ee355344c76ff3e5683dcc4f33ad4084f65</guid>
+<source>Hacker News</source>
+<category>technology</category>
+<pubDate>Sun, 11 Oct 2026 20:05:03 +0000</pubDate>
+<description>Comments</description>
+</item>
+<item>
 <title>Be The Onion's Hero for Once</title>
 <link>https://mailchi.mp/email.theonion.com/archivehunt</link>
 <guid isPermaLink="false">f580399eff87705eba68cebc7decc99849bf71f319740bfc16a594226435823e</guid>
 <source>Hacker News</source>
 <category>technology</category>
 <pubDate>Sun, 11 Oct 2026 19:43:32 +0000</pubDate>
+<description>Comments</description>
+</item>
+<item>
+<title>The Unreasonable Effectiveness of Vex in NixOS</title>
+<link>https://blog.kammel.dev/post/nixos_vex</link>
+<guid isPermaLink="false">2e9f4d42bef7db7b585e0292449113c35b9a95462c2150d8f278b7c227b1f934</guid>
+<source>Hacker News</source>
+<category>technology</category>
+<pubDate>Sun, 11 Oct 2026 19:23:07 +0000</pubDate>
 <description>Comments</description>
 </item>
 <item>
@@ -80,15 +109,6 @@
 <description>Coding Kids, Drone Wars and Algorithmic Realism Tech Policy Press</description>
 </item>
 <item>
-<title>Youngest Times crossword solver beats them all, except AI - The Times</title>
-<link>https://news.google.com/rss/articles/CBMirgFBVV95cUxOQzA2enUxNTZoaHYzV0tqdmlLcHd3VmY1YlE3eUpxUWZGQjJ5TF9yYV85QXlrNmdqZHM3QVdBZko1WGQwbDFWWmRDWi1tYUpMNjNZeXdSNHRGUzRkWjRIYTFWTnJpZ1YwYzFxUHk2YVZKUnJwODV0T1JGYWY4SGRxQXJYX0VhbTYwUGhMTXJGMU13eVItQ0N5M0FZLVgxZGlBaXpmbmxWZEJqVWRXUEE?oc=5</link>
-<guid isPermaLink="false">8dfe521efd6a60b08b6faa861509d8bad81eb1bbe4316535c0c1327f0722423f</guid>
-<source>Google News Artificial Intelligence</source>
-<category>technology</category>
-<pubDate>Sun, 11 Oct 2026 18:35:34 +0000</pubDate>
-<description>Youngest Times crossword solver beats them all, except AI The Times</description>
-</item>
-<item>
 <title>Silicon Valley is falling in line with Trump’s attempt to rename AI</title>
 <link>https://www.theverge.com/ai-artificial-intelligence/1009406/silicon-valley-is-falling-in-line-with-trumps-attempt-to-rename-ai</link>
 <guid isPermaLink="false">10ff9df7a5585aaf706ba8d3ba5cc67072e32a605a0ce9d832161f71fc47ec87</guid>
@@ -98,6 +118,15 @@
 <description>When President Donald Trump announced his plans to rebrand artificial intelligence as "super intelligence," you'd be forgiven for being skeptical that it would catch on. While most of the broader population is sticking with AI, some of Silicon Valley's most powerful are falling in line and trying to give Trump the great AI rebrand he […]</description>
 <enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2297269621.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
 <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2297269621.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Silicon Valley is falling in line with Trump’s attempt to rename AI - The Verge</title>
+<link>https://news.google.com/rss/articles/CBMixAFBVV95cUxPSFI5aTdXbnUyZ19zc2RLZ1ZZZi1pcVhYRlJSR0tXZU9RaUZSYVRxM0JnY0E1YU5hYXFYS1NLRTRpNmRITFE3N1IzZVZSeFRJbHpxWkU5Tng1TDR6ZjVudm5MMGpQa1ZVbzJobUFhUXRwaENJVmpyR21PYjc3Tl9tc2llWlA4OENESTdHOU52c1lQOEJSMG5GLWFnZGc3TFRFR21iWDRqbHV6YjcxcVBFbi1xWEFVRThxRExTSmY1RUdUX1c5?oc=5</link>
+<guid isPermaLink="false">396702493ca7154bdb5859a26b71a31d3ab41f3c58629d9c69d98f4dda3c46dc</guid>
+<source>Google News Artificial Intelligence</source>
+<category>technology</category>
+<pubDate>Sun, 11 Oct 2026 18:33:56 +0000</pubDate>
+<description>Silicon Valley is falling in line with Trump’s attempt to rename AI The Verge</description>
 </item>
 <item>
 <title>Steam Frame teardown reveals one problem with its future repairs</title>
@@ -225,15 +254,6 @@
 <media:content url="https://www.engadget.com/img/gallery/why-strong-magnets-can-hinder-the-iphones-rear-facing-camera/l-intro-1791471451.jpg" medium="image"/>
 </item>
 <item>
-<title>Some OpenAI math discoveries are ‘jewels,’ if verified. But mathematicians are wary of ‘slop.’ - NBC News</title>
-<link>https://news.google.com/rss/articles/CBMivAFBVV95cUxQMC1YOVZFWk1IOWRYY0UtVElHRmg4a1BQREp0LUpDMHpzMHUxUUFkZG5zak1pUmFJVmZjQ0xHTFhVeldMcERzckh1cWczRWpwbHVja25FNC1BNEYyY1FDQ2hSWkpjcktwY0NvczVNODAwblpBTURSVzBlYnB4WVI3ZFlkRnRyaEs5S3VtblhzaVNBdmtHdVg5Rjl2NkVwb0x2VEMxeGhpXzBiVGFhQzI2Vm9TdndMWVA2OVNlaQ?oc=5</link>
-<guid isPermaLink="false">e5866918cde4dcd2ea27ee128676b8b33661573bd7a69051ff3e665b9c2b049f</guid>
-<source>Google News Artificial Intelligence</source>
-<category>technology</category>
-<pubDate>Sun, 11 Oct 2026 16:39:57 +0000</pubDate>
-<description>Some OpenAI math discoveries are ‘jewels,’ if verified. But mathematicians are wary of ‘slop.’ NBC News</description>
-</item>
-<item>
 <title>Playgrnd – tiny tools for making weird, beautiful things</title>
 <link>https://www.playgrnd.tools</link>
 <guid isPermaLink="false">b2ee2ab41e1ee721a8bcf6cdc0a50c02a9fd6e95f8a7cd5d3d5b4bc6f7614898</guid>
@@ -290,6 +310,15 @@
 <category>technology</category>
 <pubDate>Sun, 11 Oct 2026 16:02:00 +0000</pubDate>
 <description>Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.</description>
+</item>
+<item>
+<title>Trump really wants to make ‘super intelligence’ happen. Is it going to happen? - CNN</title>
+<link>https://news.google.com/rss/articles/CBMidkFVX3lxTE1HOFdTWHoxdldqUHkzUVdGWXdhRXRjU1NZemxqWlU5YkY1bmdmQjExc2hWU2Q4a2RCNkRsMEppT2FPQTNzQmdybUVwWVlDb2NFNW9qcXFIaWdHYzJCNEhFNVFxdThDLUczdUdxeXlSMjhCcTNQbFE?oc=5</link>
+<guid isPermaLink="false">50d35a45b4a52f3a8d8e51e032634dcd460947a87e582553e5e16b2699e242d0</guid>
+<source>Google News Artificial Intelligence</source>
+<category>technology</category>
+<pubDate>Sun, 11 Oct 2026 16:00:44 +0000</pubDate>
+<description>Trump really wants to make ‘super intelligence’ happen. Is it going to happen? CNN</description>
 </item>
 <item>
 <title>Dawn Myers is making it easier to style, detangle, and care for curly hair</title>
@@ -532,6 +561,15 @@
 <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/appleevent.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
+<title>From ‘Artificial’ to ‘Musk’: Hollywood puts tech giants under microscope - NBC News</title>
+<link>https://news.google.com/rss/articles/CBMiwAFBVV95cUxOY3oyMXNSRFZoSnAyaXlEWGVZN1BVWUIwanRTdEFUbTgyeUFmdmVFQi05djFLSWM5SGdYYnAxSVpZM1pHQmdtTXlDeDZsTHFfVklLM0JUX2ZBdHJzYzBBZzN2NGpSQUZPTzZzNWc1dzhMNnlwZ1NSc0tCaXRBYkdQdldFTHdHMjJwWkNYMW0zQkZOYWFGcjEwUW9ub1gtc3FFNkRvS29aN0g1SGFhRTdQdU1Cd1E3T2RfQ1U4ZHVNc2g?oc=5</link>
+<guid isPermaLink="false">94f7e416265967a3c340b983d5bc35fc7b649f319db22ce46a26a94342286ead</guid>
+<source>Google News Artificial Intelligence</source>
+<category>technology</category>
+<pubDate>Sun, 11 Oct 2026 13:00:00 +0000</pubDate>
+<description>From ‘Artificial’ to ‘Musk’: Hollywood puts tech giants under microscope NBC News</description>
+</item>
+<item>
 <title>Why CPU overclocking is mostly now a thing of the past</title>
 <link>https://www.engadget.com/2280537/why-overclocking-cpu-mostly-outdated</link>
 <guid isPermaLink="false">4176bdfc4644cdc5ea1c1b2ec63ced94c0f1107327cda119c9480706894d8098</guid>
@@ -688,13 +726,13 @@
 <media:content url="https://media.wired.com/photos/6ac967401dd8a2ab2e331c51/master/pass/Google-Playground-Gear-PG_THUMBNAIL_BLOG%20(1).png" medium="image"/>
 </item>
 <item>
-<title>Anthropic AI Agent Sent Fake Murder Tip to US Police, Prompting Safety Concerns - Modern Ghana</title>
-<link>https://news.google.com/rss/articles/CBMinAFBVV95cUxNMTFxY2YzaGJCdEJISUNNTk5DNjlHTHpVWDFNeUlpakZlOGpVSnB6dG9UbG9HRm9hVEtldmItZVpqNEhtcmRTQXhrZllpMkRDejZrX1F1aXhpeHFpOUZ6TW9xbVQ2a3JnZi1sSmZMWTQxNDFiLTVRX3ItckNfWUtodVRCb3BjUlNLU1BlMzBmTHZGcmMxUDRVS3c0RVbSAZsBQVVfeXFMTnhSTGt5aFdwdVhrdkdaQlJ5TzVneE9LNHZfZUoxb1haREpSbzBhZ1hSUGtnaVI2YmV0enNFcTA4LXFaamNEWGpjeDlzZUozbTI2bHlwd3BtV2xvb3lmMjNobFk4OWp3X01VcjZybTN4RkhXTHU4QUZTWVlpelVUTXlFRC1HY3N0dmR4b1NNZWpra3pkYm1vZlhYdEk?oc=5</link>
-<guid isPermaLink="false">f4895032db53b713fa2ad7d0c0fbb45ba6283adfb248e64f79f347e9e85b476f</guid>
+<title>Meet the Only AI Stock I'd Buy Over Nvidia in October - The Motley Fool</title>
+<link>https://news.google.com/rss/articles/CBMimAFBVV95cUxQcXktQWhYX2JSSlF3S19OYi0xYUMwSzRPT21tLTVjM3ppeG9uYVpuTjBYOG5fcnl5UE5HNmJIeV8tRllpQlRsOV96Wm40VzRoUEdHdnZkNjc4SnZGdnVYNHljZ1N0U3EyMzVKclZNSXg0d0hDaHZxMURQYnhxM1AwVmhLZjM5V01VRUNTZHRyOUx2ajR1OTktNg?oc=5</link>
+<guid isPermaLink="false">217c5f3c145dd9a54cd7b75eda21757cc31d9de1d78d2117dfa716b8fff5bb3d</guid>
 <source>Google News Artificial Intelligence</source>
 <category>technology</category>
-<pubDate>Sun, 11 Oct 2026 11:11:38 +0000</pubDate>
-<description>Anthropic AI Agent Sent Fake Murder Tip to US Police, Prompting Safety Concerns Modern Ghana</description>
+<pubDate>Sun, 11 Oct 2026 11:17:00 +0000</pubDate>
+<description>Meet the Only AI Stock I'd Buy Over Nvidia in October The Motley Fool</description>
 </item>
 <item>
 <title>AI’s quiet safety gatekeepers are stepping into the spotlight - CNBC</title>
@@ -715,15 +753,6 @@
 <description>I'm embarking on a journey I've so far been hesitant to go on: actually using AI on the regular. Giving my most personal data to cloud services has been a major hold up for me, but it's increasingly possible to run powerful models locally to see what they're capable of. Is this tech so useful […]</description>
 <enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/100926_Asus_TUF_A14_Hermes_local_AI_ADiBenedetto_0001.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
 <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/100926_Asus_TUF_A14_Hermes_local_AI_ADiBenedetto_0001.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
-<title>Tech Workers Have Long Resisted Unions. Will AI and Politics Change the Equation? - KQED</title>
-<link>https://news.google.com/rss/articles/CBMitAFBVV95cUxQQVlSczVwejZ5TVdmc1JpajY2S0xyYzFIVlBqQVl5OVNVVXpzczVMeHcxXzF2dzFERGlHYzhBR192TFhaV2JobXhDZk9DYlNsTmlGNDVjM2tDbG5tYm1JQmRBbllDVVRVMkoyYUV4cm1fMmFOcGQ2Q3JQWmhJTzZfRVQ4RkM2ZF9qZFNTZklvS0phYzY2WjRVN2Q2LWJiQXhOMXlmU1J1elJ3am41V0ZVSlczMHk?oc=5</link>
-<guid isPermaLink="false">c9fa748b726a31a7b354775e207fdbf2a34bb3a2eb27fbb8a55b9a4be6bcdc98</guid>
-<source>Google News Artificial Intelligence</source>
-<category>technology</category>
-<pubDate>Sun, 11 Oct 2026 11:00:00 +0000</pubDate>
-<description>Tech Workers Have Long Resisted Unions. Will AI and Politics Change the Equation? KQED</description>
 </item>
 <item>
 <title>ChatGPT Was on My Medical Team - The Israel Democracy Institute</title>
@@ -764,15 +793,6 @@
 <description>From Red Pill coaches to “Dawah Bros,” influencers are dressing up hypermasculinity and misogyny in religious language—and finding audiences across social platforms.</description>
 <enclosure url="https://media.wired.com/clips/6abd68b0bf10c46895eb1621/master/pass/Manosphere_lead.mp4" type="image/jpeg"/>
 <media:content url="https://media.wired.com/clips/6abd68b0bf10c46895eb1621/master/pass/Manosphere_lead.mp4" medium="image"/>
-</item>
-<item>
-<title>Bot traffic from Yandex</title>
-<link>https://radar.cloudflare.com/bots/as13238?dateRange=7d</link>
-<guid isPermaLink="false">b60db2522282e8d440e965fcacd2fcc3830d7a4d2a9c67654635ee99bb94008b</guid>
-<source>Hacker News</source>
-<category>technology</category>
-<pubDate>Sun, 11 Oct 2026 10:27:53 +0000</pubDate>
-<description>Comments</description>
 </item>
 <item>
 <title>Israel Used AI-Assisted Technology to Destroy Infrastructure in Gaza - Genocide Watch</title>
@@ -869,15 +889,6 @@
 <description>Redwoods adapted to a cool, foggy climate. Now a new study shows they slow down photosynthesis when their environment warms.</description>
 <enclosure url="https://media.wired.com/photos/6ac8bfc343102e19d08d1486/master/pass/GettyImages-2271228456.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/6ac8bfc343102e19d08d1486/master/pass/GettyImages-2271228456.jpg" medium="image"/>
-</item>
-<item>
-<title>Microsoft CEO Satya Nadella Calls For 'Emergency Brake' On Advanced AI - NDTV</title>
-<link>https://news.google.com/rss/articles/CBMivwFBVV95cUxOazV6UXc0THF0LTdRZVVGVUNJRHFzNGlPaDVHcHFXNVdYSnl5OVJoM1JKdHdUd2NOOFYtWDFxc2xwSFpKSWRlTm05aENCZWYtcUVSQk5hMkJnX2NEV0hQNThINF9ENUE5UXBmSjFrR18xTTNSc3lvWW56U1hDeDlJM1hQNkllcURpZUs1U1dQSjZ5eVdCcWNjWkxLMXo0VmREWXJQTDFPbWhrdzlScC1nVGN3bEtncE85bXNZdXBaONIBxwFBVV95cUxQekxRQzNGaEpQdlRuMnRvNXlJcnZYLUliYmNhWnFaemJOcFZid3EyUC1yczQ4aXo2UGs2Wl91cGVCMTM5MlBjMzM0RmpQZmxocW4zaVI3VEpZN2QxaktMUWVUYy0wczU5dVdQVVRKY2tESlFmLWZVLTNXR3I0VUJXcTZfQ2JJZ3BkakRpQnI3SmtQTXlLZU0xUUZNTVFRVmhPZ3R5Sm45enpNOGdKQ0JmT084d2JtV0lxWWlsWXk3VGJqZjJXRjBB?oc=5</link>
-<guid isPermaLink="false">0cdc8a6aacbdb69e3706ec1fd0c3295a512b7575c8436422644b6ce9f474041d</guid>
-<source>Google News Artificial Intelligence</source>
-<category>technology</category>
-<pubDate>Sun, 11 Oct 2026 08:08:06 +0000</pubDate>
-<description>Microsoft CEO Satya Nadella Calls For 'Emergency Brake' On Advanced AI NDTV</description>
 </item>
 <item>
 <title>Artificial intelligence answers: what is the expected result of the Al Ahly v Zamalek summit? - Goal.com</title>
@@ -1003,17 +1014,6 @@
 <description>Comments</description>
 </item>
 <item>
-<title>Satya Nadella says we should assume all AI models are ‘compromised’</title>
-<link>https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised</link>
-<guid isPermaLink="false">47aa66d1b4eb0050da8553d1f40e791c9ed912aef0a228ebdd16922b853431b8</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Sat, 10 Oct 2026 22:10:17 +0000</pubDate>
-<description>In a lengthy post on X, Microsoft's CEO laid out his views on the dangers posed by highly advanced AI models and how to confront those risks. Nadella says we can no longer accept a world where AI is treated as a "set of nested black boxes" whose advice and actions we simply accept or […]</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STK178_Satya_Nadella_B.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STK178_Satya_Nadella_B.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
 <title>MillikinWORKS, Decatur Regional Chamber of Commerce to host AI for Business workshops - WAND</title>
 <link>https://news.google.com/rss/articles/CBMirgFBVV95cUxQY2xpeGh3TWxyQkc3QUNNQlVCTEIzYmpnZTlJNVRGZVRWX0h5dHRoeFoxS29QMnF5Q3A1cjM2VFl0TUl3MzNXc182Wlc3RHJBSzRzSGVyQUV1RndHRWZpOUJVS1B3QjZ4OEdXQm9TUU81LUJiMWFuN1RlRkVOMHV1dFNkY2VkN1hOR3hhY3FYLTNwaXRmOS1maXJ3RkVYZ3d6enNLa1ROVWp4MVVDS0HSAcIBQVVfeXFMUGY4Wk9aRmtNcGREMVpXcXc0MmF3bk5vMzQzVmlEYXlyZWVDMzNjdk0xaF90aHpxX0FXLWdVSVhOU3NGbWdRUlNuaWpIWkdoZEZqSDNXS3NMOHZfYnN2dmxCWVZYaGE4eVcxZmM2b2JHWV9OUFpraVdLajV2MUxoOC1PSVVNR0JuaVVDUEZQT0NUd2oxQ0s0V1lEV2lrSUJYcEZobG1Kamt0RVY4M2gxSnBLQWVPdDRKRzVkeklHcWZyRVE?oc=5</link>
 <guid isPermaLink="false">41b1717c77ef1948a50e50fdc3a9566bcd6c839ccb0f373988990197f07a0874</guid>
@@ -1131,15 +1131,6 @@
 <description>Senator Mark R. Warner introduces S. 5576: Artificial Intelligence Risk Management and Security Act of 2026 Quiver Quantitative</description>
 </item>
 <item>
-<title>SoftBank seeks $100 billion for AI-refined projects from Middle Eastern investors — fund would be used to acquire companies and improve their operations using artificial intelligence and robotics - Tom's Hardware</title>
-<link>https://news.google.com/rss/articles/CBMi-gJBVV95cUxOczhValhJNGY3ckVNdDdWTnFhbDAtbVBERllEOGNnRVdWZDc1dzBNVlFuLWstVGd4QUpzaG50S2dxanhHVnBHOEktVmJtNzBaa3B5YVJMQ1dfYkpqaVJsU2hvQUE5YnZaclhPUk1lRG1SLW91ZXFPQkdzUVc1UVl4cGYtbC1Jdlh2cUZvVHNZdFpHeEpzc1RuU2tPVTdiY0FmaGI1X2x2WEMtcWhxOW9UczVIOGdoZlYtbzZhcS1kSV82S0ZOeWNiRV9KZnR0dnh1QkVTWmRjTVNzampaX19kV0VMeXVTNmRMRFBUd0JMbnA1TldTQ2x3RTB2OFdYNVZCcFBSYzE3SExqeDRFMWhLRW00UXZianJfbUU0ZEtDQmxGRzBJSllLdlZ2V0RseWZDRVppSHlnLVNEU3p4OVpNSUhjbzlCRmF2elQzRGRRMlJqQ0dNNWJabGZteHpaVTdBS2d4YWFqdy1MRlh5RXVfbDBZTWx1akx5MFE?oc=5</link>
-<guid isPermaLink="false">792639587920592d78a92acafed36d9a844882500cade98be9b29e38d2eb9a5a</guid>
-<source>Google News Artificial Intelligence</source>
-<category>technology</category>
-<pubDate>Sat, 10 Oct 2026 15:40:00 +0000</pubDate>
-<description>SoftBank seeks $100 billion for AI-refined projects from Middle Eastern investors — fund would be used to acquire companies and improve their operations using artificial intelligence and robotics Tom's Hardware</description>
-</item>
-<item>
 <title>Eggheads at Anthropic Said They Used Claude to "Solve" Humor - Futurism</title>
 <link>https://news.google.com/rss/articles/CBMidEFVX3lxTE1zNVIwaXpqSmtab3BLVHpaWTlaV2Y5dDRDV3B3UHFoRnVJRUhtX0ZObUhzaUxzMWtlZml0d2pVWEl1alhGczJaWjN5RTFFc0ZIdTZCS01oUTB4eWRvX2ZSYTVNTkR4R1F4Uk9MazZJdUViTFN0?oc=5</link>
 <guid isPermaLink="false">4d002eef526b53d436515653d174e614f74dc8ae976e48e987ba4502ff50537f</guid>
@@ -1249,15 +1240,6 @@
 <description>Inspired by head-banging woodpeckers, Vancouver-based Pikio Labs has discovered a new approach to skull protection.</description>
 <enclosure url="https://media.wired.com/photos/6ac8bde343102e19d08d1480/master/pass/Pikio%20Helmut.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/6ac8bde343102e19d08d1480/master/pass/Pikio%20Helmut.jpg" medium="image"/>
-</item>
-<item>
-<title>Rat's Register Allocator</title>
-<link>https://hexrat.cc/pages/blog/2026_10_07</link>
-<guid isPermaLink="false">cced2021da731e1e84323c9ea4be6deacc163f09e796269868899092be5ec016</guid>
-<source>Hacker News</source>
-<category>technology</category>
-<pubDate>Sat, 10 Oct 2026 07:10:17 +0000</pubDate>
-<description>Comments</description>
 </item>
 <item>
 <title>Gavin Newsom’s executive order increases AI oversight, proposes ‘kill switch’ - Daily Bruin</title>
@@ -1669,15 +1651,6 @@
 <description>Using AI for just 10 minutes erodes your ability to persist at hard things University of California, Berkeley</description>
 </item>
 <item>
-<title>Artificial Intelligence - ABC News - Breaking News, Latest News and Videos</title>
-<link>https://news.google.com/rss/articles/CBMiXkFVX3lxTFBHQWNlSHQzMUlJUTg1elY2MnlhM0JMRDkyUlMtYUdwNDFYYmF2cktZZzg2X3pDMVluRVhBS01LY0VnRVI0bnk2eElyWkczd0dLdktiOFMybWl5STktVHc?oc=5</link>
-<guid isPermaLink="false">e493019a8adb7a0cafec605daff5a9ff1cfb26b085362fddf65876aa18e8a770</guid>
-<source>Google News Artificial Intelligence</source>
-<category>technology</category>
-<pubDate>Fri, 09 Oct 2026 17:18:32 +0000</pubDate>
-<description>Artificial Intelligence ABC News - Breaking News, Latest News and Videos</description>
-</item>
-<item>
 <title>Trump’s not-so super intelligent effort to rename artificial intelligence - Washington Examiner</title>
 <link>https://news.google.com/rss/articles/CBMixgFBVV95cUxPdEM2X2EwZWxEdWZ0cTZrWXk2R1BlNXFtbnhvdUI4blFYeWI2eWFwSy1ZeDlEWXpuekViTHpGQkpVY1g3THpIaU85TklpSW0yN2FoSkFYLVJEcE90dTZTdzFBc19tSTVCbFZ3N2lLbFU5Q2swSDJEWFVYRG9UbkotY0I3eFkwRm9sOVlwZklTYmZPUlptUzR4NzhsMGYtRWlJTkEyRHNSbUNrLWdPaEtVd05NUk9YNzRiSUFxU3k3cENSeE4zYkE?oc=5</link>
 <guid isPermaLink="false">229536c186b89e6310713b75dc97a7aedcbecaba8e836a76e4915bf63e9dc0a2</guid>
@@ -1723,6 +1696,15 @@
 <category>technology</category>
 <pubDate>Fri, 09 Oct 2026 15:32:04 +0000</pubDate>
 <description>Comments</description>
+</item>
+<item>
+<title>Artificial Intelligence - ABC News - Breaking News, Latest News and Videos</title>
+<link>https://news.google.com/rss/articles/CBMiXkFVX3lxTFBHQWNlSHQzMUlJUTg1elY2MnlhM0JMRDkyUlMtYUdwNDFYYmF2cktZZzg2X3pDMVluRVhBS01LY0VnRVI0bnk2eElyWkczd0dLdktiOFMybWl5STktVHc?oc=5</link>
+<guid isPermaLink="false">e493019a8adb7a0cafec605daff5a9ff1cfb26b085362fddf65876aa18e8a770</guid>
+<source>Google News Artificial Intelligence</source>
+<category>technology</category>
+<pubDate>Fri, 09 Oct 2026 15:20:16 +0000</pubDate>
+<description>Artificial Intelligence ABC News - Breaking News, Latest News and Videos</description>
 </item>
 <item>
 <title>BCMA: Artificial Intelligence Conference 2026, October 17, 2026 - Florida Hospital News and Healthcare Report</title>
@@ -1861,6 +1843,15 @@
 <media:content url="https://media.wired.com/photos/6ac201081f48c9ec501c8cc7/master/pass/Update%20best%20mac%20desktops%20102026%20top%20art%20SOURCE%20Amazon.jpg" medium="image"/>
 </item>
 <item>
+<title>Should You Forget Nvidia and Buy These 2 Artificial Intelligence (AI) Chip Stocks Instead? - Yahoo Finance</title>
+<link>https://news.google.com/rss/articles/CBMimgFBVV95cUxNV21VaTJfNWVPRUNMWm9HWUpQN2lCNEEtS0V3d253YmlMYkVxNk1ySnk0NWY1cHU1dldOT3NnbzBCeUtySDRtYjk4V2dEd3BsSUtLZV94b3llaDB4dGdMRE42NVdUbmkybzBFbkxobVl4NkVZeU9tSmJtcFJEUFFKRlg0TmlhY0Mxd3dXak8zbXlRQzZBWkU0MGNB?oc=5</link>
+<guid isPermaLink="false">b7ed53c9c4f6be0b50aab945603c00ae2cb0db4109640a953160d0486850cd4f</guid>
+<source>Google News Artificial Intelligence</source>
+<category>technology</category>
+<pubDate>Fri, 09 Oct 2026 10:35:00 +0000</pubDate>
+<description>Should You Forget Nvidia and Buy These 2 Artificial Intelligence (AI) Chip Stocks Instead? Yahoo Finance</description>
+</item>
+<item>
 <title>Hedging AI Risks with Common Sense - National Review</title>
 <link>https://news.google.com/rss/articles/CBMif0FVX3lxTE1BRHRFeHlwQ1BQZFE4bWpKYXpmX2t2UjU2cTlqbzQ4ZHUwd1oyMGFUMWFPSnN4MFhyUGt5RGI4dHRISkFtNWU5c3BQQUtCZjhwLXd5X2lGczY2Y09zNkpYSzNreGNRbjZ3S2t6MFY5NGotbDdYa2JjUkJwOWxqUWPSAYQBQVVfeXFMT3hvbkxoOWgwbXlMTDlPdmRsOEk1d3M4b2ptREJjNW95eGVmZ1g4ODBheUpWRUtTYW5UYWpGbUZBYkZNMUZySXdFSlIxN1kzTXhCMjVwSEhIZWxwR0VlMHNYZlAwNzlnbU5RZU9nVkROLXNHQXN6SGpUUmNjOFNSWkI2ai1B?oc=5</link>
 <guid isPermaLink="false">37a9960786c044f5ebce0bd2f795a8d692729835bad54eeab58c23c19033b682</guid>
@@ -1979,6 +1970,37 @@
 <description>Trump calls users of term 'artificial intelligence' the 'enemy' Anadolu Ajansı</description>
 </item>
 <item>
+<title>Column | Artificial intelligence is a plague in higher education | Columns | Opinion - The Daily Collegian</title>
+<link>https://news.google.com/rss/articles/CBMi8gFBVV95cUxNbW9ELVFyWkJ6d0kyTXJGd3d5VXZrcEtrX0xBU19ydE4xSnlFVDhuUWlVVXFxUnhMWURVQWJ6UFZfc0JiYm16bHlVSGlyM1k5WHpGYXQ1R3dSUzdoWlVLbXA2Vlo1bm5Pd25hb3pid25kZUNDalRFdGZWUHU1T21hUXE4dFFZZDdQR1dVMG1JbDFscm10SFl1dUI2enNIaTZaVUdXZmhtTnZPTVpvcmk4VHp2VUF1enZxd1U4M3JFNGoyNzVpWDdVZnNodVduM3QyeFUtZjE4WHFvWnVsUjdLMi05VHF6S2RRVVR1U0pYbVBIUQ?oc=5</link>
+<guid isPermaLink="false">c6c4b90ab69d25a25599c62e4d09910d07610b0946c374ac03df8b87018fc839</guid>
+<source>Google News Artificial Intelligence</source>
+<category>technology</category>
+<pubDate>Fri, 09 Oct 2026 07:00:00 +0000</pubDate>
+<description>Column | Artificial intelligence is a plague in higher education | Columns | Opinion The Daily Collegian</description>
+</item>
+<item>
+<title>TurboTax Full Service Coupons This October 2026</title>
+<link>https://www.wired.com/story/turbotax-coupon</link>
+<guid isPermaLink="false">80d04aa731f128bbf642a31f154ec69591d7abc25cd478a59b0982e21d21eb43</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Fri, 09 Oct 2026 05:00:00 +0000</pubDate>
+<description>Tax season doesn’t have to be stressful. Score 10% off full service expert on federal tax filings and more exclusive TurboTax discount codes on WIRED.</description>
+<enclosure url="https://media.wired.com/photos/66ea076fca863bb4c1028b64/master/pass/WIRED-Coupons-11.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/66ea076fca863bb4c1028b64/master/pass/WIRED-Coupons-11.jpg" medium="image"/>
+</item>
+<item>
+<title>Instacart Promo Code: $15 Off | October 2026</title>
+<link>https://www.wired.com/story/instacart-promo/code</link>
+<guid isPermaLink="false">bfb4a56914eab186d807b48b4055e006475ac7a924ac7d411b91473969b5797f</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Fri, 09 Oct 2026 05:00:00 +0000</pubDate>
+<description>Find the best Instacart promo code for massive savings in October 2026.</description>
+<enclosure url="https://media.wired.com/photos/67b63b9079f27a355461c964/master/pass/WIRED-Coupons-R2_2.png" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/67b63b9079f27a355461c964/master/pass/WIRED-Coupons-R2_2.png" medium="image"/>
+</item>
+<item>
 <title>Ulta Promo Codes: Up to 20% Off in October 2026</title>
 <link>https://www.wired.com/story/ulta-coupon</link>
 <guid isPermaLink="false">3499b2393ffc6e8e65cd2e4147262fc16aea01fccc2c84cb66f0c59c3e282ead</guid>
@@ -2043,28 +2065,6 @@
 <description>Save on We-Vibe, including app-controlled bestsellers and popular gift sets designed for couples, connection, and shared pleasure.</description>
 <enclosure url="https://media.wired.com/photos/67b63b98fb14553f0ebd9ffd/master/pass/WIRED-Coupons-R2_15.png" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/67b63b98fb14553f0ebd9ffd/master/pass/WIRED-Coupons-R2_15.png" medium="image"/>
-</item>
-<item>
-<title>TurboTax Full Service Coupons This October 2026</title>
-<link>https://www.wired.com/story/turbotax-coupon</link>
-<guid isPermaLink="false">80d04aa731f128bbf642a31f154ec69591d7abc25cd478a59b0982e21d21eb43</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Fri, 09 Oct 2026 05:00:00 +0000</pubDate>
-<description>Tax season doesn’t have to be stressful. Score 10% off full service expert on federal tax filings and more exclusive TurboTax discount codes on WIRED.</description>
-<enclosure url="https://media.wired.com/photos/66ea076fca863bb4c1028b64/master/pass/WIRED-Coupons-11.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/66ea076fca863bb4c1028b64/master/pass/WIRED-Coupons-11.jpg" medium="image"/>
-</item>
-<item>
-<title>Instacart Promo Code: $15 Off | October 2026</title>
-<link>https://www.wired.com/story/instacart-promo/code</link>
-<guid isPermaLink="false">bfb4a56914eab186d807b48b4055e006475ac7a924ac7d411b91473969b5797f</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Fri, 09 Oct 2026 05:00:00 +0000</pubDate>
-<description>Find the best Instacart promo code for massive savings in October 2026.</description>
-<enclosure url="https://media.wired.com/photos/67b63b9079f27a355461c964/master/pass/WIRED-Coupons-R2_2.png" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/67b63b9079f27a355461c964/master/pass/WIRED-Coupons-R2_2.png" medium="image"/>
 </item>
 <item>
 <title>H&amp;R Block Coupon: 25% Off DIY + Tax Pro Assist</title>
@@ -2212,7 +2212,7 @@
 <source>Google News Artificial Intelligence</source>
 <category>technology</category>
 <pubDate>Thu, 08 Oct 2026 20:18:00 +0000</pubDate>
-<description>Trump says anyone who does not refer to AI as ‘super intelligence’ is ‘THE ENEMY' Politico Silicon Valley is falling in line with Trump’s attempt to rename AI The Verge Trump really wants to make ‘super intelligence’ happen. Is it going to happen? CNN</description>
+<description>Trump says anyone who does not refer to AI as ‘super intelligence’ is ‘THE ENEMY' Politico</description>
 </item>
 <item>
 <title>She Designed Meta’s New AI Logo. Then Came the Hate</title>
@@ -2355,6 +2355,15 @@
 <description>Georgia Tech Announces New Online Master’s Degree in Artificial Intelligence Georgia Tech News Center</description>
 </item>
 <item>
+<title>Opinion | Think of Artificial Intelligence Like a Weapon - WSJ</title>
+<link>https://news.google.com/rss/articles/CBMiiwFBVV95cUxORzVNWWJRRjF5TTRwNWpPZnZCQkhnRmhwOG55ckQyQjZ1SnlaaEZpU3JnXy0wQ1h3SFo5aHd0OGZ0dFdMMzQtMTJBU0s0UDBaanBBX3NCcTZSRTEzVHRaY0RyZndoWkFIUzdlbmd5eG43ak1ZeC1EZE1qSG4wcFlqZXlCT3NSbTNuVEVn?oc=5</link>
+<guid isPermaLink="false">43b245d1031161583287490bb834e8606def1fc2addf520246b62d55fda0f122</guid>
+<source>Google News Artificial Intelligence</source>
+<category>technology</category>
+<pubDate>Mon, 05 Oct 2026 23:00:51 +0000</pubDate>
+<description>Opinion | Think of Artificial Intelligence Like a Weapon WSJ</description>
+</item>
+<item>
 <title>National Lab Discovery Series: PermitAI™: Using Artificial Intelligence to Accelerate Environmental Reviews and Permitting - Department of Energy (.gov)</title>
 <link>https://news.google.com/rss/articles/CBMitgFBVV95cUxQY2czV1NLUmdGcEhNcTlhOGJHMzRGRVhFaVBfT2EtNU8tWE4yVzVrQ2ozMHRUSnhvSmVnT1F1aTdSYVJTLU1xeWVDc3Q5cWEtelE5QVN1YmhWeFNZUm04eEs3N3gzSzNGdFBNZWJGbUJDUTlNdXBRRDRlbV9PQU9zSHJ1U2FqcVVJZUtkU1ZUNXo5WDhBZ21WUG90dDczeDhaUmluS0hObWZoLWdKLThwWGlBdG5xZw?oc=5</link>
 <guid isPermaLink="false">83d58f46acea7f8df96fba70dd5b305f7d884bac3d066bc370f7e28fee51a8ad</guid>
@@ -2416,15 +2425,6 @@
 <category>technology</category>
 <pubDate>Tue, 29 Sep 2026 07:00:00 +0000</pubDate>
 <description>Inside the Biggest Feud in Artificial Intelligence The Atlantic</description>
-</item>
-<item>
-<title>Exploring the ethics of artificial intelligence - The University of Utah</title>
-<link>https://news.google.com/rss/articles/CBMijgFBVV95cUxNSk5FdlVLWVhmOVpmYVhDUHZVWU5WSDJhUjhyaXhXRHZWbGUwMXRHdHVlWHJmR2tCejBfdDFzdzl3Y2NMSk1LaGlJcGZFd0pmeW5DeUwzZnhmSTJNXzFaX3E5QW5RNWdfNEx0b2hOYkx5aE5OZEFoc2NRd2VEaFhldE1LUnRacHFfeUpreFpn?oc=5</link>
-<guid isPermaLink="false">95916ac76964aa0f54e29ba04099b105d3df3e7af14dcaab1a5840f1bdb6293d</guid>
-<source>Google News Artificial Intelligence</source>
-<category>technology</category>
-<pubDate>Tue, 29 Sep 2026 07:00:00 +0000</pubDate>
-<description>Exploring the ethics of artificial intelligence The University of Utah</description>
 </item>
 <item>
 <title>Artificial intelligence is coming for Israel’s voters - The Economist</title>
