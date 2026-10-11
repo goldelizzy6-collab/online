@@ -4,13 +4,33 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
-<title>AI is less regulated than milk, Microsoft president says - BBC</title>
+<title>The reason the Xbox Series S is so much cheaper than the Series X</title>
+<link>https://www.engadget.com/2281248/xbox-series-s-cheaper-than-x-reason</link>
+<guid isPermaLink="false">20f475bd083e5708dfe70d644f64bf23c8921715fc94479ab58e9783461cc36d</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Sun, 11 Oct 2026 23:30:00 +0000</pubDate>
+<description>The Xbox Series X and S have seen the same price hikes as all other gaming hardware, but the Series S still provides a lower cost to entry.</description>
+<enclosure url="https://www.engadget.com/img/gallery/the-reason-the-xbox-series-s-is-so-much-cheaper-than-the-series-x/l-intro-1791475621.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/the-reason-the-xbox-series-s-is-so-much-cheaper-than-the-series-x/l-intro-1791475621.jpg" medium="image"/>
+</item>
+<item>
+<title>Big Boss Interview | Microsoft President: Britain Should Write World's AI Rules - BBC</title>
+<link>https://news.google.com/rss/articles/CBMiUEFVX3lxTE1MZzA2NnVGSnhIOVZ6a01RaTVBSk0zZ0p4dGkyOGJuM0FobUl4TmkwSWFIOWszLU94SjZudF9SUElDem1pc0t5amhlNUh4Sk8t?oc=5</link>
+<guid isPermaLink="false">45117cd63f51e4456de53edf927de18ecbff68e4d7c5aa3fc95d1cbff964f443</guid>
+<source>Google News Artificial Intelligence</source>
+<category>technology</category>
+<pubDate>Sun, 11 Oct 2026 23:29:30 +0000</pubDate>
+<description>Big Boss Interview | Microsoft President: Britain Should Write World's AI Rules BBC</description>
+</item>
+<item>
+<title>AI is less regulated than milk, says Microsoft president - BBC</title>
 <link>https://news.google.com/rss/articles/CBMiW0FVX3lxTFBWblVtb0hnbURUVU1uMXNTMmFyUmxwUGNETm1ZUmpGRVJmcVdUVVlzT2N4LUFzbVRkLVVtR1VvWURJc3NYRkhoY0Q4UDRGTm9sZWxhUVJvMThuWTQ?oc=5</link>
 <guid isPermaLink="false">2eb40b93ab981f7d18297c7cd97dc7d987a9deba050b4878cb32f3368d5c55a9</guid>
 <source>Google News Artificial Intelligence</source>
 <category>technology</category>
 <pubDate>Sun, 11 Oct 2026 23:07:35 +0000</pubDate>
-<description>AI is less regulated than milk, Microsoft president says BBC</description>
+<description>AI is less regulated than milk, says Microsoft president BBC</description>
 </item>
 <item>
 <title>EXCLUSIVE: Moonshot execs in talks to settle dispute with shareholder ahead of planned IPO, people say - Reuters</title>
@@ -60,6 +80,15 @@
 <description>A study by Northeastern University and Consumer Reports found that automakers are collecting data to allow advertisers to build in-depth profiles on consumers.</description>
 <enclosure url="https://www.engadget.com/img/gallery/study-finds-many-new-cars-share-your-data-with-third-party-companies/l-intro-1791466724.jpg" type="image/jpeg"/>
 <media:content url="https://www.engadget.com/img/gallery/study-finds-many-new-cars-share-your-data-with-third-party-companies/l-intro-1791466724.jpg" medium="image"/>
+</item>
+<item>
+<title>Fingerprints Are the New Cookies</title>
+<link>https://royfish.dev/fingerprints-are-the-new-cookies</link>
+<guid isPermaLink="false">04264482f0251792ebf3471ea9aaee499f61774ed06920004a558886193a1af6</guid>
+<source>Hacker News</source>
+<category>technology</category>
+<pubDate>Sun, 11 Oct 2026 22:33:39 +0000</pubDate>
+<description>Comments</description>
 </item>
 <item>
 <title>Google is illegaly cutting forest to build data centers</title>
@@ -226,6 +255,15 @@
 <category>technology</category>
 <pubDate>Sun, 11 Oct 2026 20:51:47 +0000</pubDate>
 <description>What does this mean for a fall full of movies starring villainous tech CEOs?</description>
+</item>
+<item>
+<title>Amazon Is in Talks to Buy AI Startup Decart, WSJ Reports - Bloomberg.com</title>
+<link>https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQlp0dEhQeUJEblZQcDdEQmMyOGVkSFFlbzRVaXhuT0xFUFpNc21laThfRWNnVmpRMHdiVG1BbzJiTjliOFNCR0xDWEl3X0hES3FXWlZ5LUNjZnFFRkdwWTRoVC11VHllTkM3bS1sVi04cG1EVjlBbGw5R2tNRUxmWlp2QlFrZk1uemJBMUt1QjlLRnFtdDhyVWY1UTVHZE1HTmR4NjRmSDlvQQ?oc=5</link>
+<guid isPermaLink="false">2d0634e788702811ceb0b292e7faeebeb82d3ded2f304f07dbcb7207c2bf601a</guid>
+<source>Google News Artificial Intelligence</source>
+<category>technology</category>
+<pubDate>Sun, 11 Oct 2026 20:46:52 +0000</pubDate>
+<description>Amazon Is in Talks to Buy AI Startup Decart, WSJ Reports Bloomberg.com</description>
 </item>
 <item>
 <title>Amazon Is in Talks to Buy AI Startup Decart, WSJ Reports - Yahoo Finance</title>
@@ -832,17 +870,6 @@
 <media:content url="https://www.engadget.com/img/gallery/why-cpu-overclocking-is-mostly-now-a-thing-of-the-past/l-intro-1791402025.jpg" medium="image"/>
 </item>
 <item>
-<title>How to properly clean your solar panels (and why it's important)</title>
-<link>https://www.engadget.com/2280495/how-to-properly-clean-solar-panels-why-its-important-to</link>
-<guid isPermaLink="false">652830e58ce61b8a419267a482c2356dde022e80ea401c0ec130f7591530987d</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Sun, 11 Oct 2026 12:30:00 +0000</pubDate>
-<description>Dirt can cut solar output, but cleaning only pays off when the numbers make sense.</description>
-<enclosure url="https://www.engadget.com/img/gallery/how-to-properly-clean-your-solar-panels-and-why-its-important/l-intro-1791400865.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/how-to-properly-clean-your-solar-panels-and-why-its-important/l-intro-1791400865.jpg" medium="image"/>
-</item>
-<item>
 <title>Physician and the Machine: An Analysis of the Ethical Educational Use of Artificial Intelligence by Medical Students - Cureus</title>
 <link>https://news.google.com/rss/articles/CBMi6gFBVV95cUxPVlVJZlRMNXdNU0RWZ0xZTzlIOGJtaFYta3hJVFRSQU8xa2lFZGIwcDFqYVQ2YWliaG8wMzVSaTBXNTB1S1BIby1HQnROb0xOcVNqQjdDSlZnU3hmN0J2RlZaOHZrRGp0Q1ZnNTBmcUZNSHkycHQ5WlZVLWw4R0ttX3pCZ2h2aEZyUkh6dlkyR3dyZnMwYWptUE5zaTJQU1lnbXhJN19aeW1BbUxrVVdpWlVSMVhWdHoycDl3TnI4ZlNoLTBNNHNRenVZOUZQVUp4d3JWNUJhV09Fb1N0bnFwdTVvcFQ2VTRoMnc?oc=5</link>
 <guid isPermaLink="false">a97b4904e5388f8412104244dbafbe11a514b8ebfdd614be6c2050a54f2003ac</guid>
@@ -868,15 +895,6 @@
 <category>technology</category>
 <pubDate>Sun, 11 Oct 2026 12:13:13 +0000</pubDate>
 <description>Comments</description>
-</item>
-<item>
-<title>Satya Nadella's AI Trust Plan: 6 Safeguards [2026] - https://tech-insider.org/</title>
-<link>https://news.google.com/rss/articles/CBMif0FVX3lxTE9zcHpDbWptQmFNLUZEcWVxQ19WMDFIdXVpVVRNWlpFTjdzN0o5TlR3a09MWXE0VEFVbmVZbHdEbklKZzB0cXRDQzhxWG5GVmF0MUs2ZEZOQjdXUTFpV1Ywb3hvOW84VXlPeWJjLVFFclpkdmJtZkVtVEwtYmZEMU0?oc=5</link>
-<guid isPermaLink="false">5f3b1550008f852c936e6917ca0a0ee8e7db9b25e07131ccc0eeaaf7750f3c71</guid>
-<source>Google News Artificial Intelligence</source>
-<category>technology</category>
-<pubDate>Sun, 11 Oct 2026 12:07:30 +0000</pubDate>
-<description>Satya Nadella's AI Trust Plan: 6 Safeguards [2026] https://tech-insider.org/</description>
 </item>
 <item>
 <title>Valen's Memory Safety: A New Kind of Borrow Checking</title>
@@ -1057,15 +1075,6 @@
 <description>AI Has a God Problem Stretching From the Vatican to the Baptist Pulpit WSJ</description>
 </item>
 <item>
-<title>Slow down AI before it evolves beyond our control| Letters - Tampa Bay Times</title>
-<link>https://news.google.com/rss/articles/CBMimwFBVV95cUxOdHF3UFdJajlWUTZoVDExbUkyUjJQb2J3ajFiQ1lIZEd0ZXB4OGh0V0tnRTZtZTI5aGZHYUpNdWFoT0RPN1Y3d0YzcmNVOHRjSWhQbGI4UmRrbGw4U1k5eEdwUTdycGx4Y3Q1ZjhOdDhxM3lmOUJtZmV5Z2VzY3JSWXFqRnA4czE0dThYMDdGTWFPSDhEd1NUYjlxUQ?oc=5</link>
-<guid isPermaLink="false">424bc071ac391d0a13f3e518a16de8c9e5653aa3cdffdeb795188bcd06e8917d</guid>
-<source>Google News Artificial Intelligence</source>
-<category>technology</category>
-<pubDate>Sun, 11 Oct 2026 09:29:08 +0000</pubDate>
-<description>Slow down AI before it evolves beyond our control| Letters Tampa Bay Times</description>
-</item>
-<item>
 <title>Korea’s SK Square backs Japanese physical AI startup Mujin to expand into robotics - KED Global</title>
 <link>https://news.google.com/rss/articles/CBMif0FVX3lxTE11MmVCemRFM1JRQ2FCc0xZRlBjZHVJNW82MHFhMGJYZUlZblZYdXVxOW9taFpXd2pyVUFJa2REbUpyaHJiVWtDOF9zYnlTZ3N2Qk13UlRSMFVENWlibzZHNmU2TWo5bkNWcG9RSnB3QjVuZkdsazRjSWFRWHpEWlk?oc=5</link>
 <guid isPermaLink="false">46ef2ae31166e2cb444f5bc4f758e67e1dd4d90efb1c9e3aa861ba0c15718fd1</guid>
@@ -1084,15 +1093,6 @@
 <description>Redwoods adapted to a cool, foggy climate. Now a new study shows they slow down photosynthesis when their environment warms.</description>
 <enclosure url="https://media.wired.com/photos/6ac8bfc343102e19d08d1486/master/pass/GettyImages-2271228456.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/6ac8bfc343102e19d08d1486/master/pass/GettyImages-2271228456.jpg" medium="image"/>
-</item>
-<item>
-<title>We saw ‘Artificial’ before everyone else, and now we know why Hollywood tried to bury it - Ynetnews</title>
-<link>https://news.google.com/rss/articles/CBMiYEFVX3lxTE5iVDNYSVI2UDBhT2VrUElkRFBBMDZ6SkhNV3VOUjR5WDVjelpuTkFQTWRYdlBGY1NZcmlKTVJsU1pSRG1CZjJtVUhwU0NNRmdoR1YwaVBtWmswcmZoY2NmZA?oc=5</link>
-<guid isPermaLink="false">302e3f64ed7b9bdd7991f8dabd426bff780fb67376fb72b10723c5c1b203611e</guid>
-<source>Google News Artificial Intelligence</source>
-<category>technology</category>
-<pubDate>Sun, 11 Oct 2026 07:53:00 +0000</pubDate>
-<description>We saw ‘Artificial’ before everyone else, and now we know why Hollywood tried to bury it Ynetnews</description>
 </item>
 <item>
 <title>LineageOS 24</title>
@@ -1158,6 +1158,15 @@
 <description>Is Apple hoping to get into the AI-generated podcast business?</description>
 </item>
 <item>
+<title>Cbirds: A flock of birds in your terminal</title>
+<link>https://github.com/clainstone/cbirds</link>
+<guid isPermaLink="false">4ffceb7fd2dc562e2be04e7580bb40b45b7a55bd57953f1ca68b16dd8c320082</guid>
+<source>Hacker News</source>
+<category>technology</category>
+<pubDate>Sat, 10 Oct 2026 19:02:35 +0000</pubDate>
+<description>Comments</description>
+</item>
+<item>
 <title>Petra Power looks to modernize energy for data centers and defense vehicles</title>
 <link>https://techcrunch.com/2026/10/10/petra-power-looks-to-modernize-energy-for-data-centers-and-defense-vehicles</link>
 <guid isPermaLink="false">d61bf60420d80533434aa8fd31a023df3b32e9e7455ac2a669040f17918e4fc0</guid>
@@ -1174,6 +1183,15 @@
 <category>technology</category>
 <pubDate>Sat, 10 Oct 2026 16:25:42 +0000</pubDate>
 <description>Cloudflare will use this acquisition to improve its Workers programming model and platform.</description>
+</item>
+<item>
+<title>Leading AI companies are preparing for the possibility of artificial intelligence getting out of control — media - Українські Національні Новини (УНН)</title>
+<link>https://news.google.com/rss/articles/CBMizgFBVV95cUxOVEt0d0lnWWFtSUZjTUlKaEd4UEpQT2pHbWNmbjBhUFhabzBELXBteHBlZWduMFJWSy1WZk5jT2huRGxBSmVKNHdmRjB1eHRZWi1ya0FMTC1hdUhRSmZWUkQ1VElMTVM1Y3Zfbkpvak1IWXF0QmZrbkZMQUZEc2VYRzlSNFdZZlJTSXg5Z241YWJsSi0wdDBvaWxpb2Jwb2U5azk2eXkzZlFrbUJGUzhZN01ickRmTUI1NDNYWFJXRldzTG5zb280MklVYXhDQdIBzAFBVV95cUxNT19BNm5KZjlybVM4bU5IblFvcW9FOWtOYU5WblY2ZVQ1WEVJckFrUDlvcnVNVmdZWVprMHNZbE5fR2lBWmFPaHVYaHlKSkhMeUVheE9mVnZwb0NVMXNWQTF5UUFPVEFONkw5NTF1WU9ZYjJSMGlHeGdIZHVMbHg2WTBCbGhyYnBjUW5yTW9IUUtDLW5RRTNoTHl1bUlWNlB2aHRBQUE5QkxTejRfZUVPeE5lZ1dlX0hnbjhBOG02OVBXeWFCUVBncDdRank?oc=5</link>
+<guid isPermaLink="false">24f461c7e65f35964bef2bbc9b47527dc4b380eeca6a0429cebb82ceb736fff9</guid>
+<source>Google News Artificial Intelligence</source>
+<category>technology</category>
+<pubDate>Sat, 10 Oct 2026 16:17:06 +0000</pubDate>
+<description>Leading AI companies are preparing for the possibility of artificial intelligence getting out of control — media Українські Національні Новини (УНН)</description>
 </item>
 <item>
 <title>Anthropic’s Claude AI submits a false tip on a Philadelphia unsolved homicide case - AP News</title>
@@ -1237,15 +1255,6 @@
 <category>technology</category>
 <pubDate>Sat, 10 Oct 2026 14:00:00 +0000</pubDate>
 <description>We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.</description>
-</item>
-<item>
-<title>Shape-sensing sheet digitally tracks its own movement as it bends and twists</title>
-<link>https://news.mit.edu/2026/shape-sensing-sheet-digitally-tracks-movement-bends-twists-1008</link>
-<guid isPermaLink="false">15c9d1f159b657b84fc387e27c69e77ba2357fe340ff928ab10529c3502d684e</guid>
-<source>Hacker News</source>
-<category>technology</category>
-<pubDate>Sat, 10 Oct 2026 12:27:36 +0000</pubDate>
-<description>Comments</description>
 </item>
 <item>
 <title>AI Is Getting Really Good at Messing With Cybercriminals</title>
@@ -1523,15 +1532,6 @@
 <description>The real threat involving artificial intelligence isn’t what you think Washington Times</description>
 </item>
 <item>
-<title>Artificial Intelligence - ABC News - Breaking News, Latest News and Videos</title>
-<link>https://news.google.com/rss/articles/CBMiXkFVX3lxTFBHQWNlSHQzMUlJUTg1elY2MnlhM0JMRDkyUlMtYUdwNDFYYmF2cktZZzg2X3pDMVluRVhBS01LY0VnRVI0bnk2eElyWkczd0dLdktiOFMybWl5STktVHc?oc=5</link>
-<guid isPermaLink="false">e493019a8adb7a0cafec605daff5a9ff1cfb26b085362fddf65876aa18e8a770</guid>
-<source>Google News Artificial Intelligence</source>
-<category>technology</category>
-<pubDate>Fri, 09 Oct 2026 21:14:54 +0000</pubDate>
-<description>Artificial Intelligence ABC News - Breaking News, Latest News and Videos</description>
-</item>
-<item>
 <title>What's been driving Hawaii's lava fountains?</title>
 <link>https://arstechnica.com/science/2026/10/whats-been-driving-hawaiis-lava-fountains</link>
 <guid isPermaLink="false">a879a9e1e87c2184a430adda64ce33fe95a56b0e1287f276b74076a76c9cf874</guid>
@@ -1639,6 +1639,15 @@
 <category>technology</category>
 <pubDate>Fri, 09 Oct 2026 19:25:52 +0000</pubDate>
 <description>Question of the Day: Is artificial intelligence safe for kids to use? KQ2</description>
+</item>
+<item>
+<title>Artificial Intelligence - ABC News - Breaking News, Latest News and Videos</title>
+<link>https://news.google.com/rss/articles/CBMiXkFVX3lxTFBHQWNlSHQzMUlJUTg1elY2MnlhM0JMRDkyUlMtYUdwNDFYYmF2cktZZzg2X3pDMVluRVhBS01LY0VnRVI0bnk2eElyWkczd0dLdktiOFMybWl5STktVHc?oc=5</link>
+<guid isPermaLink="false">e493019a8adb7a0cafec605daff5a9ff1cfb26b085362fddf65876aa18e8a770</guid>
+<source>Google News Artificial Intelligence</source>
+<category>technology</category>
+<pubDate>Fri, 09 Oct 2026 19:16:43 +0000</pubDate>
+<description>Artificial Intelligence ABC News - Breaking News, Latest News and Videos</description>
 </item>
 <item>
 <title>PC shipments fall 20.1 percent in “sharpest decline” since Q1 2023</title>
@@ -2266,15 +2275,6 @@
 <media:content url="https://media.wired.com/photos/6ac3ef9c649b084becf0e2b4/master/pass/Amazon%20Prime%20Day%20Top%20Art%20102026%20Absolute%20Best%20Prime%20Day%20Deals%20ILLUSTRATION%20Isadora-Ayesa%20Lima%20SOURCE%20Amazon.jpg" medium="image"/>
 </item>
 <item>
-<title>Akhetonics Photonic Computing: 1,000x Faster CPUs</title>
-<link>https://medium.com/@timventura/akhetonics-photonic-computing-1-000x-faster-cpus-b9e91c470079</link>
-<guid isPermaLink="false">a9aaecd55ecba4cc00969b6ed2f7b5c9786c862dcb3900a00d78ddc0d8321268</guid>
-<source>Hacker News</source>
-<category>technology</category>
-<pubDate>Thu, 08 Oct 2026 17:08:05 +0000</pubDate>
-<description>Comments</description>
-</item>
-<item>
 <title>Artificial Intelligence for Nuclear Deterrence Strategy 2023 - Department of Energy (.gov)</title>
 <link>https://news.google.com/rss/articles/CBMikgFBVV95cUxOWjF4LVVxSzc2MWJEa212X3ZmZnBvbDJFcmFoTzQ1SnlZY0dGWmhQMllXbW5WYUUxLWx3MlhRTXZsSjBSbHFEbFlmZGtuaDF0YThoelh3UHl4d2JQQjBxWWthVEZUYnR5WEJ0dGFjdXZlVGd1T2tlQnVGUmdaeUpOcjlwR1k1dFBSM1pBODJmN2hUZw?oc=5</link>
 <guid isPermaLink="false">80de9d3e30c81feafd93fbd4845b53ddd353bf7cae1dd8d29427e2896720c2c1</guid>
@@ -2337,6 +2337,15 @@
 <description>Most Americans think artificial intelligence is developing too fast, a new AP-NORC poll finds AP News</description>
 </item>
 <item>
+<title>Super Intelligence - NASA (.gov)</title>
+<link>https://news.google.com/rss/articles/CBMiUkFVX3lxTE1LNDdCUDJLUjJFbjJuNXNwbWgyMjFJRkg0a2MzR25XNFBWb1U2WUh6QWRNMXRWd1JqXy1RVzhhSTVIVlNCOWhCSGVzdFVOcUw1bnc?oc=5</link>
+<guid isPermaLink="false">add1ac62d3778057053af2067ed337900ddd746e8729ad2d4b770b74242c01a0</guid>
+<source>Google News Artificial Intelligence</source>
+<category>technology</category>
+<pubDate>Thu, 08 Oct 2026 08:47:37 +0000</pubDate>
+<description>Super Intelligence NASA (.gov)</description>
+</item>
+<item>
 <title>Can Artificial Intelligence Learn the Art of Surgery? - The New York Times</title>
 <link>https://news.google.com/rss/articles/CBMilgFBVV95cUxOZ0VmNlQ5UmFXQVB2b0pOYTZNV0RuaFZLVWZHR2dsTDV0OGZjUWVwV3ozTEhpWVE3M3d3ZDJTNmh5QUgtM2JTdldya0ZnUXZxekFPVzRYaVItMDM5dldDN0ZfQXlpYzQwbkFEeEZubHJ3WmhZeGVUQld1VVg2a0tBWUIzWHRzemJOSnM4WER5M1hwNlNSQVE?oc=5</link>
 <guid isPermaLink="false">74551404787090567f860f14e70eaaa8d36e92429ab0cb2467669e2c61976b88</guid>
@@ -2353,15 +2362,6 @@
 <category>technology</category>
 <pubDate>Tue, 06 Oct 2026 19:32:43 +0000</pubDate>
 <description>Georgia Tech Announces New Online Master’s Degree in Artificial Intelligence Georgia Tech News Center</description>
-</item>
-<item>
-<title>Super Intelligence - NASA (.gov)</title>
-<link>https://news.google.com/rss/articles/CBMiUkFVX3lxTE1LNDdCUDJLUjJFbjJuNXNwbWgyMjFJRkg0a2MzR25XNFBWb1U2WUh6QWRNMXRWd1JqXy1RVzhhSTVIVlNCOWhCSGVzdFVOcUw1bnc?oc=5</link>
-<guid isPermaLink="false">add1ac62d3778057053af2067ed337900ddd746e8729ad2d4b770b74242c01a0</guid>
-<source>Google News Artificial Intelligence</source>
-<category>technology</category>
-<pubDate>Tue, 06 Oct 2026 16:15:18 +0000</pubDate>
-<description>Super Intelligence NASA (.gov)</description>
 </item>
 <item>
 <title>National Lab Discovery Series: PermitAI™: Using Artificial Intelligence to Accelerate Environmental Reviews and Permitting - Department of Energy (.gov)</title>
