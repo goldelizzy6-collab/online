@@ -4,6 +4,26 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Phreak.ing – Internet Phone Switch</title>
+<link>https://phreak.ing</link>
+<guid isPermaLink="false">545abbf4accf2ee11287220e7ef2731f2920ddfbf6ceb703e986b14712a97a2e</guid>
+<source>Hacker News</source>
+<category>technology</category>
+<pubDate>Mon, 12 Oct 2026 21:39:32 +0000</pubDate>
+<description>Comments</description>
+</item>
+<item>
+<title>The Social Reckoning is flopping at the box office</title>
+<link>https://www.theverge.com/entertainment/1009630/social-reckoning-box-office-other-mommy</link>
+<guid isPermaLink="false">e50abc02ffccc0a1fc8a4c182208604e21bd8decedc908b4c05e229c625f5ecf</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Mon, 12 Oct 2026 21:20:57 +0000</pubDate>
+<description>As important as some of the messages in The Social Reckoning are, the movie has been drastically underperforming at the box office. Per Variety, Aaron's Sorkin's follow up to The Social Network only grossed a measly $5.5 million this past weekend against a budget that's somewhere within the $30-42 million range. That would make it […]</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/DF-04750_r.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/DF-04750_r.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
 <title>Army turning to AI in its fight against biological threats - DefenseScoop</title>
 <link>https://news.google.com/rss/articles/CBMimwFBVV95cUxQUmhITkp6d2xqMWh6SFVYNlhoUkR6QzM4djdGRjIxUUJnV09idkd6Q1JyVHZ6REl2eFYxeXZJOTJZUHgyQ1dPRmdrVFpCSlVHSGNWWTlCRFVhcXlQNUl5c3NCaWNfUTNJX3Z1Y1d2LWQ0cUVyQ3NCSWowelBYWDZZakR5TlBiWU42dFNJaVEzQmFZNnB0M2w2U3U4SQ?oc=5</link>
 <guid isPermaLink="false">ec76206d23dbb5f16adc2550db3d95bc07c0e81e990874a082ecce9ec57e37ee</guid>
@@ -11,6 +31,15 @@
 <category>technology</category>
 <pubDate>Mon, 12 Oct 2026 21:09:17 +0000</pubDate>
 <description>Army turning to AI in its fight against biological threats DefenseScoop</description>
+</item>
+<item>
+<title>US legal AI giant Harvey to open Japan office in 2027, CEO says - Nikkei Asia</title>
+<link>https://news.google.com/rss/articles/CBMiygFBVV95cUxPWjZ2VkFPUHBweG91NFZIMHpkNFI4X2VsUjBianhjZ0FCMGZweWN4cmV2SFFpcVpGb3ZTYTVfbzhnWmRzWElNR1dsLXVkS0RwVHNiem5sX3NTOWQzMnFkR0JINzNOd0phVlVIS3hiU3RhN3ZsTTVsaEprZTM5SmFITU5DeFRlbmRpZnhISjZuOEUyMWtIeFQ5OUhoRjQ1cXlvZzFNT2xOelRVcGdlTENmUnhVOE5aMkhHd0R0NEZZcy1sVWlzbXFRTnln?oc=5</link>
+<guid isPermaLink="false">1e52661d0c2cbf7baa2abe45d387b4d0486772e86ba4c2b3a51373d37365c3c6</guid>
+<source>Google News Artificial Intelligence</source>
+<category>technology</category>
+<pubDate>Mon, 12 Oct 2026 21:02:00 +0000</pubDate>
+<description>US legal AI giant Harvey to open Japan office in 2027, CEO says Nikkei Asia</description>
 </item>
 <item>
 <title>AI Found Your Defect. Now What? - Industrial Equipment News</title>
@@ -31,6 +60,17 @@
 <description>How General Motors Is Simulating Its Way to Autonomous Driving Industrial Equipment News</description>
 </item>
 <item>
+<title>Epic Games reportedly pivoting to "AI first" game development model</title>
+<link>https://arstechnica.com/gaming/2026/10/report-epic-games-goes-all-in-on-ai-for-disney-collaboration</link>
+<guid isPermaLink="false">b9412986ffa5d3dc31bcfb4c509a0c02bc36ee818f73b69032050e7d90e3437b</guid>
+<source>Ars Technica</source>
+<category>technology</category>
+<pubDate>Mon, 12 Oct 2026 20:59:50 +0000</pubDate>
+<description>"No more hand-written code" or AI-free art for delayed Marvel/Star Wars shooter.</description>
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/epicdisney-1152x648.png" type="image/jpeg"/>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/epicdisney-1152x648.png" medium="image"/>
+</item>
+<item>
 <title>Attackers are using custom GPTs to implement ClickFix attacks in a new RAT campaign - IBM</title>
 <link>https://news.google.com/rss/articles/CBMiakFVX3lxTE5XZkdfZk9jUGFKSnpUMUVaazlaU0ZMbEE5V0o3TU9BRGFqOHozMGVkMFlKT2RZVUVlbzFLeWU4eEFqQUx6OFlvaEVaQnhXZHBiZEVoa3gtaF9UWEFIaTdhOXFraVk3YVczdnc?oc=5</link>
 <guid isPermaLink="false">de0e14617742e4ca98078b315b51e6b4eaa94479237a6d0448a704c64efb60fe</guid>
@@ -38,6 +78,15 @@
 <category>technology</category>
 <pubDate>Mon, 12 Oct 2026 20:55:10 +0000</pubDate>
 <description>Attackers are using custom GPTs to implement ClickFix attacks in a new RAT campaign IBM</description>
+</item>
+<item>
+<title>In Praise of John Cale, the Superior Velvet</title>
+<link>https://thequietus.com/subscriber-area/low-culture-essay/john-cale-low-culture</link>
+<guid isPermaLink="false">433a0ea9f0601fb01b755bcd54a13aeac4c1682dcdb66b4f7db47f04c7c7a58f</guid>
+<source>Hacker News</source>
+<category>technology</category>
+<pubDate>Mon, 12 Oct 2026 20:52:34 +0000</pubDate>
+<description>Comments</description>
 </item>
 <item>
 <title>Could AI-powered drones soon be making battlefield decisions in Ukraine? - NPR</title>
@@ -105,6 +154,17 @@
 <description>Banks Stop Counting AI Hours and Start Counting Returns PYMNTS.com</description>
 </item>
 <item>
+<title>After a 10-year redemption arc, No Man's Sky is coming to the iPhone and iPad</title>
+<link>https://arstechnica.com/gaming/2026/10/after-a-10-year-redemption-arc-no-mans-sky-is-coming-to-the-iphone-and-ipad</link>
+<guid isPermaLink="false">3443fb3cee5ccceeecbc6d44f4cec94142d3d24643bf429a8bccaf9d5b54015a</guid>
+<source>Ars Technica</source>
+<category>technology</category>
+<pubDate>Mon, 12 Oct 2026 20:26:14 +0000</pubDate>
+<description>You can get a universe in your pocket if you have an iPhone 11 or later.</description>
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/no-mans-sky-iphone-1152x648-1791835932.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/no-mans-sky-iphone-1152x648-1791835932.jpg" medium="image"/>
+</item>
+<item>
 <title>Dario Strangelove, or: How I Learned to Stop Worrying and Love the AI Bomb - Fortune</title>
 <link>https://news.google.com/rss/articles/CBMihgFBVV95cUxOR0JiWV9ZeXNhWkZWcktSZFJFLUVQa21lRTZTcmhGV1FfY09vYVRVbUJkZ0V3VlJBclA3dlBjSFhTRFRCbDdpaWlqUFZ2NDQwcHpvUHY2Y3BBTFpDalktY2xqZUtYSDh2cEhyUmdZYzFDWWpUQ0ZmWEJMWGxvd0Qtbjl0WHRLZw?oc=5</link>
 <guid isPermaLink="false">e855cec1adf226b9aec986bd41a2f35c2016a43c8dd862b946e67dc2ab1e8459</guid>
@@ -152,6 +212,15 @@
 <media:content url="https://media.wired.com/photos/6acceab31cb30cd3ed00af79/master/pass/101226-Meta%20Muse%20Sexual%20Content.jpg" medium="image"/>
 </item>
 <item>
+<title>Microsoft president urges global AI regulation, warns of safety gaps - Fox News</title>
+<link>https://news.google.com/rss/articles/CBMiekFVX3lxTFBZMVJaNU5ob2xvTjFVcmcxWHFiSDJySjFZeFlIaG5ldEVrWUh3emhhaGpFazlJeC02cmFYVjlwRG5GdHY2WUVjVW9SN0FrV2JMVFhtNEdyNFR0dUhFQzF6MWVlc3doZElkWVh6NmVJa1NISUVac0x6X2lB?oc=5</link>
+<guid isPermaLink="false">59d1e51a6661d0df664be0f84504738d3db2451b5dda95111db551777ac509e9</guid>
+<source>Google News Artificial Intelligence</source>
+<category>technology</category>
+<pubDate>Mon, 12 Oct 2026 20:13:13 +0000</pubDate>
+<description>Microsoft president urges global AI regulation, warns of safety gaps Fox News</description>
+</item>
+<item>
 <title>El-Sayed Talks Corporate Money, Healthcare, Artificial Intelligence At Lansing Town Hall - Patch</title>
 <link>https://news.google.com/rss/articles/CBMitgFBVV95cUxPUFkwZGR0SlBzYW5kdkFubjE5c0t3NXBYRnNwdDhXQUQ3ZjgyN3RDcHdWRW1JUEY4clVvbkdqY1Y4S2RkcEJkWXQ0cEp2dk9TeXBSZ0tmRGxFaGJGc0NuSDBwUFNfNU5JWng0dnFaaklLTDdDRlFSZ2hQMTg3QkdWbDYwaUFnQmlxcmFlVTFOZTN5QmgxMFdPLWI0OTJ3MXNKNnJXSXBxWlNCeGVhT0daemZuWk9ZZw?oc=5</link>
 <guid isPermaLink="false">b55b34e17b491c67fa00c348620de1baa71aaf215186fd08a8868a08e51e2115</guid>
@@ -194,6 +263,15 @@
 <source>Hacker News</source>
 <category>technology</category>
 <pubDate>Mon, 12 Oct 2026 19:40:00 +0000</pubDate>
+<description>Comments</description>
+</item>
+<item>
+<title>Making big downloads resumable in Firefox</title>
+<link>https://lunarwatcher.codeberg.page/til/firefox/resumable-big-downloads.html</link>
+<guid isPermaLink="false">7ed0d9888ce5e464ab06521953fb244a68cba5a7476d7fb175d8c788028efd70</guid>
+<source>Hacker News</source>
+<category>technology</category>
+<pubDate>Mon, 12 Oct 2026 19:36:02 +0000</pubDate>
 <description>Comments</description>
 </item>
 <item>
@@ -251,7 +329,7 @@
 <description>OpenAI’s Video Model Sora Could Get a Second Act PYMNTS.com</description>
 </item>
 <item>
-<title>Introducing OpenFatigue</title>
+<title>OpenFatigue™ – Open is the new closed</title>
 <link>https://openfatigue.ai</link>
 <guid isPermaLink="false">395f474ddb85fced933a16039dd5df4c91895876d9a2a6bd81f12be38b70aa5f</guid>
 <source>Hacker News</source>
@@ -269,6 +347,17 @@
 <description>The models add "active memory" and "active focus" abilities.</description>
 <enclosure url="https://www.engadget.com/img/gallery/meta-says-its-caught-up-to-the-frontier-with-its-latest-wonder-ai-models/l-intro-1791830967.jpg" type="image/jpeg"/>
 <media:content url="https://www.engadget.com/img/gallery/meta-says-its-caught-up-to-the-frontier-with-its-latest-wonder-ai-models/l-intro-1791830967.jpg" medium="image"/>
+</item>
+<item>
+<title>WHO report on Russian lab worker death highlights "key uncertainty"</title>
+<link>https://arstechnica.com/health/2026/10/who-report-on-russian-lab-worker-death-highlights-key-uncertainty</link>
+<guid isPermaLink="false">53c634c5618ab36c4dfef67556a9460d06a385e6d4759a0ff0b0124213f89d3b</guid>
+<source>Ars Technica</source>
+<category>technology</category>
+<pubDate>Mon, 12 Oct 2026 18:46:43 +0000</pubDate>
+<description>Without a cause of death, it's unclear if Russia's precautions were the right ones.</description>
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2023/05/GettyImages-1250822831-1152x648.jpeg" type="image/jpeg"/>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2023/05/GettyImages-1250822831-1152x648.jpeg" medium="image"/>
 </item>
 <item>
 <title>Representatives of artificial intelligence companies testify during a New York City Council Committee hearing in New York - The Lufkin Daily News</title>
@@ -329,6 +418,17 @@
 <description>Comments</description>
 </item>
 <item>
+<title>Anthropic's Claude AI submitted false murder tip to Philadelphia police</title>
+<link>https://arstechnica.com/tech-policy/2026/10/anthropics-claude-ai-submitted-false-murder-tip-to-philadelphia-police</link>
+<guid isPermaLink="false">76480243a7cf9f82b55ed27eec89116f0cdbc206252dd5cf347bed69a0431328</guid>
+<source>Ars Technica</source>
+<category>technology</category>
+<pubDate>Mon, 12 Oct 2026 18:21:36 +0000</pubDate>
+<description>“I may have information regarding this case," Claude AI told Philly police.</description>
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/03/claude-app-1152x648.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/03/claude-app-1152x648.jpg" medium="image"/>
+</item>
+<item>
 <title>Warren Buffett Bought This Magnificent Artificial Intelligence (AI) Stock a Year Ago. Here's Why It's Still a Buy Today. - The Globe and Mail</title>
 <link>https://news.google.com/rss/articles/CBMirAJBVV95cUxOZTZ3TFNDSHd5ZG15MDZuQW92b21IeERtV1NjQ2xXZnVOOGp5dWtqQkM3czlCMmJSZFpnU0x1c2V0VEc2TUJycU9HSjQ1MVY4TVJnYzhBSE5SXzI0QjJDYktYNmZFTE9fNGpnWFJnVHcyRHJMdUxSdVlxTWUyQ3dqMDE5SlNSQXV1Y3VleThGSG5iblNIdlZFZ2wxZFdWUHVscHhXbF90MXZPWFEzMGpvRktRODZPZFFfdjkwX1N2SVNHeFB3NkxLZkhnMnNfdDdkS0dhNkpxVlFhS2ZwbWw3ck5YZzlRaHNSM2dhRElrcnJRWVFtX0tHbWRiVHNzWlBFai04QWhBMjdpc3lGWFlSNC0wdlhnSWprRGxlN1VaOG0wdDhxeWZjZkFqOXA?oc=5</link>
 <guid isPermaLink="false">5aa5aa1433ce1bf6caa17e8a529704bfe0ff66344680256a99f591edc46393d6</guid>
@@ -371,6 +471,15 @@
 <source>Hacker News</source>
 <category>technology</category>
 <pubDate>Mon, 12 Oct 2026 18:02:32 +0000</pubDate>
+<description>Comments</description>
+</item>
+<item>
+<title>'AI' Is Not a Tool by Rich Hickey</title>
+<link>https://www.linkedin.com/pulse/ai-tool-rich-hickey-kjl8e</link>
+<guid isPermaLink="false">de2c74460bc4e60489bc53d051f73f6073628205e4f5faa95489646dea2760ee</guid>
+<source>Hacker News</source>
+<category>technology</category>
+<pubDate>Mon, 12 Oct 2026 18:00:25 +0000</pubDate>
 <description>Comments</description>
 </item>
 <item>
@@ -432,15 +541,6 @@
 <category>technology</category>
 <pubDate>Mon, 12 Oct 2026 17:50:21 +0000</pubDate>
 <description>Employees Fake Artificial Intelligence Usage to Impress Bosses The Mac Observer</description>
-</item>
-<item>
-<title>Microsoft president urges global AI regulation, warns of safety gaps - Fox News</title>
-<link>https://news.google.com/rss/articles/CBMiekFVX3lxTFBZMVJaNU5ob2xvTjFVcmcxWHFiSDJySjFZeFlIaG5ldEVrWUh3emhhaGpFazlJeC02cmFYVjlwRG5GdHY2WUVjVW9SN0FrV2JMVFhtNEdyNFR0dUhFQzF6MWVlc3doZElkWVh6NmVJa1NISUVac0x6X2lB?oc=5</link>
-<guid isPermaLink="false">59d1e51a6661d0df664be0f84504738d3db2451b5dda95111db551777ac509e9</guid>
-<source>Google News Artificial Intelligence</source>
-<category>technology</category>
-<pubDate>Mon, 12 Oct 2026 17:44:06 +0000</pubDate>
-<description>Microsoft president urges global AI regulation, warns of safety gaps Fox News</description>
 </item>
 <item>
 <title>2027 Rivian R2 review: The Goldilocks electric SUV</title>
@@ -669,15 +769,6 @@
 <category>technology</category>
 <pubDate>Mon, 12 Oct 2026 16:35:09 +0000</pubDate>
 <description>California Enacts Two New AI in Employment Bills: What’s Coming in 2027 Foley &amp; Lardner LLP</description>
-</item>
-<item>
-<title>Reverse engineer anything with agents, from app behavior down to native binaries</title>
-<link>https://github.com/morluto/rea</link>
-<guid isPermaLink="false">458c04cd04ca960bc316608e56cd07220699b396a97ed54ff69d6fc28bffdaa7</guid>
-<source>Hacker News</source>
-<category>technology</category>
-<pubDate>Mon, 12 Oct 2026 16:31:55 +0000</pubDate>
-<description>Comments</description>
 </item>
 <item>
 <title>Cyber-attack similar to OpenAI Medicare breach seems likely in UK, says minister - The Guardian</title>
@@ -981,6 +1072,15 @@
 <description>Is ‘Attention’ the Essence of Intelligence? Quanta Magazine</description>
 </item>
 <item>
+<title>Solar panels that plug into your wall</title>
+<link>https://www.nationalgeographic.com/environment/article/balcony-plug-in-solar-panels-renewable-energy</link>
+<guid isPermaLink="false">5d998c8eb1e02219621f9c9ad5ddeffbb5b933c6023580044a1fed1fd782404d</guid>
+<source>Hacker News</source>
+<category>technology</category>
+<pubDate>Mon, 12 Oct 2026 14:19:04 +0000</pubDate>
+<description>Comments</description>
+</item>
+<item>
 <title>Smart ring maker Ultrahuman to roll out biological-age model across UAE</title>
 <link>https://techcrunch.com/2026/10/12/smart-ring-maker-ultrahuman-to-roll-out-biological-age-model-across-uae</link>
 <guid isPermaLink="false">98c6d5dc00b8bb59cd5cd2d6875d4be7a37aa585c6f6c2ce48626d8290d296d0</guid>
@@ -1114,15 +1214,6 @@
 <description>Canada Sets Up National Artificial Intelligence Council Advanced Manufacturing</description>
 </item>
 <item>
-<title>COMMENTARY: Wall Street’s AI bet is now too big to hit - Reuters</title>
-<link>https://news.google.com/rss/articles/CBMiqwFBVV95cUxQOUJzWDBxTFE4NlN1aVdfYW5aMU9kS1BXTXdsOGd4WHRnR1BYcHZ0ZVlKSkRhMi1rWDYzSHExOW93R3Y5ejZqVnVCRzVSczJRZ1RtMG90WU5XSHJsaHJYSmdDdDZIdlFUbzd3a0FXTTBQQmJESHNJbl9fUGhQMndHUTlDSkhYZklNUmdjcGJJSHo1bkV3SEZjNjItcVBnX2ttY3NpOEhINmFCZFU?oc=5</link>
-<guid isPermaLink="false">8c25b23249919a0d9a5eedc707f5dea9a8f0b2301ea6ea2970380b9b4dba777c</guid>
-<source>Google News Artificial Intelligence</source>
-<category>technology</category>
-<pubDate>Mon, 12 Oct 2026 13:07:52 +0000</pubDate>
-<description>COMMENTARY: Wall Street’s AI bet is now too big to hit Reuters</description>
-</item>
-<item>
 <title>Google announces the Fitbit Edge, a middle ground between Pixel Watch 5 and Fitbit Air</title>
 <link>https://arstechnica.com/gadgets/2026/10/google-announces-the-fitbit-edge-a-middle-ground-between-pixel-watch-5-and-fitbit-air</link>
 <guid isPermaLink="false">c008d741a019d4f1e10ebfb371fe851eb22b01438f7545cbb612eb3a16345402</guid>
@@ -1154,17 +1245,6 @@
 <description>The Fitbit Edge may not be Google's best-kept fitness-tracking secret, but as of today, its existence is official. The tracker sits smack-dab between the recently launched Fitbit Air and the more powerful Google Pixel Watch 5 in the company's current wearable lineup. Basically, if you have smartwatch fatigue but don't want to give up notifications, […]</description>
 <enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Active-Run.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
 <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Active-Run.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
-<title>Microsoft’s new AI chip makes it less reliant on Nvidia’s GPUs</title>
-<link>https://www.theverge.com/news/1009465/microsoft-maia-300-chip-improvements-rollout</link>
-<guid isPermaLink="false">1f073325dc394b50df945714b9d96e72a89674a53041e23ab1ceb9e35cecba1e</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Mon, 12 Oct 2026 13:00:00 +0000</pubDate>
-<description>Microsoft is announcing its third-generation Maia in-house AI chip today, designed to be the "primary AI inference system" for Microsoft's products and services. Maia 300 not only improves the cost and efficiency of running AI workloads in the cloud, it's also more capable of handling the latest reasoning models and agentic tasks. Maia 300 will […]</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Maia-300-prototype-chip-03.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Maia-300-prototype-chip-03.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
 <title>Google Fitbit Edge: Specs, Features, Price, Release Date</title>
@@ -1256,15 +1336,6 @@
 <description>Comments</description>
 </item>
 <item>
-<title>Incident with Actions, Pull Requests and Issues</title>
-<link>https://www.githubstatus.com/incidents/93njd414rpbx</link>
-<guid isPermaLink="false">20e2c3e7f188a55a6ea9a37d4e96d395258fc060edeeedd73eb22db7aca4e878</guid>
-<source>Hacker News</source>
-<category>technology</category>
-<pubDate>Mon, 12 Oct 2026 12:23:51 +0000</pubDate>
-<description>Comments</description>
-</item>
-<item>
 <title>Hackers activate automatic defrosting in supermarket fridges across Europe</title>
 <link>https://www.tomshardware.com/tech-industry/cyber-security/unprecedented-cyberattack-cripples-supermarket-fridges-across-europe-as-hackers-activate-automatic-defrosting-delivery-and-store-prices-also-impacted-by-incident</link>
 <guid isPermaLink="false">9e9c446c501b49e9bbcdb6fd83ef9b61f32ed40953f14fc3815de314dc93c124</guid>
@@ -1317,15 +1388,6 @@
 <category>technology</category>
 <pubDate>Mon, 12 Oct 2026 12:00:00 +0000</pubDate>
 <description>Duke launches national hub to advance trustworthy AI for aging and dementia care Duke School of Medicine</description>
-</item>
-<item>
-<title>Public health intelligence for a safer world: WHO Hub for Pandemic and Epidemic Intelligence strategy 2026–2030 - ReliefWeb</title>
-<link>https://news.google.com/rss/articles/CBMi0AFBVV95cUxPakFpM09xcHRKM203Wm12WF9oMVItS1RZdW1haXlLNFBvVXBYNUxJeFlpX29HZEVpVjA5aVpXMzI5ZDltbVhFZzhyeTM3cXNNT0d0cEJwVl9OWENDcS1jMllqZ2xnVjFGSzd2dnVkaFBHSHk2SmQyNnRjMER1bGR1Vk43TkRIZ014aUc4MzB4ZVlaekpPYXFWSU5aTUFzSXVUNDh4c1l3UHZwWjdpdzc0NjhaMUdZbW1iSzU4Vnp0SEVQZXZySWxMUHdpanpoRjZZ?oc=5</link>
-<guid isPermaLink="false">9f22392036cc0a5a5e17e1853ae1974bdd589d9a4a0405b409db5c3cc5eb2c1e</guid>
-<source>Google News Artificial Intelligence</source>
-<category>technology</category>
-<pubDate>Mon, 12 Oct 2026 11:53:29 +0000</pubDate>
-<description>Public health intelligence for a safer world: WHO Hub for Pandemic and Epidemic Intelligence strategy 2026–2030 ReliefWeb</description>
 </item>
 <item>
 <title>Joining an artificial intelligence trend that … - Yahoo Sports</title>
@@ -1742,15 +1804,6 @@
 <description>Voice AI often misses important points for its context layer, and causes the whole pipeline to break.</description>
 </item>
 <item>
-<title>Terence Tao: Math 2.0 [pdf]</title>
-<link>https://teorth.github.io/tao-web/slides/math-2-0-caltech-2026.pdf</link>
-<guid isPermaLink="false">ac38fe5de161cfa6a87b7df4338460b748ae11b9c054e0a2baca88d51bf8b3b2</guid>
-<source>Hacker News</source>
-<category>technology</category>
-<pubDate>Sun, 11 Oct 2026 13:16:45 +0000</pubDate>
-<description>Comments</description>
-</item>
-<item>
 <title>Physician and the Machine: An Analysis of the Ethical Educational Use of Artificial Intelligence by Medical Students - Cureus</title>
 <link>https://news.google.com/rss/articles/CBMi6gFBVV95cUxPVlVJZlRMNXdNU0RWZ0xZTzlIOGJtaFYta3hJVFRSQU8xa2lFZGIwcDFqYVQ2YWliaG8wMzVSaTBXNTB1S1BIby1HQnROb0xOcVNqQjdDSlZnU3hmN0J2RlZaOHZrRGp0Q1ZnNTBmcUZNSHkycHQ5WlZVLWw4R0ttX3pCZ2h2aEZyUkh6dlkyR3dyZnMwYWptUE5zaTJQU1lnbXhJN19aeW1BbUxrVVdpWlVSMVhWdHoycDl3TnI4ZlNoLTBNNHNRenVZOUZQVUp4d3JWNUJhV09Fb1N0bnFwdTVvcFQ2VTRoMnc?oc=5</link>
 <guid isPermaLink="false">a97b4904e5388f8412104244dbafbe11a514b8ebfdd614be6c2050a54f2003ac</guid>
@@ -1800,15 +1853,6 @@
 <description>From Red Pill coaches to “Dawah Bros,” influencers are dressing up hypermasculinity and misogyny in religious language—and finding audiences across social platforms.</description>
 <enclosure url="https://media.wired.com/clips/6abd68b0bf10c46895eb1621/master/pass/Manosphere_lead.mp4" type="image/jpeg"/>
 <media:content url="https://media.wired.com/clips/6abd68b0bf10c46895eb1621/master/pass/Manosphere_lead.mp4" medium="image"/>
-</item>
-<item>
-<title>Running the unmodified Linux amdgpu driver on an iPad</title>
-<link>https://github.com/Geramy/LemonSeed-Studio</link>
-<guid isPermaLink="false">d0626cc464472c98ea86868914765fee40c45cd870845290f5c3055129ea67bd</guid>
-<source>Hacker News</source>
-<category>technology</category>
-<pubDate>Sun, 11 Oct 2026 10:18:18 +0000</pubDate>
-<description>Comments</description>
 </item>
 <item>
 <title>Delay the deployment of Artificial Intelligence | Opinion letters - The News-Press</title>
@@ -1880,13 +1924,22 @@
 <description>Comments</description>
 </item>
 <item>
-<title>Calculus with Julia</title>
-<link>https://jverzani.github.io/CalculusWithJuliaNotes.jl</link>
-<guid isPermaLink="false">ab38b3a27798af8736dc64bef0db3bad772dbed91ee04f86b558ca92a65e4ae8</guid>
+<title>No portable way to detect string-to-float conversion errors in standard C</title>
+<link>https://sebsite.pw/w/20261009-strtod.html</link>
+<guid isPermaLink="false">cf84b61307ef85997720d53dfa4e42a04880c515de467e48ba08f05c8efaebc2</guid>
 <source>Hacker News</source>
 <category>technology</category>
-<pubDate>Sat, 10 Oct 2026 15:59:52 +0000</pubDate>
+<pubDate>Sat, 10 Oct 2026 15:39:30 +0000</pubDate>
 <description>Comments</description>
+</item>
+<item>
+<title>What’s Dragging Down A.I. Efficiency? The ‘Verification Tax.’ - The New York Times</title>
+<link>https://news.google.com/rss/articles/CBMijAFBVV95cUxPM2UzSkk1YUFJR0dkcktxMWlmdVh3LUhRV3htQlJUYUlWbmowV2NPZEp4SnBWQllPc09JSTRsSVlFRERXdXRaZ0VDSHJfVHk4SGZzTWhiT2ZrSk1uQVl0TGJBUGtTNnprZFJsdDM3ejNNaW9od1A2X2dLbDZQY05KYkhCT3c0cldYNndYMQ?oc=5</link>
+<guid isPermaLink="false">96c5889f1d8105b8f79ffbb8793a83c07e04f7c7288101ea9fe2c87565b8e52d</guid>
+<source>Google News Artificial Intelligence</source>
+<category>technology</category>
+<pubDate>Sat, 10 Oct 2026 12:00:03 +0000</pubDate>
+<description>What’s Dragging Down A.I. Efficiency? The ‘Verification Tax.’ The New York Times</description>
 </item>
 <item>
 <title>AI Is Getting Really Good at Messing With Cybercriminals</title>
@@ -1999,17 +2052,6 @@
 <media:content url="https://media.wired.com/photos/66ea076e56fd4954a7f91e0c/master/pass/WIRED-Coupons-17.jpg" medium="image"/>
 </item>
 <item>
-<title>eBay Coupons: 20% Off in October 2026</title>
-<link>https://www.wired.com/story/ebay-coupon-code</link>
-<guid isPermaLink="false">c6105ba8f6b8195afed164bff94ab8a590c290c90e6d6ba934659bbc868037a0</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Sat, 10 Oct 2026 05:00:00 +0000</pubDate>
-<description>Save up to 60% on a selection of items at eBay, including electronics, home products, card games, car parts and more.</description>
-<enclosure url="https://media.wired.com/photos/66ea03340e63ccab6b8add4b/master/pass/WIRED-Coupons-1.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/66ea03340e63ccab6b8add4b/master/pass/WIRED-Coupons-1.jpg" medium="image"/>
-</item>
-<item>
 <title>Altra Running Promo Codes: 10% Off October 2026</title>
 <link>https://www.wired.com/story/altra-promo-code</link>
 <guid isPermaLink="false">e58427ff7f7a9839b6609876554f9b7c5629a5222077f460d3ed364360796f6c</guid>
@@ -2019,6 +2061,17 @@
 <description>Score big savings on Altra Running shoes with up to 50% off sale styles, 20% off select models, 10% off your first order when you sign up, plus free standard delivery on every purchase.</description>
 <enclosure url="https://media.wired.com/photos/67b63b9a4816461befb48207/master/pass/WIRED-Coupons-R2_12.png" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/67b63b9a4816461befb48207/master/pass/WIRED-Coupons-R2_12.png" medium="image"/>
+</item>
+<item>
+<title>eBay Coupons: 20% Off in October 2026</title>
+<link>https://www.wired.com/story/ebay-coupon-code</link>
+<guid isPermaLink="false">c6105ba8f6b8195afed164bff94ab8a590c290c90e6d6ba934659bbc868037a0</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Sat, 10 Oct 2026 05:00:00 +0000</pubDate>
+<description>Save up to 60% on a selection of items at eBay, including electronics, home products, card games, car parts and more.</description>
+<enclosure url="https://media.wired.com/photos/66ea03340e63ccab6b8add4b/master/pass/WIRED-Coupons-1.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/66ea03340e63ccab6b8add4b/master/pass/WIRED-Coupons-1.jpg" medium="image"/>
 </item>
 <item>
 <title>Neanderthal wooden tools from Spain found preserved in stone</title>
@@ -2140,28 +2193,6 @@
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2298480400-1024x648.jpg" medium="image"/>
 </item>
 <item>
-<title>AI disqualification yields new Nikon Small World in Motion winner</title>
-<link>https://arstechnica.com/science/2026/10/winning-nikon-small-world-in-motion-video-disqualified-for-ai-use</link>
-<guid isPermaLink="false">fecc914eb4b6f8e85ccae79d3f81d6d4c5fcd995c2f07d919a987f10e331f03b</guid>
-<source>Ars Technica</source>
-<category>technology</category>
-<pubDate>Fri, 09 Oct 2026 18:44:06 +0000</pubDate>
-<description>New winner is Nguyen Nam Nhat of Vietnam for video of a roundworm and single-celled Dileptus.</description>
-<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/nikon1-1152x648.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/nikon1-1152x648.jpg" medium="image"/>
-</item>
-<item>
-<title>Your artwork could be featured in the next Debian release</title>
-<link>https://arstechnica.com/gadgets/2026/10/your-artwork-could-be-featured-in-the-next-debian-release</link>
-<guid isPermaLink="false">aa971c2899a75e4da0df49e0a547706bcef534c87fed55f6b1d78586b0cbff62</guid>
-<source>Ars Technica</source>
-<category>technology</category>
-<pubDate>Fri, 09 Oct 2026 18:33:26 +0000</pubDate>
-<description>Debian Linux has put a call out for artist submissions for its next release: Forky.</description>
-<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/ceratopsian_wallpaper-1152x648.png" type="image/jpeg"/>
-<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/ceratopsian_wallpaper-1152x648.png" medium="image"/>
-</item>
-<item>
 <title>NASA Just Made Nearly 1 TB of Artemis II Data Available to the Public</title>
 <link>https://www.wired.com/story/nasa-just-made-nearly-1-tb-of-artemis-ii-data-available-to-the-public</link>
 <guid isPermaLink="false">d42bfd3822b0b451c270ea61a0b7e885ed52dc8c9b7ed85f8419bbc87ed9b042</guid>
@@ -2171,17 +2202,6 @@
 <description>The data drop includes photographs, audio, video, and astronauts’ notes that will be used to study the moon and prepare for future human missions.</description>
 <enclosure url="https://media.wired.com/photos/6ac7fc75775a25ece8a94633/master/pass/art002e016252%20(1).jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/6ac7fc75775a25ece8a94633/master/pass/art002e016252%20(1).jpg" medium="image"/>
-</item>
-<item>
-<title>Starlink spectrum deal boosts Musk plan to beat AT&amp;T, T-Mobile, and Verizon</title>
-<link>https://arstechnica.com/tech-policy/2026/10/starlink-spectrum-deal-boosts-musk-plan-to-beat-att-t-mobile-and-verizon</link>
-<guid isPermaLink="false">71cef721060120e7059493a66a909567c5745363b90fe8d5b831b59ff65059eb</guid>
-<source>Ars Technica</source>
-<category>technology</category>
-<pubDate>Fri, 09 Oct 2026 18:24:39 +0000</pubDate>
-<description>Nationwide 800 MHz spectrum to help Starlink provide mobile coverage indoors.</description>
-<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2025/10/starlink-dominance-1152x648.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2025/10/starlink-dominance-1152x648.jpg" medium="image"/>
 </item>
 <item>
 <title>“Consensus Truth” in the Age of AI - City Journal</title>
@@ -2213,17 +2233,6 @@
 <description>Apple’s original music player got many things right. Chief among them: It didn’t connect to the internet.</description>
 <enclosure url="https://media.wired.com/photos/6abdb2233241c89b6aaeb7ab/master/pass/Backchannel-iPod-Anniversary-Business-678384.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/6abdb2233241c89b6aaeb7ab/master/pass/Backchannel-iPod-Anniversary-Business-678384.jpg" medium="image"/>
-</item>
-<item>
-<title>Microsoft barred from sponsoring foreign workers for US residency</title>
-<link>https://arstechnica.com/tech-policy/2026/10/trump-administration-targets-microsoft-in-new-immigration-crackdown</link>
-<guid isPermaLink="false">5d10ad79d0c9a6e8fef2837a0bcb070f2559a92467b126b159f2a51eb4a10499</guid>
-<source>Ars Technica</source>
-<category>technology</category>
-<pubDate>Fri, 09 Oct 2026 13:14:33 +0000</pubDate>
-<description>The US says Microsoft abused immigration rules; the company disputes the claim.</description>
-<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2019/04/microsoft-logo-lights-1152x648.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2019/04/microsoft-logo-lights-1152x648.jpg" medium="image"/>
 </item>
 <item>
 <title>Dunking on Dating App Profiles Is Content Gold. People Are Getting Sick of It</title>
@@ -2380,15 +2389,15 @@
 <media:content url="https://media.wired.com/photos/67b63b93a01a8e23b64ce24a/master/pass/WIRED-Coupons-R2_4.png" medium="image"/>
 </item>
 <item>
-<title>Herman Miller Promo Codes: 40% Off October 2026</title>
-<link>https://www.wired.com/story/herman-miller-promo-code</link>
-<guid isPermaLink="false">a3525460808c2e69ebf1e99a9f9ff3edf792bc5549f9ea569647f9578edb80ad</guid>
+<title>H&amp;R Block Coupon: 25% Off DIY + Tax Pro Assist</title>
+<link>https://www.wired.com/story/hr-block-coupon</link>
+<guid isPermaLink="false">8359e93564ce0a73f75df3f1ee91ba0600976e0903ce12941ecdbef8b4366033</guid>
 <source>Wired</source>
 <category>technology</category>
 <pubDate>Fri, 09 Oct 2026 05:00:00 +0000</pubDate>
-<description>Whether you’re looking for a Herman Miller promo code or discounts in their sale, here is how to save on the world's best ergonomic office furniture in October 2026.</description>
-<enclosure url="https://media.wired.com/photos/66ea03340e63ccab6b8add4b/master/pass/WIRED-Coupons-1.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/66ea03340e63ccab6b8add4b/master/pass/WIRED-Coupons-1.jpg" medium="image"/>
+<description>Save over 25% when you opt for H&amp;R Block’s free online offering, plus a tax pro review.</description>
+<enclosure url="https://media.wired.com/photos/66ea077015aa1d8092e99428/master/pass/WIRED-Coupons-6.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/66ea077015aa1d8092e99428/master/pass/WIRED-Coupons-6.jpg" medium="image"/>
 </item>
 <item>
 <title>Artificial Intelligence for Nuclear Deterrence Strategy 2023 - Department of Energy (.gov)</title>
