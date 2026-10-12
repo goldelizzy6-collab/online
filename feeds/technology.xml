@@ -4,6 +4,15 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>In Silicon Valley, AI founders cheer Trump's calls for the industry to police itself on safety - KSL News</title>
+<link>https://news.google.com/rss/articles/CBMiyAFBVV95cUxOdUJ3M3NzMUdmQnJlWHp2STZFWEotYkF0R3o3WlBzSXZUOVc1LU05bFBqVEZFWlhBTkNIU3NNcHFSSjBybVRuelIwa3ZRWmhqMTlIQ1gzSkRpcTlFYktEck1la1pOTWRjWlVCNzBoY09FU1oyZUtTWG5PaXB0Rm9pYzYyXzhiNVp4d2Nod0ZXTFM4QlRncFFJR2t1bWxWN2VMdmFZSVg2SXoxekktam5LVkxaWUFjWmx3Uk5aWjlnbDA5TzdwVnFBTQ?oc=5</link>
+<guid isPermaLink="false">b7c1c2d371917f9e0a0ee4313bbb06e1ed7823b5539013534b55e9f921eb0776</guid>
+<source>Google News Artificial Intelligence</source>
+<category>technology</category>
+<pubDate>Mon, 12 Oct 2026 02:48:45 +0000</pubDate>
+<description>In Silicon Valley, AI founders cheer Trump's calls for the industry to police itself on safety KSL News</description>
+</item>
+<item>
 <title>TSMC expected to report sixth straight quarter of record profit thanks to AI boom - Reuters</title>
 <link>https://news.google.com/rss/articles/CBMivAFBVV95cUxOLVdZdVEzd2xJRXc2ZDVpOTJESklKcDlSSERrelBfdXdxVmNaek9lLTV1RlZxVGpBa3RmakZ3N3V6al9BTlFtWGl1dEV6dVJ6X2J6MDlEZThzQlQydXZ3NTY3LTRSZzFfVUpGZk5uaGl4VllRdmgwSkUxeGxHOVA5VE5NY3BmeXlVaFlQRHJmelpMZDNZQ3NUUzRaem5UTlB6bXk2N3o4YjhtczVnWTBEaVN5MVJhY1A0ajhuRA?oc=5</link>
 <guid isPermaLink="false">618f72aa4b7e137d4f1cb8844df5a2f07f4758360faa973762d8984c18044211</guid>
@@ -40,6 +49,15 @@
 <description>Prominent Chinese mathematicians launched a coalition to incorporate artificial intelligence (AI) in.. 매일경제</description>
 </item>
 <item>
+<title>An open-source, clean-room reimplementation of Microsoft Word in pure Rust</title>
+<link>https://github.com/storytold/wordcraft</link>
+<guid isPermaLink="false">c85cea0bf043bcabc64a0c34e6ae412fa7f75f5dcada56e32271302144196017</guid>
+<source>Hacker News</source>
+<category>technology</category>
+<pubDate>Mon, 12 Oct 2026 01:57:39 +0000</pubDate>
+<description>Comments</description>
+</item>
+<item>
 <title>Amazon Weighs $7 Billion Purchase of AI Startup Decart - PYMNTS.com</title>
 <link>https://news.google.com/rss/articles/CBMisAFBVV95cUxNZ2dhVjM0UU1SaVBldkhNYzJ0Tl9NTVppd2RCcFB0V04yTlNEUEc3OGhBaTlnYUt6R0pDTTlmd1JDenNhTlhHbzd5bnBLZ3E5ME85S3hwaVBtTlhGYW5uYXBkUnhOMXFPeUlZOURCRWhKOXRZZTJ6dXI5dlIwSXNfU1RXMXM1czU1SXZWSURTRElkSnN6UlpUN1E2b2hiQkN4RldRa3p0NXRfRlVZQXYtWg?oc=5</link>
 <guid isPermaLink="false">fe9bd33889da17163f29d4b2393a95da3afb62fee39a11bcbe560a5f2cac0eb7</guid>
@@ -65,15 +83,6 @@
 <category>technology</category>
 <pubDate>Mon, 12 Oct 2026 00:51:43 +0000</pubDate>
 <description>White House Says All AI Companies Must Report Security Incidents PYMNTS.com</description>
-</item>
-<item>
-<title>Doory – Open-Source Canva</title>
-<link>https://github.com/shaongitbd/doory</link>
-<guid isPermaLink="false">87718895ca43a777aed8b20aec344853abcf54659b0b41e831d0452449316873</guid>
-<source>Hacker News</source>
-<category>technology</category>
-<pubDate>Mon, 12 Oct 2026 00:48:27 +0000</pubDate>
-<description>Comments</description>
 </item>
 <item>
 <title>Duke Law students heard the latest about AI and the law…and networked at the ABA conference! - Sites@Duke Express</title>
@@ -143,15 +152,6 @@
 <media:content url="https://www.engadget.com/img/gallery/openai-dot-vs-meta-muse-how-do-these-ai-agents-compare/l-intro-1791476289.jpg" medium="image"/>
 </item>
 <item>
-<title>Qt An E2EE post-quantum messenger core in Rust (10k connections on 124MB RAM</title>
-<link>https://github.com/moral666/QT</link>
-<guid isPermaLink="false">84e6b992c6fe7631571c6865a39f252da83da031773fab36c3b166fe3b3b3d22</guid>
-<source>Hacker News</source>
-<category>technology</category>
-<pubDate>Sun, 11 Oct 2026 23:52:23 +0000</pubDate>
-<description>Comments</description>
-</item>
-<item>
 <title>Whatever became of holography? (2011)</title>
 <link>https://www.americanscientist.org/article/whatever-became-of-holography</link>
 <guid isPermaLink="false">1b572d2e4d4dbebcbf0cf274ac09f3e8f8862826b157d69b373ecfeb4c8a9501</guid>
@@ -208,6 +208,15 @@
 <media:content url="https://www.engadget.com/img/gallery/mbps-vs-mbs-what-do-these-speeds-mean/l-intro-1791476599.jpg" medium="image"/>
 </item>
 <item>
+<title>Governments are mishandling the affordability crisis</title>
+<link>https://www.economist.com/finance-and-economics/2026/10/08/governments-are-mishandling-the-affordability-crisis</link>
+<guid isPermaLink="false">c572df358638151c13f74d53d361bbf82f5c354ddfdc8286cedb7256d4bdf712</guid>
+<source>Hacker News</source>
+<category>technology</category>
+<pubDate>Sun, 11 Oct 2026 23:40:06 +0000</pubDate>
+<description>Comments</description>
+</item>
+<item>
 <title>EXCLUSIVE: Moonshot execs in talks to settle dispute with shareholder ahead of planned IPO, people say - Reuters</title>
 <link>https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQ1hmZzQxZmpITVlBeVpjanJJRWhDN0JGWWtSb291VDJIaTR2ZXJuVDRtanlSUDdiQllFM1RqSjBHeXp6N2JaT1FnMXB5Yk45RWhOeFoxT3RGMEdJT3N1UG1SS0E3RWFvRG1Tci0waTNYWVBKeFcwOVJ6T1dVOV84cTZHY3B1ekdOR3ZqZ1NLWFZTN1Zoc3k2dWZLU0dOTnprX0ZBcnZLRmFsdUUxQkhNUkRpN1dpUE0wSTBHRVhIY2NrcEk?oc=5</link>
 <guid isPermaLink="false">77d310c84c603127202c6c5137ed4227fbf46f99e21233867046b2d6903d50c0</guid>
@@ -234,15 +243,6 @@
 <source>Hacker News</source>
 <category>technology</category>
 <pubDate>Sun, 11 Oct 2026 23:22:36 +0000</pubDate>
-<description>Comments</description>
-</item>
-<item>
-<title>Show HN: BraiNOTES, handwritten notes on your lecture PDFs in a browser tab</title>
-<link>https://github.com/swimmingbrain/brainotes</link>
-<guid isPermaLink="false">e248c1b0c86be473b73a12a21dcb218b2cfa492c2f258d8ca37069876c4827ce</guid>
-<source>Hacker News</source>
-<category>technology</category>
-<pubDate>Sun, 11 Oct 2026 23:22:29 +0000</pubDate>
 <description>Comments</description>
 </item>
 <item>
@@ -452,6 +452,15 @@
 <description>Comments</description>
 </item>
 <item>
+<title>AI Founders Cheer Trump’s Calls for the Industry to Police Itself on Safety - KQED</title>
+<link>https://news.google.com/rss/articles/CBMirgFBVV95cUxPSmdHcm5sUTBrZVFzb0ctV1JKb1diVGNxejBkOUVUNVpFNEFTdG9KQmFic2ZEVE1QNHdvTjd3ZzlGa29hYmdxODFCeWpGNmUtT0pqdjc5cjIwamFhOGtsU2RJMGQwQy1UWWRyUDhadU9keFZ2OGFtVnRvQ3F5emtWeURkdTE1bVlTUFF4WUVHdkhya2FYN0o5MmtSZU0wQWNwck0xX0k1TDRkZTdYSFE?oc=5</link>
+<guid isPermaLink="false">516a41d9530504f8dfe79234c828a420c7571fbe1b1b416e6223d5573b78f6dc</guid>
+<source>Google News Artificial Intelligence</source>
+<category>technology</category>
+<pubDate>Sun, 11 Oct 2026 21:00:00 +0000</pubDate>
+<description>AI Founders Cheer Trump’s Calls for the Industry to Police Itself on Safety KQED</description>
+</item>
+<item>
 <title>How California Democrats see AI - Punchbowl News</title>
 <link>https://news.google.com/rss/articles/CBMibEFVX3lxTE1YOVRUekpNSElSQnNBMGhvQWQzaTdObkJhejdaUHpqSEQ3UUZCMmtHTHFFNnNNcXN0X0QzRzlmRVlzVENid0JXUmNKc0JlanVWMnNBTEtGanlXWUpCcDE5dEluSFpTLUFVcEJZOQ?oc=5</link>
 <guid isPermaLink="false">7abaafb1ff41c86f8ae1c5c5f16d54da6d96f24a231d65ea12afb33777c454e1</guid>
@@ -477,6 +486,15 @@
 <category>technology</category>
 <pubDate>Sun, 11 Oct 2026 20:46:52 +0000</pubDate>
 <description>Amazon Is in Talks to Buy AI Startup Decart, WSJ Reports Bloomberg.com</description>
+</item>
+<item>
+<title>Microsoft Is Taking AI Beyond the Data Center, But Its Surface Business Is Just a Small Piece of the Pie - Yahoo Finance</title>
+<link>https://news.google.com/rss/articles/CBMimwFBVV95cUxPdEhkb3c4Yl9WM0VRVk9oZWtiM3FZRVpaSEllT0dlMWVRQ0h2M3RDUkFwa0RZejU2Wm5EanZlOE9fNnZEVFF1Wk1nMUJUZ19wUU5uRXBJYUxCMGFaNFlLeTB5cS1kQzBJYkNVNXpyWllhdFFFNjc1TENIRU54b0psM25XTWVDaFBueFBBWVJqTzZsS0lxY3VNdGFSYw?oc=5</link>
+<guid isPermaLink="false">4d35626473ae3205e02e98471e0cf524aeab5debcbf5bf78888365d096a38086</guid>
+<source>Google News Artificial Intelligence</source>
+<category>technology</category>
+<pubDate>Sun, 11 Oct 2026 20:30:02 +0000</pubDate>
+<description>Microsoft Is Taking AI Beyond the Data Center, But Its Surface Business Is Just a Small Piece of the Pie Yahoo Finance</description>
 </item>
 <item>
 <title>The gap in shared understanding of LLM capability is widening</title>
@@ -526,15 +544,6 @@
 <description>Comments</description>
 </item>
 <item>
-<title>'More Dangerous Than Drugs': Bill Gates Warns Of Risks Posed By Artificial Intelligence - AOL.com</title>
-<link>https://news.google.com/rss/articles/CBMigAFBVV95cUxOOEFSVndXd2FmZC1qWGZBTE1xU054clYwdHhkdUJMS0xzem1RNVVFaG1mSFpDY05oSUtLaWx0TG8xRDd5NGpuTnV0NWQ4WjdSV0w0bUlvVTRldjZva2dXZU03LWo3SzYzVndpVlEweGhmbkJxZXU3Q3V5Qk5YWXNydg?oc=5</link>
-<guid isPermaLink="false">104cfb5069090adf32432051ede6b7314ddfbce0c1e14587701a4d5375a9bd07</guid>
-<source>Google News Artificial Intelligence</source>
-<category>technology</category>
-<pubDate>Sun, 11 Oct 2026 19:46:18 +0000</pubDate>
-<description>'More Dangerous Than Drugs': Bill Gates Warns Of Risks Posed By Artificial Intelligence AOL.com</description>
-</item>
-<item>
 <title>So, You’d Like To Sell Your Print Issues Of The Onion?</title>
 <link>https://theonion.com/archivehunt</link>
 <guid isPermaLink="false">e692a943d8e308e7704e5b94ab25226029f7f7a463b2d4c7c7845c7426a3f6fc</guid>
@@ -571,15 +580,6 @@
 <description>The RG DDS's main display has a 5:3 aspect ratio while its bottom screen will be 4:3.</description>
 <enclosure url="https://www.engadget.com/img/gallery/anbernics-next-dual-screen-handheld-has-the-perfect-aspect-ratio-for-3ds-games/l-intro-1791743775.jpg" type="image/jpeg"/>
 <media:content url="https://www.engadget.com/img/gallery/anbernics-next-dual-screen-handheld-has-the-perfect-aspect-ratio-for-3ds-games/l-intro-1791743775.jpg" medium="image"/>
-</item>
-<item>
-<title>Anthropic just took steps to protect Claude's feelings. Here's what that means. - Mashable</title>
-<link>https://news.google.com/rss/articles/CBMijAFBVV95cUxQRlVwVUoxaEpsS3JtdXJYM2ZIaUo4ZW9qRVhlWmhRQVFWNzc0UlhIMXNlQ3J1RXMwZ0tMRVQ4blQyR2h6bUhHSzBlYXRfZTNYR2NNQlo0ckFLcEtXbzE4d2dJRUs0eUVnaUFqWk9sR095UHlYYXFKUjNwM0k4ZzZabHBpN0xjNVg1bUZmUQ?oc=5</link>
-<guid isPermaLink="false">31b365598e2037b966d05d7e2a9c273ebdb324dba6104afe0b52eef8f407fa24</guid>
-<source>Google News Artificial Intelligence</source>
-<category>technology</category>
-<pubDate>Sun, 11 Oct 2026 18:46:06 +0000</pubDate>
-<description>Anthropic just took steps to protect Claude's feelings. Here's what that means. Mashable</description>
 </item>
 <item>
 <title>The iPhone clock app has an oddity not many people know about</title>
@@ -989,6 +989,15 @@
 <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/appleevent.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
+<title>SpaceX vs. Micron: Which Is the Better Artificial Intelligence (AI) Stock to Own for the Next 5 Years? - The Motley Fool</title>
+<link>https://news.google.com/rss/articles/CBMimAFBVV95cUxOLVVTa2oxS1lGWU9lRnlTX3U2c09rS3BIVVNORzlQaVdNTWpKbmp0M2ZzdlN1TDJRbmo0aU1ES0RsWUZ0NzlyaWJDQTdGQm1BcXFyS3NDZlZNQnBTdjlrS002RDhnTHZsWEZHSnkzc3ZrQkQ5YkVTbWJSYnpUc1ZuczRucGJqNnJILTYzR1NPQlhnYVcyMDlGdw?oc=5</link>
+<guid isPermaLink="false">933a439f4cfcf4fc5cb28329233e807d208169367e8c80080bb8a5ebf5cd38bb</guid>
+<source>Google News Artificial Intelligence</source>
+<category>technology</category>
+<pubDate>Sun, 11 Oct 2026 12:45:00 +0000</pubDate>
+<description>SpaceX vs. Micron: Which Is the Better Artificial Intelligence (AI) Stock to Own for the Next 5 Years? The Motley Fool</description>
+</item>
+<item>
 <title>Physician and the Machine: An Analysis of the Ethical Educational Use of Artificial Intelligence by Medical Students - Cureus</title>
 <link>https://news.google.com/rss/articles/CBMi6gFBVV95cUxPVlVJZlRMNXdNU0RWZ0xZTzlIOGJtaFYta3hJVFRSQU8xa2lFZGIwcDFqYVQ2YWliaG8wMzVSaTBXNTB1S1BIby1HQnROb0xOcVNqQjdDSlZnU3hmN0J2RlZaOHZrRGp0Q1ZnNTBmcUZNSHkycHQ5WlZVLWw4R0ttX3pCZ2h2aEZyUkh6dlkyR3dyZnMwYWptUE5zaTJQU1lnbXhJN19aeW1BbUxrVVdpWlVSMVhWdHoycDl3TnI4ZlNoLTBNNHNRenVZOUZQVUp4d3JWNUJhV09Fb1N0bnFwdTVvcFQ2VTRoMnc?oc=5</link>
 <guid isPermaLink="false">a97b4904e5388f8412104244dbafbe11a514b8ebfdd614be6c2050a54f2003ac</guid>
@@ -1149,15 +1158,6 @@
 <media:content url="https://media.wired.com/photos/6ac8231cca19e55033ce8ba8/master/pass/cambio%20clim%C3%A1tico%20El%20Ni%C3%B1o%202298072299.jpg" medium="image"/>
 </item>
 <item>
-<title>Korea’s SK Square backs Japanese physical AI startup Mujin to expand into robotics - KED Global</title>
-<link>https://news.google.com/rss/articles/CBMif0FVX3lxTE11MmVCemRFM1JRQ2FCc0xZRlBjZHVJNW82MHFhMGJYZUlZblZYdXVxOW9taFpXd2pyVUFJa2REbUpyaHJiVWtDOF9zYnlTZ3N2Qk13UlRSMFVENWlibzZHNmU2TWo5bkNWcG9RSnB3QjVuZkdsazRjSWFRWHpEWlk?oc=5</link>
-<guid isPermaLink="false">46ef2ae31166e2cb444f5bc4f758e67e1dd4d90efb1c9e3aa861ba0c15718fd1</guid>
-<source>Google News Artificial Intelligence</source>
-<category>technology</category>
-<pubDate>Sun, 11 Oct 2026 09:22:00 +0000</pubDate>
-<description>Korea’s SK Square backs Japanese physical AI startup Mujin to expand into robotics KED Global</description>
-</item>
-<item>
 <title>Programmable pigments: Photochromic nanoparticle inks for rewritable tattoos</title>
 <link>https://www.cell.com/matter-light/fulltext/S3117-5848(26)00119-5</link>
 <guid isPermaLink="false">adb9dfc86485b341696ab0827ad1f140c29867918e2a7be11f78a198a390a189</guid>
@@ -1268,13 +1268,13 @@
 <description>Leading AI companies are preparing for the possibility of artificial intelligence getting out of control — media Українські Національні Новини (УНН)</description>
 </item>
 <item>
-<title>The Hugging Face Incident: When Artificial Intelligence Escaped Its Masters - www.lvivherald.com</title>
-<link>https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVUN5b1FqS3NWdDBnZVJiTTJiNVdkaG1xbzN5UGRWYm03Z0s2MjlDZ1daX0VMSlhCSjNneTlXTFp1eVFCaWYwdkkxNUYxbTQzRzlhaFV1M0xsSWw3dzRwNmJkNWxiM2t5elFtYXNMbURDaWNZcnVHckp3VVRTWHlBRGNUNUJrNTVKeXF0eG1jdjN4SmtoVVphRDRYVE0yTUd2eVhjNXB4cjR6UQ?oc=5</link>
-<guid isPermaLink="false">8664e548ec9fdaba2844bae4589a3c3808d58e2c667f555b559e83901a345aa8</guid>
-<source>Google News Artificial Intelligence</source>
+<title>Calculus with Julia</title>
+<link>https://jverzani.github.io/CalculusWithJuliaNotes.jl</link>
+<guid isPermaLink="false">ab38b3a27798af8736dc64bef0db3bad772dbed91ee04f86b558ca92a65e4ae8</guid>
+<source>Hacker News</source>
 <category>technology</category>
-<pubDate>Sat, 10 Oct 2026 15:59:51 +0000</pubDate>
-<description>The Hugging Face Incident: When Artificial Intelligence Escaped Its Masters www.lvivherald.com</description>
+<pubDate>Sat, 10 Oct 2026 15:59:52 +0000</pubDate>
+<description>Comments</description>
 </item>
 <item>
 <title>Senator Mark R. Warner introduces S. 5576: Artificial Intelligence Risk Management and Security Act of 2026 - Quiver Quantitative</title>
@@ -1406,17 +1406,6 @@
 <media:content url="https://media.wired.com/photos/6ac8bde343102e19d08d1480/master/pass/Pikio%20Helmut.jpg" medium="image"/>
 </item>
 <item>
-<title>Disney Plus Discount Codes: 52% Off October 2026</title>
-<link>https://www.wired.com/story/disney-plus-discounts</link>
-<guid isPermaLink="false">67fb0b1c6bb330f792063948f727d159439722426ed98d8513dbdb11e57b97c4</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Sat, 10 Oct 2026 05:00:00 +0000</pubDate>
-<description>Cut your subscription costs with the latest active Disney+ bundle deals, verified student offers, and partner promotions.</description>
-<enclosure url="https://media.wired.com/photos/66ea076e56fd4954a7f91e0c/master/pass/WIRED-Coupons-17.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/66ea076e56fd4954a7f91e0c/master/pass/WIRED-Coupons-17.jpg" medium="image"/>
-</item>
-<item>
 <title>LG Promo Codes and Coupons for October 2026</title>
 <link>https://www.wired.com/story/lg-promo-code</link>
 <guid isPermaLink="false">c979b8c67b1b0e03b4d9de2f273d51087a61a12ebcae1dcff25c47b48def773e</guid>
@@ -1437,6 +1426,17 @@
 <description>Save an extra 10% or 30% with Canon coupon codes, plus up to $1,600 on cameras, printers, and more this October 2026.</description>
 <enclosure url="https://media.wired.com/photos/66ea077251891e6d3cb5d5cf/master/pass/WIRED-Coupons-3.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/66ea077251891e6d3cb5d5cf/master/pass/WIRED-Coupons-3.jpg" medium="image"/>
+</item>
+<item>
+<title>Disney Plus Discount Codes: 52% Off October 2026</title>
+<link>https://www.wired.com/story/disney-plus-discounts</link>
+<guid isPermaLink="false">67fb0b1c6bb330f792063948f727d159439722426ed98d8513dbdb11e57b97c4</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Sat, 10 Oct 2026 05:00:00 +0000</pubDate>
+<description>Cut your subscription costs with the latest active Disney+ bundle deals, verified student offers, and partner promotions.</description>
+<enclosure url="https://media.wired.com/photos/66ea076e56fd4954a7f91e0c/master/pass/WIRED-Coupons-17.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/66ea076e56fd4954a7f91e0c/master/pass/WIRED-Coupons-17.jpg" medium="image"/>
 </item>
 <item>
 <title>Home Depot Promo Codes: 30% Off in October 2026</title>
@@ -2026,26 +2026,6 @@
 <media:content url="https://media.wired.com/photos/6ac761317178fc1562f277f4/master/pass/2026_Toyota-RAV4-HEV-Limited_0001H.jpg" medium="image"/>
 </item>
 <item>
-<title>Trump Warns: Call AI "Super Intelligence" Or Face "Enemy" Status - NDTV</title>
-<link>https://news.google.com/rss/articles/CBMiswFBVV95cUxNeVJfUHlUeVdNMURlZFl1eDdvVlZiWjFxaDdscTFpaWF1Z0ptWHZzTXNFdFJibjBPdktMQVFKb21SNmdna0Fxb3EwZjNySWlWUWducHQwVnhjWWU1bEdqQVdieC13UUYzVG1MWklUaW85eF9oZS02T3hfWXNoS0JMZVRnaWpBdDB2VktWSXp3T3YxRUlWckRrSi1fV25rTTRseElSTGpmc3hEQ2QxWm9jelJ0Y9IBuwFBVV95cUxPY21Dd0ZKQnJfeW90WkhMeWdac3I2YzEzcEs5UXg4bzRYdWRRM1R5dnNHc0pUREcyMF91bUFBeDh2cmpjUGdqZVAtbkxmTmZfMkN3TTh2Q2pSdnU3eTRpQWVRUTJETWYyWUhlTlNHdW9CazJCSTdaajNaQ2t5aVJxelMySXpfSjY1WWlXRmlpb0ljdHlWRVBJRFZKZC1RaG02dWxwWDdSWjRiY0hlVDFNWG1tZ19MUkw3Q2Vv?oc=5</link>
-<guid isPermaLink="false">ab96c6166a6bfd315f8da06642bfe64e9ae930c4bd98456bc3cdcce2aba651d5</guid>
-<source>Google News Artificial Intelligence</source>
-<category>technology</category>
-<pubDate>Fri, 09 Oct 2026 06:33:56 +0000</pubDate>
-<description>Trump Warns: Call AI "Super Intelligence" Or Face "Enemy" Status NDTV</description>
-</item>
-<item>
-<title>Ulta Promo Codes: Up to 20% Off in October 2026</title>
-<link>https://www.wired.com/story/ulta-coupon</link>
-<guid isPermaLink="false">3499b2393ffc6e8e65cd2e4147262fc16aea01fccc2c84cb66f0c59c3e282ead</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Fri, 09 Oct 2026 05:00:00 +0000</pubDate>
-<description>Shop the latest beauty trends and save big using an Ulta promo code for beauty tech, makeup, and more.</description>
-<enclosure url="https://media.wired.com/photos/67b63b9283a9f95e0ab9b215/master/pass/WIRED-Coupons-R2_3.png" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/67b63b9283a9f95e0ab9b215/master/pass/WIRED-Coupons-R2_3.png" medium="image"/>
-</item>
-<item>
 <title>Lowe’s Promo Codes and Deals: Up to $300 Off Appliances</title>
 <link>https://www.wired.com/story/lowes-promo-code</link>
 <guid isPermaLink="false">66fa3a2cfcd9c0438d7d6de09ed95699048510f09df4cd1f0bdd1ad9fc911518</guid>
@@ -2079,17 +2059,6 @@
 <media:content url="https://media.wired.com/photos/67b63b919468ebbf8f0cbc7b/master/pass/WIRED-Coupons-R2_6.png" medium="image"/>
 </item>
 <item>
-<title>Chewy Promo Codes: $20 Off October 2026</title>
-<link>https://www.wired.com/story/chewy-promo-code</link>
-<guid isPermaLink="false">7c9beed90ca48cf3121b4bd4c7158407bb09569c2b268e0e1df9368a2db561b0</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Fri, 09 Oct 2026 05:00:00 +0000</pubDate>
-<description>Explore Chewy coupon codes for $30 off, $20 off your first order of $49, 50% off pet food, and more October 2026 discounts.</description>
-<enclosure url="https://media.wired.com/photos/66ea077015aa1d8092e99428/master/pass/WIRED-Coupons-6.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/66ea077015aa1d8092e99428/master/pass/WIRED-Coupons-6.jpg" medium="image"/>
-</item>
-<item>
 <title>We-Vibe Discount Codes and Deals: Up to 60% Off</title>
 <link>https://www.wired.com/story/we-vibe-discount-code</link>
 <guid isPermaLink="false">3dab361944e156446c0fd87e93e24854299b25f053992eecd4bb6cd671a46251</guid>
@@ -2099,6 +2068,17 @@
 <description>Save on We-Vibe, including app-controlled bestsellers and popular gift sets designed for couples, connection, and shared pleasure.</description>
 <enclosure url="https://media.wired.com/photos/67b63b98fb14553f0ebd9ffd/master/pass/WIRED-Coupons-R2_15.png" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/67b63b98fb14553f0ebd9ffd/master/pass/WIRED-Coupons-R2_15.png" medium="image"/>
+</item>
+<item>
+<title>TurboTax Full Service Coupons This October 2026</title>
+<link>https://www.wired.com/story/turbotax-coupon</link>
+<guid isPermaLink="false">80d04aa731f128bbf642a31f154ec69591d7abc25cd478a59b0982e21d21eb43</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Fri, 09 Oct 2026 05:00:00 +0000</pubDate>
+<description>Tax season doesn’t have to be stressful. Score 10% off full service expert on federal tax filings and more exclusive TurboTax discount codes on WIRED.</description>
+<enclosure url="https://media.wired.com/photos/66ea076fca863bb4c1028b64/master/pass/WIRED-Coupons-11.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/66ea076fca863bb4c1028b64/master/pass/WIRED-Coupons-11.jpg" medium="image"/>
 </item>
 <item>
 <title>Instacart Promo Code: $15 Off | October 2026</title>
@@ -2112,15 +2092,26 @@
 <media:content url="https://media.wired.com/photos/67b63b9079f27a355461c964/master/pass/WIRED-Coupons-R2_2.png" medium="image"/>
 </item>
 <item>
-<title>TurboTax Full Service Coupons This October 2026</title>
-<link>https://www.wired.com/story/turbotax-coupon</link>
-<guid isPermaLink="false">80d04aa731f128bbf642a31f154ec69591d7abc25cd478a59b0982e21d21eb43</guid>
+<title>Ulta Promo Codes: Up to 20% Off in October 2026</title>
+<link>https://www.wired.com/story/ulta-coupon</link>
+<guid isPermaLink="false">3499b2393ffc6e8e65cd2e4147262fc16aea01fccc2c84cb66f0c59c3e282ead</guid>
 <source>Wired</source>
 <category>technology</category>
 <pubDate>Fri, 09 Oct 2026 05:00:00 +0000</pubDate>
-<description>Tax season doesn’t have to be stressful. Score 10% off full service expert on federal tax filings and more exclusive TurboTax discount codes on WIRED.</description>
-<enclosure url="https://media.wired.com/photos/66ea076fca863bb4c1028b64/master/pass/WIRED-Coupons-11.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/66ea076fca863bb4c1028b64/master/pass/WIRED-Coupons-11.jpg" medium="image"/>
+<description>Shop the latest beauty trends and save big using an Ulta promo code for beauty tech, makeup, and more.</description>
+<enclosure url="https://media.wired.com/photos/67b63b9283a9f95e0ab9b215/master/pass/WIRED-Coupons-R2_3.png" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/67b63b9283a9f95e0ab9b215/master/pass/WIRED-Coupons-R2_3.png" medium="image"/>
+</item>
+<item>
+<title>Chewy Promo Codes: $20 Off October 2026</title>
+<link>https://www.wired.com/story/chewy-promo-code</link>
+<guid isPermaLink="false">7c9beed90ca48cf3121b4bd4c7158407bb09569c2b268e0e1df9368a2db561b0</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Fri, 09 Oct 2026 05:00:00 +0000</pubDate>
+<description>Explore Chewy coupon codes for $30 off, $20 off your first order of $49, 50% off pet food, and more October 2026 discounts.</description>
+<enclosure url="https://media.wired.com/photos/66ea077015aa1d8092e99428/master/pass/WIRED-Coupons-6.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/66ea077015aa1d8092e99428/master/pass/WIRED-Coupons-6.jpg" medium="image"/>
 </item>
 <item>
 <title>H&amp;R Block Coupon: 25% Off DIY + Tax Pro Assist</title>
@@ -2176,6 +2167,15 @@
 <description>Missed our latest WIRED@Night event? Enjoy an evening of podcasting in San Francisco right here.</description>
 <enclosure url="https://media.wired.com/photos/6aa848acc21d50d5e8a9dba9/master/pass/2x1-1.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/6aa848acc21d50d5e8a9dba9/master/pass/2x1-1.jpg" medium="image"/>
+</item>
+<item>
+<title>Connecticut educators to discuss the risks, ethics and opportunities of artificial intelligence - fox61.com</title>
+<link>https://news.google.com/rss/articles/CBMihwJBVV95cUxOTXFDUkJQRkl6Uk1KaC10SmRNSFNmUmlENjdxWk9MdWJTSlFiMmFNNnkzM1ZFVkx5YzRYS0tFZFc1VjI5Z2RTUmdJT2hRS0NWM2IySzBaV2tPdU52SFZ6ZG9UWGlDcWFWdWFPQS05SzRSOS1TQjdfZUtta0JzTWRkeE5UTlR2XzBFN2VVR0hHVHl2aDZWZGZhMWJ3dnhDRU05dFhReGxqWjQ1STFyeEhBckQ3Ym5EbVRYOExtSDRfTWZGY3BnMUd0TFdKTTB1RDc2QTk3OTNKOHBBdTE1SkF2SzhNODVMblV5QWRmY3BUaGpWcmo5dmNoTUFqdERxd0tpQTAxR3dvdw?oc=5</link>
+<guid isPermaLink="false">2297308ade0d48705bb3531719ac9eb8da16cb74374b3b795685f391cfce6a80</guid>
+<source>Google News Artificial Intelligence</source>
+<category>technology</category>
+<pubDate>Fri, 09 Oct 2026 02:51:00 +0000</pubDate>
+<description>Connecticut educators to discuss the risks, ethics and opportunities of artificial intelligence fox61.com</description>
 </item>
 <item>
 <title>ICE Emails Discuss Using Palantir-Supported Tool to Investigate Voter Fraud</title>
