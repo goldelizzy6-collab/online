@@ -4,6 +4,44 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Intero Biosystems wants drugmakers to test on mini human intestines, not animals</title>
+<link>https://techcrunch.com/2026/10/14/intero-biosystems-wants-drugmakers-to-test-on-mini-human-intestines-not-animals</link>
+<guid isPermaLink="false">7c34c80e0e28e54d6d932e3bddf190dbd7383c01718672bd5b1c46fe39bd8610</guid>
+<source>TechCrunch</source>
+<category>technology</category>
+<pubDate>Wed, 14 Oct 2026 23:00:00 +0000</pubDate>
+<description>Intero Biosystems is selling lab-grown human intestines to drugmakers as regulators push for alternatives to animal testing, while the startup looks to scale production and expand its organoid technology.</description>
+</item>
+<item>
+<title>UC San Diego Awarded $2.35 Million from Google to Advance AI-Driven Climate Modeling - UC San Diego Today</title>
+<link>https://news.google.com/rss/articles/CBMisgFBVV95cUxNYTVRQTJSbm1ORzJRY1NaNTMwV1hIbFNtLUNsT2NjOE5TMlVsRVNFVXlFdS1lQ0hTSmI5aThEMExFWTc2cmpCZXlJNGUwR1ZSejNnY0pvUEgyZVBvN0xubjcya1NCR3JvWjZkOVhIRDFSeXhuME8zYlR0QlFhMGQtX3JiQ3JDUXA2TFBlOVNOYXFHY3YxU21IWlNhbVBRWDlRVlVlczdPUG1EeW5ZWTlwOGh3?oc=5</link>
+<guid isPermaLink="false">0db927c5e8fe783715109c92f299666776237dd9322b5c05de350fc618cc4845</guid>
+<source>Google News Artificial Intelligence</source>
+<category>technology</category>
+<pubDate>Wed, 14 Oct 2026 22:57:30 +0000</pubDate>
+<description>UC San Diego Awarded $2.35 Million from Google to Advance AI-Driven Climate Modeling UC San Diego Today</description>
+</item>
+<item>
+<title>McKinsey is making job applicants spar with a fake AI client</title>
+<link>https://www.theverge.com/news/1011654/mckinsey-ai-client-interview</link>
+<guid isPermaLink="false">e10522981d38e793152787797cd4fb6749a807f08d0b72e0c28761faa63e8ecb</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Wed, 14 Oct 2026 22:53:31 +0000</pubDate>
+<description>Consulting firm McKinsey &amp; Company is going to ask some entry-level candidates to have a 10-minute conversation with an AI simulation of a client as part of the interview process, according to The Wall Street Journal. The AI simulation "aims to reflect 80% of the scenarios McKinsey consultants might encounter in their day-to-day work," the […]</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STK414_AI_CVIRGINIA_2_C-2.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STK414_AI_CVIRGINIA_2_C-2.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Problems with the Rust Language</title>
+<link>https://oxetene.net/problems-with-the-rust-language</link>
+<guid isPermaLink="false">8b92ef15f68ea7490c34509654aeb5254fa5a33b3a55f136bea7664b489c78ac</guid>
+<source>Hacker News</source>
+<category>technology</category>
+<pubDate>Wed, 14 Oct 2026 22:37:54 +0000</pubDate>
+<description>Comments</description>
+</item>
+<item>
 <title>Tiny Little Office</title>
 <link>https://tinylittleoffice.com</link>
 <guid isPermaLink="false">01a6a4425b65f1aa07ea58ef1a9b9e2782b7f498e35511a85dbc036eec65a612</guid>
@@ -60,15 +98,6 @@
 <description>Cuyahoga County teen’s AI translation tool wins over physicians in hospital study Cleveland 19 News</description>
 </item>
 <item>
-<title>AI-powered law firms draw lawyers from big firms - Reuters</title>
-<link>https://news.google.com/rss/articles/CBMioAFBVV95cUxNMXRSZjIwMHhfT29JbER6S2JUaWhJRV9IVkJPVmxoQ2wzSW9zSkotT2cteTBZS3NkUDJRRFFUandGWE53RVdhQmRnVGZ5NEhJVkZtb21JRkNJclNXWkg1TWliSHZoaHVybmV6RUZVbTI5b29CcDdCcWpvV1R0VG9rbm1DcTZSZHI1WWZUcnJmZjNIN29rVTZSR0ZHUTNZb1Fs?oc=5</link>
-<guid isPermaLink="false">ac9e14427a677d6c8d3976d3b192e6e4cd52a200e51c70647aa50e4053d14898</guid>
-<source>Google News Artificial Intelligence</source>
-<category>technology</category>
-<pubDate>Wed, 14 Oct 2026 21:55:43 +0000</pubDate>
-<description>AI-powered law firms draw lawyers from big firms Reuters</description>
-</item>
-<item>
 <title>Coalition of states sue OpenAI, alleging it misled users on safety - The Hill</title>
 <link>https://news.google.com/rss/articles/CBMie0FVX3lxTE9yMmhES2RKRG0taThNMzNuZENSN0VqWnhHaWpBNzZSN1JXcHZrS04taF9acHdpaFBubHlXQ1N4Yi16UmswYnFtZUdYOFVJY2VlRFZwWjFpd2o3SFdqVUpOUW1rajE1bWlwaEtGbExtU3ppN1RjNFExSnZpQdIBgAFBVV95cUxNUHV2MUZQVHN1OFBzVllVeHFPS3hJRWc0a0FLeFkxaDFOemRLMkNBT0dYOEVYVEVkMHZsWjViWmQ0c3RGaDBsNDVKVmk5U1N3cU9GMjZuLUJnalpsdnc2THZWUy15Z2lLRFYtcWpCMkRRbk5DbjJUTEYtNzloN0Zlag?oc=5</link>
 <guid isPermaLink="false">dd659c8d2317408833680327e61433598116f2fa7696d0767941df4817fed4f3</guid>
@@ -103,6 +132,15 @@
 <category>technology</category>
 <pubDate>Wed, 14 Oct 2026 21:47:44 +0000</pubDate>
 <description>How will AI be used in Idaho courts? KBOI</description>
+</item>
+<item>
+<title>Artificial intelligence-enabled clinical phenotyping of human brown fat - Nature</title>
+<link>https://news.google.com/rss/articles/CBMiX0FVX3lxTE9GZTlIVXVnazYxNTFrWEppcUVrV3ZIVUVNY2RQQURkSGtDR29wcnJ1SUxqSnNlc0ZTVFpnN0RORDBqNFRHWFZBTXZiMWp0TnBPMC1uZnZIWkJwTHI2UGJn?oc=5</link>
+<guid isPermaLink="false">7ac2d608ec7cddcf090a75627fe97347c0526b8ac95f1fd9df014f954ef96e0e</guid>
+<source>Google News Artificial Intelligence</source>
+<category>technology</category>
+<pubDate>Wed, 14 Oct 2026 21:45:00 +0000</pubDate>
+<description>Artificial intelligence-enabled clinical phenotyping of human brown fat Nature</description>
 </item>
 <item>
 <title>NEWSLETTER: The rise and fall of an AI chatbot darling - Reuters</title>
@@ -571,6 +609,15 @@
 <description>Former Apple engineers figured out how to get a biometric sensor to attach to your watch without any magnets or adhesives.</description>
 </item>
 <item>
+<title>Other AI Companies Should Be Very Afraid of What Just Happened to Character.AI, According to Its Own Bankruptcy Documents - Futurism</title>
+<link>https://news.google.com/rss/articles/CBMijwFBVV95cUxQVG1QWVdNZTFpYTU1TXIzQzJDS21TdEYwd096RUptTWUzaW9abEltV1hkR2JWbmdJemxsSEUtSm94M2wxUWZkWHFudklwRjk2X3VuOHJVVEdRdTBxQUhnbjlJUFlxVVRBb0E1NnpJMFZ4ODVmaUE1aTRoV1lYclhYSVlWLV84T2tfcGFqTGJtWQ?oc=5</link>
+<guid isPermaLink="false">c7344623609c2bd7f0aa4454151197d8d76533347ca4d6bb476e9c28f7b424aa</guid>
+<source>Google News Artificial Intelligence</source>
+<category>technology</category>
+<pubDate>Wed, 14 Oct 2026 18:52:01 +0000</pubDate>
+<description>Other AI Companies Should Be Very Afraid of What Just Happened to Character.AI, According to Its Own Bankruptcy Documents Futurism</description>
+</item>
+<item>
 <title>Now that Character.AI is going bankrupt, what happens to all of its users&amp;#8217; data?</title>
 <link>https://www.theverge.com/policy/1011417/new-york-ag-characterai-bankruptcy</link>
 <guid isPermaLink="false">45dfe01c4dcdbd6bc5e9b39f7ec41e59bd01351d28b1fc81533cb28d66c9e9f8</guid>
@@ -638,15 +685,6 @@
 <category>technology</category>
 <pubDate>Wed, 14 Oct 2026 18:32:52 +0000</pubDate>
 <description>Comments</description>
-</item>
-<item>
-<title>AI’s water strain includes surging demand from electricity use - Los Angeles Times</title>
-<link>https://news.google.com/rss/articles/CBMitAFBVV95cUxPY25wejNwcURZNWQtVzZhQ0V4eDNmS2hKR3k3TnhJZXRyNGZ2c2NOT0gtaFI1elUzNjVnckxOY21Wc0t5bFltT2owMDF5OHJvR01fWWU3LWRkMk9WYlZqYWFfVjJnZmpRVFI2Qy1BT1BpNzVETmxsRFpYN2dZSTNoV2VsU1lzUVB2ZGpLY0lISk9BWEVabU1oMFlQZUV5QTBfa3UzVU9rQVJ6NVQ1UngyVV9xSG0?oc=5</link>
-<guid isPermaLink="false">7fcdec8ac8e281faaf51573ab48dd9000959297fdcb0d08c1f31afbd65bceab4</guid>
-<source>Google News Artificial Intelligence</source>
-<category>technology</category>
-<pubDate>Wed, 14 Oct 2026 18:32:43 +0000</pubDate>
-<description>AI’s water strain includes surging demand from electricity use Los Angeles Times</description>
 </item>
 <item>
 <title>Join Discerning AI: Exploring artificial intelligence through Marquette’s mission - Marquette Today</title>
@@ -781,15 +819,6 @@
 <description>Most companies use AI agents to ship products faster or speed up workflows. Apate.ai sends them undercover to get scammed.</description>
 </item>
 <item>
-<title>Artificial intelligence-enabled clinical phenotyping of human brown fat - Nature</title>
-<link>https://news.google.com/rss/articles/CBMiX0FVX3lxTE9GZTlIVXVnazYxNTFrWEppcUVrV3ZIVUVNY2RQQURkSGtDR29wcnJ1SUxqSnNlc0ZTVFpnN0RORDBqNFRHWFZBTXZiMWp0TnBPMC1uZnZIWkJwTHI2UGJn?oc=5</link>
-<guid isPermaLink="false">7ac2d608ec7cddcf090a75627fe97347c0526b8ac95f1fd9df014f954ef96e0e</guid>
-<source>Google News Artificial Intelligence</source>
-<category>technology</category>
-<pubDate>Wed, 14 Oct 2026 17:59:24 +0000</pubDate>
-<description>Artificial intelligence-enabled clinical phenotyping of human brown fat Nature</description>
-</item>
-<item>
 <title>Kyndryl will run AI agents inside Toyota Finance’s live IT operations - The Next Web</title>
 <link>https://news.google.com/rss/articles/CBMibkFVX3lxTFA5Tl93SnhwVG9LY1lDQkJoeXlsUFNYYnBvLTBKdk5sLTlmcDBqLXZOX3owWlBUZ0preW5QbnBrNkZGbkd5NGw4MWtFYnh5cE5ZSkZaWUt3TVNacUoxdEJzM1ppY0ItNmprR1BFVTR3?oc=5</link>
 <guid isPermaLink="false">4c80e472336bfbc3cbba617a131446e8347ea13485557977181fd33aedd2adaa</guid>
@@ -846,17 +875,6 @@
 <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Apple-HomeView-welcome-home-roundup.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
-<title>Sprout Pi adds Bluetooth, streaming, and USB-C to your aging iPod</title>
-<link>https://www.theverge.com/gadgets/1011266/sprout-pi-adds-bluetooth-streaming-and-usb-c-to-your-aging-ipod</link>
-<guid isPermaLink="false">d5ad1f3536af54db3532deea5e44826eed7f708917a65f4c6ae1213dc8f4a317</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Wed, 14 Oct 2026 17:19:11 +0000</pubDate>
-<description>There's an entire cottage industry of iPod mods out there, but Sprout Pi and Sprout Pico are two of the few full motherboard replacements that combine many of the most popular mods into a single upgrade. Both versions add Bluetooth, Wi-Fi, USB-C, a microSD card slot, FLAC playback, and more. And while cracking open an […]</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/0f3990d2-e51e-4687-9d87-785c5c71246c_gallery-lg.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/0f3990d2-e51e-4687-9d87-785c5c71246c_gallery-lg.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
 <title>Xbox has a teeny new gamepad</title>
 <link>https://www.engadget.com/2286791/xbox-has-a-teeny-new-gamepad</link>
 <guid isPermaLink="false">6332e53038826bcaaadabca116b9b5c6f48103eeb7cfb42782a91f31469ee474</guid>
@@ -875,6 +893,15 @@
 <category>technology</category>
 <pubDate>Wed, 14 Oct 2026 17:17:01 +0000</pubDate>
 <description>US And China Take Different Paths On Super Intelligence Regulation – Analysis Eurasia Review</description>
+</item>
+<item>
+<title>Traders pile into 'bubble puts' on CoreWeave as neocloud stocks plunge - CNBC</title>
+<link>https://news.google.com/rss/articles/CBMidkFVX3lxTE9VRzZRUmxHT0dEeEJLcXlKZGJaVlIwYWhzcURham12YnlPc01oTG8zLVphYmlaX2IzMFNFXzJhNldPVGZCSE91TzlUU0pjZmNYbTJFeFRLSmhPT3NQczFHSjBQb2EwcmxIM0JkUW1UQ2ZZLVl0VEHSAXtBVV95cUxOc241NDA1RTVhM3NYU2psZmhJdkFNU3ZNWUl1b0c3T002RDFKSXNldDJhSnpycGNMc3JZUjBCMWFETV9lajg3eGxQV1ZZd0ZrZTVCT3I3cnh3bUFSdXZZVEhYeWljRWRva1lkRllFYmxiUS1ELTBFOEhvaXc?oc=5</link>
+<guid isPermaLink="false">517d5aa033ff349a40ccf5811d7c0bdcdcb558e46bd1a3426a2d78a0d8364c1f</guid>
+<source>Google News Artificial Intelligence</source>
+<category>technology</category>
+<pubDate>Wed, 14 Oct 2026 17:10:59 +0000</pubDate>
+<description>Traders pile into 'bubble puts' on CoreWeave as neocloud stocks plunge CNBC</description>
 </item>
 <item>
 <title>Researchers use AI to design proteins that cut up other proteins</title>
@@ -924,6 +951,15 @@
 <category>technology</category>
 <pubDate>Wed, 14 Oct 2026 17:00:00 +0000</pubDate>
 <description>The Balancing Act: The artificial intelligence scare calmed with education Mountain Democrat</description>
+</item>
+<item>
+<title>Readily secures $11M series A to continue building out AI regulatory compliance platform - Fierce Healthcare</title>
+<link>https://news.google.com/rss/articles/CBMiwAFBVV95cUxOWXdYZjNMVlc2MnhuYm1iZ3pTaHJRNmt2M1RySXgxSl8yZUFqbThBN0hEUWdTTDFnWF9vLW9zajlaekpFRkVtYTJYSXZzbVhBRzlqSE1CTVVvOHBwOVcxVDctb3REVHQzQ191cmlxRjBmYlY5R2ExTURfZllla21YeDZ4akJFWmlCNTkzeXNpSXZ6YkxhYng5ak5MUDVQU3JsZmlmYUVjeXJqa29Ya2xlaEh3LVFnX0hkeXo3UnBvbzY?oc=5</link>
+<guid isPermaLink="false">cd1921651ede2de161e55b94b3c9a81ebba9a0171062a1b3d1b8e1102763557f</guid>
+<source>Google News Artificial Intelligence</source>
+<category>technology</category>
+<pubDate>Wed, 14 Oct 2026 17:00:00 +0000</pubDate>
+<description>Readily secures $11M series A to continue building out AI regulatory compliance platform Fierce Healthcare</description>
 </item>
 <item>
 <title>Could AI ‘change the stakes’ in the development of bioweapons? - The Guardian</title>
@@ -1237,15 +1273,6 @@
 <description>Day 2 at TechCrunch Disrupt 2026, full of all themes across AI, as well as an investor-only session, more roundtables, Side Events, and more. Register to save 50% on your pass.</description>
 </item>
 <item>
-<title>‘Godfather Of AI’ Geoffrey Hinton Rips Into Trump Over Artificial Intelligence - AOL.com</title>
-<link>https://news.google.com/rss/articles/CBMigwFBVV95cUxNTjRoRFdZTzFZX0ZwYzVjUDZFd2MtRTJMNXc3aEhYY2NETi12RFQxVHYyWXB3cVRNU0t6SVh4UlRocTRfNzJLUjdOZFdURWpsT1ZXRjJ2aUh0dzJDYV9XbkdxYW52RnZETXVzYU5QUXV5NlVVTTRsOEp4WDZGcThySFFCNA?oc=5</link>
-<guid isPermaLink="false">95ec92b4bc838b77967492752b465a3bab8cbd0854804ad3f97c99bd7192da54</guid>
-<source>Google News Artificial Intelligence</source>
-<category>technology</category>
-<pubDate>Wed, 14 Oct 2026 14:21:02 +0000</pubDate>
-<description>‘Godfather Of AI’ Geoffrey Hinton Rips Into Trump Over Artificial Intelligence AOL.com</description>
-</item>
-<item>
 <title>Could artificial intelligence destroy us all? - ABA Journal</title>
 <link>https://news.google.com/rss/articles/CBMifkFVX3lxTE5xX2VUaUZVaE9tNWF4bGtCT080cFo5WVpuaDFMYVVFb2pNYXRmNnR4ZFFHMGFTa21jSjNlcDdsYWhyVllnZUtkQzhVVHl2UUN0WGFSTGxTZnZ2NGo1d1oxN0pWS0xBcW42U1VuRUdvZV95RUVreGYwczlwbEVMZw?oc=5</link>
 <guid isPermaLink="false">252693a361076337c5327ff049a3cc23f7b76ed677b93e6896db3aa5f6bd825d</guid>
@@ -1282,15 +1309,6 @@
 <category>technology</category>
 <pubDate>Wed, 14 Oct 2026 14:03:45 +0000</pubDate>
 <description>Las Vegas startup brings AI to the casino eye in the sky Las Vegas Review-Journal</description>
-</item>
-<item>
-<title>NTangible bets it can predict how athletes will perform under pressure</title>
-<link>https://techcrunch.com/2026/10/14/ntangible-bets-it-can-predict-how-athletes-will-perform-under-pressure</link>
-<guid isPermaLink="false">1df5cb8353b5ebcdf298758364fba58d7920167161b31f3f77e0e7a324c358e4</guid>
-<source>TechCrunch</source>
-<category>technology</category>
-<pubDate>Wed, 14 Oct 2026 14:00:00 +0000</pubDate>
-<description>NTangible is building an analytics platform for collegiate sports organizations and other clubs to measure an athlete's "clutch" factor.</description>
 </item>
 <item>
 <title>Earth’s Condition Is ‘Serious and Getting Worse’ as Climate Change Intensifies</title>
@@ -1353,6 +1371,15 @@
 <category>technology</category>
 <pubDate>Wed, 14 Oct 2026 13:12:08 +0000</pubDate>
 <description>Bulgaria and US Sign Declaration on Artificial Intelligence Cooperation Novinite.com</description>
+</item>
+<item>
+<title>OpenAI Sued for Allegedly Building Models Out of Children’s “Fears, Hopes, and Secrets” - Futurism</title>
+<link>https://news.google.com/rss/articles/CBMijgFBVV95cUxNNHBna2M2bjZFd0p6LS1RUXpCc2l1VEtLZm9NTU1HQjRMeFNBY0xWZzlEbnV1QkdQeUFVZXVpZDBxclktTWNKX2FtS1F0eGFieENXcTBwTWpIUVA0OGZLdGR0bXFJR0kwRmhQN21paXFhb05yWjJpaERJNE9fV1hkNS1fZTBXcjE3MElhT1F3?oc=5</link>
+<guid isPermaLink="false">ae7efe073049139a95e087ce6978b3834ce0a842cab64f225fa1d11fd0577651</guid>
+<source>Google News Artificial Intelligence</source>
+<category>technology</category>
+<pubDate>Wed, 14 Oct 2026 13:04:16 +0000</pubDate>
+<description>OpenAI Sued for Allegedly Building Models Out of Children’s “Fears, Hopes, and Secrets” Futurism</description>
 </item>
 <item>
 <title>Formlabs Has a 3D Printer for Normies</title>
@@ -1632,7 +1659,7 @@
 <media:content url="https://media.wired.com/photos/6ace9af8b7c3e684c0712364/master/pass/Men-Cant-Stop-Lying-About-AI-Business938329806.jpg" medium="image"/>
 </item>
 <item>
-<title>Amazon pushes up prices across the Internet</title>
+<title>How Amazon pushes up prices all across the Internet</title>
 <link>https://www.not-ship.com/how-amazon-pushes-up-prices-all-across-the-internet</link>
 <guid isPermaLink="false">c60f7e6cf07c56d799d96448442e456f754e259188e2232cef83383f2807ffeb</guid>
 <source>Hacker News</source>
@@ -1726,24 +1753,6 @@
 <category>technology</category>
 <pubDate>Wed, 14 Oct 2026 06:04:00 +0000</pubDate>
 <description>Alphabet vs. Meta Platforms: Here's What Revenue Trends Tell Investors About These Media Giants Turned Artificial Intelligence Companies The Motley Fool</description>
-</item>
-<item>
-<title>Why is every rationalist blog post way too long?</title>
-<link>https://alexwennerberg.com/blog/2026-10-13-long.html</link>
-<guid isPermaLink="false">88c78e8217a0d64b979cfaa45e144da66f2a607e705961f64d82b7faeac4f79d</guid>
-<source>Hacker News</source>
-<category>technology</category>
-<pubDate>Wed, 14 Oct 2026 06:02:16 +0000</pubDate>
-<description>Comments</description>
-</item>
-<item>
-<title>Artificial intelligence (nope, not ‘super intelligence’ ) discussions are moving beyond concerns about data residency - Apple World Today</title>
-<link>https://news.google.com/rss/articles/CBMi3gFBVV95cUxOc1F5QkF6S2NxSTVTdHpwbkt2TzRwLUNRQ3V2N2RzaEE4R0xNNU56ZnNJOVlIQmJFSjk0aGZwMmJBaWY5NVM5aXZtTTFmNVViMXEyYWE0NDlobUU0NUZaNlQ5MUVIMjI3UlJmcFpiU1dyTWp3cTd1UEpDQjI2eDVpc01GeEhOcmdXQk9qTUxyMXEzbUpvdkh1WWItU3RqZjF5SU1fdUZTSmtIS2F6bXhzMmh4cDE1RDY2alhBRk5uVlkxX3dzeVNIdXVnd1NnZDAyc3I5dFlCellXX0xqRFE?oc=5</link>
-<guid isPermaLink="false">19c74b41b4220e53529f0e1fd65e4b90a78492b917b088deab95db31a39d355f</guid>
-<source>Google News Artificial Intelligence</source>
-<category>technology</category>
-<pubDate>Wed, 14 Oct 2026 06:02:00 +0000</pubDate>
-<description>Artificial intelligence (nope, not ‘super intelligence’ ) discussions are moving beyond concerns about data residency Apple World Today</description>
 </item>
 <item>
 <title>Intel vs. Marvell Technology: What Revenue Trends Tell Investors About These Artificial Intelligence Companies - The Motley Fool</title>
@@ -1976,24 +1985,6 @@
 <description>Topgolf and VMware "ran deep" before the migration.</description>
 <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/11-TGFW-Tee-Line-X2-1152x648.jpg" type="image/jpeg"/>
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/11-TGFW-Tee-Line-X2-1152x648.jpg" medium="image"/>
-</item>
-<item>
-<title>Marshall Islands Stick Chart</title>
-<link>https://en.wikipedia.org/wiki/Marshall_Islands_stick_chart</link>
-<guid isPermaLink="false">6be5c5d9dce7b7d958d6c9324da80c4e55d3a7d7bd5828d105ad6ae606692b9f</guid>
-<source>Hacker News</source>
-<category>technology</category>
-<pubDate>Tue, 13 Oct 2026 21:06:33 +0000</pubDate>
-<description>Comments</description>
-</item>
-<item>
-<title>Building agents that transact with Anchor Browser and AgentCore payments - Amazon Web Services (AWS)</title>
-<link>https://news.google.com/rss/articles/CBMiuwFBVV95cUxONjBicmduOUlaTm81Q2trdGNRd1pfSXFSRHkxbWplQ21sVC1rRjNrNXM4Q0NIQ1AzZHdGMkNnOVdzYm5vME91dzJjd0hJX2phdEh3SDRINFo3d2VUWXlrYWktTkRCLU1CVzNQT1RjMjlXYjJiSUtmd1JudVZ3TS1yVDBNZEVsbUQyMVlsSVF3SzNCNkJxdzdsSDJ5NGVGam9EclE0eWF1UWE4MHUzS0MybjQydWYxUkg4U3RB?oc=5</link>
-<guid isPermaLink="false">38b8d23f7dffebcb16ffc80790fcc35ed8c22dd922402aafa28475544d6f2fca</guid>
-<source>Google News Artificial Intelligence</source>
-<category>technology</category>
-<pubDate>Tue, 13 Oct 2026 20:10:33 +0000</pubDate>
-<description>Building agents that transact with Anchor Browser and AgentCore payments Amazon Web Services (AWS)</description>
 </item>
 <item>
 <title>Trump commercial railing against his enemies kept airing after court blocked it</title>
@@ -2415,6 +2406,15 @@
 <source>Hacker News</source>
 <category>technology</category>
 <pubDate>Mon, 12 Oct 2026 02:21:54 +0000</pubDate>
+<description>Comments</description>
+</item>
+<item>
+<title>How I manage persistent Claude Code loops: Spool</title>
+<link>https://github.com/enes-alatas/spool</link>
+<guid isPermaLink="false">c0c92641904983019972bbb743d37ba65472ff875f1e1fe2f88cb40c81970ed6</guid>
+<source>Hacker News</source>
+<category>technology</category>
+<pubDate>Sun, 11 Oct 2026 21:50:14 +0000</pubDate>
 <description>Comments</description>
 </item>
 <item>
