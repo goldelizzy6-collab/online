@@ -4,6 +4,35 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>The Tesla Roadster 2 Is Here—and It Flies</title>
+<link>https://www.wired.com/story/tesla-roadster-2-launch</link>
+<guid isPermaLink="false">1da7da4298bf77277549bcf4eb32f68ccf26c16fd066432ac6fb7bb45bf78ac0</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Fri, 16 Oct 2026 01:22:51 +0000</pubDate>
+<description>The automaker unveiled its next luxury sports car at an event in Texas. It has thrusters on it that can send it airborne.</description>
+<enclosure url="https://media.wired.com/photos/6ad17aff2217e219989feddb/master/pass/TeslaScreenshot.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6ad17aff2217e219989feddb/master/pass/TeslaScreenshot.jpg" medium="image"/>
+</item>
+<item>
+<title>Tesla reveals SpaceX-powered Roadster that flies and falls with style</title>
+<link>https://techcrunch.com/2026/10/15/tesla-reveals-spacex-powered-roadster-that-flies-and-falls-with-style</link>
+<guid isPermaLink="false">82ab9a37d5ace14728b29817cc654cc24178bce7579c2571bf2b229163620dc5</guid>
+<source>TechCrunch</source>
+<category>technology</category>
+<pubDate>Fri, 16 Oct 2026 01:17:43 +0000</pubDate>
+<description>The new car used thrusters to leap over a Cybercab, Cybertruck, Tesla Semi, Model Y, and Model 3 at a demo in Texas.</description>
+</item>
+<item>
+<title>RPKI Now Protects 70% of Internet Routes, Up from 54% a Year Ago</title>
+<link>https://ipinfo.io/blog/rpki-protects-70-internet-routes</link>
+<guid isPermaLink="false">7e2b5dc0fda2721595375aa399ae78f9e598f9de8f4d6f8f9c028948a5988c2d</guid>
+<source>Hacker News</source>
+<category>technology</category>
+<pubDate>Fri, 16 Oct 2026 00:52:35 +0000</pubDate>
+<description>Comments</description>
+</item>
+<item>
 <title>Meta releases Muse Spark Open, a new ‘open-weight’ AI model - The Guardian</title>
 <link>https://news.google.com/rss/articles/CBMiqwFBVV95cUxPT0RHc3czZERxSklFc0VnWGlpTDV4VUpjVDJONmd2Mm9XYlRKUE5TUWUyNG1BVFJ0c044WGtINDBuR3VnUEdXV1puNkhveWx6QXdWT2tyc2RpUm9qS2M5eFI4ZVlnM3VaRE9mdVgtZDVOS1NwdGJMVTVJWkNVWHFiaHVfVnZQLVRQaU5JcF9nVi1aT0loWUltUnRKaThnVmdqaVV5UjdVMkxoR1E?oc=5</link>
 <guid isPermaLink="false">a8f4e3932bdc3e7b7977d3fa87f26eb92ce45674357ccff5ccd7f4309aba9855</guid>
@@ -11,6 +40,15 @@
 <category>technology</category>
 <pubDate>Fri, 16 Oct 2026 00:34:00 +0000</pubDate>
 <description>Meta releases Muse Spark Open, a new ‘open-weight’ AI model The Guardian</description>
+</item>
+<item>
+<title>Why a maths professor’s tears are an AI warning - AFR</title>
+<link>https://news.google.com/rss/articles/CBMinAFBVV95cUxPeFhuU3NXX2J1Q0xWaHo4WldKbHg5Sll5bElqbERYVzcxY0U3UXFlWHhTbzFCOXItaXd1d2hGcVp1QjM5OFVNZjhhdlNhR2JKMDBvYklQS1k3LWxYY0JRenFyOV94VE9QYVhuM25Cb1RpeGFsTFN5UmY5RVBoZU5hN3dKTUh4T2twTDA1MV9BU0g5bVFYY3ZlRUVKYmw?oc=5</link>
+<guid isPermaLink="false">ceddaf5bd9f49cf5c09e4d34bb20edf92ce866ae4f333eef4ec3ed104f40afaa</guid>
+<source>Google News Artificial Intelligence</source>
+<category>technology</category>
+<pubDate>Fri, 16 Oct 2026 00:09:00 +0000</pubDate>
+<description>Why a maths professor’s tears are an AI warning AFR</description>
 </item>
 <item>
 <title>Summit explores promise &amp; perils of AI - Inside UCR</title>
@@ -22,6 +60,15 @@
 <description>Summit explores promise &amp; perils of AI Inside UCR</description>
 </item>
 <item>
+<title>News 12 Investigates: AI’s growing demand for power and water - WCTI</title>
+<link>https://news.google.com/rss/articles/CBMipwFBVV95cUxNa1YzRTM5TUh5MHV0TS1RZjJhOE94OU1QeFF0TDlmdVVOWkVTeFpqV1JRV0pTX2swR3NGSld3T19XMzFvZUJfcnozOXgzQndyXzJuSWVrVHVRZkVsUTZEVzRpWDlBd0xnbnFRRk1WdFBoWUpxeWF1bGt4bDZyYjNYVU5QMGhKWUFUaTVucjktZG8ta2ZkUnNVZ09LUHR0MllJUGw5SDhLcw?oc=5</link>
+<guid isPermaLink="false">39356a2a71c2f1bc55b4955ae304460028bb33bc395a184bdc4ee1164b2f74e7</guid>
+<source>Google News Artificial Intelligence</source>
+<category>technology</category>
+<pubDate>Thu, 15 Oct 2026 23:48:41 +0000</pubDate>
+<description>News 12 Investigates: AI’s growing demand for power and water WCTI</description>
+</item>
+<item>
 <title>When it came to Cal AI’s viral success, a small army of influencers paid off</title>
 <link>https://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off</link>
 <guid isPermaLink="false">bdb5caa1dae4ab509e1be7f68d4fdd45b502cdca3f0d79bea546d5195700b3eb</guid>
@@ -31,13 +78,13 @@
 <description>The company generated over $30 million in revenue in two years and was acquired by MyFitnessPal for an undisclosed amount of money in March.</description>
 </item>
 <item>
-<title>Panelists discuss how to protect your career during the age of AI - WLBT</title>
-<link>https://news.google.com/rss/articles/CBMikgFBVV95cUxNNVg1bkFfeHFtalg2VWllQnlHTkFSRUlyWVk0bnlxd0M0QmRfaFNVZGstR0pUNFBBMG85aHJTSTdFRnYyWnhTOU5RWHBaQno2QXhjWGZWSzRQeGE3NndxbkZaZTdmem5QVkRMVDM3NTNJVW9MUklBTWlMZlpjZWU3MkphOWxOWlozSUk3ZncyZ0llQdIBpgFBVV95cUxOVENodGtPWlVrczcwZUUzUGFISE0wbXVFZHVtRnA5WGZjem5zVXlyd1hVYTJTOGJLYXVpXy1nUDMxRGlZeHZNZWpxMFpxZGVfWUYxRUtQZ0xDVzlyVEtENlBaVHl0QUZXWktGWEt1OWdSTVVrZzRubFRTclB3REtHelRFcmdOOUJZYlQteTVJbkpkQlFZYWJOLTV4RGtjczZnVkQ1YlhR?oc=5</link>
-<guid isPermaLink="false">7d379069260aeb12083bbf8ac23ad81d5dbc1219163f53195ae967e96be5d2e4</guid>
-<source>Google News Artificial Intelligence</source>
+<title>Business accounts will consent to Meta scraping their websites Starting Oct. 30</title>
+<link>https://www.niemanlab.org/2026/10/metas-new-commercial-terms-will-allow-the-scraping-of-news-sites-legal-experts-say</link>
+<guid isPermaLink="false">dba49a40a2c2f165b1572b38bc23355c56ea2623708cb78cc7ef87cb1e12f8dd</guid>
+<source>Hacker News</source>
 <category>technology</category>
-<pubDate>Thu, 15 Oct 2026 23:34:00 +0000</pubDate>
-<description>Panelists discuss how to protect your career during the age of AI WLBT</description>
+<pubDate>Thu, 15 Oct 2026 23:37:42 +0000</pubDate>
+<description>Comments</description>
 </item>
 <item>
 <title>And the winner of Startup Battlefield at Disrupt 2026 is: Intero Biosystems</title>
@@ -67,15 +114,6 @@
 <description>Valve is introducing a major new feature for Steam achievements called "achievement sets" that lets developers list different groups of achievements for a base game and DLCs. "In games that support sets, you still unlock achievements by playing the game as usual," Valve says. "But when you browse what you have unlocked afterward, Steam will […]</description>
 <enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK138_Stream_Kradtke_01.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
 <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK138_Stream_Kradtke_01.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
-<title>U.K. Sanctions Cryptomus for RU Money Laundering</title>
-<link>https://krebsonsecurity.com/2026/10/u-k-sanctions-cryptomus-for-ru-money-laundering</link>
-<guid isPermaLink="false">9f4f6d187aa848d720e274acdb7695f3554f8d8e86b5e154ae5ded16cdc161d6</guid>
-<source>Hacker News</source>
-<category>technology</category>
-<pubDate>Thu, 15 Oct 2026 23:17:50 +0000</pubDate>
-<description>Comments</description>
 </item>
 <item>
 <title>Meta Raises Its AI Game as Google Opens Gemini 4 Argon - PYMNTS.com</title>
@@ -158,15 +196,6 @@
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/KDE_Birthday_30th_Laptop-1070x648.png" medium="image"/>
 </item>
 <item>
-<title>Jim Cramer says this week's AI sell-off offers a crucial lesson for investors - CNBC</title>
-<link>https://news.google.com/rss/articles/CBMifkFVX3lxTE9FYWJORHpyaGRraE9RbHR5Qnk2c1VmTVNMUWo1VXQxZUJyQzRrU1RzS2lTR3d3WkJ3d25xdlJpMDBQSUNObjlEUW1Hd0MtWHVtNUxVOExBaHZoQzZSYjhFTXFjWVFZUlQ3MmFXN3BYcEh0b2hRTU9RaER4TWIyd9IBgwFBVV95cUxPZ3Z5RzdGdXY2czJMQ0VPR0p6TFNEWWpvczM1ZDBhdEZFbGJSN3BzejF2NmlCUHk3M1pOYlQzbkJGeGhzZ0sxMWtVdXc4NEpaU1U5UHRuVGpYMGN6N0xYdXJYQ2d4OFJ1RldWUFRDMkRxalRnMElNNld0aVhBVGZHRjJiYw?oc=5</link>
-<guid isPermaLink="false">74fcb81e8b3b04687b3ec44515cbc5232c87a9691135bdfee40204c0eb8edcb5</guid>
-<source>Google News Artificial Intelligence</source>
-<category>technology</category>
-<pubDate>Thu, 15 Oct 2026 22:16:13 +0000</pubDate>
-<description>Jim Cramer says this week's AI sell-off offers a crucial lesson for investors CNBC</description>
-</item>
-<item>
 <title>Massachusetts AG Joins Effort to Protect AI Chatbot Data - GovTech</title>
 <link>https://news.google.com/rss/articles/CBMipwFBVV95cUxPMDNBR09TZS14a2hJSHdneVlyeEFPYnM4ay1jNTRxd3ZCYmVmTkdUVFduOWF1cU1fb1BhM3dncDZ1MEZDVjVKTWFfZTZyU1NYMW1TX0MyVTRmTy1WNE9hd28wcWxsM01rRThZbXVlOVlENjVlRU50OWpGMDR2b1dqWkUyOFh5MEtiT0FoZEdtcmx2WlZZbDl2WHhOSlRhc0UtcUtCMVRSSQ?oc=5</link>
 <guid isPermaLink="false">1122f4551ad454a6d2cfc346f799bdac729c7e11104e0e2b0f7554c06fa3ba55</guid>
@@ -214,15 +243,6 @@
 <category>technology</category>
 <pubDate>Thu, 15 Oct 2026 21:33:00 +0000</pubDate>
 <description>FAA seeks ownership stake in air traffic AI company Politico</description>
-</item>
-<item>
-<title>Minneapolis entrepreneur launches platform to measure return on AI spending - The Business Journals</title>
-<link>https://news.google.com/rss/articles/CBMirAFBVV95cUxNbS1zTHUxQ29URlVCN2dONG1GaUtESWxIMkNaRExUbmFpbzRBNTh3eS1PaS1VUmN0Q3d3bnRqamdmNUFvU0NrRWozZTdfR1BvemtGUTJ1WXdic2ZVSWx2ZEsyQnhvYUFRVDdQa295cXhmQnlHdzl5ZEc1LTVkODdGbEUzUWIwVlF2NHBsY1VQb3hQVUtvVjBxalFQVVdnaVUyb2xlQUI1Tm40RmVf?oc=5</link>
-<guid isPermaLink="false">10cfec8de5175b81dd33212605bd94d55b0c62fb187ae5b735174588083f7f7f</guid>
-<source>Google News Artificial Intelligence</source>
-<category>technology</category>
-<pubDate>Thu, 15 Oct 2026 21:26:00 +0000</pubDate>
-<description>Minneapolis entrepreneur launches platform to measure return on AI spending The Business Journals</description>
 </item>
 <item>
 <title>Plex now helps sell movie theater tickets</title>
@@ -334,6 +354,15 @@
 <description>Military service members to square off against AI in ‘Mindgame’ tournament DefenseScoop</description>
 </item>
 <item>
+<title>artificial intelligence sex talk ai chat bot with no filter for adults 18+ with privacy controls - Universidad de Córdoba (UCO)</title>
+<link>https://news.google.com/rss/articles/CBMi3AJBVV95cUxQOFk2R2l5MFVMTEtpZGV2Rk9sczhWVWc5X0VCekR6Rm5Ud3RXbno5WUl0eERsSWN1NE5vcDJjZUs4eDV1N3dQVEpXbHNfRkN2NkJNLUozNzZaeVNjSXl1MmJNRlRmMUpLTG1zRTBZRWJBNnVmMnc0MVpDNTF4VHVieklEbHZOVzlqdHQwYWZDaG1Jd2RhcHNQQldjaEdxOHcyek05MXp3VjVLTkNBaFg4RHFWVnFzeUdYRTU5d2tpanBGRGt4NENiOEpObWpiaEM1dDZXYU9kY21uUlE2RTRSMUxsRUNHZ2tlS2dIYzBGZ20tS3BnMEFoWjdsQ2NRY1lrR2N1czc4QUo4VlVxNnVnVjdOTW1jLVhUMnlKaHdJcXhmQnJGb3k2cDl1TGE3QUZyUFoybldRSDZtU3NNT1NrSFQ5TEVNcEIyT1Q0b0VmYTlXVGQzZDVVYjBQSkE?oc=5</link>
+<guid isPermaLink="false">12385fd8515a45e1cee2cbfac357cd7e636185b5e4cb1cb82d4ffc5086565903</guid>
+<source>Google News Artificial Intelligence</source>
+<category>technology</category>
+<pubDate>Thu, 15 Oct 2026 20:40:01 +0000</pubDate>
+<description>artificial intelligence sex talk ai chat bot with no filter for adults 18+ with privacy controls Universidad de Córdoba (UCO)</description>
+</item>
+<item>
 <title>Amazon devices chief Panos Panay on the importance of failure and bouncing back from it</title>
 <link>https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-on-the-importance-of-failure-and-bouncing-back-from-it</link>
 <guid isPermaLink="false">febc952cf327fa7e625d7a75191c7bbfdaa881da93d54c7999cb1d4192fdc625</guid>
@@ -410,6 +439,15 @@
 <category>technology</category>
 <pubDate>Thu, 15 Oct 2026 20:04:53 +0000</pubDate>
 <description>Meta and Apple have teamed up for the launch of the social media giant's newest model, Muse Spark Open, which will run locally on Apple silicon.</description>
+</item>
+<item>
+<title>LIVE : Why are artificial intelligence stocks falling? - Latest news from Azerbaijan</title>
+<link>https://news.google.com/rss/articles/CBMifkFVX3lxTE9SeklNRmlxYjBGQTdCWHJPRW5RT3RDcUFhSGhZdWQ0aWtsZGdPOUFnN3JpdHZkTUJpSXFEZE5zdWluVU9wblJBLUx4MFJ3ZmJEcG5CVUp5bFpEazNkRTdYbWg4UTlVVGlYbjBCLVY5RG5id3FXOWIzTWJfcE91Zw?oc=5</link>
+<guid isPermaLink="false">281bde6bae9d9ac2d1e2e640af6990298399e6cc2702147041bd2edd63671e71</guid>
+<source>Google News Artificial Intelligence</source>
+<category>technology</category>
+<pubDate>Thu, 15 Oct 2026 19:58:57 +0000</pubDate>
+<description>LIVE : Why are artificial intelligence stocks falling? Latest news from Azerbaijan</description>
 </item>
 <item>
 <title>Bluesky&amp;#8217;s AI tool now lets you make games and apps to share on social</title>
@@ -956,13 +994,13 @@
 <description>Breakingviews - COMMENTARY: AI boom stumbles over white swan events Reuters</description>
 </item>
 <item>
-<title>Show HN: Proa – A Rust web framework with fast SSR and multi-target rendering</title>
-<link>https://proa.so</link>
-<guid isPermaLink="false">814cfacab8961ace26b05b5d10ca937665841fc434ecbbdd84eea6dc870150d5</guid>
-<source>Hacker News</source>
+<title>GlobalLogic is opening an artificial intelligence lab at Technical University of Cluj-Napoca - Business Review</title>
+<link>https://news.google.com/rss/articles/CBMizwFBVV95cUxNelNBQmVCS0ZqY2l4QTIxX1RhejZ1ZjdGeUZEcFdRWVo1MXMyT1V2OWM1QjNXWFJFUmRwSEx6X3VEVm0tZk93SnZrUEV4R3gya0phTWpkZGxXTVdYSkFVUzFDVENOV2RLamtXOUJoU1AxVTgwcUNpa05LQk16dndRZDVUeVZFdEdSQUZYeDVJZHJGeHlTZXktb1BRd0wxOWV0aVNVUnIyb2ZHQ2JTSVRJUWZSSmdTeWF1SnJMSTc5ZGFkVU5IZHBybGk0VUU3V2M?oc=5</link>
+<guid isPermaLink="false">852e8534b8ab5d90fbad1c64d22ec698892ef60fce157b1b874c03f902888939</guid>
+<source>Google News Artificial Intelligence</source>
 <category>technology</category>
-<pubDate>Thu, 15 Oct 2026 15:52:08 +0000</pubDate>
-<description>Comments</description>
+<pubDate>Thu, 15 Oct 2026 15:51:06 +0000</pubDate>
+<description>GlobalLogic is opening an artificial intelligence lab at Technical University of Cluj-Napoca Business Review</description>
 </item>
 <item>
 <title>Eight States Bring Parallel Lawsuits Against OpenAI Over Safety Issues - PYMNTS.com</title>
@@ -1088,6 +1126,15 @@
 <description>Comments</description>
 </item>
 <item>
+<title>Artificial Intelligence (AI) Business Intelligence Market Outlook Report Including Segment Analysis and Strategic - EIN News</title>
+<link>https://news.google.com/rss/articles/CBMi6AFBVV95cUxOSG1YdEFhQ0ZrM1Y5NGY0c3Q5bkdsNUJ5bGFWeUlsSW9hQ3BLMThaNXB6bmZxMS1lWmxwUWJacWxETzhVUk9rQnJ4OE5vd1ZMTENwUnJuejNTUzhwTUZOendRZlZGV2NPVGdZdTRsTGVIVloxWVNvTnNMMVgwaEZaY3hoUk1tY1JpQ3B6bXZYTk9Kdnh4NHNXeklzVVh2YkpXRFJKX1N0eGpDelJnOW9pa1hWR0lXZ0ZXZTd1WDlmVDB0dHdNTjJzdE04SzQtRlBKUy1PUUpnWVFMbXFITFFrOHB3VVNBSWpj?oc=5</link>
+<guid isPermaLink="false">38e327324e96099746452857763dd3bbb3d7193de2eed31acb90b784ce072572</guid>
+<source>Google News Artificial Intelligence</source>
+<category>technology</category>
+<pubDate>Thu, 15 Oct 2026 14:56:00 +0000</pubDate>
+<description>Artificial Intelligence (AI) Business Intelligence Market Outlook Report Including Segment Analysis and Strategic EIN News</description>
+</item>
+<item>
 <title>Ramp reaches $60B valuation as it pushes deeper into AI</title>
 <link>https://techcrunch.com/2026/10/15/ramp-reaches-60b-valuation-as-it-pushes-deeper-into-ai</link>
 <guid isPermaLink="false">92d2f6fd52a33d71607b7401a350008370441f1111dba759e1b2c6b587670484</guid>
@@ -1180,15 +1227,6 @@
 <description>Artificial intelligence (AI)-powered mental health app demonstrated improved social well-being among users 2 Minute Medicine</description>
 </item>
 <item>
-<title>Explainer: Why are credit default swaps unnerving AI investors? - Reuters</title>
-<link>https://news.google.com/rss/articles/CBMiiAFBVV95cUxPYWRtVm1RTmdMcHZLMFFUTUphS2UweFlGVUtpa0Q3WndrcHVrWnl2Szkwc1VnaU1WMHBtOG5nSEJ0OG5BNldxWHp4RWUyejFqNENpSjZPa0Q4OFNXbHk4MDBLUWlzQmlDQVNYcTg1RkRsVDZ0T0JJaUVGQmhXWVF5XzI4U2haYmNZ?oc=5</link>
-<guid isPermaLink="false">8acbb836b3b05e407bd592f571246a9505e2eb300677a89dde14803861789a94</guid>
-<source>Google News Artificial Intelligence</source>
-<category>technology</category>
-<pubDate>Thu, 15 Oct 2026 14:05:18 +0000</pubDate>
-<description>Explainer: Why are credit default swaps unnerving AI investors? Reuters</description>
-</item>
-<item>
 <title>Tesla Roadster reveal live: Updates from the launch of the next-gen sportscar</title>
 <link>https://www.engadget.com/2287518/tesla-roadster-launch-live-blog</link>
 <guid isPermaLink="false">f74094ccbb0bf473b6c86f2c6c1fabb817642e8a8e670f2c23547ab0151873b8</guid>
@@ -1236,15 +1274,6 @@
 <category>technology</category>
 <pubDate>Thu, 15 Oct 2026 13:49:42 +0000</pubDate>
 <description>The Hidden Dangers of AI Overreliance for BPharm Students Pharmacy Times</description>
-</item>
-<item>
-<title>I know why the mathematicians weep</title>
-<link>https://www.derekthompson.org/p/i-know-why-the-mathematicians-weep</link>
-<guid isPermaLink="false">d0538427bd9feeb7120320cd4de44ab6d3c81ddf979beb82ef10ac3ea60932cc</guid>
-<source>Hacker News</source>
-<category>technology</category>
-<pubDate>Thu, 15 Oct 2026 13:44:32 +0000</pubDate>
-<description>Comments</description>
 </item>
 <item>
 <title>Junji Ito’s Manga Horrors Hit Harder as Live-Action TV</title>
@@ -1597,15 +1626,6 @@
 <description>A 3-step buyer’s guide for evaluating radiology AI solutions Radiology Business</description>
 </item>
 <item>
-<title>COMMENTARY: AI investment boom may be papering over US economic cracks - Reuters</title>
-<link>https://news.google.com/rss/articles/CBMi1AFBVV95cUxQS1Q2OXZIUkpRbEJQUVlCVUJzdDZQQ2pJelNhTmZVTGJYSEtCWGd6TXZtTzJnc01UUGR5bzdmZW4tZ2pLQ3hCSXQwMzV4TGdXQS1ZMkE3cDg0R2RjYXRQRF9ETERWNXpLS3JjcjViWk5ZLU14ajZjbmt0aWJaZHphdWhEV0tCZ2RiRU1ZLTQwRE1GWHo3dUxkeFM1aWEtRDNyWERYTTZJN05qUmRmSEJGU19oTGdEWnFOSElyTnp3ZFB3V0RrOEI4LUhVeWRhX3pHQ1NaZQ?oc=5</link>
-<guid isPermaLink="false">4b6c1202e73f566063b2e38cfe6b48da10580ab6ac4cdcdf2825f056710daa14</guid>
-<source>Google News Artificial Intelligence</source>
-<category>technology</category>
-<pubDate>Thu, 15 Oct 2026 06:00:00 +0000</pubDate>
-<description>COMMENTARY: AI investment boom may be papering over US economic cracks Reuters</description>
-</item>
-<item>
 <title>Figma CFO says design platform willing to put margins on the line to boost AI demand - Reuters</title>
 <link>https://news.google.com/rss/articles/CBMitwFBVV95cUxOeVl3TUpFMUJ3Qmd5RmRRLUtienRuSEJia1dtd24wVm5iMHFhbUQ0aFFRUk56cWVJQ01PZmJPVVZBN3JHVGpFTXVNX1ozNElOSGY3MFZ3WTJJYXEwZmIyc21NVjlKRFZRU3hHVTBxNVg5WGpxdmZJcm56cDAtdm1ob0llbmV0VllnNFdlbkcxTTJVUldIYTR6bXp0WHNteW93X0tyT1N4LUtEOGpORlU1eWRDZndJS2M?oc=5</link>
 <guid isPermaLink="false">66deac3566f373e9622b9be45dd501269e832f132989b8fba5af51624386e97f</guid>
@@ -1746,6 +1766,15 @@
 <description>Sound Practices for Responsible Adoption of Artificial Intelligence (AI): Overview of consultation responses Financial Stability Board</description>
 </item>
 <item>
+<title>Baisley opposes stricter artificial intelligence regulation - 9News</title>
+<link>https://news.google.com/rss/articles/CBMi2AFBVV95cUxQRlMxOWw1RGRMU1g3THllSnRRa1VOZVR4VFBHYWRvT3JRV2dTTFBIMWtyTF9zQkNlM2ZFZFdIQ0gyc0hIbVEyOGhYSmswcGVtNnlKTUdqa3J1QWdJekZxRVZ2UlRROXpObmFiTkh5X2x6SmY1SFdjN1hwSng3ZVBhLVNGYV9CUGlEY0k4N3Y3TUpxYTNfZHZfRE5fdjJGZ0lGZDJPVGhXRW95QktTcTkzdTdIUVkxRGxWWnI3NUNpeXBjYUhkUjFGTzBLOVBTYjQteGNxRHdGSUI?oc=5</link>
+<guid isPermaLink="false">c68d801da176c3f09fff63a1870d513dbb32df3d83375a7347d6d51500a11a47</guid>
+<source>Google News Artificial Intelligence</source>
+<category>technology</category>
+<pubDate>Thu, 15 Oct 2026 02:17:00 +0000</pubDate>
+<description>Baisley opposes stricter artificial intelligence regulation 9News</description>
+</item>
+<item>
 <title>The engineering that allows articulated buses to bend</title>
 <link>https://www.theautopian.com/you-wont-believe-the-incredible-engineering-that-allows-articulated-buses-to-bend</link>
 <guid isPermaLink="false">bb8e88bb0c9fcb947e095c7845ab18fca9455eed4cf4ab6fa66d470f4c5ba5fd</guid>
@@ -1762,15 +1791,6 @@
 <category>technology</category>
 <pubDate>Thu, 15 Oct 2026 01:01:32 +0000</pubDate>
 <description>The founders detailed how their startup is developing AI that can design chips, learn from each iteration, and improve subsequent designs, all with the goal of automating and accelerating the chip design process.</description>
-</item>
-<item>
-<title>Flock CEO defends surveillance technology amid national backlash: ‘We shouldn’t pause progress’</title>
-<link>https://techcrunch.com/2026/10/14/flock-ceo-defends-surveillance-technology-amid-national-backlash-we-shouldnt-pause-progress</link>
-<guid isPermaLink="false">8317a9636f14c2cc14805f26285fd6c8a3a0874d8383166b1bdb501df991393a</guid>
-<source>TechCrunch</source>
-<category>technology</category>
-<pubDate>Thu, 15 Oct 2026 00:49:31 +0000</pubDate>
-<description>At TechCrunch Disrupt, Flock CEO Garrett Langley defended his company's surveillance technology despite growing privacy concerns, arguing that its crime-fighting benefits outweigh the risks of abuse.</description>
 </item>
 <item>
 <title>AI ML Now: Gert Desmet on the State of Artificial Intelligence and Machine Learning in Separation Science - LCGC International</title>
@@ -1953,15 +1973,6 @@
 <media:content url="https://media.wired.com/photos/6ace87bed95d506835d511b4/master/pass/AI-Lab-AI-Coming-for-Other-Areas-of-Science-Businesspsd.jpg" medium="image"/>
 </item>
 <item>
-<title>22 People Got Together For a Dinner Party. So Did Their A.I. Agents. - The New York Times</title>
-<link>https://news.google.com/rss/articles/CBMilwFBVV95cUxPUjdWaktiYTFVLTlGZFZRelhDLVZTVm5RRGxIWVlfaHNqZXJIeUpMTW1IYzVQMEozcS1UU0VJVktDSzc4cUJIR1haVVJJYWc4SERibnNKS1ZEX2p4NDNYbUxtbDNCYUM3VjU5dW1HMzZiLVFaazJsSEh6Q09XMTJwOVNmUkxkeEwzU2xjOUZ4czBpNGk4U3hr?oc=5</link>
-<guid isPermaLink="false">cef4e950ba0db74507dfa8db6d67fdd9c6da8d39fb1f8537c61db5b279015f54</guid>
-<source>Google News Artificial Intelligence</source>
-<category>technology</category>
-<pubDate>Wed, 14 Oct 2026 17:35:24 +0000</pubDate>
-<description>22 People Got Together For a Dinner Party. So Did Their A.I. Agents. The New York Times</description>
-</item>
-<item>
 <title>AI @ CLS: Columbia Law School’s Artificial Intelligence Initiative - Columbia Law School</title>
 <link>https://news.google.com/rss/articles/CBMipwFBVV95cUxNMHJneUFEd0JsTEc3ckpyejh4LXJfM0lEYlBYazJ0RXNlQTF2WURyOWMyWTJPU0NOYkpuLWpzVkFWWmRGV1NLMWJmV1FPb3VPcTZBMVRvWi0yYmg2LVdpUzRwUG1zUU1RbVEwRlJJX05aS282Vm1CWUJMcHBqSERsQ05CQ3paRGlmZXVSdDZ2M3lQSHRSMkhjQWxMM1hTdEFaTVdiTXZxcw?oc=5</link>
 <guid isPermaLink="false">bcd123d08f1f8e4158fac66f95e4ad4c0283b4d39cb55c0894f98556117a3586</guid>
@@ -1980,15 +1991,6 @@
 <description>Seven of 16 planetary vital signs are in their most extreme state ever recorded, and El Niño is here to make matters even worse.</description>
 <enclosure url="https://media.wired.com/photos/6acec6fbaaecd379fb33abd9/master/pass/Earth-Condition-Getting-Worse-Science-2299206304.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/6acec6fbaaecd379fb33abd9/master/pass/Earth-Condition-Getting-Worse-Science-2299206304.jpg" medium="image"/>
-</item>
-<item>
-<title>Generate presentations with Amazon Bedrock AgentCore - Amazon Web Services (AWS)</title>
-<link>https://news.google.com/rss/articles/CBMioAFBVV95cUxOd3BUVi1zNDhoUXpwTTE4ZU9LY0NVUV92d0c2WW5ud3VkbUxjT0FHWTIwX25kRTZfTWxWQ2pVbnNoNnQtckkwVHNIXzZRWGxtRF93VWYxeEtneWdxcFU0eHhKRzA3SWM5cGpTR19yR2E5b2lnU0ZVQ1J2X0NEMlI0UkVIdGU3ajYzLV85OU54OXcwMVFvYVdZeE1oVHBrTzJi?oc=5</link>
-<guid isPermaLink="false">d21ba9c0ea0f8edd5f17ad010747455385321f5dcef81820acea0eda3a36fa34</guid>
-<source>Google News Artificial Intelligence</source>
-<category>technology</category>
-<pubDate>Wed, 14 Oct 2026 13:58:43 +0000</pubDate>
-<description>Generate presentations with Amazon Bedrock AgentCore Amazon Web Services (AWS)</description>
 </item>
 <item>
 <title>‘Dune: Part Three’ Cowriter Brian K. Vaughan Has a New Comic on the Way</title>
@@ -2148,6 +2150,15 @@
 <description>Nine years after its reveal, the overdue Roadster is set to debut on Thursday to an EV market that has grown skeptical of electric hypercars.</description>
 <enclosure url="https://media.wired.com/photos/6aceb1911c96dec39a5cc07b/master/pass/Tesla-Roadster-Walkup-Gear-AP-551443509667.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/6aceb1911c96dec39a5cc07b/master/pass/Tesla-Roadster-Walkup-Gear-AP-551443509667.jpg" medium="image"/>
+</item>
+<item>
+<title>22 People Got Together For a Dinner Party. So Did Their A.I. Agents. - The New York Times</title>
+<link>https://news.google.com/rss/articles/CBMilwFBVV95cUxPUjdWaktiYTFVLTlGZFZRelhDLVZTVm5RRGxIWVlfaHNqZXJIeUpMTW1IYzVQMEozcS1UU0VJVktDSzc4cUJIR1haVVJJYWc4SERibnNKS1ZEX2p4NDNYbUxtbDNCYUM3VjU5dW1HMzZiLVFaazJsSEh6Q09XMTJwOVNmUkxkeEwzU2xjOUZ4czBpNGk4U3hr?oc=5</link>
+<guid isPermaLink="false">cef4e950ba0db74507dfa8db6d67fdd9c6da8d39fb1f8537c61db5b279015f54</guid>
+<source>Google News Artificial Intelligence</source>
+<category>technology</category>
+<pubDate>Wed, 14 Oct 2026 09:01:19 +0000</pubDate>
+<description>22 People Got Together For a Dinner Party. So Did Their A.I. Agents. The New York Times</description>
 </item>
 <item>
 <title>AI Models Can Be Easily Modified to Assist Terrorist and Extremist Activity</title>
@@ -2371,26 +2382,6 @@
 <description>The New York Times. . Artificial intelligence has gone from struggling with basic arithmetic to helping solve some of mathematics’ most famous open problems — and the field is reckoning with what that means. Steven Strogatz, a professor of mathematics at Co Facebook</description>
 </item>
 <item>
-<title>The 9 Best Movies to Stream This Month (October 2026)</title>
-<link>https://www.wired.com/story/the-8-best-movies-to-stream-right-now</link>
-<guid isPermaLink="false">7287c6bb1d91a2af4be345f0560e467a88ecbdb71e4ce543975972009fa6f390</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Tue, 13 Oct 2026 18:49:55 +0000</pubDate>
-<description>Barbarian, The Fly, and Altered States are among the films deserving of your eyeballs this month.</description>
-<enclosure url="https://media.wired.com/photos/6acd8e6610b2347a13b0dc66/master/pass/Movie-Guide-Barbarian-Culture-MCDBARB_H3002.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/6acd8e6610b2347a13b0dc66/master/pass/Movie-Guide-Barbarian-Culture-MCDBARB_H3002.jpg" medium="image"/>
-</item>
-<item>
-<title>Opinion | The future job market will break career ladders. Find out who could fall. - The Washington Post</title>
-<link>https://news.google.com/rss/articles/CBMixwFBVV95cUxQV1h6WllzaVRLdXYwUGgxdU5GWnFsWEwwelcta2FhSEpJcWR6RFVfWW5tdXY4YzJqdXpmTWxuTElTSVBnZ1NGUjZIYUVKR1ZtM3dseXZldnFBZmlmbGE5cnFQb1pHZHBnSUNoaTNRWUhBa1owc2dIRi1oNmJULUFMcWpNcW9TZml2RlhacG41ajBNb2swU0RBOHlUYUd0YXFNY0RLVkRyVDlwTm5CSERYZnJHYnR1ZVFCODdEVkRlZ3dKWk5RblFZ?oc=5</link>
-<guid isPermaLink="false">bdeb0461f76b7011d598737fcbd64ba14b60de07dcff13282482a3e3c89f8cfb</guid>
-<source>Google News Artificial Intelligence</source>
-<category>technology</category>
-<pubDate>Tue, 13 Oct 2026 18:00:00 +0000</pubDate>
-<description>Opinion | The future job market will break career ladders. Find out who could fall. The Washington Post</description>
-</item>
-<item>
 <title>What My Son Is Learning From Artificial Intelligence - Greater Good: The Science of a Meaningful Life</title>
 <link>https://news.google.com/rss/articles/CBMinwFBVV95cUxPWko1cF9xQjVnclFKcHBxTDl1dDNwNTlldW90cWFZOVBYaFpwMk1makQydU5vQXdlbjVSYjE5RUhFVFEyQmtyY2ljQzdoU0RqUkJvdGtOeWwxSTB0V2dlT2hqbHhaVVd0cWxoWHdrai12SUNfanFHLXBFdDVVRm1HTzRaZTVxM3BtX3ZSYy05TVB5ZC1nbm1TMjJGVFlWWWM?oc=5</link>
 <guid isPermaLink="false">fa86bf461f9c5fe215f313d6ffe5324e3a5e4e9c5e38fe782ba6db62e5a572a8</guid>
@@ -2415,6 +2406,15 @@
 <source>Hacker News</source>
 <category>technology</category>
 <pubDate>Tue, 13 Oct 2026 12:30:08 +0000</pubDate>
+<description>Comments</description>
+</item>
+<item>
+<title>Speculative Sauropods</title>
+<link>https://svpow.com/2026/10/02/speculative-sauropods</link>
+<guid isPermaLink="false">7e28354c0ae38a898019b3f43c844c9656043914a126453b51005b7bd8c6e8d3</guid>
+<source>Hacker News</source>
+<category>technology</category>
+<pubDate>Tue, 13 Oct 2026 12:20:03 +0000</pubDate>
 <description>Comments</description>
 </item>
 <item>
