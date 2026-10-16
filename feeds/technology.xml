@@ -4,6 +4,17 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Apple&amp;#8217;s updated App Store rules go after &amp;#8216;nudify&amp;#8217; AI apps</title>
+<link>https://www.theverge.com/tech/1013314/apple-app-store-nudify-ai-apps-harassment</link>
+<guid isPermaLink="false">67d3c07f032253c01ad3a59484e57be7287886c933893b1cb12364162d34c560</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Fri, 16 Oct 2026 22:51:22 +0000</pubDate>
+<description>Apple's App Store rules now more explicitly ban so-called "nudify" apps that generate intimate images of people without their consent using AI tools. The rule changes follow significant criticism toward Apple after X users used Grok earlier this year to make nonconsensual, sexualized deepfakes, including minors. Apple didn't pull X or Grok from the App […]</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK419_DEEPFAKE_3_CVIRGINIA_B.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK419_DEEPFAKE_3_CVIRGINIA_B.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
 <title>News 12 Investigates: AI s next chapter raises questions about human control - WCTI</title>
 <link>https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSUhWOU92dFBjd0tnNUM3U1d6RkxqZDkwMDlwS2ZIOFp4SG5uMng5djlaWUZqbXJNRjF6U2VyTkhoTmR6Zml3NmE1U2pGY0pwc192blN6cHhCaDQyS05Tb3J0WnVGdGhMMDkybkdXT3FSMmM3Z0lVN01nMU1xTUJjU0xyX2RaYUpWX2dqQlR5Y1NxQ2l6c3ZtSEp3Uk8xcmNPYmhadDg1OW9ncnFUUC04YndMUk1HU29LeFAw?oc=5</link>
 <guid isPermaLink="false">6af1433a8d4363706f1d1db9b30483cb0f95d7f6a145971c06eff090ece25fe4</guid>
@@ -76,15 +87,6 @@
 <description>The metric might not mean much to laypeople, but leap seconds have been a source of contention in the timekeeping community for years. Now, they’re dead.</description>
 <enclosure url="https://media.wired.com/photos/6ad26223a56495c621c70456/master/pass/Science_PourOneOutfortheLeapSecond-ezgif.com-video-to-gif-converter.gif" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/6ad26223a56495c621c70456/master/pass/Science_PourOneOutfortheLeapSecond-ezgif.com-video-to-gif-converter.gif" medium="image"/>
-</item>
-<item>
-<title>Carroll Schools has an AI policy for students, families and staff. Here’s what it says. - Baltimore Sun</title>
-<link>https://news.google.com/rss/articles/CBMimAFBVV95cUxPTlpwaVdZb0NNZ2JkNGFFWFVqZGJtM2ZMZFNmLUkwaWhsbnlxLUxaaGw3UXhOSXJjRGJrMEJQQ2lFaENtNTBoeDlBdVN2dmFKQ3BCRWgxVG1iYktlYWVQZ1J4M3llWU5VaHZXQjQ3YlcwdnRmWWRtQkxHeldXVEFVNlZSNDNIMl96S0M0aG1xWkZwTTFlUWxOOA?oc=5</link>
-<guid isPermaLink="false">1bde88a5a137ad42c27989bb3997769112804bb94c5458adfaee6047089c8355</guid>
-<source>Google News Artificial Intelligence</source>
-<category>technology</category>
-<pubDate>Fri, 16 Oct 2026 21:29:39 +0000</pubDate>
-<description>Carroll Schools has an AI policy for students, families and staff. Here’s what it says. Baltimore Sun</description>
 </item>
 <item>
 <title>Tech bills of the week: Cutting federal funding for Flock; Making data centers shoulder their power costs; and more - Nextgov/FCW</title>
@@ -266,15 +268,6 @@
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2233803629-2-1152x648.jpg" medium="image"/>
 </item>
 <item>
-<title>Terry Tao Is on the Front Lines of the Debate Over AI and the Future of Math - The New York Times</title>
-<link>https://news.google.com/rss/articles/CBMib0FVX3lxTE5obDJaUW0zTDU0Q2RqRGd6QlRabDFENjNiMTJtR0ZLOXkycWhXNjVlT2Vxc1hFRWhacTd6MEFyM01fU1c5UmNxME82N1VVVDFCWnBKWVZ0bDdvVXRZLXFXaldhNF83RG1keHVIV04xVQ?oc=5</link>
-<guid isPermaLink="false">fd6fb00f5080679054f5f3626364af5741c9ac7873a862765d01fe4c0d16898b</guid>
-<source>Google News Artificial Intelligence</source>
-<category>technology</category>
-<pubDate>Fri, 16 Oct 2026 20:15:45 +0000</pubDate>
-<description>Terry Tao Is on the Front Lines of the Debate Over AI and the Future of Math The New York Times</description>
-</item>
-<item>
 <title>Danaher, Nvidia Combine Lab Instrumentation and AI to Advance Autonomous Science - Genetic Engineering and Biotechnology News</title>
 <link>https://news.google.com/rss/articles/CBMi1AFBVV95cUxQSzlCdDN2Rjd5eWZmUmdnU1hIUTg0ZFhPQlNZeXpnOEJJRGJ2c0d4NmhuT25ZWDNIZUdiM3BhNkpGc2J2Q0lQUHhhcmVUc21NX1pDVkR4ZXhiUVdlRjR6ZjNxQlpRT25iY253S3RyOFhkcGZPOWMtZEJWWFpFVW1YVXhwbGVmSGYtTkpSTkZzaG1iMWZqWDV5bzhBZ1BxT2xMT2RjbWdrckIzcGM3U0pJWk9KamVvamtQWHFVSzdsR1BwUWZTYlRINExTTG9CZmIyZTNTbw?oc=5</link>
 <guid isPermaLink="false">eedf027fdf04f68b65f7437771a43a40e6ca22411fbfef8cadb34b0988acad3c</guid>
@@ -349,15 +342,6 @@
 <category>technology</category>
 <pubDate>Fri, 16 Oct 2026 19:38:22 +0000</pubDate>
 <description>AI decision-support systems are often seen as just battlefield tools, but they are so much more Federal News Network</description>
-</item>
-<item>
-<title>The Fatal Flaw of 911</title>
-<link>https://www.themarshallproject.org/2026/10/16/911-book-policing-mental-health</link>
-<guid isPermaLink="false">6cf74a1e057f0a27bc54ae447209c92cefa43bece42dabed97d53350f5e7d577</guid>
-<source>Hacker News</source>
-<category>technology</category>
-<pubDate>Fri, 16 Oct 2026 19:33:00 +0000</pubDate>
-<description>Comments</description>
 </item>
 <item>
 <title>Standing Room Only: New Platform Uses Machine Learning to Tackle Recreation Crowding - Utah State University</title>
@@ -683,15 +667,6 @@
 <category>technology</category>
 <pubDate>Fri, 16 Oct 2026 16:38:51 +0000</pubDate>
 <description>Anything not tied to artificial intelligence took off this week CNBC</description>
-</item>
-<item>
-<title>Central bankers eye higher rates as AI boom fuels scramble for cash - Reuters</title>
-<link>https://news.google.com/rss/articles/CBMiswFBVV95cUxNRUtKN0pzRWNldm1acUxBY0o2M0h6UWlxVHNpT0pWcmQ4c1VQdG8wVE5iaTM2RWVocXN3MDFKMUZwblpDTWNFcTZiUFhNSkpYdlRwMGZhc0Q1UUNCZENPVm5CcDZjYXFZQ2FLaDV0eG5lak1qZ1hlSDZXT05leFQtZ2FubWhKbXlrNWNqbTEybGo5V0dESzk3U2VhbTl4WWNQdHBRc3luM3F4cGIyMEI2RjFYVQ?oc=5</link>
-<guid isPermaLink="false">ea305971b40f2bb78a7e81870cc949375f083dbef338f1ad2144a9918a1c2e61</guid>
-<source>Google News Artificial Intelligence</source>
-<category>technology</category>
-<pubDate>Fri, 16 Oct 2026 16:38:28 +0000</pubDate>
-<description>Central bankers eye higher rates as AI boom fuels scramble for cash Reuters</description>
 </item>
 <item>
 <title>Elon Musk's AI company testifies at NYC Council hearing on artificial intelligence safety and regulations - ABC7 New York</title>
@@ -1104,17 +1079,6 @@
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/Roadster_87-1152x648.jpg" medium="image"/>
 </item>
 <item>
-<title>Meta’s new terms may allow it to train AI on news sites for free</title>
-<link>https://www.theverge.com/tech/1012846/meta-business-terms-scrape-news-publishers</link>
-<guid isPermaLink="false">ca580b1475b7847a1b70cd0acc279b029b315ee708cea4f4be2fa3cae1b4ac52</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Fri, 16 Oct 2026 14:02:40 +0000</pubDate>
-<description>Meta's new terms appear to give it permission to crawl and scrape websites "associated" with the businesses that use its platforms - including online publishers, according to a report from Nieman Lab. The new terms, which go into effect on October 30th, say Meta can use this outside content to "develop, improve, research," and "train" […]</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25546023/STK043_META_CVIRGINIA_A.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25546023/STK043_META_CVIRGINIA_A.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
 <title>Super Scam Me documentary shows what it takes to catch a romance scammer</title>
 <link>https://arstechnica.com/tech-policy/2026/10/romance-scam-doc-super-scam-me-takes-viewers-deep-into-love-bombing-terrain</link>
 <guid isPermaLink="false">a9bac7249b15a7a13d807a54ca395e4624b0e7b9911f2c9099df008096c307b5</guid>
@@ -1511,15 +1475,6 @@
 <media:content url="https://www.engadget.com/img/gallery/gmails-live-ai-search-feature-arrives-for-google-ai-subscribers/l-intro-1792139377.jpg" medium="image"/>
 </item>
 <item>
-<title>China mulls new tech export bans covering AI, biotechnology and solar power - South China Morning Post</title>
-<link>https://news.google.com/rss/articles/CBMixgFBVV95cUxQckdYaXhCT3FoMFl5SHhSbEhvNDRPWjFtcDlUUzV4U2h4NmFnaF9yc2xQbk9Ea2dUcHRFWmdkbjhOWDFfcjB1Q25yeVBFdDhKb1NneHg4WWFGcUhaVGtTWjJFMEVwOHJZdmt1bjdDanV5SG9URTR3UmpLY0RiRmxVZGlRbU5xcEt3MHVsNGVtSmxhZ0l0U1dQSmFwZk5BOHNSdnlyeW9BSFVUcTJkUmdobEhOMm5WYjhmMFN0TXBUelBuN0EyLWfSAcYBQVVfeXFMUElacGlzTVRseUtzSEZCSk5FSW5FaXVBbDRVQkVncHRqUXVmcDloY0ZCb0hiRjlxbkU0RDliRG5zUm1VUDd4N2tPNmd5TU4wWUI1eURILXZRS2ZQczR6YVdaQXJUSjh2VnZHbG1CUGFkdkFMbklBZHFJT0gtOFlaS1hhZlo3ZnQ3RWNLZ3djR0lhYm1tanlqMkVoaXNsUFUwblJ5Q1NQcDZzN0MyM3FYUEpnMGRPWDN1QXpZSnNpbHpESmZ4Qkt3?oc=5</link>
-<guid isPermaLink="false">64c35c78fd9419e284b7b2c58b254d9b9917bfcb9f54fcf2fe3548ffc4769f2c</guid>
-<source>Google News Artificial Intelligence</source>
-<category>technology</category>
-<pubDate>Fri, 16 Oct 2026 08:31:39 +0000</pubDate>
-<description>China mulls new tech export bans covering AI, biotechnology and solar power South China Morning Post</description>
-</item>
-<item>
 <title>US Treasury pushes IMF partners to rename artificial intelligence as "super intelligence" - Dealroom</title>
 <link>https://news.google.com/rss/articles/CBMivgFBVV95cUxONWlBY3hWUUpOSXIxaHNPclpIU19sUTM1ZUtuY1lNTWpfV1BfUFRfb3FjcXZaX0pLa2l2akNPc3V5YTlZZnBma29zdGlGT1lqb2ItallOcERKdDFYeEFrdzNicU5EaG43SHBqWndXQlVmcU5NTm5rZXo2U1JLaGZqZ19ZbVp3czlHeFpGX2sxdkM0YkZ1SzZuVldQNHpGSU5PRGxENXdqZWNGalpRem1QSVNoREtfVDR4dEZITjJn?oc=5</link>
 <guid isPermaLink="false">955a3ec05169811e71869a8e9ec525147c207b34c0cf061958992bf1f4bc23b2</guid>
@@ -1833,6 +1788,15 @@
 <category>technology</category>
 <pubDate>Thu, 15 Oct 2026 19:55:25 +0000</pubDate>
 <description>Speaking at TechCrunch Disrupt, Amazon devices chief Panos Panay described a future where ambient AI devices work in the background, anticipating users' needs instead of waiting for commands.</description>
+</item>
+<item>
+<title>Trump’s Move to Rename Artificial Intelligence to ‘Super Intelligence’ is About Much More Than It Seems - Talking Points Memo</title>
+<link>https://news.google.com/rss/articles/CBMib0FVX3lxTE1UNThCQTNqeTFtSnpoWTgxVnhqM2lUdGRNaU1mM091c3JBZEo4bmo1NzkyTEJjdGNWR3R5SVpSQ0JMQXJPM09fVV92bFJoSEdObl91bTFWaUhHZkdRR3ZsVkFFNXFjcVNFRjV6dHlmcw?oc=5</link>
+<guid isPermaLink="false">c9f3d0dbeed6fa66b36ae0d548f0cb6d44d52b41e25f47a64360895cd2bb50c2</guid>
+<source>Google News Artificial Intelligence</source>
+<category>technology</category>
+<pubDate>Thu, 15 Oct 2026 19:41:00 +0000</pubDate>
+<description>Trump’s Move to Rename Artificial Intelligence to ‘Super Intelligence’ is About Much More Than It Seems Talking Points Memo</description>
 </item>
 <item>
 <title>Bluesky wants to make it easier to buy, sell, and fundraise on the network</title>
@@ -2329,6 +2293,17 @@
 <media:content url="https://media.wired.com/photos/6ace56e6d9cd42daf5a15def/master/pass/Review%20Breville%20Eye%20Q%20Toaster%20102026%20top%20art%20SOURCE%20Breville.jpg" medium="image"/>
 </item>
 <item>
+<title>The Politics of Solar Energy Are Getting Weird, Mean, and a Little MAGA</title>
+<link>https://www.wired.com/story/the-politics-of-solar-energy-are-getting-weird-mean-and-a-little-maga</link>
+<guid isPermaLink="false">b7759926fe52d087ebd12bce3319829839b4d9f38547f86e59a69a4c4a48f231</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Wed, 14 Oct 2026 10:30:00 +0000</pubDate>
+<description>A mysterious super PAC that doubles as a pro-solar-energy outfit is funding some of the most knives-out attack ads of the midterms season.</description>
+<enclosure url="https://media.wired.com/photos/6acef92248e0f30c1c04574c/master/pass/Business_The%20Green%20Movement%20Goes%20Knives%20Out%20for%20the%20Midterms_v1.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6acef92248e0f30c1c04574c/master/pass/Business_The%20Green%20Movement%20Goes%20Knives%20Out%20for%20the%20Midterms_v1.jpg" medium="image"/>
+</item>
+<item>
 <title>JackRabbit MG Cargo Bike Review (2026): Compact and Powerful</title>
 <link>https://www.wired.com/review/jackrabbit-mg-cargo-electric-bicycle</link>
 <guid isPermaLink="false">4e1ee63fe6bb37e6b4af7e95c60a5321f56c58fd354be58f70933035e7c94890</guid>
@@ -2340,15 +2315,13 @@
 <media:content url="https://media.wired.com/photos/6ace50eeb4ce7b4026cc7e3c/master/pass/Review%20JackRabbit%20MG%20Cargo%20Review%20102026%20top%20art%20SOURCE%20Jackrabbit.jpg" medium="image"/>
 </item>
 <item>
-<title>The Politics of Solar Energy Are Getting Weird, Mean, and a Little MAGA</title>
-<link>https://www.wired.com/story/the-politics-of-solar-energy-are-getting-weird-mean-and-a-little-maga</link>
-<guid isPermaLink="false">b7759926fe52d087ebd12bce3319829839b4d9f38547f86e59a69a4c4a48f231</guid>
-<source>Wired</source>
+<title>The Big Problem Every Artificial Intelligence Company Faces - BGR</title>
+<link>https://news.google.com/rss/articles/CBMijAFBVV95cUxQdnVOLXZnNnFmY05jSl9pTjZzWEppZllJR1lTM2hOOE5ZSTFrRWthRHZsVy1BSzg1NzJ5Vm9DdmJqSURaNVNEa2xNblFTaHpPanFINlpkdjE4SGk3OHlsQnVydGt0eGthb3p0eEppaWFreGdPTkFQRGY1LVR2RUNMZUpCRTRJaTczZk9QSQ?oc=5</link>
+<guid isPermaLink="false">9bdc9aa23770969edbb153333649868259b7665ead1473004e33c2e405da49da</guid>
+<source>Google News Artificial Intelligence</source>
 <category>technology</category>
-<pubDate>Wed, 14 Oct 2026 10:30:00 +0000</pubDate>
-<description>A mysterious super PAC that doubles as a pro-solar-energy outfit is funding some of the most knives-out attack ads of the midterms season.</description>
-<enclosure url="https://media.wired.com/photos/6acef92248e0f30c1c04574c/master/pass/Business_The%20Green%20Movement%20Goes%20Knives%20Out%20for%20the%20Midterms_v1.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/6acef92248e0f30c1c04574c/master/pass/Business_The%20Green%20Movement%20Goes%20Knives%20Out%20for%20the%20Midterms_v1.jpg" medium="image"/>
+<pubDate>Wed, 14 Oct 2026 10:17:00 +0000</pubDate>
+<description>The Big Problem Every Artificial Intelligence Company Faces BGR</description>
 </item>
 <item>
 <title>cool kids are writing in all lowercase now. does that make you mad?</title>
@@ -2371,6 +2344,15 @@
 <description>Nothing’s best headphones yet double down on design, comfort, sound quality, and highly adjustable EQ settings.</description>
 <enclosure url="https://media.wired.com/photos/6ace413d24c9f1116aeab823/master/pass/Nothing%20Headphone%20(1)%20Pro%20102026%20top%20art%20SOURCE%20Amazon.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/6ace413d24c9f1116aeab823/master/pass/Nothing%20Headphone%20(1)%20Pro%20102026%20top%20art%20SOURCE%20Amazon.jpg" medium="image"/>
+</item>
+<item>
+<title>22 People Got Together For a Dinner Party. So Did Their A.I. Agents. - The New York Times</title>
+<link>https://news.google.com/rss/articles/CBMilwFBVV95cUxPUjdWaktiYTFVLTlGZFZRelhDLVZTVm5RRGxIWVlfaHNqZXJIeUpMTW1IYzVQMEozcS1UU0VJVktDSzc4cUJIR1haVVJJYWc4SERibnNKS1ZEX2p4NDNYbUxtbDNCYUM3VjU5dW1HMzZiLVFaazJsSEh6Q09XMTJwOVNmUkxkeEwzU2xjOUZ4czBpNGk4U3hr?oc=5</link>
+<guid isPermaLink="false">cef4e950ba0db74507dfa8db6d67fdd9c6da8d39fb1f8537c61db5b279015f54</guid>
+<source>Google News Artificial Intelligence</source>
+<category>technology</category>
+<pubDate>Wed, 14 Oct 2026 09:01:19 +0000</pubDate>
+<description>22 People Got Together For a Dinner Party. So Did Their A.I. Agents. The New York Times</description>
 </item>
 <item>
 <title>Wireless magnetic millirobots that deliver medicine inside the beating heart</title>
@@ -2400,6 +2382,15 @@
 <description>Comments</description>
 </item>
 <item>
+<title>The Bawdy Graffiti of Pompeii and Herculaneum (2017)</title>
+<link>https://kashgar.com.au/blogs/history/the-bawdy-graffiti-of-pompeii-and-herculaneu</link>
+<guid isPermaLink="false">fc55386120f0c382198a95f10b84439a2f20c7b710274b143eac77ed4ce494e3</guid>
+<source>Hacker News</source>
+<category>technology</category>
+<pubDate>Tue, 13 Oct 2026 19:40:29 +0000</pubDate>
+<description>Comments</description>
+</item>
+<item>
 <title>The New York Times. . Artificial intelligence has gone from struggling with basic arithmetic to helping solve some of mathematics’ most famous open problems — and the field is reckoning with what that means. Steven Strogatz, a professor of mathematics at Co - Facebook</title>
 <link>https://news.google.com/rss/articles/CBMinAFBVV95cUxNU0RGUE1VajZ0NWZfYWVGbGJOOXBoUi1kNnZXX2lGQjFmS0F4SERhN0VJbXJWc1BKSUl5ekNLbU96X2ZqWXdNNVF6YU1sRTFFZVFIZWpVLWN2NXRSWnRVUlUzam5qQ0xEaE13Z3ZpTmdWeTFMZnJNdkhkTVQ1UDRuNVNyOG8xZzFNV0lrbXFfMnpiWE5aMkw2TFYyUWM?oc=5</link>
 <guid isPermaLink="false">fd8ce9fa0f337c2c4d94c5382527fa478c704cf2672f6a93fb4efb5706562a33</guid>
@@ -2416,6 +2407,15 @@
 <category>technology</category>
 <pubDate>Tue, 13 Oct 2026 18:11:46 +0000</pubDate>
 <description>Comments</description>
+</item>
+<item>
+<title>Kroger to lay off 3,000 employees as it leans into artificial intelligence - Atlanta News First</title>
+<link>https://news.google.com/rss/articles/CBMisgFBVV95cUxOZGNDeEhpTEJocjlVb0ZJT2VWclVCZjd3SG1yYm14eHdFMGxxcUphdnZCMFk2dnJiSU1LaUs5M3dybi1UNGZVeVc5c01CSXFwdXBNRm5ZVWx0NWhrZEk1YzZzc1hsajI5M2xiVms3d3NVcHI5ZzFqbWxxdXNueVpKMFVPcEREeVdobU1iNVZ5ekI4SHdPaHdlYmlKUUxrcmhJT2hpWEpkZGZ3cGJzTERmVVZ30gHGAUFVX3lxTE1hR0VTYnZzRXZZaDllS1NUVG9xWExxWVVaR3hPM2lYb1dhVnJud1JMR0FWLUV4STVsa1B6a3RqSDYtVEdjNXMtdVhnT2ZSMnctcG9qNjFCTFI3bU16Q3NsRlF1dnItckd5X2lrdkJtY0JtMjRpZERELWdWYjRERm1BRzkwYzgyTUcwUGNNOXVWTGVMQzhOc2Q0M3ViLV9jRUxfcmJ3MFA4Zm0xZXJEeTBKXzBQRDBUMHdBay1ybEpuejdmNndEZw?oc=5</link>
+<guid isPermaLink="false">529c45fec536eb4bfc21cb1d0a3634227c5a7db3f62a9c41e19dca9fbd45740f</guid>
+<source>Google News Artificial Intelligence</source>
+<category>technology</category>
+<pubDate>Tue, 13 Oct 2026 17:10:00 +0000</pubDate>
+<description>Kroger to lay off 3,000 employees as it leans into artificial intelligence Atlanta News First</description>
 </item>
 <item>
 <title>What My Son Is Learning From Artificial Intelligence - Greater Good: The Science of a Meaningful Life</title>
