@@ -4,6 +4,15 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>AI Legislative Update: Oct. 16, 2026 - Transparency Coalition</title>
+<link>https://news.google.com/rss/articles/CBMihAFBVV95cUxQN0pwVnQ0VVNrY0doNnlWMDdpaTZYeFRhTF9jTVgzLXVSQUdIM3VsUlRUTnJwRng1WEpHX1hxY19KbWdFcUlXR21xZWpBMmNLY2IzemxiOTlaNE5UYXlqZ2hPdVZlX3BTWWNBTElPd2hFWUlCV3V6cFBpS2RIWXBtVV9oZ1E?oc=5</link>
+<guid isPermaLink="false">607a7687721c707a0c6341eacc3921b2ca4140a1ffbd8213c7670fbda3287c24</guid>
+<source>Google News Artificial Intelligence</source>
+<category>technology</category>
+<pubDate>Fri, 16 Oct 2026 23:10:24 +0000</pubDate>
+<description>AI Legislative Update: Oct. 16, 2026 Transparency Coalition</description>
+</item>
+<item>
 <title>Apple&amp;#8217;s updated App Store rules go after &amp;#8216;nudify&amp;#8217; AI apps</title>
 <link>https://www.theverge.com/tech/1013314/apple-app-store-nudify-ai-apps-harassment</link>
 <guid isPermaLink="false">67d3c07f032253c01ad3a59484e57be7287886c933893b1cb12364162d34c560</guid>
@@ -13,15 +22,6 @@
 <description>Apple's App Store rules now more explicitly ban so-called "nudify" apps that generate intimate images of people without their consent using AI tools. The rule changes follow significant criticism toward Apple after X users used Grok earlier this year to make nonconsensual, sexualized deepfakes, including minors. Apple didn't pull X or Grok from the App […]</description>
 <enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK419_DEEPFAKE_3_CVIRGINIA_B.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
 <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK419_DEEPFAKE_3_CVIRGINIA_B.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
-<title>News 12 Investigates: AI s next chapter raises questions about human control - WCTI</title>
-<link>https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSUhWOU92dFBjd0tnNUM3U1d6RkxqZDkwMDlwS2ZIOFp4SG5uMng5djlaWUZqbXJNRjF6U2VyTkhoTmR6Zml3NmE1U2pGY0pwc192blN6cHhCaDQyS05Tb3J0WnVGdGhMMDkybkdXT3FSMmM3Z0lVN01nMU1xTUJjU0xyX2RaYUpWX2dqQlR5Y1NxQ2l6c3ZtSEp3Uk8xcmNPYmhadDg1OW9ncnFUUC04YndMUk1HU29LeFAw?oc=5</link>
-<guid isPermaLink="false">6af1433a8d4363706f1d1db9b30483cb0f95d7f6a145971c06eff090ece25fe4</guid>
-<source>Google News Artificial Intelligence</source>
-<category>technology</category>
-<pubDate>Fri, 16 Oct 2026 22:39:18 +0000</pubDate>
-<description>News 12 Investigates: AI s next chapter raises questions about human control WCTI</description>
 </item>
 <item>
 <title>Buying Legal NYC 2026: Why legal leaders are focused on the foundations of AI success - Wolters Kluwer</title>
@@ -454,6 +454,15 @@
 <description>Citizen Science Groups Grapple With the Rise of A.I. Slop The New York Times</description>
 </item>
 <item>
+<title>UMass Boston Offers AI Education Microcredential Program - UMass Boston</title>
+<link>https://news.google.com/rss/articles/CBMimgFBVV95cUxQS01fUW9PYzc0QTdwTzB2X1JUdnhraWZlUlZiTnNjTTVqVFNGdGJ4MVJJaVJmaXpIV1BVUmRQaENDanlDZEJPN1M5aG1Ta3VHZDN0QW05VGV2SThTRDdYcHowU1JJLWdUdDQ2eXA1SU5udldVV25OZDNTelVEWWZmRVY3bTdWMHFXaXhqM3NlaEdlZTI2bXpTeEZR?oc=5</link>
+<guid isPermaLink="false">0d2d858eb947a6d1da653a385232650fe0cae73066a63048307fa47bdcd243f2</guid>
+<source>Google News Artificial Intelligence</source>
+<category>technology</category>
+<pubDate>Fri, 16 Oct 2026 18:33:01 +0000</pubDate>
+<description>UMass Boston Offers AI Education Microcredential Program UMass Boston</description>
+</item>
+<item>
 <title>Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console</title>
 <link>https://github.com/cobanov/PS5LM</link>
 <guid isPermaLink="false">7661019fe020ff68160483021ee6649eca10ea6d824a3b1293c6bab26a1cbd96</guid>
@@ -501,15 +510,6 @@
 <category>technology</category>
 <pubDate>Fri, 16 Oct 2026 18:06:17 +0000</pubDate>
 <description>Comments</description>
-</item>
-<item>
-<title>In Brief: UT-Led Fusion Research Team Wins Google.org AI Award - UT News</title>
-<link>https://news.google.com/rss/articles/CBMingFBVV95cUxQYURMRExkX2dvZU5Yek5Xb2Rld0hPUXhjSkVKSDd4WHNOUEpQR1RpTmpFY1VKVUpZMXlsSUplTHpSZkFqdkNHOTRCVW5FbWM5OW9QZ1cybDZPd2FtVlNpWEFNQU9YSTFjRjVpRHpLQTByWGVKQTdEMzF0ZlR6am0xZFRhZ285WlJLQTZvQU1xR21rb0o0RjBjb3FYNFh3QQ?oc=5</link>
-<guid isPermaLink="false">e1a4f99d5f4d7771e1ad146ac71f1c5a2352eb8943fae8509cf0f4f5a88e38a4</guid>
-<source>Google News Artificial Intelligence</source>
-<category>technology</category>
-<pubDate>Fri, 16 Oct 2026 18:02:15 +0000</pubDate>
-<description>In Brief: UT-Led Fusion Research Team Wins Google.org AI Award UT News</description>
 </item>
 <item>
 <title>Designing more efficient quantum circuits with Claude</title>
@@ -651,15 +651,6 @@
 <description>Catholic Diocese in Mali Plans Charter for Responsible Use of Artificial Intelligence ACI Africa</description>
 </item>
 <item>
-<title>AI Legislative Update: Oct. 16, 2026 - Transparency Coalition</title>
-<link>https://news.google.com/rss/articles/CBMihAFBVV95cUxQN0pwVnQ0VVNrY0doNnlWMDdpaTZYeFRhTF9jTVgzLXVSQUdIM3VsUlRUTnJwRng1WEpHX1hxY19KbWdFcUlXR21xZWpBMmNLY2IzemxiOTlaNE5UYXlqZ2hPdVZlX3BTWWNBTElPd2hFWUlCV3V6cFBpS2RIWXBtVV9oZ1E?oc=5</link>
-<guid isPermaLink="false">607a7687721c707a0c6341eacc3921b2ca4140a1ffbd8213c7670fbda3287c24</guid>
-<source>Google News Artificial Intelligence</source>
-<category>technology</category>
-<pubDate>Fri, 16 Oct 2026 16:41:59 +0000</pubDate>
-<description>AI Legislative Update: Oct. 16, 2026 Transparency Coalition</description>
-</item>
-<item>
 <title>Anything not tied to artificial intelligence took off this week - CNBC</title>
 <link>https://news.google.com/rss/articles/CBMiogFBVV95cUxPajNiU2dpTDU5VnpVTmlTbFA5bk45QVJvUnJNWlFpcWZxUHJYdy1fVlYwZ0dwZ0xQaFZvWDY2UlliUE1HaGdoQ0Q0bWpmcE9jZnlEUS11Y3VsY0JQUmhxeU1RWG5zVHYwNDY0WTlha2wwdlBkRWtyUGxwZFdXNmtUV05sejB1dFhQOUx1VUZXRnFvYktwano5QWtZMXg4OVNVZHc?oc=5</link>
 <guid isPermaLink="false">4b6682c0e1d22a3e768285d339646534c85bddf14b284b07b0bae462912e048a</guid>
@@ -756,15 +747,6 @@
 <category>technology</category>
 <pubDate>Fri, 16 Oct 2026 16:20:00 +0000</pubDate>
 <description>ARA Secures Patent for Artificial Intelligence in Critical Care Yahoo Finance</description>
-</item>
-<item>
-<title>Fed Chair Kevin Warsh warns of AI 'shock' for economy, pledges to contain inflation - ABC News - Breaking News, Latest News and Videos</title>
-<link>https://news.google.com/rss/articles/CBMilwFBVV95cUxOSHRMYTRHanJFWjJnNGNLRExKaGZOdEtWWlNKdHFhdmRHc3dJcnZNV2NfZmxkTFJQdmRKYkllRFVsN1lIbGVsWFdxN3NJRVZCLWNVNzhPaU5aUGlSMDE3bTN4RFpCT01KVlZ1R0dieUhhQ1pmNlh5RjhXLWpCWFE2VEhYQy10OHRFU2dLX0owMlMtbnVTR0NN0gGcAUFVX3lxTE9NczBRSGxTSUhocXdVbmRiQVdhRUg2d0FaTk9nZkpQRDdnNUlMS1BJeFZrOVhiU0RYZEt6VUVjRm52SDdJaHFWeHFSQVI3Q09hZVB1dFQtZDRGb3pfVndMY1lJVklyRUVwM2p5R2c0cmJIc3VLbXJsczR1SHlCNGZfUVB2R1dnTlBIamphWUtQQzNQdnRzY2xsSTNEVw?oc=5</link>
-<guid isPermaLink="false">ed816b952e05192ca949a378cd1910daf804604acf6b663210b92a5a4fd023af</guid>
-<source>Google News Artificial Intelligence</source>
-<category>technology</category>
-<pubDate>Fri, 16 Oct 2026 16:12:34 +0000</pubDate>
-<description>Fed Chair Kevin Warsh warns of AI 'shock' for economy, pledges to contain inflation ABC News - Breaking News, Latest News and Videos</description>
 </item>
 <item>
 <title>JPEG XL vs. AVIF for web use-cases</title>
@@ -926,15 +908,6 @@
 <description>Elon Musk has assembled a presidential-level field operation this midterm cycle, underscoring the extent to which he has taken over the get-out-the-vote effort for the Republican party.</description>
 <enclosure url="https://media.wired.com/photos/6acd9562b718d45618194704/master/pass/GettyImages-2180560800.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/6acd9562b718d45618194704/master/pass/GettyImages-2180560800.jpg" medium="image"/>
-</item>
-<item>
-<title>New Startup Aims to Bring AI and Robotics to Material Manufacturing - Industrial Equipment News</title>
-<link>https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSUhLZGotNFRFMXhjNjQtclZSVUZCOFNSSzA0MUdwUzhBS1M5NmNSSmlJbDZxLVRTU1BRVUtTYzAzd0FhSjNPZUM3THcyd2FMSjZmT29QaEhOUU5XcnZZUlYyeUdOT0hINnBzeFp1eEcybklQN29VR2p1WnlaUEZlSHZ4c3h0Mm0xQm5XTGtPRGRPbS0zamdzLURaTUZjc014TjgtOUR3di1yMkg5N2YzbzJSXzJzNUk1T0duV2Z1SV9Mcm8?oc=5</link>
-<guid isPermaLink="false">ad68e5754c40d3e9096f0ae1cf6a6eb6549ff43c752b9e4345fa076ef1839fc5</guid>
-<source>Google News Artificial Intelligence</source>
-<category>technology</category>
-<pubDate>Fri, 16 Oct 2026 15:18:45 +0000</pubDate>
-<description>New Startup Aims to Bring AI and Robotics to Material Manufacturing Industrial Equipment News</description>
 </item>
 <item>
 <title>Analogue is re-releasing its SNES and Genesis consoles with some nice upgrades</title>
@@ -1153,6 +1126,15 @@
 <description>New publication urges skeptical approach to election information produced by artificial intelligence WRVO Public Media</description>
 </item>
 <item>
+<title>Screen use, artificial intelligence and social media: Impact on children and young people - House of Lords Library</title>
+<link>https://news.google.com/rss/articles/CBMiwAFBVV95cUxPQWZPV0FDNjBzV1RzdlBQSF9haUtQNVFHX1RFSHBnVkQyTXNJWDczM2pNQWQzZWlCNEFLVVhiQ3BhU0JSTzBzVm03RmpVWnYwNVJKVmVjbFc5S3I2MzlVS3ZOa2VWcTYtNFctZl9kYzFSZnF5UU1wWVAyRUZPZ1JlbFNrZjNldzE3X0Z1VGliQlAyR0VYTHJhSnAwdVVsczZnSGR3QVl1el9nUS1RQjJiS3dNNktlTzFDb1NPZGktYUM?oc=5</link>
+<guid isPermaLink="false">b83625372469e4822696b70c589dd775c5b2867743bc3b46b8a132d55994359d</guid>
+<source>Google News Artificial Intelligence</source>
+<category>technology</category>
+<pubDate>Fri, 16 Oct 2026 13:06:19 +0000</pubDate>
+<description>Screen use, artificial intelligence and social media: Impact on children and young people House of Lords Library</description>
+</item>
+<item>
 <title>Artificial intelligence: after the euphoria, time to reckon - marketscreener.com</title>
 <link>https://news.google.com/rss/articles/CBMirwFBVV95cUxOVnV3cU5jcW9fbXlHZDhKVVI4YVhGM3NORmtWT2FpdUFIa0s1aVhKLTQ0bjdJNTVkOENkT2wtSzlEX0UweE1MczJYUEhWb0Z4dTlMUTVITlpoOXAtWjd6RWlZdGx5UXFFWFdTcmFBZC0xVFRmTGx3ajRuU3pCSFg1VmlpZ0NVRGswVFdjendiM1JhYWlrY2pNU01Hdjc4UERPdzR4OHJZeEwzdDNZODBF?oc=5</link>
 <guid isPermaLink="false">20425ab833eb4d94d0c9a6a8971474f58e5c94bf4b3706a46d5c71118ba7a85d</guid>
@@ -1251,6 +1233,15 @@
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/MS_Surface_Laptop_Ultra_Feature-1152x648.jpg" medium="image"/>
 </item>
 <item>
+<title>AI bot company Character.ai seeks bankruptcy protection - Computerworld</title>
+<link>https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNjVZcUVhNjg1WDJKUzBKbG5PZ2pCWTlZNDh2RUNmM1pzQWRtblBMVVlsdDhzdVVqVHJBQ3ZnU1VpcUg5a0xlcHgxNGVXRENQQjlNQ2RaZndDUkNuNFdhSnM1S2IwMjRsT1dHaURWdlI1VlZnYUk5TFg4TWxMQXJvS1B0U3QxcC1sNkxpOWtZV1pQcmlMOW02aE83cVhwUDhZRXV3cHgyNDY5dw?oc=5</link>
+<guid isPermaLink="false">394c2e67313a6490af0150b57d97bd1917de2c2c1adfec1541b9a24bbbbbaf41</guid>
+<source>Google News Artificial Intelligence</source>
+<category>technology</category>
+<pubDate>Fri, 16 Oct 2026 11:56:39 +0000</pubDate>
+<description>AI bot company Character.ai seeks bankruptcy protection Computerworld</description>
+</item>
+<item>
 <title>Steam Achievement Sets will stop DLCs from ruining your 100 percent record</title>
 <link>https://www.engadget.com/2288624/steam-achievement-sets-protect-100-percent-record-from-dlcs</link>
 <guid isPermaLink="false">282d403f1d3cd8fad928de1cb6015af067db565ce2ce3a5a6ce2287a621fc993</guid>
@@ -1289,6 +1280,15 @@
 <description>The pioneering reusable upper stage for Stoke Space's Nova rocket ships out for testing.</description>
 <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/stoke1-1152x648.jpg" type="image/jpeg"/>
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/stoke1-1152x648.jpg" medium="image"/>
+</item>
+<item>
+<title>3 questions with AI Power Breakfast speaker Mike Stitt - Business Record</title>
+<link>https://news.google.com/rss/articles/CBMijwFBVV95cUxNczc4b2ZiZXNrWkNybmlGMUF3NGgyZV9zVFVtcklISDFYUkJkOFU0dHFBZldOUFlLcjdUaTNxZnlBY2tqdVNwcjlPTVZuNl9SNmwtZmFsWm9lQ0ZpTXNXel9MbHNwd0NNVHBMLWJVSTRyY2V3OW9jVDMwbjdiZEFWTnF1c1VCTnZCdW9IRV9law?oc=5</link>
+<guid isPermaLink="false">a14d1344bceaee709f7ac7ee78923b40bd4acbffdf9f74f33fadc37b4882159c</guid>
+<source>Google News Artificial Intelligence</source>
+<category>technology</category>
+<pubDate>Fri, 16 Oct 2026 11:00:12 +0000</pubDate>
+<description>3 questions with AI Power Breakfast speaker Mike Stitt Business Record</description>
 </item>
 <item>
 <title>AWOL Vision Aetherion Max RGB Laser UST Projector Review: A Top Buy</title>
@@ -1473,6 +1473,15 @@
 <description>Gmail's search can be frustrating and basic, but Google is finally smartening it up for AI plan subscribers.</description>
 <enclosure url="https://www.engadget.com/img/gallery/gmails-live-ai-search-feature-arrives-for-google-ai-subscribers/l-intro-1792139377.jpg" type="image/jpeg"/>
 <media:content url="https://www.engadget.com/img/gallery/gmails-live-ai-search-feature-arrives-for-google-ai-subscribers/l-intro-1792139377.jpg" medium="image"/>
+</item>
+<item>
+<title>China mulls new tech export bans covering AI, biotechnology and solar power - South China Morning Post</title>
+<link>https://news.google.com/rss/articles/CBMixgFBVV95cUxQckdYaXhCT3FoMFl5SHhSbEhvNDRPWjFtcDlUUzV4U2h4NmFnaF9yc2xQbk9Ea2dUcHRFWmdkbjhOWDFfcjB1Q25yeVBFdDhKb1NneHg4WWFGcUhaVGtTWjJFMEVwOHJZdmt1bjdDanV5SG9URTR3UmpLY0RiRmxVZGlRbU5xcEt3MHVsNGVtSmxhZ0l0U1dQSmFwZk5BOHNSdnlyeW9BSFVUcTJkUmdobEhOMm5WYjhmMFN0TXBUelBuN0EyLWfSAcYBQVVfeXFMUElacGlzTVRseUtzSEZCSk5FSW5FaXVBbDRVQkVncHRqUXVmcDloY0ZCb0hiRjlxbkU0RDliRG5zUm1VUDd4N2tPNmd5TU4wWUI1eURILXZRS2ZQczR6YVdaQXJUSjh2VnZHbG1CUGFkdkFMbklBZHFJT0gtOFlaS1hhZlo3ZnQ3RWNLZ3djR0lhYm1tanlqMkVoaXNsUFUwblJ5Q1NQcDZzN0MyM3FYUEpnMGRPWDN1QXpZSnNpbHpESmZ4Qkt3?oc=5</link>
+<guid isPermaLink="false">64c35c78fd9419e284b7b2c58b254d9b9917bfcb9f54fcf2fe3548ffc4769f2c</guid>
+<source>Google News Artificial Intelligence</source>
+<category>technology</category>
+<pubDate>Fri, 16 Oct 2026 08:31:39 +0000</pubDate>
+<description>China mulls new tech export bans covering AI, biotechnology and solar power South China Morning Post</description>
 </item>
 <item>
 <title>US Treasury pushes IMF partners to rename artificial intelligence as "super intelligence" - Dealroom</title>
@@ -1664,6 +1673,15 @@
 <media:content url="https://www.engadget.com/img/gallery/withings-wants-new-users-to-pay-100-a-year-to-sync-with-apple-health/l-intro-1792105014.jpg" medium="image"/>
 </item>
 <item>
+<title>Artificial intelligence, jobs and Northeast State - Kingsport Times News</title>
+<link>https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTTN0Rll2UEtSQ3V3eTJiNWt2OHJvWUtSSmhaekJLazV6Y1lqQm5pNlM5U3BNLUdYVUh2bklOekRwUG5vbUpUSGctSGpmRk5EcjZ4cXBFNkV1b3gxNkZmQnJlelFnckotWEhic1M5d2lrcVZfUHJWQ2ZrZG56SFFfN0JxZ1VWci1GcWtF?oc=5</link>
+<guid isPermaLink="false">4943ed21f0767bdb9e71339f022e0b2da67711f8a340d88654bc954038970493</guid>
+<source>Google News Artificial Intelligence</source>
+<category>technology</category>
+<pubDate>Thu, 15 Oct 2026 23:00:00 +0000</pubDate>
+<description>Artificial intelligence, jobs and Northeast State Kingsport Times News</description>
+</item>
+<item>
 <title>KDE turns 30 with Plasma 6.8, remote upgrades, and an X11 farewell</title>
 <link>https://arstechnica.com/gadgets/2026/10/kde-turns-30-with-plasma-6-8-remote-upgrades-and-an-x11-farewell</link>
 <guid isPermaLink="false">0ec3496a44512a926988917b0e22872c493fa91a80e74280644cd7c2baf994ed</guid>
@@ -1788,15 +1806,6 @@
 <category>technology</category>
 <pubDate>Thu, 15 Oct 2026 19:55:25 +0000</pubDate>
 <description>Speaking at TechCrunch Disrupt, Amazon devices chief Panos Panay described a future where ambient AI devices work in the background, anticipating users' needs instead of waiting for commands.</description>
-</item>
-<item>
-<title>Trump’s Move to Rename Artificial Intelligence to ‘Super Intelligence’ is About Much More Than It Seems - Talking Points Memo</title>
-<link>https://news.google.com/rss/articles/CBMib0FVX3lxTE1UNThCQTNqeTFtSnpoWTgxVnhqM2lUdGRNaU1mM091c3JBZEo4bmo1NzkyTEJjdGNWR3R5SVpSQ0JMQXJPM09fVV92bFJoSEdObl91bTFWaUhHZkdRR3ZsVkFFNXFjcVNFRjV6dHlmcw?oc=5</link>
-<guid isPermaLink="false">c9f3d0dbeed6fa66b36ae0d548f0cb6d44d52b41e25f47a64360895cd2bb50c2</guid>
-<source>Google News Artificial Intelligence</source>
-<category>technology</category>
-<pubDate>Thu, 15 Oct 2026 19:41:00 +0000</pubDate>
-<description>Trump’s Move to Rename Artificial Intelligence to ‘Super Intelligence’ is About Much More Than It Seems Talking Points Memo</description>
 </item>
 <item>
 <title>Bluesky wants to make it easier to buy, sell, and fundraise on the network</title>
@@ -2315,15 +2324,6 @@
 <media:content url="https://media.wired.com/photos/6ace50eeb4ce7b4026cc7e3c/master/pass/Review%20JackRabbit%20MG%20Cargo%20Review%20102026%20top%20art%20SOURCE%20Jackrabbit.jpg" medium="image"/>
 </item>
 <item>
-<title>The Big Problem Every Artificial Intelligence Company Faces - BGR</title>
-<link>https://news.google.com/rss/articles/CBMijAFBVV95cUxQdnVOLXZnNnFmY05jSl9pTjZzWEppZllJR1lTM2hOOE5ZSTFrRWthRHZsVy1BSzg1NzJ5Vm9DdmJqSURaNVNEa2xNblFTaHpPanFINlpkdjE4SGk3OHlsQnVydGt0eGthb3p0eEppaWFreGdPTkFQRGY1LVR2RUNMZUpCRTRJaTczZk9QSQ?oc=5</link>
-<guid isPermaLink="false">9bdc9aa23770969edbb153333649868259b7665ead1473004e33c2e405da49da</guid>
-<source>Google News Artificial Intelligence</source>
-<category>technology</category>
-<pubDate>Wed, 14 Oct 2026 10:17:00 +0000</pubDate>
-<description>The Big Problem Every Artificial Intelligence Company Faces BGR</description>
-</item>
-<item>
 <title>cool kids are writing in all lowercase now. does that make you mad?</title>
 <link>https://www.wired.com/story/the-case-for-lowercase</link>
 <guid isPermaLink="false">414bd040737017f247f4a5bbb37b94629751b2e667dececb948bb49d560d99cb</guid>
@@ -2344,15 +2344,6 @@
 <description>Nothing’s best headphones yet double down on design, comfort, sound quality, and highly adjustable EQ settings.</description>
 <enclosure url="https://media.wired.com/photos/6ace413d24c9f1116aeab823/master/pass/Nothing%20Headphone%20(1)%20Pro%20102026%20top%20art%20SOURCE%20Amazon.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/6ace413d24c9f1116aeab823/master/pass/Nothing%20Headphone%20(1)%20Pro%20102026%20top%20art%20SOURCE%20Amazon.jpg" medium="image"/>
-</item>
-<item>
-<title>22 People Got Together For a Dinner Party. So Did Their A.I. Agents. - The New York Times</title>
-<link>https://news.google.com/rss/articles/CBMilwFBVV95cUxPUjdWaktiYTFVLTlGZFZRelhDLVZTVm5RRGxIWVlfaHNqZXJIeUpMTW1IYzVQMEozcS1UU0VJVktDSzc4cUJIR1haVVJJYWc4SERibnNKS1ZEX2p4NDNYbUxtbDNCYUM3VjU5dW1HMzZiLVFaazJsSEh6Q09XMTJwOVNmUkxkeEwzU2xjOUZ4czBpNGk4U3hr?oc=5</link>
-<guid isPermaLink="false">cef4e950ba0db74507dfa8db6d67fdd9c6da8d39fb1f8537c61db5b279015f54</guid>
-<source>Google News Artificial Intelligence</source>
-<category>technology</category>
-<pubDate>Wed, 14 Oct 2026 09:01:19 +0000</pubDate>
-<description>22 People Got Together For a Dinner Party. So Did Their A.I. Agents. The New York Times</description>
 </item>
 <item>
 <title>Wireless magnetic millirobots that deliver medicine inside the beating heart</title>
@@ -2452,5 +2443,14 @@
 <category>technology</category>
 <pubDate>Mon, 12 Oct 2026 19:16:19 +0000</pubDate>
 <description>How Artificial Intelligence Can Help With Critical Thinking Greater Good: The Science of a Meaningful Life</description>
+</item>
+<item>
+<title>Roles and Responsibilities Framework for Artificial Intelligence in Critical Infrastructure - Homeland Security (.gov)</title>
+<link>https://news.google.com/rss/articles/CBMitwFBVV95cUxPZVlyZHB2VldMejhmZ243ay1ibUJSa19Ucm13d2l1cFVjNkdhbnhTTEZTOUQyck5kcGZIZVlxaFZOMnBxTlR2bnp0WFAxRjluX0ZQSnk1bEpka3lKbTFoLVR0OXVVWERxbmo3aDZ6VFZ3OFJPUVpWMkVTQmNPakwzVzVnN3djcjZwWXp4eHFLWGlJZjVaeVlRcFNHNjZWa1RsVGdEcFVLeWdIMjZURzE2VXpIME1UelU?oc=5</link>
+<guid isPermaLink="false">aaf44ff702cfd3afae99c284d4774455bb171dd53c0338cf00808ba891b97165</guid>
+<source>Google News Artificial Intelligence</source>
+<category>technology</category>
+<pubDate>Tue, 29 Sep 2026 07:00:00 +0000</pubDate>
+<description>Roles and Responsibilities Framework for Artificial Intelligence in Critical Infrastructure Homeland Security (.gov)</description>
 </item>
 </channel></rss>
