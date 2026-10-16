@@ -4,6 +4,55 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Tesla's redesigned Roadster has a cold-gas thruster option, but you'll need $250,000 just to reserve it</title>
+<link>https://www.engadget.com/2288437/teslas-redesigned-roadster-cold-gas-thruster-option-reservation</link>
+<guid isPermaLink="false">2e52dbb169fb54370c21fc49bae4a700c5f7eadad1b3260a0746e04f2ca57d1a</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Fri, 16 Oct 2026 01:48:05 +0000</pubDate>
+<description>Tesla has finally unveiled the next-generation Roadster.</description>
+<enclosure url="https://www.engadget.com/img/gallery/teslas-redesigned-roadster-cold-gas-thruster-option-reservation/l-intro-1792115458.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/teslas-redesigned-roadster-cold-gas-thruster-option-reservation/l-intro-1792115458.jpg" medium="image"/>
+</item>
+<item>
+<title>Securing AI systems from cyber threats is a top priority, according to PwC’s Global Digital Trust Insights Survey - Compliance Week</title>
+<link>https://news.google.com/rss/articles/CBMi-wFBVV95cUxPT2ZSS0NQaTFCeFVRQkZ6ZlpHS2Ffb0FiVUYxT1VmSXUwNGNTQjktZjRrT3lidkZ3eElDQThGeWZIOS1IbV9qakdISFRxOExJZ09iT3paODZUYVV1SEUybElqMnBsUDN6WXV5aGhoQjJBbjNKRW5SVGtnRWZ5M2VDNUVuUC0xVzhHRk5RVnFrM0psUTFzNmp3b3VOTmxVNXpqYk42SFZIdWZKM1liQnBtYUlFTzV4ZkRaYk82d3htSnlVQ0VvUHJibFRPVEV4ZENEbFpkR0lCcTRrM1NvOGVLMzlUU3VYMXctR3Q5REQ2b0FsQkt3eEY1cVluNA?oc=5</link>
+<guid isPermaLink="false">353fbeb4ee2401411638282f15bbe62e5f49fc7cf9ca920dc4f0bf25e1c329b0</guid>
+<source>Google News Artificial Intelligence</source>
+<category>technology</category>
+<pubDate>Fri, 16 Oct 2026 01:47:21 +0000</pubDate>
+<description>Securing AI systems from cyber threats is a top priority, according to PwC’s Global Digital Trust Insights Survey Compliance Week</description>
+</item>
+<item>
+<title>Nasdaq futures edge lower as AI spending, Fed rate concerns weigh - Yahoo Finance Singapore</title>
+<link>https://news.google.com/rss/articles/CBMigwFBVV95cUxOWmRVSTNFU2xiRzlJbS1xM2R5VWE2X3RQZzdCLWRtVHJiTE1sQkktdUk0bGhPWUhtUjVYVmw0eWphbEJ1aHN4WFNMMFZJZ1dWaVRKNVhnX0NSaUk1YXNSQlEyVzFma3hPdGMxUTdEUVhVdEpRWXBFYzJKNzhkT19nMDRUNA?oc=5</link>
+<guid isPermaLink="false">445fe2fb923fae6081cb4bbabebec262998217dca416522fb595d3cebf1c662f</guid>
+<source>Google News Artificial Intelligence</source>
+<category>technology</category>
+<pubDate>Fri, 16 Oct 2026 01:40:00 +0000</pubDate>
+<description>Nasdaq futures edge lower as AI spending, Fed rate concerns weigh Yahoo Finance Singapore</description>
+</item>
+<item>
+<title>Tesla Roadster</title>
+<link>https://www.tesla.com/roadster</link>
+<guid isPermaLink="false">5a44bd5340bc84ebc1e9d7f9101b86c58446c0d8343f33d0513ec61efe48fcec</guid>
+<source>Hacker News</source>
+<category>technology</category>
+<pubDate>Fri, 16 Oct 2026 01:32:45 +0000</pubDate>
+<description>Comments</description>
+</item>
+<item>
+<title>The Tesla Roadster flew, drove upside down, and hit 60mph in under a second</title>
+<link>https://www.theverge.com/transportation/1012552/tesla-roadster-next-gen-reveal-elon-musk</link>
+<guid isPermaLink="false">11d4fc51a8b79e9c1c9bf2196cf6bb388f9042ec0b09d79507eb511d88edb501</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Fri, 16 Oct 2026 01:28:27 +0000</pubDate>
+<description>Elon Musk promised a flying car. And the Tesla Roadster did exactly that. Tesla demonstrated its next-generation Roadster at an event in Waco, Texas, where the electric supercar drove upside down, briefly flew, and accelerated to 60mph in under a second. It was an impressive demonstration of a car that likely will come with some […]</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/HUtthGyaMAEkD-g.jpeg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/HUtthGyaMAEkD-g.jpeg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
 <title>The Tesla Roadster 2 Is Here—and It Flies</title>
 <link>https://www.wired.com/story/tesla-roadster-2-launch</link>
 <guid isPermaLink="false">1da7da4298bf77277549bcf4eb32f68ccf26c16fd066432ac6fb7bb45bf78ac0</guid>
@@ -24,7 +73,16 @@
 <description>The new car used thrusters to leap over a Cybercab, Cybertruck, Tesla Semi, Model Y, and Model 3 at a demo in Texas.</description>
 </item>
 <item>
-<title>RPKI Now Protects 70% of Internet Routes, Up from 54% a Year Ago</title>
+<title>AI agents on Tencent Cloud try to break into Alibaba’s Amap: researchers - South China Morning Post</title>
+<link>https://news.google.com/rss/articles/CBMiswFBVV95cUxNb3dSa0Z5enFXUVAzQk8xUUdqVW1penh1T091TEhNcXZuMjRJSGE2UF9hZExXcG9GR2V0UUJvVmd0NDJCV1FaLVZySlZ3OHczVlY5NUhWVmw1cVFPTHRPUVh6eWhobTdVaXg5elI0TWt2bTh0cV80ZVdwNnAtTm1XUHNVVkM1QkFfbWstSXNFbUN0VnpROWc4TC1FYzFncU9La09sY25kQnktZmJBQUhLNGFBd9IBswFBVV95cUxOUTZjTDhUdDYyMVdrYnNOZ1JCZVZtbDRMT2t0elhwLUdTSG5ndjFjU25DeVdYV0lLOUVYQ3VOVXU4T0xZRTBnOWdTWVdlaUY3TjczV2ZtX2d0RmF0T3NYWG1XZ19YQVpnSmRuWFh6X3pSNTFzUUZPeEc2VjNIMnJzMlhJX1pDNFJZSi1EdV9UZjExR2JwT0lGbmQ3ZU5vMzhkaWJSWFh4Q3pKMHBsck1KX1dONA?oc=5</link>
+<guid isPermaLink="false">2a50c9876d2e6475105a6f18a5ff75094f6a5343968a86a3f9008be6a1e0e930</guid>
+<source>Google News Artificial Intelligence</source>
+<category>technology</category>
+<pubDate>Fri, 16 Oct 2026 01:00:06 +0000</pubDate>
+<description>AI agents on Tencent Cloud try to break into Alibaba’s Amap: researchers South China Morning Post</description>
+</item>
+<item>
+<title>RPKI now protects 70% of internet routes</title>
 <link>https://ipinfo.io/blog/rpki-protects-70-internet-routes</link>
 <guid isPermaLink="false">7e2b5dc0fda2721595375aa399ae78f9e598f9de8f4d6f8f9c028948a5988c2d</guid>
 <source>Hacker News</source>
@@ -40,15 +98,6 @@
 <category>technology</category>
 <pubDate>Fri, 16 Oct 2026 00:34:00 +0000</pubDate>
 <description>Meta releases Muse Spark Open, a new ‘open-weight’ AI model The Guardian</description>
-</item>
-<item>
-<title>Why a maths professor’s tears are an AI warning - AFR</title>
-<link>https://news.google.com/rss/articles/CBMinAFBVV95cUxPeFhuU3NXX2J1Q0xWaHo4WldKbHg5Sll5bElqbERYVzcxY0U3UXFlWHhTbzFCOXItaXd1d2hGcVp1QjM5OFVNZjhhdlNhR2JKMDBvYklQS1k3LWxYY0JRenFyOV94VE9QYVhuM25Cb1RpeGFsTFN5UmY5RVBoZU5hN3dKTUh4T2twTDA1MV9BU0g5bVFYY3ZlRUVKYmw?oc=5</link>
-<guid isPermaLink="false">ceddaf5bd9f49cf5c09e4d34bb20edf92ce866ae4f333eef4ec3ed104f40afaa</guid>
-<source>Google News Artificial Intelligence</source>
-<category>technology</category>
-<pubDate>Fri, 16 Oct 2026 00:09:00 +0000</pubDate>
-<description>Why a maths professor’s tears are an AI warning AFR</description>
 </item>
 <item>
 <title>Summit explores promise &amp; perils of AI - Inside UCR</title>
@@ -114,6 +163,15 @@
 <description>Valve is introducing a major new feature for Steam achievements called "achievement sets" that lets developers list different groups of achievements for a base game and DLCs. "In games that support sets, you still unlock achievements by playing the game as usual," Valve says. "But when you browse what you have unlocked afterward, Steam will […]</description>
 <enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK138_Stream_Kradtke_01.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
 <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK138_Stream_Kradtke_01.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>U.K. Sanctions Cryptomus for RU Money Laundering</title>
+<link>https://krebsonsecurity.com/2026/10/u-k-sanctions-cryptomus-for-ru-money-laundering</link>
+<guid isPermaLink="false">9f4f6d187aa848d720e274acdb7695f3554f8d8e86b5e154ae5ded16cdc161d6</guid>
+<source>Hacker News</source>
+<category>technology</category>
+<pubDate>Thu, 15 Oct 2026 23:17:50 +0000</pubDate>
+<description>Comments</description>
 </item>
 <item>
 <title>Meta Raises Its AI Game as Google Opens Gemini 4 Argon - PYMNTS.com</title>
@@ -194,6 +252,15 @@
 <description>KDE celebrates 30 years with a new Plasma release, a farewell to X11, and a movie.</description>
 <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/KDE_Birthday_30th_Laptop-1070x648.png" type="image/jpeg"/>
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/KDE_Birthday_30th_Laptop-1070x648.png" medium="image"/>
+</item>
+<item>
+<title>Lawyers go to war with clients who force them to sit through AI slop - AFR</title>
+<link>https://news.google.com/rss/articles/CBMi0gFBVV95cUxPV1dRSmV4VlJGODAzTGlrdXIzbHdDcEQ2SnI4VDBqRUNlVWJRQnBieEdiY1VpU0ZiQUtDTlZ2WGZyUjlzU3JuZWU1bW5NUUloSnhHa3VraFlhUW9jbEhxc21vSXZ2bWxod1FEb0dGVzFvTGxZdmhKM0VPTENOWG9BMGYzRTR3Q1BIUWNlYWVsV2J1cUYzNEU5RVp1R1FQZmMybVJwVXBxRU05OUE2WW4tbFhHMFJQSEtGSDNwTFM1OWY3ME41OVFBcF9obXFRNGhsdVE?oc=5</link>
+<guid isPermaLink="false">dd7f451f61aade23cfee963babb9d16f5f5c50405b6ff771c0febbbfb323f8f8</guid>
+<source>Google News Artificial Intelligence</source>
+<category>technology</category>
+<pubDate>Thu, 15 Oct 2026 22:00:00 +0000</pubDate>
+<description>Lawyers go to war with clients who force them to sit through AI slop AFR</description>
 </item>
 <item>
 <title>Massachusetts AG Joins Effort to Protect AI Chatbot Data - GovTech</title>
@@ -298,6 +365,15 @@
 <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/27a4ed6e86bbf2cf-1.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
+<title>US stocks end higher as AI shares stabilize - AFP.com</title>
+<link>https://news.google.com/rss/articles/CBMicEFVX3lxTE9YbWQ3X0o1eFo4VzEtb001RklCZ0MzTXJiOGVrWG9PaHhGcjJiNVI5Wi11bXVfalV3Wm12XzlLaXVqLVpDS0ZzSkFucVhkMXk5d181Ym4xYW9PUTZ2TnRsdVFBRkktdTVQa3lJbkxFcUM?oc=5</link>
+<guid isPermaLink="false">1a7ae810a07a293fa3abe4e945fc21ae052dc71538db9573970b5fbbc786ef59</guid>
+<source>Google News Artificial Intelligence</source>
+<category>technology</category>
+<pubDate>Thu, 15 Oct 2026 21:04:03 +0000</pubDate>
+<description>US stocks end higher as AI shares stabilize AFP.com</description>
+</item>
+<item>
 <title>Artificial Intelligence Technology Solutions Inc. SEC Filing (Oct 15, 2026) - Stock Titan</title>
 <link>https://news.google.com/rss/articles/CBMiyAFBVV95cUxQelUyUy1qV1NHcGNSYm1lU3lzMGltb1E0SlpyRXVUMHc3VlJqRGUzSzFxSGEwNTBsODhwaExyZFZodGxkam5jR1dQTVVpN0RTaUw0eDQxSG5OYU9fMU01N2x3T2ZrRVhqMm5rcWc4UWZkZE4zQlhzUWw0SUNlT2JQWkRYMFI4VlJiUktVSGJIdHpaWk9KbHVZa2c1UDZUOFZ3SW9vTDhyejBaVFBtd05xZ0NhQ0U4aUhyNHdqTGtJUzN5SDU1d1hLNA?oc=5</link>
 <guid isPermaLink="false">060a7fc04d40ef22dd36278bef7378395af47bfa5b55c6100df1de7bd8ea2de3</guid>
@@ -379,15 +455,6 @@
 <category>technology</category>
 <pubDate>Thu, 15 Oct 2026 20:37:52 +0000</pubDate>
 <description>Finding the Hidden Shape of Data: Prof. Yusu Wang UC San Diego Today</description>
-</item>
-<item>
-<title>NSF Awards TILOS AI Institute $15 Million to Continue Advancing AI and Optimization for Intelligent - UC San Diego Today</title>
-<link>https://news.google.com/rss/articles/CBMixgFBVV95cUxOVWp5elhob2VMcXJlSUtqQlhoVkRhTjkwUGJOdTUtWjRVMVhtZGdsUzRXcElpRkRtaWpNNVlqQ2wtamtSa29fRVVIVEFxeXQ5MUJwcHlySmFHR0Nrb2loRHczbkVKck9FMmxWRGdoMm5QY0NUdEgxcEJyb1pfWUtTTXF1US1jdFlfLWFHczhLX250TS1MZVpuLVB6UXdFUE1ORDJuZ2ZpYVV1cV9SemVramdCNk9XU1FGS0p2Y1pHbVI3TDFnQlE?oc=5</link>
-<guid isPermaLink="false">bcb01231caccdb0bd57b6d6b49663c3f6355ac7183dde91e0139b8d4a708a5d7</guid>
-<source>Google News Artificial Intelligence</source>
-<category>technology</category>
-<pubDate>Thu, 15 Oct 2026 20:37:52 +0000</pubDate>
-<description>NSF Awards TILOS AI Institute $15 Million to Continue Advancing AI and Optimization for Intelligent UC San Diego Today</description>
 </item>
 <item>
 <title>Targeted ads delivered 0-click exploits to install mercenary malware</title>
@@ -499,6 +566,15 @@
 <description>Trump’s Move to Rename Artificial Intelligence to ‘Super Intelligence’ is About Much More Than It Seems Talking Points Memo</description>
 </item>
 <item>
+<title>Doctors have concerns about AI tools for medical advice - KRCG</title>
+<link>https://news.google.com/rss/articles/CBMijgFBVV95cUxNZkRWQXlubmo3aFZwNHU4LUxTSVppTmFKTHg2bGtFWGVQUnlHUVpRY2lybng0Y05lcjQ3emM4Y0JPRFNrcEFKNHVZT0hKYzBUdmVPLU5xZDV5akhlYU9GLVdZYnNxV2hqd01pUmktdFppakxuNC0xYjVEbEgwczRUS3c3ZDFENmI3UGtZQU1R?oc=5</link>
+<guid isPermaLink="false">a2054d7e82b7f685cd3a61a582407dee80d9fd7f1d668c7285664f3f2439712d</guid>
+<source>Google News Artificial Intelligence</source>
+<category>technology</category>
+<pubDate>Thu, 15 Oct 2026 19:37:57 +0000</pubDate>
+<description>Doctors have concerns about AI tools for medical advice KRCG</description>
+</item>
+<item>
 <title>Why Outcome-Based Pricing Is the Future - Wealth Management</title>
 <link>https://news.google.com/rss/articles/CBMixwFBVV95cUxPcVh6aklIUDVXMkc5ZkxUN1JFR2c2UHcwZWZYWjVIZ04yWjV0enQ1a3ZSLURjQUdRVkRMVFFNWEtYaTV4eEJ3eTRXSV9Sc1hSZUJlMzVsa2o0dXVKVVhuVEhhRFB3emtObWd6YS1FTGdMQi1xV2hSV2dZSFl4dHAxUXI3THFMTlE0QnFUTG9OZnBKSzBfYVdLOWpiTWVoMEpUdGlDV0x3UW0tWmk0dG9RSGRhcHZPNnEzVE1pRnFuV1pqeXBOY0hj?oc=5</link>
 <guid isPermaLink="false">8345943502a152a3eaa8c2d1156fce40bf93f0367fe9ac85bec64f092c997712</guid>
@@ -544,15 +620,6 @@
 <category>technology</category>
 <pubDate>Thu, 15 Oct 2026 19:21:38 +0000</pubDate>
 <description>Comments</description>
-</item>
-<item>
-<title>Researchers Stranded an AI Agent on a Virtual Island. Things Got Very Weird. - Gizmodo</title>
-<link>https://news.google.com/rss/articles/CBMiqAFBVV95cUxQR2taaXlWNEJCQm5ZOTFsTWhRNWRBczJZbzBQbDNOVTVMNF9KQlFJSGRJdUxKWTdkUkVkVXlib3EwV3ZOUXVDQV9yaGx6b3AxYmhOUjgyWW1wY09ESEZVMjBNMGpsQS1ZRE1vUlZpSTdZeTdueEVGdHF6MWlPUk5BcHh0RFJMSU9ydHRFc0tUZnZPM1ZUTTM4OVdvWHowVUxGUHU5U202cDc?oc=5</link>
-<guid isPermaLink="false">a0c0a8274dc209ea8b7f6ce984a781c15cbb38c75988bdaec095dfd5d9ff56fb</guid>
-<source>Google News Artificial Intelligence</source>
-<category>technology</category>
-<pubDate>Thu, 15 Oct 2026 19:15:47 +0000</pubDate>
-<description>Researchers Stranded an AI Agent on a Virtual Island. Things Got Very Weird. Gizmodo</description>
 </item>
 <item>
 <title>AI is much hyped, frequently feared, and possibly overrated - DW.com</title>
@@ -784,15 +851,6 @@
 <description>Comments</description>
 </item>
 <item>
-<title>Intel Offers Day-0 Support for Meta's Muse Spark Open - Intel</title>
-<link>https://news.google.com/rss/articles/CBMizwFBVV95cUxQZDl1RjFTUWRrbGdNMlJpU1hVTHhvcGdwNjMxdS1UTDdRcHFwTFNzNjBaUWJaY0FUbWF4S3lZNEtuTS12TFNsYnI3U1AwaS10Yl9ja1RqcjBqcGI1WW9VQmVnWnhDR1FJWFRjanpPVF9nd01nTlJ2TWVfWjlGSDZkZ292XzJCS0dkaWdHd290ejRwYkFqdGdfa0U0cFpVRlFidDhiQXJscC02RlJSZHB4cFhHbTRLVU80RWJ1MlpJQUhVdzU2TUk2TlNrVmgwQ0E?oc=5</link>
-<guid isPermaLink="false">a0644cf76408375af62105eac5bc3e967d46cf736cc01decd80cf7d4aa615233</guid>
-<source>Google News Artificial Intelligence</source>
-<category>technology</category>
-<pubDate>Thu, 15 Oct 2026 17:46:13 +0000</pubDate>
-<description>Intel Offers Day-0 Support for Meta's Muse Spark Open Intel</description>
-</item>
-<item>
 <title>Volvo makes a bigger bet on Nvidia for hands-free automated driving</title>
 <link>https://techcrunch.com/2026/10/15/volvo-makes-a-bigger-bet-on-nvidia</link>
 <guid isPermaLink="false">6bbf57ab8476ba4b7a0318a9184f2b53a578c5bf707e9b729401315cb920f834</guid>
@@ -809,17 +867,6 @@
 <category>technology</category>
 <pubDate>Thu, 15 Oct 2026 17:31:43 +0000</pubDate>
 <description>Law firm Crowell faces disqualification bid in AI lawsuit Reuters</description>
-</item>
-<item>
-<title>Volvo will use Nvidia’s tech for hands-free, point-to-point driving</title>
-<link>https://www.theverge.com/transportation/1011653/volvo-nvidia-autonomous-driving-level-2-hands-free-urban</link>
-<guid isPermaLink="false">308c58ea57762ef3b778c2c5a83a899dc12fef68712538d9ce5d299c940383b7</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Thu, 15 Oct 2026 17:30:00 +0000</pubDate>
-<description>Volvo plans to launch hands-free, point-to-point driving by 2030, powered by Nvidia's latest AI technology. The Chinese-owned, Swedish-designed automaker said Thursday it would use Nvidia's autonomous driving stack to power a new partially automated driving system similar to Tesla's Full Self-Driving (Supervised). Volvo says the new point-to-point system will be Level 2++, meaning it can […]</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Volvo-EX60-Oculus-7.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Volvo-EX60-Oculus-7.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
 <title>Beyond Orbital Volume: Outcomes of Patient-Specific Implants, Surgical Navigation, and Artificial Intelligence in Orbital Reconstruction - Cureus</title>
@@ -1117,15 +1164,6 @@
 <description>We'll likely learn more about how this will work at the company's upcoming "AI &amp; Autonomy Day" event in December.</description>
 </item>
 <item>
-<title>Simons Foundation launches $15M effort to help mathematicians navigate AI era</title>
-<link>https://www.simonsfoundation.org/news/simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era</link>
-<guid isPermaLink="false">dd08e55d28d7a3e067e795383791bbe528fe8b048b3918fcdec31eedeac106b7</guid>
-<source>Hacker News</source>
-<category>technology</category>
-<pubDate>Thu, 15 Oct 2026 14:58:48 +0000</pubDate>
-<description>Comments</description>
-</item>
-<item>
 <title>Artificial Intelligence (AI) Business Intelligence Market Outlook Report Including Segment Analysis and Strategic - EIN News</title>
 <link>https://news.google.com/rss/articles/CBMi6AFBVV95cUxOSG1YdEFhQ0ZrM1Y5NGY0c3Q5bkdsNUJ5bGFWeUlsSW9hQ3BLMThaNXB6bmZxMS1lWmxwUWJacWxETzhVUk9rQnJ4OE5vd1ZMTENwUnJuejNTUzhwTUZOendRZlZGV2NPVGdZdTRsTGVIVloxWVNvTnNMMVgwaEZaY3hoUk1tY1JpQ3B6bXZYTk9Kdnh4NHNXeklzVVh2YkpXRFJKX1N0eGpDelJnOW9pa1hWR0lXZ0ZXZTd1WDlmVDB0dHdNTjJzdE04SzQtRlBKUy1PUUpnWVFMbXFITFFrOHB3VVNBSWpj?oc=5</link>
 <guid isPermaLink="false">38e327324e96099746452857763dd3bbb3d7193de2eed31acb90b784ce072572</guid>
@@ -1234,8 +1272,8 @@
 <category>technology</category>
 <pubDate>Thu, 15 Oct 2026 14:01:51 +0000</pubDate>
 <description>Elon Musk has been saying the demo might be a literal "banger."</description>
-<enclosure url="https://www.engadget.com/img/gallery/tesla-roadster-launch-live-blog/l-intro-1792072946.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/tesla-roadster-launch-live-blog/l-intro-1792072946.jpg" medium="image"/>
+<enclosure url="https://www.engadget.com/img/gallery/tesla-roadster-launch-live-blog/l-intro-1792115672.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/tesla-roadster-launch-live-blog/l-intro-1792115672.jpg" medium="image"/>
 </item>
 <item>
 <title>TechCrunch Disrupt 2026: Last day</title>
@@ -1312,15 +1350,6 @@
 <category>technology</category>
 <pubDate>Thu, 15 Oct 2026 13:18:42 +0000</pubDate>
 <description>FSB Says Banks Need to Have Company-Wide AI Regulation PYMNTS.com</description>
-</item>
-<item>
-<title>C++26 Contracts: Introduction to Preconditions and Postconditions</title>
-<link>https://www.cppstories.com/2026/cpp26_contracts</link>
-<guid isPermaLink="false">f4886b315b19fa01702162917cc710cb19609a6f33ba11627801e564538e2d30</guid>
-<source>Hacker News</source>
-<category>technology</category>
-<pubDate>Thu, 15 Oct 2026 13:11:26 +0000</pubDate>
-<description>Comments</description>
 </item>
 <item>
 <title>COMMENTARY: The missing chain of custody for enterprise AI — Why organizations must preserve the inputs, context and audit trail behind AI-generated business records - Reuters</title>
@@ -1412,17 +1441,6 @@
 <description>United has launched a tracker that you can use to check if your flight has Starlink Wi-Fi.</description>
 <enclosure url="https://www.engadget.com/img/gallery/united-offers-starlink-wi-fi-flight-tracker/l-intro-1792079058.jpg" type="image/jpeg"/>
 <media:content url="https://www.engadget.com/img/gallery/united-offers-starlink-wi-fi-flight-tracker/l-intro-1792079058.jpg" medium="image"/>
-</item>
-<item>
-<title>Adobe rebuilt Photoshop and Premiere for NVIDIA's RTX Spark platform</title>
-<link>https://www.engadget.com/2287388/adobe-rebuilt-photoshop-and-premiere-for-nvidia-rtx-spark</link>
-<guid isPermaLink="false">6c4093ea09b5c03502da83e3fb850764218b7dac8970d45ac4d1e99a138ba0d6</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Thu, 15 Oct 2026 12:00:00 +0000</pubDate>
-<description>Adobe has 'rearchitected' Photoshop, Premiere and Substance 3D to work faster on computers powered by NVIDIA's RTX Spark AI superchip.</description>
-<enclosure url="https://www.engadget.com/img/gallery/adobe-rebuilt-photoshop-and-premiere-for-nvidias-rtx-spark-platform/l-intro-1792065422.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/adobe-rebuilt-photoshop-and-premiere-for-nvidias-rtx-spark-platform/l-intro-1792065422.jpg" medium="image"/>
 </item>
 <item>
 <title>Specialty1 Partners Invests in Artificial Intelligence to Help Shape the Future of Specialty Dental Care - PR Newswire</title>
@@ -1635,6 +1653,17 @@
 <description>Figma CFO says design platform willing to put margins on the line to boost AI demand Reuters</description>
 </item>
 <item>
+<title>Lenovo Coupon Codes: 15% Off in October 2026</title>
+<link>https://www.wired.com/story/lenovo-coupon-code</link>
+<guid isPermaLink="false">14e7cdfe2afd61fc93971f233c6774e3d7d531d77427c824b9a1849d6b6363c4</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Thu, 15 Oct 2026 05:00:00 +0000</pubDate>
+<description>Whether you’re shopping for a ThinkPad, Yoga laptop, or Legion gaming PC, these Lenovo discount codes and promotions can help you save big on your next tech upgrade.</description>
+<enclosure url="https://media.wired.com/photos/67b63b909468ebbf8f0cbc77/master/pass/WIRED-Coupons-R2_8.png" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/67b63b909468ebbf8f0cbc77/master/pass/WIRED-Coupons-R2_8.png" medium="image"/>
+</item>
+<item>
 <title>Walmart Promo Codes: 20% Off for October 2026</title>
 <link>https://www.wired.com/story/top-walmart-promo-codes</link>
 <guid isPermaLink="false">8877d1d22e66923e9a743f2acfcad037e8660850f972881de723256107daf77c</guid>
@@ -1655,17 +1684,6 @@
 <description>Unlock significant savings on hotels, resorts, and getaways with our verified Hotels.com promo codes and gift card discounts. Plan your perfect trip today!</description>
 <enclosure url="https://media.wired.com/photos/66ea077015aa1d8092e99428/master/pass/WIRED-Coupons-6.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/66ea077015aa1d8092e99428/master/pass/WIRED-Coupons-6.jpg" medium="image"/>
-</item>
-<item>
-<title>Lenovo Coupon Codes: 15% Off in October 2026</title>
-<link>https://www.wired.com/story/lenovo-coupon-code</link>
-<guid isPermaLink="false">14e7cdfe2afd61fc93971f233c6774e3d7d531d77427c824b9a1849d6b6363c4</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Thu, 15 Oct 2026 05:00:00 +0000</pubDate>
-<description>Whether you’re shopping for a ThinkPad, Yoga laptop, or Legion gaming PC, these Lenovo discount codes and promotions can help you save big on your next tech upgrade.</description>
-<enclosure url="https://media.wired.com/photos/67b63b909468ebbf8f0cbc77/master/pass/WIRED-Coupons-R2_8.png" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/67b63b909468ebbf8f0cbc77/master/pass/WIRED-Coupons-R2_8.png" medium="image"/>
 </item>
 <item>
 <title>ABT Promo Codes &amp; Discounts for October 2026</title>
@@ -1739,15 +1757,6 @@
 <description>Comments</description>
 </item>
 <item>
-<title>Global financial watchdog calls for more human oversight of agentic AI - Reuters</title>
-<link>https://news.google.com/rss/articles/CBMitwFBVV95cUxPWGFNeG9sS1g2RElieWFWS1l0a3FPSmRqT1BkSXpDbHc5LW9qY3c1UGFONlZNMHdGMHFPR1JPMzk2Rlg5OVlEM0pwaU5CZ2hyN3lzWTdPWVd2UlFaOVZPVVM4U1dPUzFFc2lEOU5hZ0V3ZG1ONm5LUHc5OUc3VVVHOHNNUUctRWNWQktSOGFDS01YUFd1Q1Atczh0ZFBlSlNGOGhNWTVWa2NPeE0wZDJqV2hyWkFoNDQ?oc=5</link>
-<guid isPermaLink="false">9d8e8245b6ef30a49e83a43b278ada3fa8a6364280a14772cb4323683d98eea8</guid>
-<source>Google News Artificial Intelligence</source>
-<category>technology</category>
-<pubDate>Thu, 15 Oct 2026 04:02:00 +0000</pubDate>
-<description>Global financial watchdog calls for more human oversight of agentic AI Reuters</description>
-</item>
-<item>
 <title>FSB finalises sound practices for the responsible adoption of artificial intelligence (AI) - Financial Stability Board</title>
 <link>https://news.google.com/rss/articles/CBMiuAFBVV95cUxNYlowZTZteDU0NjQ1YU9jVWhWVi1WS2gzUlFyN1c0T01CTTBNb0tkeUZfdWJEQ09NNnUtV1VyQ0NDcC1pZ0VnUWt6MnB4cWxhMVJZdDc5SGdrR2I3clFHVHJLa1U4cVlYTXg2djVIVnR5ZU5Mb2VGOGI0aFZocWVFeWJyNWpHVnNYaWN2UW1RQzdKYVBZa1lwSWpVN2RocnpjbkVqdlNuakVxMC1yeEJTVUpBS0JZWVBJ?oc=5</link>
 <guid isPermaLink="false">cff7ef1676d7e886395d08df6bb3e08bc4c43d3674af6bf6739253931b9ce0e3</guid>
@@ -1764,15 +1773,6 @@
 <category>technology</category>
 <pubDate>Thu, 15 Oct 2026 04:00:07 +0000</pubDate>
 <description>Sound Practices for Responsible Adoption of Artificial Intelligence (AI): Overview of consultation responses Financial Stability Board</description>
-</item>
-<item>
-<title>Baisley opposes stricter artificial intelligence regulation - 9News</title>
-<link>https://news.google.com/rss/articles/CBMi2AFBVV95cUxQRlMxOWw1RGRMU1g3THllSnRRa1VOZVR4VFBHYWRvT3JRV2dTTFBIMWtyTF9zQkNlM2ZFZFdIQ0gyc0hIbVEyOGhYSmswcGVtNnlKTUdqa3J1QWdJekZxRVZ2UlRROXpObmFiTkh5X2x6SmY1SFdjN1hwSng3ZVBhLVNGYV9CUGlEY0k4N3Y3TUpxYTNfZHZfRE5fdjJGZ0lGZDJPVGhXRW95QktTcTkzdTdIUVkxRGxWWnI3NUNpeXBjYUhkUjFGTzBLOVBTYjQteGNxRHdGSUI?oc=5</link>
-<guid isPermaLink="false">c68d801da176c3f09fff63a1870d513dbb32df3d83375a7347d6d51500a11a47</guid>
-<source>Google News Artificial Intelligence</source>
-<category>technology</category>
-<pubDate>Thu, 15 Oct 2026 02:17:00 +0000</pubDate>
-<description>Baisley opposes stricter artificial intelligence regulation 9News</description>
 </item>
 <item>
 <title>The engineering that allows articulated buses to bend</title>
@@ -1867,15 +1867,6 @@
 <category>technology</category>
 <pubDate>Wed, 14 Oct 2026 21:04:55 +0000</pubDate>
 <description>Rep. Carra urges Trump to address artificial intelligence threats, raises concerns over data centers Michigan House Republicans</description>
-</item>
-<item>
-<title>AI Agent Blamed for Deleting Entire Upcoming Season of TV Show - Futurism</title>
-<link>https://news.google.com/rss/articles/CBMigwFBVV95cUxOTXZoUkxjMVFLQzB3SWI5Qm5LUmxwZ0ZjM1NZcTZGbjA1V0V0SFlFbU12LXdSdVM3QnVaRGpTZklha09HeWZzN1F0OUo1M0xIRHB3SzRXUXNudHlJNmgtQ2ZnR3pBaE1uMnphZG1rSTBWNGsydVdZbFItczVMX1Mtd1lqRQ?oc=5</link>
-<guid isPermaLink="false">b6ed86f5478ce2e2df499679f115d2ceabd3e056c8abdcd7a0e6f226bff798af</guid>
-<source>Google News Artificial Intelligence</source>
-<category>technology</category>
-<pubDate>Wed, 14 Oct 2026 21:03:13 +0000</pubDate>
-<description>AI Agent Blamed for Deleting Entire Upcoming Season of TV Show Futurism</description>
 </item>
 <item>
 <title>Trump Aides Admit the House Is a Lost Cause</title>
@@ -1993,6 +1984,15 @@
 <media:content url="https://media.wired.com/photos/6acec6fbaaecd379fb33abd9/master/pass/Earth-Condition-Getting-Worse-Science-2299206304.jpg" medium="image"/>
 </item>
 <item>
+<title>Generate presentations with Amazon Bedrock AgentCore - Amazon Web Services (AWS)</title>
+<link>https://news.google.com/rss/articles/CBMioAFBVV95cUxOd3BUVi1zNDhoUXpwTTE4ZU9LY0NVUV92d0c2WW5ud3VkbUxjT0FHWTIwX25kRTZfTWxWQ2pVbnNoNnQtckkwVHNIXzZRWGxtRF93VWYxeEtneWdxcFU0eHhKRzA3SWM5cGpTR19yR2E5b2lnU0ZVQ1J2X0NEMlI0UkVIdGU3ajYzLV85OU54OXcwMVFvYVdZeE1oVHBrTzJi?oc=5</link>
+<guid isPermaLink="false">d21ba9c0ea0f8edd5f17ad010747455385321f5dcef81820acea0eda3a36fa34</guid>
+<source>Google News Artificial Intelligence</source>
+<category>technology</category>
+<pubDate>Wed, 14 Oct 2026 13:58:43 +0000</pubDate>
+<description>Generate presentations with Amazon Bedrock AgentCore Amazon Web Services (AWS)</description>
+</item>
+<item>
 <title>‘Dune: Part Three’ Cowriter Brian K. Vaughan Has a New Comic on the Way</title>
 <link>https://www.wired.com/story/new-york-comic-con-interview</link>
 <guid isPermaLink="false">0a1fb1237a98f08f88301a6e1f28fd72d87b4a5e9ca052250689958d04e87c3a</guid>
@@ -2037,17 +2037,6 @@
 <media:content url="https://media.wired.com/photos/6ace56e6d9cd42daf5a15def/master/pass/Review%20Breville%20Eye%20Q%20Toaster%20102026%20top%20art%20SOURCE%20Breville.jpg" medium="image"/>
 </item>
 <item>
-<title>The Politics of Solar Energy Are Getting Weird, Mean, and a Little MAGA</title>
-<link>https://www.wired.com/story/the-politics-of-solar-energy-are-getting-weird-mean-and-a-little-maga</link>
-<guid isPermaLink="false">b7759926fe52d087ebd12bce3319829839b4d9f38547f86e59a69a4c4a48f231</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Wed, 14 Oct 2026 10:30:00 +0000</pubDate>
-<description>A mysterious super PAC that doubles as a pro-solar-energy outfit is funding some of the most knives-out attack ads of the midterms season.</description>
-<enclosure url="https://media.wired.com/photos/6acef92248e0f30c1c04574c/master/pass/Business_The%20Green%20Movement%20Goes%20Knives%20Out%20for%20the%20Midterms_v1.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/6acef92248e0f30c1c04574c/master/pass/Business_The%20Green%20Movement%20Goes%20Knives%20Out%20for%20the%20Midterms_v1.jpg" medium="image"/>
-</item>
-<item>
 <title>JackRabbit MG Cargo Bike Review (2026): Compact and Powerful</title>
 <link>https://www.wired.com/review/jackrabbit-mg-cargo-electric-bicycle</link>
 <guid isPermaLink="false">4e1ee63fe6bb37e6b4af7e95c60a5321f56c58fd354be58f70933035e7c94890</guid>
@@ -2057,6 +2046,17 @@
 <description>This compact, plucky ride is the cargo ebike for people who don’t want a cargo ebike. It’s even fun to ride.</description>
 <enclosure url="https://media.wired.com/photos/6ace50eeb4ce7b4026cc7e3c/master/pass/Review%20JackRabbit%20MG%20Cargo%20Review%20102026%20top%20art%20SOURCE%20Jackrabbit.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/6ace50eeb4ce7b4026cc7e3c/master/pass/Review%20JackRabbit%20MG%20Cargo%20Review%20102026%20top%20art%20SOURCE%20Jackrabbit.jpg" medium="image"/>
+</item>
+<item>
+<title>The Politics of Solar Energy Are Getting Weird, Mean, and a Little MAGA</title>
+<link>https://www.wired.com/story/the-politics-of-solar-energy-are-getting-weird-mean-and-a-little-maga</link>
+<guid isPermaLink="false">b7759926fe52d087ebd12bce3319829839b4d9f38547f86e59a69a4c4a48f231</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Wed, 14 Oct 2026 10:30:00 +0000</pubDate>
+<description>A mysterious super PAC that doubles as a pro-solar-energy outfit is funding some of the most knives-out attack ads of the midterms season.</description>
+<enclosure url="https://media.wired.com/photos/6acef92248e0f30c1c04574c/master/pass/Business_The%20Green%20Movement%20Goes%20Knives%20Out%20for%20the%20Midterms_v1.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6acef92248e0f30c1c04574c/master/pass/Business_The%20Green%20Movement%20Goes%20Knives%20Out%20for%20the%20Midterms_v1.jpg" medium="image"/>
 </item>
 <item>
 <title>The Big Problem Every Artificial Intelligence Company Faces - BGR</title>
@@ -2181,17 +2181,6 @@
 <description>Comments</description>
 </item>
 <item>
-<title>Peacock Promo Codes: 40% Off October 2026</title>
-<link>https://www.wired.com/story/peacock-promo-code</link>
-<guid isPermaLink="false">84f38d2175ae15bb5645da2d18cd78202d3b88bd2a6dc5deb48aca1e7ca07648</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Wed, 14 Oct 2026 05:00:00 +0000</pubDate>
-<description>Stream your favorite shows for up to $80 off this month, and save on subscription plans with the latest Peacock TV coupons from WIRED.</description>
-<enclosure url="https://media.wired.com/photos/66ea03340e63ccab6b8add4b/master/pass/WIRED-Coupons-1.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/66ea03340e63ccab6b8add4b/master/pass/WIRED-Coupons-1.jpg" medium="image"/>
-</item>
-<item>
 <title>Expedia Coupons: 40% Off</title>
 <link>https://www.wired.com/story/expedia-coupon</link>
 <guid isPermaLink="false">05eec51210a6e120d1a88dc197213715e91bbe20738fc82f355c5e304ba9c74f</guid>
@@ -2212,6 +2201,17 @@
 <description>Enjoy 25% off a membership, 40% off, plus an additional 10% off annual plans, and more deals to save at Vimeo.</description>
 <enclosure url="https://media.wired.com/photos/67b63b985c0507c1bb18ab66/master/pass/WIRED-Coupons-R2_14.png" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/67b63b985c0507c1bb18ab66/master/pass/WIRED-Coupons-R2_14.png" medium="image"/>
+</item>
+<item>
+<title>Peacock Promo Codes: 40% Off October 2026</title>
+<link>https://www.wired.com/story/peacock-promo-code</link>
+<guid isPermaLink="false">84f38d2175ae15bb5645da2d18cd78202d3b88bd2a6dc5deb48aca1e7ca07648</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Wed, 14 Oct 2026 05:00:00 +0000</pubDate>
+<description>Stream your favorite shows for up to $80 off this month, and save on subscription plans with the latest Peacock TV coupons from WIRED.</description>
+<enclosure url="https://media.wired.com/photos/66ea03340e63ccab6b8add4b/master/pass/WIRED-Coupons-1.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/66ea03340e63ccab6b8add4b/master/pass/WIRED-Coupons-1.jpg" medium="image"/>
 </item>
 <item>
 <title>HBO Max Promo Code: 50% Off | October 2026</title>
@@ -2236,17 +2236,6 @@
 <media:content url="https://media.wired.com/photos/66ea077283cd4f2fbb17d478/master/pass/WIRED-Coupons-2.jpg" medium="image"/>
 </item>
 <item>
-<title>Corsair Discount Code: Up to 50% Off for October 2026</title>
-<link>https://www.wired.com/story/corsair-coupon</link>
-<guid isPermaLink="false">e67208ab31041caec3b79a4607e1ab1d87b105c922a79cac010a3a6074fdef6e</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Wed, 14 Oct 2026 05:00:00 +0000</pubDate>
-<description>Upgrade your gaming setup or PC build for less with these verified Corsair coupon codes, student discounts, and refurbished deals.</description>
-<enclosure url="https://media.wired.com/photos/67b63b98fb14553f0ebd9ffd/master/pass/WIRED-Coupons-R2_15.png" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/67b63b98fb14553f0ebd9ffd/master/pass/WIRED-Coupons-R2_15.png" medium="image"/>
-</item>
-<item>
 <title>Dell Coupon Codes: 20% Off for October 2026</title>
 <link>https://www.wired.com/story/dell-coupon-code</link>
 <guid isPermaLink="false">c5ceb6b2160aebf24ca4d5396573cf0bdb0f091ea6647692b42d49168cbc4886</guid>
@@ -2256,6 +2245,17 @@
 <description>Get 20% off with verified Dell promo code, plus today’s coupons for up to $600 off laptops, Alienware monitors, and all things tech.</description>
 <enclosure url="https://media.wired.com/photos/66ea076e571d60947a48460b/master/pass/WIRED-Coupons-16.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/66ea076e571d60947a48460b/master/pass/WIRED-Coupons-16.jpg" medium="image"/>
+</item>
+<item>
+<title>Corsair Discount Code: Up to 50% Off for October 2026</title>
+<link>https://www.wired.com/story/corsair-coupon</link>
+<guid isPermaLink="false">e67208ab31041caec3b79a4607e1ab1d87b105c922a79cac010a3a6074fdef6e</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Wed, 14 Oct 2026 05:00:00 +0000</pubDate>
+<description>Upgrade your gaming setup or PC build for less with these verified Corsair coupon codes, student discounts, and refurbished deals.</description>
+<enclosure url="https://media.wired.com/photos/67b63b98fb14553f0ebd9ffd/master/pass/WIRED-Coupons-R2_15.png" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/67b63b98fb14553f0ebd9ffd/master/pass/WIRED-Coupons-R2_15.png" medium="image"/>
 </item>
 <item>
 <title>Castlery Promo Codes: 15% Off for October 2026</title>
