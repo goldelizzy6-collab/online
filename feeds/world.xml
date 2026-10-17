@@ -4,6 +4,39 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Trump waives several Russia sanctions as row with Zelensky intensifies</title>
+<link>https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&amp;at_campaign=rss</link>
+<guid isPermaLink="false">b677fdedabaf44798b79a308f434fcab6e6331180980b7efb953f13fe521ebdd</guid>
+<source>BBC News</source>
+<category>world</category>
+<pubDate>Sat, 17 Oct 2026 07:41:01 +0000</pubDate>
+<description>The US president temporarily ends many restrictions on Moscow recently passed by Congress over "national security" concerns.</description>
+<enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c147/live/f608c860-c9cf-11f1-84c1-fd3c3266bb86.jpg" type="image/jpeg"/>
+<media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c147/live/f608c860-c9cf-11f1-84c1-fd3c3266bb86.jpg" medium="image"/>
+</item>
+<item>
+<title>Man jailed for Starmer-linked arson attacks is deported</title>
+<link>https://www.bbc.co.uk/news/articles/c6x2vk44dv1xo?at_medium=RSS&amp;at_campaign=rss</link>
+<guid isPermaLink="false">00f32e802a62ec768fdb240527bfee0576ac24293c016022834fee5d097b42b4</guid>
+<source>BBC News</source>
+<category>world</category>
+<pubDate>Sat, 17 Oct 2026 07:38:36 +0000</pubDate>
+<description>Romanian national Stanislav Carpiuc was sentenced in June over arson attacks targeting the former prime minister's car and property.</description>
+<enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1100/live/56bb2cb0-c9ef-11f1-9a39-31b474234113.jpg" type="image/jpeg"/>
+<media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1100/live/56bb2cb0-c9ef-11f1-9a39-31b474234113.jpg" medium="image"/>
+</item>
+<item>
+<title>Two dead after light aircraft crash</title>
+<link>https://news.sky.com/story/two-dead-after-light-aircraft-crash-13600111</link>
+<guid isPermaLink="false">fd0c4e82c135958034cafbb09b875e08ecbcb756965c28913f1f7ac0fac231ec</guid>
+<source>Sky News</source>
+<category>world</category>
+<pubDate>Sat, 17 Oct 2026 07:37:00 +0000</pubDate>
+<description>Two people have died after a light aircraft crashed in Scotland, police have said.</description>
+<enclosure url="https://e3.365dm.com/26/08/1920x1080/skynews-breakingnews-uk_7322499.jpg?20260826125921" type="image/jpeg"/>
+<media:content url="https://e3.365dm.com/26/08/1920x1080/skynews-breakingnews-uk_7322499.jpg?20260826125921" medium="image"/>
+</item>
+<item>
 <title>England's 41-match unbeaten run ended by Canada</title>
 <link>https://www.bbc.co.uk/sport/rugby-union/articles/cknv0m61l9e4o?at_medium=RSS&amp;at_campaign=rss</link>
 <guid isPermaLink="false">7198c46affa27445eaf60367a48cc8c8c7414581bc6467114286dbc32c90ea56</guid>
@@ -13,6 +46,15 @@
 <description>England's 41-match unbeaten streak ends in dramatic fashion as Shoshanah Seumanutafa's late try hands Canada a thrilling 24-21 victory in Toronto.</description>
 <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ac01/live/244f8370-c9f4-11f1-bc2e-018d645d8d21.jpg" type="image/jpeg"/>
 <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ac01/live/244f8370-c9f4-11f1-bc2e-018d645d8d21.jpg" medium="image"/>
+</item>
+<item>
+<title>Israeli raids and arrests in southern Syria push population to the brink</title>
+<link>https://www.aljazeera.com/features/2026/10/17/israeli-raids-and-arrests-in-southern-syria-push-population-to-the-brink?traffic_source=rss</link>
+<guid isPermaLink="false">dee8947fc10446537bae82cc7b2c04c6ff5816f060b9e4109e8901cf0254c237</guid>
+<source>Al Jazeera</source>
+<category>world</category>
+<pubDate>Sat, 17 Oct 2026 07:17:06 +0000</pubDate>
+<description>Survivors recount brutal prison conditions, enduring beatings, restraints and psychological abuse by Israeli soldiers.</description>
 </item>
 <item>
 <title>'I had so many medals under the bed' - Green on Chelsea success</title>
@@ -77,17 +119,6 @@
 <category>world</category>
 <pubDate>Sat, 17 Oct 2026 06:41:34 +0000</pubDate>
 <description>Houthi missile strikes threaten key supply routes on Yemen's Red Sea coast, intensifying pressure on government forces.</description>
-</item>
-<item>
-<title>Trump waives several Russia sanctions as row with Zelensky intensifies</title>
-<link>https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&amp;at_campaign=rss</link>
-<guid isPermaLink="false">b677fdedabaf44798b79a308f434fcab6e6331180980b7efb953f13fe521ebdd</guid>
-<source>BBC News</source>
-<category>world</category>
-<pubDate>Sat, 17 Oct 2026 06:39:40 +0000</pubDate>
-<description>The US president temporarily ends many restrictions on Moscow recently passed by Congress over "national security" concerns.</description>
-<enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c147/live/f608c860-c9cf-11f1-84c1-fd3c3266bb86.jpg" type="image/jpeg"/>
-<media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c147/live/f608c860-c9cf-11f1-84c1-fd3c3266bb86.jpg" medium="image"/>
 </item>
 <item>
 <title>Ukraine and Europe have little choice but to work with Trump</title>
@@ -214,7 +245,7 @@
 <source>Google News World</source>
 <category>world</category>
 <pubDate>Sat, 17 Oct 2026 05:05:15 +0000</pubDate>
-<description>Three Mexicans jailed for 158 years each for killing Australian, US surfers Al Jazeera Three men jailed for 158 years each for murdering Australian and US surfers in Mexico BBC Mexican judge sentences three men to 158 years in prison for murders of Australian and US surfers​ The Guardian Three sentenced to 158 years in Mexico for murder of Australian, US surfers Reuters 3 men sentenced to more than 158 years for the killings of Australian, US surfers in Mexico AP News</description>
+<description>Three Mexicans jailed for 158 years each for killing Australian, US surfers Al Jazeera Three men jailed for 158 years each for murdering Australian and US surfers in Mexico BBC Mexican judge sentences three men to 158 years in prison for murders of Australian and US surfers​ The Guardian Three sentenced to 158 years in Mexico for murder of Australian, US surfers Reuters 3 Men Are Found Guilty in Murders of Tourists on Surfing Trip to Mexico The New York Times</description>
 </item>
 <item>
 <title>Pope's health should not be taken 'for granted', says top Vatican diplomat</title>
@@ -311,8 +342,8 @@
 <category>world</category>
 <pubDate>Sat, 17 Oct 2026 03:57:16 +0000</pubDate>
 <description>It comes after the prime minister refused to say whether he backed expansion.</description>
-<enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cfda/live/0478eeb0-c9f9-11f1-a8f8-711b622ec0af.jpg" type="image/jpeg"/>
-<media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cfda/live/0478eeb0-c9f9-11f1-a8f8-711b622ec0af.jpg" medium="image"/>
+<enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/388f/live/422e53f0-c9fc-11f1-bb10-89ce65f72e2c.jpg" type="image/jpeg"/>
+<media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/388f/live/422e53f0-c9fc-11f1-bb10-89ce65f72e2c.jpg" medium="image"/>
 </item>
 <item>
 <title>Palestinians, US journalist attacked in West Bank pogrom: What we know - Al Jazeera</title>
@@ -345,7 +376,7 @@
 <title>Three men jailed for 158 years each for murdering Australian and US surfers in Mexico</title>
 <link>https://www.bbc.co.uk/news/articles/c3kgqjkzw29wo?at_medium=RSS&amp;at_campaign=rss</link>
 <guid isPermaLink="false">244ffc3b821d4ad760d149a59a365247fda0de94fa0c79b2b9ac46b889ec65fd</guid>
-<source>BBC News</source>
+<source>BBC World</source>
 <category>world</category>
 <pubDate>Sat, 17 Oct 2026 03:11:10 +0000</pubDate>
 <description>Brothers Jake and Callum Robinson and their friend Carter Rhoad were killed on a surfing trip in an apparent botched robbery.</description>
@@ -430,7 +461,7 @@
 <source>Google News World</source>
 <category>world</category>
 <pubDate>Sat, 17 Oct 2026 02:00:00 +0000</pubDate>
-<description>Iran Is Giving Houthis Targeting and Intelligence for Attacks on Saudi Arabia WSJ Iran cultivated Houthis for years before opening new war front, Yemeni insider says Iran International Houthi strikes on Saudi Arabia show the Yemeni rebels' growing strength 10TV How Yemen’s Houthis Are Testing the Limits of Iran’s Power—And America’s Newsweek What do the Houthis want? Financial Times</description>
+<description>Iran Is Giving Houthis Targeting and Intelligence for Attacks on Saudi Arabia WSJ Iran cultivated Houthis for years before opening new war front, Yemeni insider says Iran International Houthi strikes on Saudi Arabia show the Yemeni rebels' growing strength 10TV What do the Houthis want? Financial Times How the Houthis are helping Iran turn Saudi Arabia into a pressure point Reuters</description>
 </item>
 <item>
 <title>Faisal Islam: What I learned from a week with the world's top finance leaders</title>
@@ -648,24 +679,13 @@
 <media:content url="https://i.guim.co.uk/img/media/e265e0346262b5d183f70d6ebff0c0e9dd3afcb6/348_0_3304_2642/master/3304.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=bc0e9e060e20a2c6c0f3ca3b2572a618" medium="image"/>
 </item>
 <item>
-<title>Pope pictured for first time since surgery and cancer diagnosis</title>
-<link>https://www.bbc.co.uk/news/articles/cw146ej00yn7o?at_medium=RSS&amp;at_campaign=rss</link>
-<guid isPermaLink="false">044b4bea2d1a4758f81a66144c9d8fad9ca7910e36c59b935da0035075f64c0c</guid>
-<source>BBC World</source>
-<category>world</category>
-<pubDate>Fri, 16 Oct 2026 23:20:37 +0000</pubDate>
-<description>The pontiff was diagnosed with lung cancer after having surgery at Rome's Gemelli Hospital on Tuesday.</description>
-<enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b711/live/6c3028b0-c978-11f1-9a39-31b474234113.jpg" type="image/jpeg"/>
-<media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b711/live/6c3028b0-c978-11f1-9a39-31b474234113.jpg" medium="image"/>
-</item>
-<item>
 <title>Pope pictured for first time since surgery and cancer diagnosis - BBC</title>
 <link>https://news.google.com/rss/articles/CBMiW0FVX3lxTE5MNDhSTUViUVZRSmhGbE14YTAxOWQ1cVFoLVdUb0w5cnRTUFNUN1RXdEpxX1NjS2VUbEhJeXRLMDBfWXk5NGNBQVprYTdJYzY2TV9kaHNsNFNlSXM?oc=5</link>
 <guid isPermaLink="false">fc0e9c9af6cbfd352669a552daaa9340e2d73162e294409e5c3b9f6973e43fed</guid>
 <source>Google News World</source>
 <category>world</category>
 <pubDate>Fri, 16 Oct 2026 23:20:37 +0000</pubDate>
-<description>Pope pictured for first time since surgery and cancer diagnosis BBC Pope Leo Found to Have Lung Cancer During Surgery, Vatican Says The New York Times Pope's health should not be taken 'for granted', says top Vatican diplomat BBC Papal trip could face changes after surgery The Pillar New photos show Pope Leo celebrating Mass at hospital as he recovers from lung cancer surgery CBS News</description>
+<description>Pope pictured for first time since surgery and cancer diagnosis BBC Pope Leo Found to Have Lung Cancer During Surgery, Vatican Says The New York Times Papal trip could face changes after surgery The Pillar New photos show Pope Leo celebrating Mass at hospital as he recovers from lung cancer surgery CBS News Pope continues 'steady improvement,' celebrates Mass for Gemelli staff Vatican News</description>
 </item>
 <item>
 <title>Trial of German steakhouse heiress that sparked a huge spy scandal</title>
@@ -785,7 +805,7 @@
 <source>Google News World</source>
 <category>world</category>
 <pubDate>Fri, 16 Oct 2026 21:51:00 +0000</pubDate>
-<description>Missiles hit Aden airport as Saudi-led coalition intercepts missile headed for Yanbu Reuters Yemen's Houthis hit palace in Aden, coalition details attacks on Saudi infrastructure Reuters Iran-aligned Houthis launch deadly attack on Yemeni presidential palace in escalating campaign against Saudi Arabia CNN Houthi Missiles Strike Government Headquarters in Yemen The New York Times Yemen’s government says Houthis fired two missiles at Aden airport Al Jazeera</description>
+<description>Missiles hit Aden airport as Saudi-led coalition intercepts missile headed for Yanbu Reuters Yemen's Houthis hit palace in Aden, coalition details attacks on Saudi infrastructure Reuters Houthi Missiles Strike Government Headquarters in Yemen The New York Times Iran-aligned Houthis target Yemeni presidential palace, prime minister remains unharmed CNN Yemen’s government says Houthis fired two missiles at Aden airport Al Jazeera</description>
 </item>
 <item>
 <title>Healey backs pro-growth case for Heathrow third runway after Burnham ducks issue</title>
@@ -826,15 +846,6 @@
 <category>world</category>
 <pubDate>Fri, 16 Oct 2026 21:08:50 +0000</pubDate>
 <description>The messages, reported by a Brazilian daily, say the platform recommended Bolsonaro's profile and his WhatsApp channel.</description>
-</item>
-<item>
-<title>How Israeli spyware used ‘zero click’ hack on Al Jazeera staff</title>
-<link>https://www.aljazeera.com/video/newsfeed/2026/10/16/how-israeli-spyware-used-zero-click-hack-on-al-jazeera-staff?traffic_source=rss</link>
-<guid isPermaLink="false">2b13623641a8946be5155ca6a38a202d80bb713c100d47fa0c20a6bc50f85c73</guid>
-<source>Al Jazeera</source>
-<category>world</category>
-<pubDate>Fri, 16 Oct 2026 21:08:44 +0000</pubDate>
-<description>Israeli spyware firms hacked into Al Jazeera devices in 2024 using a new ‘adfection’ method. Here's how it works.</description>
 </item>
 <item>
 <title>Analysis: Zacharia was thrown into a whirlwind - and failed at a critical time for Trump</title>
@@ -885,7 +896,7 @@
 <source>Google News World</source>
 <category>world</category>
 <pubDate>Fri, 16 Oct 2026 20:28:08 +0000</pubDate>
-<description>Meta employees said Lula's accounts were hindered during Brazil election, Folha reports Reuters Brazil’s Leftist President Accuses Meta of Helping His Right-Wing Opponent The New York Times Brazil’s Lula wins electoral court challenge against Meta for alleged pro-Bolsonaro algorithm bias NBC News Meta denies accusation of anti-Lula political bias in Brazil after electoral court ruling AP News Meta employees say Lula’s accounts restricted in Brazil election: Report Al Jazeera</description>
+<description>Meta employees said Lula's accounts were hindered during Brazil election, Folha reports Reuters See more headlines &amp; perspectives on Google News</description>
 </item>
 <item>
 <title>Zelensky turns to Europe for backing as ties with Trump deteriorate</title>
@@ -1043,15 +1054,6 @@
 <description>Zacharia, having served only five days in the role, is now the shortest-serving press secretary in White House history. Her departure follows a rocky debut at the podium and controversy surrounding her background.</description>
 </item>
 <item>
-<title>Police assess Palestine Action post by national security adviser's wife - BBC</title>
-<link>https://news.google.com/rss/articles/CBMiW0FVX3lxTE9BTUxjckpFTG1WTWVDbFo5N01pSl9yUkRpbF8zZWU5MEhrbFZMNTVmQWRtakdXd0RscHVleGhIQXozZWxqSFZ5ek9faG0yR3VtMDZKVVdDYzFFd3M?oc=5</link>
-<guid isPermaLink="false">c8b10176b2fa5ace08313621b25c4f4a64d59fa1dcc2ac9b3a8c4a13ec1128b0</guid>
-<source>Google News World</source>
-<category>world</category>
-<pubDate>Fri, 16 Oct 2026 18:58:05 +0000</pubDate>
-<description>Police assess Palestine Action post by national security adviser's wife BBC UK national security adviser under pressure over wife’s comment on supporting Palestine Action The Guardian UK PM adviser’s wife expresses ‘support’ for Palestine Action Al Jazeera UK cops looking into post supporting Palestine Action by wife of Burnham’s top security aide The Times of Israel National security adviser’s wife ‘backs Palestine Action’ The Times</description>
-</item>
-<item>
 <title>'Well-known' man asks court to stop publication of sexual offence allegation - BBC</title>
 <link>https://news.google.com/rss/articles/CBMiW0FVX3lxTE0ycTRyX085cl90eEVWUlRIQlg2b2Z5OWQzVmNNTkFSSlpHMjlydFBRX3pueW9YVnRHallCLVNnUjFpN2NZU0Q0eEh4VGNlajJrZEdUNUlsMFlNcjA?oc=5</link>
 <guid isPermaLink="false">b6112e86148a11ae8086d254364ef941c1aa8952e60bfefb6d51e836d6bee9e3</guid>
@@ -1059,6 +1061,15 @@
 <category>world</category>
 <pubDate>Fri, 16 Oct 2026 18:46:14 +0000</pubDate>
 <description>'Well-known' man asks court to stop publication of sexual offence allegation BBC ‘Well-known individual’ tries to secure permanent injunction against Guardian and ITN The Guardian Celebrity in secrecy battle over sexual assault allegations The Times Celebrity tries to gag media over alleged sexual offence The Telegraph ‘Well-known man’ suing news outlets to stop allegations being broadcast The Independent</description>
+</item>
+<item>
+<title>UK PM adviser’s wife expresses ‘support’ for Palestine Action - Al Jazeera</title>
+<link>https://news.google.com/rss/articles/CBMiogFBVV95cUxOckJmNmRMYUlHMUctRzBjcEVXcnFHMVBmWERjWVJvRklpazZUaVBrS0JaY21pcVQtUk1zOUFENEN2RTFkN2pSQUpsNEhjMTAwZzhoV3JpUUhMdlZPVDY0czJSbFVvWWMyLUdHS0UtamV6allLRW1fYmJPTTBkdGNqTk14Ny01S29UVXJKZXY5bE02VnFZYXo5ajE4RWFPUXJMbkHSAacBQVVfeXFMT1lobG9ZdWI4U3p1aGxRNkhNd1FPSWJxYlNFSWZmcW5yeTFlTThkUHM0TGpFeDV3X3M5LThHUUI0RTl4QTZ5bmRmM0JXYTBuLW91eVdMTGRYNkE1Ym1zU0xpR05Tc0VQTWVabVhPQXdkWlpLSVlQdzZpUlJjWUQxMjgwRklUZzhOOUtxdnhNUzZWNVhwYkFRMGYwV1VMWExvY3lXbnR6ZkU?oc=5</link>
+<guid isPermaLink="false">d5565b718857b65fe472aed22874ac2bafc3bbd089eda442a7195900d58b0359</guid>
+<source>Google News World</source>
+<category>world</category>
+<pubDate>Fri, 16 Oct 2026 18:35:41 +0000</pubDate>
+<description>UK PM adviser’s wife expresses ‘support’ for Palestine Action Al Jazeera UK national security adviser under pressure over wife’s comment on supporting Palestine Action The Guardian UK cops looking into post supporting Palestine Action by wife of Burnham’s top security aide The Times of Israel Palestine Action post by Sarah Helms, wife of national security adviser, being assessed by Met Police Sky News National security adviser’s wife ‘backs Palestine Action’ The Times</description>
 </item>
 <item>
 <title>'US tilting toward Russia: Europeans are standing more and more solidly with Zelensky'</title>
@@ -1098,7 +1109,7 @@
 <source>BBC News</source>
 <category>world</category>
 <pubDate>Fri, 16 Oct 2026 18:11:29 +0000</pubDate>
-<description>Australia has proposed a switch to force social media platforms to let users turn off recommended content.</description>
+<description>The Australian government hopes to protect social media users from being served content they don't want to see.</description>
 <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/21ca/live/8f226840-c966-11f1-a64c-550be9e3c66b.png" type="image/jpeg"/>
 <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/21ca/live/8f226840-c966-11f1-a64c-550be9e3c66b.png" medium="image"/>
 </item>
@@ -1320,17 +1331,6 @@
 <media:content url="https://s.france24.com/media/display/7b773cd2-c978-11f1-a009-2d1c143cdef3/w:1024/p:16x9/EN-20261016-161020-161255-CS.jpg" medium="image"/>
 </item>
 <item>
-<title>Ex-soap star who conned would-be models in £13m scam jailed after fleeing UK</title>
-<link>https://news.sky.com/story/ex-brookside-star-philip-foster-jailed-after-fleeing-uk-over-13m-fraud-on-would-be-models-13600000</link>
-<guid isPermaLink="false">1225dd4a6a6d09bd719e19a28b77bc8c034926419fecb62cfb7961388db65b47</guid>
-<source>Sky News</source>
-<category>world</category>
-<pubDate>Fri, 16 Oct 2026 15:49:00 +0000</pubDate>
-<description>A former soap opera star has been jailed for nine years after fleeing the UK for Spain to avoid facing trial for allegedly conning would-be models out of more than £13m.</description>
-<enclosure url="https://e3.365dm.com/26/10/1920x1080/skynews-ex-brookside-actor_7378416.jpg?20261016182029" type="image/jpeg"/>
-<media:content url="https://e3.365dm.com/26/10/1920x1080/skynews-ex-brookside-actor_7378416.jpg?20261016182029" medium="image"/>
-</item>
-<item>
 <title>Watch: Will Ukraine get the support needed as tensions with US rise?</title>
 <link>https://www.bbc.co.uk/news/videos/cm2ke1v8e4geo?at_medium=RSS&amp;at_campaign=rss</link>
 <guid isPermaLink="false">e689e5ff26a2acf5b2b351d4a2581de38d5d6d90ffb9a97b983b804834fc1e5b</guid>
@@ -1459,17 +1459,6 @@
 <media:content url="https://s.france24.com/media/display/03083cb6-c96d-11f1-8513-4dd8ac2cf3bf/w:1024/p:16x9/000-D3GA69H.jpg" medium="image"/>
 </item>
 <item>
-<title>Patients in chains rescued from suspected illegal rehab centre in South Africa</title>
-<link>https://www.bbc.co.uk/news/articles/cmwyvxj49gpwo?at_medium=RSS&amp;at_campaign=rss</link>
-<guid isPermaLink="false">64cd8626a4f88dd3e05f254544e2e38b2fc236656a3b80d581ed453c66e5f476</guid>
-<source>BBC World</source>
-<category>world</category>
-<pubDate>Fri, 16 Oct 2026 14:57:51 +0000</pubDate>
-<description>Some of the 200 patients were found with "sores all over their bodies" and in overcrowded rooms.</description>
-<enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6ae2/live/aea9db50-c950-11f1-8879-9d9deeb686e1.jpg" type="image/jpeg"/>
-<media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6ae2/live/aea9db50-c950-11f1-8879-9d9deeb686e1.jpg" medium="image"/>
-</item>
-<item>
 <title>Ibrahim Mahama's abundant artistic harvest</title>
 <link>https://www.france24.com/en/tv-shows/arts24/20261016-ibrahim-mahama-s-abundant-artistic-harvest</link>
 <guid isPermaLink="false">91fcfe18759baf27b45449bf6c577e2df5af336a562acf1657b986eafc11c0d3</guid>
@@ -1538,7 +1527,7 @@
 <source>Google News World</source>
 <category>world</category>
 <pubDate>Fri, 16 Oct 2026 14:25:00 +0000</pubDate>
-<description>China sentences 6 for lead-tainted kindergarten food that sickened over 200 children AP News Kindergarten owner and staff jailed for poisoning 200 children in China ABC News &amp; Headlines – Australian Broadcasting Corporation Chinese kindergarten owner given life sentence over lead paint poisoning scandal South China Morning Post Kindergarten head sentenced to life imprisonment for adding toxic substances to food served to children, staff Global Times Kindy owner jailed for poisoning 247 children News.com.au</description>
+<description>China sentences 6 for lead-tainted kindergarten food that sickened over 200 children AP News Kindergarten owner and staff jailed for poisoning 200 children in China ABC News &amp; Headlines – Australian Broadcasting Corporation Chinese kindergarten owner given life sentence over lead paint poisoning scandal South China Morning Post Kindergarten head sentenced to life imprisonment for adding toxic substances to food served to children, staff Global Times More than 200 kids poisoned at kindergarten News.com.au</description>
 </item>
 <item>
 <title>Albania: Students demand political change and resignation of Prime Minister Edi Rama</title>
@@ -1677,22 +1666,13 @@
 <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b96f/live/01c77470-c963-11f1-bc2e-018d645d8d21.png" medium="image"/>
 </item>
 <item>
-<title>2 ships on fire off Romania's Black Sea coast, 7 crew missing - DW.com</title>
-<link>https://news.google.com/rss/articles/CBMijAFBVV95cUxQRHQzWV9qTkNNYTd0N3NLSmRpYTVlQ3ZMOGtWQWRGaTV4VmV6WjRFOV9SWkRIcXdlNzBEQnRKVlI5V3NaS1FYTEJ6NFhDOXUzNDdnMndzRWltekRIU1dxUG1PczRQdGlUcmF2TDVRbl9hSnhHV2tYc2hJNGE0REd0M0RQSmRhUXo4RkVQdNIBjAFBVV95cUxPaS16UmVUcHNxUGJDa2piTllmZmdSeG1uS3h2Smw5WFNSM08ya3hhbkFYM3hQdWJBdlBUb1Z4amFEalYxX2xYemN4Ry1BRTFzLWNQOHpKUWFjUHR3ckVkNmlIaGdaTzFkUVN4SkJPOFpXbjdKNnJEejB0UTJrbVNxWjdwd3FkV2V2Wnp6Mg?oc=5</link>
-<guid isPermaLink="false">c691fbd328012b6109a1da4d35d11f7034fe45cf0d1b6ed04f965a6b7fd962b4</guid>
-<source>Google News World</source>
-<category>world</category>
-<pubDate>Fri, 16 Oct 2026 12:32:09 +0000</pubDate>
-<description>2 ships on fire off Romania's Black Sea coast, 7 crew missing DW.com Seven crew missing after drone attack leaves tanker ablaze off Romania's coast BBC Drone strike on ship in Romanian waters raises fear that war in Ukraine is spreading PBS NATO to address drone attacks in the Black Sea after seven missing off Romania France 24 Romania Warns of Collateral Risk From Russian Black Sea Attacks Bloomberg.com</description>
-</item>
-<item>
 <title>Ukrainian drones force closure of all four Moscow airports overnight, cancelling dozens of flights - Euronews.com</title>
 <link>https://news.google.com/rss/articles/CBMixAFBVV95cUxNbFloS1FkR0NiRHo0bTlFVk1hcnA2bG83V21VMDJ3TEhta2VBZDBic2w3THlVaUFScnBWT202RTNMUFVxZTlHc2gxSVpDQU1HRDNYWUdLNk1PVktFdmotYjZYZ2lqa1hJX016Sjd1a2hsamg5YzVwMVRRU2U1N1htSllRVThWck4xRjdOWVlmeTRKN3NUemdFNnpoWUItODlQWktCSzNzaC0weHRjRWFGYkNjMkdHbE9zSGhza1F3Y0dKX1Nv?oc=5</link>
 <guid isPermaLink="false">584b0419bf70ed092d2971ba40f75f41c402c65714bf05d26deee14bcb0ed08d</guid>
 <source>Google News World</source>
 <category>world</category>
 <pubDate>Fri, 16 Oct 2026 12:25:28 +0000</pubDate>
-<description>Ukrainian drones force closure of all four Moscow airports overnight, cancelling dozens of flights Euronews.com Sky closed over Moscow multiple nights in row as Ukraine resumes refinery strikes The Kyiv Independent Moscow authorities report attack by drones Yahoo Nearly 500 Drones Head Toward Moscow as Russian Data Centers and Oil Facilities Face Attacks Kyiv Post Ukraine Plans More Powerful Drone Campaign to Paralyze Russian Airports – The Atlantic Kyiv Post</description>
+<description>Ukrainian drones force closure of all four Moscow airports overnight, cancelling dozens of flights Euronews.com Sky closed over Moscow multiple nights in row as Ukraine resumes refinery strikes The Kyiv Independent Moscow authorities report attack by drones Yahoo Moscow’s Four Airports Reopen After Overnight Drone Alerts Disrupt Flights Kyiv Post How Ukraine Plans to Paralyze Moscow Airports With AI-Guided Drones, According to The Atlantic UNITED24 Media</description>
 </item>
 <item>
 <title>What the Pope said to Putin in call days after lung cancer surgery</title>
@@ -1819,7 +1799,7 @@
 <source>Google News World</source>
 <category>world</category>
 <pubDate>Fri, 16 Oct 2026 09:55:05 +0000</pubDate>
-<description>Japan’s Leader Says She Loses Hours to Makeup and Chores. Opinions Abound. The New York Times Japan’s Takaichi says chores and makeup add hours to her workday, sparking debate on gender roles NBC News Japan’s PM: I work more hours than men because of make-up and chores The Telegraph Report questioning Japan PM's parliament attendance stokes debate Japan Wire by Kyodo News Japan PM Explains How She Works More Than Male PMs Newser</description>
+<description>Japan’s Leader Says She Loses Hours to Makeup and Chores. Opinions Abound. The New York Times Japan’s Takaichi says chores and makeup add hours to her workday, sparking debate on gender roles NBC News Japan’s PM: I work more hours than men because of make-up and chores The Telegraph Japan PM Explains How She Works More Than Male PMs Newser Report questioning Japan PM's parliament attendance stokes debate Japan Wire by Kyodo News</description>
 </item>
 <item>
 <title>Military signals building: Is the US-Iran war about to escalate? - Euronews.com</title>
@@ -1846,7 +1826,7 @@
 <source>Google News World</source>
 <category>world</category>
 <pubDate>Fri, 16 Oct 2026 09:15:00 +0000</pubDate>
-<description>Policing of France’s school protests clouds Macron’s final months and sparks uproar AP News France braces for fresh protests as security fears take centre stage Euronews.com Students, trade unions and Yellow Vests set to protest across France Reuters The 53-Year-Old in a Suit Who’s the Face of France’s Youth Protests The New York Times A family at the heart of France's working-class anger Le Monde.fr</description>
+<description>Policing of France’s school protests clouds Macron’s final months and sparks uproar AP News Students, trade unions and Yellow Vests set to protest across France Reuters The 53-Year-Old in a Suit Who’s the Face of France’s Youth Protests The New York Times A family at the heart of France's working-class anger Le Monde.fr French police accused over war-like injuries to teenagers in school protests | France The Guardian</description>
 </item>
 <item>
 <title>EU promotes sovereign, trusted AI as it struggles to catch US and China</title>
@@ -1856,15 +1836,6 @@
 <category>world</category>
 <pubDate>Fri, 16 Oct 2026 09:07:00 +0000</pubDate>
 <description>At an international AI summit in Dublin, EU leaders promoted trusted and independent artificial intelligence. Critics question whether the bloc can close the gap with the US and China while maintaining strict regulation.</description>
-</item>
-<item>
-<title>What Life Is Like in Kyiv as Russia Tries to Make It Unlivable - The New York Times</title>
-<link>https://news.google.com/rss/articles/CBMigwFBVV95cUxNQ1ZyZzN2aDhYaGpfTWktaXhZUGhEX0F0Vk1sUnJkdHdnQUxJLWd6TnhVLUNDMjlHVG1rY1RZTHFQYUVaWXNILVNFYWU5UklRb2ROZXdNTE1ZRDdxdnhvdTRfVzdTdUpfcFVvdGVCZ0c3dnpzbmVRaXhDNW02M3ZmeXNHQQ?oc=5</link>
-<guid isPermaLink="false">eb27e93a3e04188f5b1f837660d40049bf35d2b99e4d52b1e776ff97cbd9eb6d</guid>
-<source>Google News World</source>
-<category>world</category>
-<pubDate>Fri, 16 Oct 2026 09:00:02 +0000</pubDate>
-<description>What Life Is Like in Kyiv as Russia Tries to Make It Unlivable The New York Times Ukraine Launches Online Map to Track Russian Drones, Missiles and Air Raid Alerts - Oj Odessa Journal Ukrainians in frontline city keep going despite constant Russian bombardment | ITV News ITVX Russia Ukraine War Daily Life GazetteXtra Russian Strikes Disrupt Life in Kyiv SuaraGarut.ID</description>
 </item>
 <item>
 <title>'Everything got worse': Gen Z express frustration, regret after Trump vote - NPR</title>
@@ -1885,17 +1856,6 @@
 <description>David Shoebridge says 47-page document not ‘made by, used by, or seen by’ his office as matter referred to parliamentary standards commission Get our new political email , free app or daily news podcast Greens leader David Shoebridge has denied knowledge of the existence of an alleged crisis management document on how to deal with allegations against Jordon Steele-John being made public. The Nine newspapers reported on Friday afternoon the existence of a “secret dossier”, first drafted in 2016, which contained misconduct allegations against the Western Australian Greens senator and how to suppress their media coverage. Sign up for Guardian Australia’s Politics, really newsletter here Continue reading...</description>
 <enclosure url="https://i.guim.co.uk/img/media/6889b934839e3b0948a6f6e3a87911e0a1e2e260/267_0_5608_4489/master/5608.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=39223363ec4ebb190f4d4d106772f068" type="image/jpeg"/>
 <media:content url="https://i.guim.co.uk/img/media/6889b934839e3b0948a6f6e3a87911e0a1e2e260/267_0_5608_4489/master/5608.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=39223363ec4ebb190f4d4d106772f068" medium="image"/>
-</item>
-<item>
-<title>China tells Israel to stop 'forced establishment' of West Bank settlements</title>
-<link>https://www.bbc.co.uk/news/articles/cq1j3wdxy48ro?at_medium=RSS&amp;at_campaign=rss</link>
-<guid isPermaLink="false">ec09cceda66bc5712a716ab20d3a3ca187ccf535dc53d82af27abe35bd2ca083</guid>
-<source>BBC World</source>
-<category>world</category>
-<pubDate>Fri, 16 Oct 2026 08:45:54 +0000</pubDate>
-<description>Chinese Foreign Minister Wang Yi spoke to Israeli President Isaac Herzog on the sidelines of a conference.</description>
-<enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e303/live/46a76390-c939-11f1-bcc7-a3638a736ce9.jpg" type="image/jpeg"/>
-<media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e303/live/46a76390-c939-11f1-bcc7-a3638a736ce9.jpg" medium="image"/>
 </item>
 <item>
 <title>China tells Israel to stop 'forced establishment' of West Bank settlements - BBC</title>
@@ -1945,6 +1905,15 @@
 <description>A British father has been fined €3,000 (£2,500) for causing the death of his two-year-old son who fell from the fourth floor of a hotel in Cyprus.</description>
 <enclosure url="https://e3.365dm.com/26/10/1920x1080/skynews-joshua-foster-cyprus_7378076.jpg?20261016093527" type="image/jpeg"/>
 <media:content url="https://e3.365dm.com/26/10/1920x1080/skynews-joshua-foster-cyprus_7378076.jpg?20261016093527" medium="image"/>
+</item>
+<item>
+<title>Russia Builds Massive Jet Drone Launch Base Near Ukraine in Just 6 Weeks - Kyiv Post</title>
+<link>https://news.google.com/rss/articles/CBMiS0FVX3lxTE0tYlotRkxOWHhsMlA1ZGw2akpHMFlycUVuZEFZdlEwMnRhT2RVTk5kUTJieXdIeXlraUNBbk9mOWJKZGJneHdydlFNZw?oc=5</link>
+<guid isPermaLink="false">ae07a8d154fd33da0eacc51918b6460a5611556429af2733194fee64fb09769b</guid>
+<source>Google News World</source>
+<category>world</category>
+<pubDate>Fri, 16 Oct 2026 07:45:16 +0000</pubDate>
+<description>Russia Builds Massive Jet Drone Launch Base Near Ukraine in Just 6 Weeks Kyiv Post Russia builds major new drone attack base in six weeks, satellite images show Reuters Russia’s New Drone Base Could Launch Over 100 Jet-Powered Drones Daily, Expert Warns UNITED24 Media Russia builds new attack drone launch base in Rostov region in six weeks, Reuters reports Ukrinform Russia's New Drone Launch Site Is as Big as 126 Soccer Fields Newser</description>
 </item>
 <item>
 <title>Which countries waste the most food, and how to reduce waste at home - Al Jazeera</title>
@@ -2064,7 +2033,7 @@
 <source>Google News World</source>
 <category>world</category>
 <pubDate>Fri, 16 Oct 2026 04:20:00 +0000</pubDate>
-<description>Nerves rattled in Japan as alert for magnitude 9.9 quake withdrawn minutes later The Japan Times Earthquake of magnitude 7 strikes Russia's Kamchatka Peninsula, EMSC says Reuters Japan Mistakenly Issues Warning for Strongest Ever Earthquake The New York Times Japan mistakenly sends emergency alert warning of 9.9 magnitude earthquake Hawaii News Now No tsunami threat to Hawaii after large quake hits Russia Honolulu Star-Advertiser</description>
+<description>Nerves rattled in Japan as alert for magnitude 9.9 quake withdrawn minutes later The Japan Times See more headlines &amp; perspectives on Google News</description>
 </item>
 <item>
 <title>Future of western security is at stake in Yemen civil war, says country’s former PM</title>
@@ -2111,29 +2080,16 @@
 <source>Google News World</source>
 <category>world</category>
 <pubDate>Thu, 15 Oct 2026 23:56:18 +0000</pubDate>
-<description>Gasping for clean air: Singapore battles relentless haze as Prime Minister Wong warns of action CNBC ‘Clean air is not a favour’: Indonesia’s neighbours fed up with acrid haze as Singapore threatens to prosecute The Guardian Singapore pollution spikes, East Timor shuts schools as Indonesia wildfire haze intensifies Reuters Singapore haze: PM2.5 readings climb into high band in four regions CNA Singapore Names Seven Companies Over Indonesia Haze Fires Bloomberg.com</description>
+<description>Gasping for clean air: Singapore battles relentless haze as Prime Minister Wong warns of action CNBC ‘Clean air is not a favour’: Indonesia’s neighbours fed up with acrid haze as Singapore threatens to prosecute The Guardian Singapore pollution spikes, East Timor shuts schools as Indonesia wildfire haze intensifies Reuters Singapore haze: PM2.5 readings climb into high band in four regions CNA Singapore's iconic skyline is shrouded in a fire-related haze. Here's what it looks like across the island. Business Insider</description>
 </item>
 <item>
-<title>Houthi missile attack on Yemeni presidential palace kills five, minister says</title>
-<link>https://www.bbc.co.uk/news/articles/cm62y6lp73zdo?at_medium=RSS&amp;at_campaign=rss</link>
-<guid isPermaLink="false">d52188897cfc6affe2c7444a1f1f89d0d1e326b7e968d4e5fe7978aa7f326e9e</guid>
-<source>BBC World</source>
+<title>Drone strike on ship in Romanian waters raises fear that war in Ukraine is spreading - PBS</title>
+<link>https://news.google.com/rss/articles/CBMiuwFBVV95cUxQWXhEZk9hTkdnTEhOYzhwdkRpNjJWTHRUVHg0Wnk1czJya0hDOVl3X2tZTlowZEhSc2lfOHNSbGNSZVNSRDhCakQ4cXd2Snd0MUJrLUt2WnBNdmltNzRfX1JadWRYbkluNXVWUzVxRXNOVVpOUDNPTVdsYkE3eF85clc5X19qcWV0VUYtNEpqZmd5aWJPVXJSR29kMDVUZ3BscjdUcU5SZmNlUXQ3SmpyaWJ1MzZrUHBiS3JV0gHAAUFVX3lxTE5qQnRVV3lXX2FVYVRLNk1Gd3RjSWJsSFp0cTd5cXhiaTNlalE5ZHo5Q21nS3hIdUJRdDBrcHY2bDJKc2hRSlM0UWpzWDN5V2tid0JmWTRtdXUtZEJuNDFLejJmblJRMVhaSWRhWVI0VXlXcWJtVnUtVmtRWEhRcXpvc2F4LXBKbzY5T0tZNEszX2dRaEpFNjdoVUZpREx5MWc2NkxPcnY1XzhCclVYeHBYWHJpc2tIV2x6a19XcS1HSg?oc=5</link>
+<guid isPermaLink="false">d9b7221e9bc68e7267453cfa1a50895952b96b73e1cb8518b56bd0b13eb830e5</guid>
+<source>Google News World</source>
 <category>world</category>
-<pubDate>Thu, 15 Oct 2026 23:38:46 +0000</pubDate>
-<description>Yemen's information minister says the prime minister and other ministers were unhurt when ballistic missiles hit al-Maashiq Palace.</description>
-<enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/16df/live/2fc36f20-c8bc-11f1-bc2e-018d645d8d21.jpg" type="image/jpeg"/>
-<media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/16df/live/2fc36f20-c8bc-11f1-bc2e-018d645d8d21.jpg" medium="image"/>
-</item>
-<item>
-<title>Tip-off foiled US teen suspect's plot to attack Hindu temple, police say</title>
-<link>https://www.bbc.co.uk/news/articles/cqgm0j4kjvevo?at_medium=RSS&amp;at_campaign=rss</link>
-<guid isPermaLink="false">5e8772258e5906da86c14a2967a64dc3458328edb01e4d862b7a54b5ce31aaf2</guid>
-<source>BBC World</source>
-<category>world</category>
-<pubDate>Thu, 15 Oct 2026 23:27:21 +0000</pubDate>
-<description>The alleged plot only failed because the 19-year-old suspect's gun jammed outside the place of worship, say police.</description>
-<enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/316e/live/9caab030-c88a-11f1-a2e8-f71844f8002e.jpg" type="image/jpeg"/>
-<media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/316e/live/9caab030-c88a-11f1-a2e8-f71844f8002e.jpg" medium="image"/>
+<pubDate>Thu, 15 Oct 2026 23:38:56 +0000</pubDate>
+<description>Drone strike on ship in Romanian waters raises fear that war in Ukraine is spreading PBS Seven crew missing after drone attack leaves tanker ablaze off Romania's coast BBC 2 ships on fire off Romania's Black Sea coast, 7 crew missing DW.com NATO to address drone attacks in the Black Sea after seven missing off Romania France 24 Romania Warns of Collateral Risk From Russian Black Sea Attacks Bloomberg.com</description>
 </item>
 <item>
 <title>Are student protests being manipulated ahead of France's presidential election?</title>
@@ -2153,7 +2109,7 @@
 <source>Google News World</source>
 <category>world</category>
 <pubDate>Thu, 15 Oct 2026 21:52:40 +0000</pubDate>
-<description>Israeli Strike Burns Gaza Mother Alive in Front of Toddler, 'Without Generating Any Headlines' Common Dreams Israeli air strike kills Palestinian woman in Gaza City Al Jazeera Israeli Army Kills Five Palestinians in Gaza - IMEMC News Report: Palestinian Killed, Others Wounded in Israeli Drone Strike in North Gaza Haaretz Israeli strike kills mother, leaves Gaza girl trapped in flames The New Arab</description>
+<description>Israeli Strike Burns Gaza Mother Alive in Front of Toddler, 'Without Generating Any Headlines' Common Dreams Israeli air strike kills Palestinian woman in Gaza City Al Jazeera Report: Palestinian Killed, Others Wounded in Israeli Drone Strike in North Gaza Haaretz Israeli strike kills mother, leaves Gaza girl trapped in flames The New Arab APTOPIX Israel Palestinians.Gaza Dayton Daily News</description>
 </item>
 <item>
 <title>North Korea’s ‘Hunchback’ Submarine Makes First At-Sea Appearance For Missile Tests - TWZ</title>
@@ -2162,7 +2118,7 @@
 <source>Google News World</source>
 <category>world</category>
 <pubDate>Thu, 15 Oct 2026 21:01:09 +0000</pubDate>
-<description>North Korea’s ‘Hunchback’ Submarine Makes First At-Sea Appearance For Missile Tests TWZ North Korea says it tested new torpedo system with AI capabilities AP News North Korea Tests First Submarine-launched Cruise Missile in Nearly 3 Years USNI News North Korea tests cruise missiles to be launched from sub DW.com North Korea's Kim showcases missile capable of reaching US as Trump signals possible meeting Yahoo</description>
+<description>North Korea’s ‘Hunchback’ Submarine Makes First At-Sea Appearance For Missile Tests TWZ North Korea says it tested new torpedo system with AI capabilities AP News US rival’s 3,000-ton submarine possibly launched two strategic cruise missiles in East Sea Interesting Engineering North Korea Tests First Submarine-launched Cruise Missile in Nearly 3 Years USNI News North Korea's Kim showcases missile capable of reaching US as Trump signals possible meeting Yahoo</description>
 </item>
 <item>
 <title>The Truth About the Houthis – and Why Saudi Arabia Is Struggling to Defend Itself Against Them - Zeteo | Substack</title>
@@ -2180,7 +2136,16 @@
 <source>Google News World</source>
 <category>world</category>
 <pubDate>Thu, 15 Oct 2026 20:09:43 +0000</pubDate>
-<description>Crucial to give Ukraine all means needed to defend population, infrastructure, France's Macron says Reuters Ukraine's backers will 'be looking at' Kyiv's €70 billion request, Macron says France 24 Ukraine pushes for European alternatives to US air defences and Starlink amid tensions with Washington Euronews.com SCALP, AASM Hammer, and Aster 30: France Has Granted Ukraine All the Promised Licenses Мілітарний Macron announced that missile deliveries to Ukraine would be expedited shelter.in.ua</description>
+<description>Crucial to give Ukraine all means needed to defend population, infrastructure, France's Macron says Reuters Ukraine's backers will 'be looking at' Kyiv's €70 billion request, Macron says France 24 Ukraine pushes for European alternatives to US air defences and Starlink amid tensions with Washington Euronews.com SCALP, AASM Hammer, and Aster 30: France Has Granted Ukraine All the Promised Licenses Мілітарний Zelenskyy announces new packages to strengthen Ukraine's combat aviation after meeting Macron Українська правда</description>
+</item>
+<item>
+<title>Livestreamed execution - Daily Kos</title>
+<link>https://news.google.com/rss/articles/CBMijgFBVV95cUxPWVJ2ck1naUxOX2Z2S05zR3YtYkRHZ0ktdXJrelh3UWt3OUJ0QnJsLUM1MXdRT3J0blpFdDVtZVdzT1VOZC1tV09IaU1OV212VzFNZnFfTVFneEFpSlVuZG4zNWF4TkxxZkN3Z04zZmh4V2syMFBmbWJNa181OXlhSHRaSllxME1kOVJkQ2FB?oc=5</link>
+<guid isPermaLink="false">74812740f7cb7324ba97ea287ae9baa471361fcda59d823ba2740d4bf364c822</guid>
+<source>Google News World</source>
+<category>world</category>
+<pubDate>Thu, 15 Oct 2026 19:59:00 +0000</pubDate>
+<description>Livestreamed execution Daily Kos</description>
 </item>
 <item>
 <title>EU leaders’ summit descends into 3-hour argument over taxing car emissions - POLITICO.eu</title>
@@ -2189,18 +2154,7 @@
 <source>Google News World</source>
 <category>world</category>
 <pubDate>Thu, 15 Oct 2026 18:13:00 +0000</pubDate>
-<description>EU leaders’ summit descends into 3-hour argument over taxing car emissions POLITICO.eu EU resists bid to weaken emissions rules as leaders spar over energy costs Financial Times Costa angers EU leaders as splits mar summit POLITICO.eu Remarks by President António Costa at the press conference following the European Council meeting of 15-16 October 2026 Consilium.europa.eu EU leaders kick off summit with wrangles over high energy prices and spending Reuters</description>
-</item>
-<item>
-<title>Trump calls off livestream of Fort Hood attacker's execution by firing squad</title>
-<link>https://www.bbc.co.uk/news/articles/crx23qlnj27qo?at_medium=RSS&amp;at_campaign=rss</link>
-<guid isPermaLink="false">89e7ce0e0402bd6a0d8b5c53de32180e1fdb4b369d3fede76c1dd9d5340de1ed</guid>
-<source>BBC World</source>
-<category>world</category>
-<pubDate>Thu, 15 Oct 2026 17:47:22 +0000</pubDate>
-<description>Trump said some would "rather not watch" the killing of Nidal Hasan, the first military execution in over 60 years.</description>
-<enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/81e4/live/8ba6bbd0-c8b2-11f1-ba4a-9b4af5820384.jpg" type="image/jpeg"/>
-<media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/81e4/live/8ba6bbd0-c8b2-11f1-ba4a-9b4af5820384.jpg" medium="image"/>
+<description>EU leaders’ summit descends into 3-hour argument over taxing car emissions POLITICO.eu EU summit: Costa takes over budget talks as leaders stick to red lines Euronews.com EU leaders wrap second day of talks, leaving open questions on Ukraine and budget — live updates POLITICO.eu EU resists bid to weaken emissions rules as leaders spar over energy costs Financial Times Remarks by President António Costa at the press conference following the European Council meeting of 15-16 October 2026 Consilium.europa.eu</description>
 </item>
 <item>
 <title>Iranian Basij female unit commander assassinated in latest attack against IRGC - The Jerusalem Post</title>
@@ -2267,7 +2221,7 @@
 <source>Google News World</source>
 <category>world</category>
 <pubDate>Thu, 15 Oct 2026 16:20:52 +0000</pubDate>
-<description>Student Protests in Albania Turn Violent as Calls Grow for Leader’s Resignation The New York Times Albanian protests turn violent: What we know BBC Albanian PM blames ‘foreign hands’ for unrest as student protests intensify Al Jazeera Thousands march in Albanian capital as anti-government protests spread Reuters Albania PM refuses to resign as student protesters attack government buildings Financial Times</description>
+<description>Student Protests in Albania Turn Violent as Calls Grow for Leader’s Resignation The New York Times Albanian protests turn violent: What we know BBC Thousands march in Albanian capital as anti-government protests spread Reuters Albanian PM blames ‘foreign hands’ for unrest as student protests intensify Al Jazeera Albania PM refuses to resign as student protesters attack government buildings Financial Times</description>
 </item>
 <item>
 <title>Nearly half of reef-building corals face elevated relative risk of extinction - Nature</title>
@@ -2279,24 +2233,13 @@
 <description>Nearly half of reef-building corals face elevated relative risk of extinction Nature ‘Deadly Serious’: Half of World’s Reef-Building Coral Face Extinction Threat as Oceans Warm, Study Warns Common Dreams During El Niño, a perfect storm of weather systems could spell disaster for the Great Barrier Reef Scimex El Niño a 'terrifying' threat to coral reefs: UN biodiversity expert Phys.org Nearly half of reef-building coral species face elevated relative risk of extinction International Union for Conservation of Nature</description>
 </item>
 <item>
-<title>At least 33 pupils and teacher killed after school roof collapses in Pakistan</title>
-<link>https://www.bbc.co.uk/news/articles/cked326llddgo?at_medium=RSS&amp;at_campaign=rss</link>
-<guid isPermaLink="false">d64e80c26203100f74bb5fe51e0c9c1c6762f0210d6906084905db26ad970377</guid>
-<source>BBC World</source>
-<category>world</category>
-<pubDate>Thu, 15 Oct 2026 15:26:16 +0000</pubDate>
-<description>Children were buried under the debris after the roof crashed through three classrooms, police say.</description>
-<enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c260/live/a3e37d00-c880-11f1-a2e8-f71844f8002e.jpg" type="image/jpeg"/>
-<media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c260/live/a3e37d00-c880-11f1-a2e8-f71844f8002e.jpg" medium="image"/>
-</item>
-<item>
 <title>Watch: Pupils heard 'cracking' sound moments before Pakistan school roof collapse - BBC</title>
 <link>https://news.google.com/rss/articles/CBMiWEFVX3lxTFAxSk9pUF9DRHNoVkNXQkhqR0lBQmVSODJfSzluYk5WaDg5VlhWSlRLSHg4ck0tWWE2VWxsemdiRVVvUU9kQ2FSNFpENC02bWlMR1RVeFNHdms?oc=5</link>
 <guid isPermaLink="false">043804fd5caceec2694e71dc0f80d57ca3bfad988a08268f46fe02f231c79585</guid>
 <source>Google News World</source>
 <category>world</category>
 <pubDate>Thu, 15 Oct 2026 15:05:29 +0000</pubDate>
-<description>Watch: Pupils heard 'cracking' sound moments before Pakistan school roof collapse BBC Thirty-four children and a teacher killed in Pakistan school roof collapse Yahoo Pakistan orders school inspections following deadly roof collapse Al Jazeera Devastated families mourn children killed by Pakistan school roof collapse Reuters Deadly Peshawar Roof Collapse Raises Questions Over Regulation of Private Schools The New York Times</description>
+<description>Watch: Pupils heard 'cracking' sound moments before Pakistan school roof collapse BBC Deadly Peshawar Roof Collapse Raises Questions Over Regulation of Private Schools The New York Times Thirty-four children and a teacher killed in Pakistan school roof collapse Yahoo Pakistan orders school inspections following deadly roof collapse Al Jazeera Devastated families mourn children killed by Pakistan school roof collapse Reuters</description>
 </item>
 <item>
 <title>Hole in Neanderthal shoulder bone linked to ancient wooden spear - BBC</title>
@@ -2355,15 +2298,6 @@
 <description>While the world debates the dangers of artificial intelligence, filmmaker Doris Dörrie explores how humanoid robots could change the way we deal with aging, caregiving and how people choose to die.</description>
 </item>
 <item>
-<title>Russia builds major new drone attack base in six weeks, satellite images show - Reuters</title>
-<link>https://news.google.com/rss/articles/CBMi0gFBVV95cUxQb3JQWGJXcF9uMHI4aGVoT3Z3SnBZTEhxSjFRZm9hMDJJVFZMV2YxTkZiVEZhNUItR3Y3VWlDdmxIbktLbnVvNVVGclN1bjBLUmZjdmpoRklxWmcyZFY0N0EzWlRmMW1oMVFNSDBDTFhTZ3BBYUxZSUxGSERqZVZWdDBIanhfN0xoZEhDby1COGxoaHBIRXZkYzZ1UWlZRnc5N1BDRFZIV3JSYzJIemw2Uk9sZHVmLXFibDhSd0JTT195QlNuTTN6cFNCeEZYa1hzREE?oc=5</link>
-<guid isPermaLink="false">6799f06fd20ab2cfb9fa354186c7641caf9ec7fb8054bdb4664f6411659d6fec</guid>
-<source>Google News World</source>
-<category>world</category>
-<pubDate>Thu, 15 Oct 2026 12:55:34 +0000</pubDate>
-<description>Russia builds major new drone attack base in six weeks, satellite images show Reuters See more headlines &amp; perspectives on Google News</description>
-</item>
-<item>
 <title>Harrowing new details emerge as cause of death given for former child actor mauled by tiger - New York Post</title>
 <link>https://news.google.com/rss/articles/CBMizgFBVV95cUxPQnhnaU1lZmpvQnp5VjFIbUdyQXJzS0szQm9PcEJ5YjNtSXNYNERPbWt0NVotVmhBbU9zMUZtc3RqSjIyeGU4WWxYR2NWb3VoUnZQTElPZ09OYlRwTGtrQ1ZsNVFHRVZMeXBBVnZKMVlpRUFLQVJMNHdydDMzeXYxNGJ2M2VVYmVyQ2pzRHpVTkt0V1htLVkzS0hMLWtXNmt3Z3MwS3g2R2poLVB3cDVHMVhYOUJLSDNiTk9ZZXhyaEFSZUFvXzR0Z2s2U2ludw?oc=5</link>
 <guid isPermaLink="false">c11a9e9221b409d3b3011497c1d264a46e9e6e7bb32f8f85691d0e0cccf5224f</guid>
@@ -2390,7 +2324,7 @@
 <source>Google News World</source>
 <category>world</category>
 <pubDate>Thu, 15 Oct 2026 10:55:04 +0000</pubDate>
-<description>Fighting in Yemen intensifies: What’s the latest on the battlefield? Al Jazeera Oil price hikes, Saudi-Houthi strikes carry on amid Trump's midterm pause on Iran war Fox News Saudi Arabia says it thwarted a missile strike on Medina, and other Middle East developments AP News Live Updates: Latest from Israel, Iran, and the Middle East The Jerusalem Post Saudi-led coalition says it intercepts missiles and drones over Saudi Arabia, Red Sea The Times of Israel</description>
+<description>Fighting in Yemen intensifies: What’s the latest on the battlefield? Al Jazeera Oil price hikes, Saudi-Houthi strikes carry on amid Trump's midterm pause on Iran war Fox News Saudi Arabia says it thwarted a missile strike on Medina, and other Middle East developments AP News Saudi-led coalition says it intercepts missiles and drones over Saudi Arabia, Red Sea The Times of Israel Live Updates: Latest from Israel, Iran, and the Middle East The Jerusalem Post</description>
 </item>
 <item>
 <title>Thousands of German gamblers could sue for their money back</title>
