@@ -4,6 +4,17 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>All the news about the iPhone Duo</title>
+<link>https://www.theverge.com/tech/1010131/apple-iphone-duo-news-announcements</link>
+<guid isPermaLink="false">d56d7345469111cea7224f27acc3347c26d4f484c8c6bf708bb8ff31d64b6f08</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Fri, 16 Oct 2026 23:36:26 +0000</pubDate>
+<description>Apple has finally announced its long-rumored foldable: the iPhone Duo. The new phone has a 5.4-inch outer display and a 7.6-inch inner display, a “nano‑texture” finish on the inner screen, and barely any visible crease. Instead of Face ID, it uses Touch ID on the power button. It has two cameras, a main lens and […]</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268734_iPhone_Duo_handson_ADiBenedetto_0017.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268734_iPhone_Duo_handson_ADiBenedetto_0017.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
 <title>AI Legislative Update: Oct. 16, 2026 - Transparency Coalition</title>
 <link>https://news.google.com/rss/articles/CBMihAFBVV95cUxQN0pwVnQ0VVNrY0doNnlWMDdpaTZYeFRhTF9jTVgzLXVSQUdIM3VsUlRUTnJwRng1WEpHX1hxY19KbWdFcUlXR21xZWpBMmNLY2IzemxiOTlaNE5UYXlqZ2hPdVZlX3BTWWNBTElPd2hFWUlCV3V6cFBpS2RIWXBtVV9oZ1E?oc=5</link>
 <guid isPermaLink="false">607a7687721c707a0c6341eacc3921b2ca4140a1ffbd8213c7670fbda3287c24</guid>
@@ -22,6 +33,15 @@
 <description>Apple's App Store rules now more explicitly ban so-called "nudify" apps that generate intimate images of people without their consent using AI tools. The rule changes follow significant criticism toward Apple after X users used Grok earlier this year to make nonconsensual, sexualized deepfakes, including minors. Apple didn't pull X or Grok from the App […]</description>
 <enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK419_DEEPFAKE_3_CVIRGINIA_B.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
 <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK419_DEEPFAKE_3_CVIRGINIA_B.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>FAA AI use sparks new reviews into AI safety, workforce shortages - Federal News Network</title>
+<link>https://news.google.com/rss/articles/CBMiswFBVV95cUxPMXV2VnJ0WmZNREpza2VVRFJvLU1YelVxX1pMV2tQbGljcmd3bU15bmtqeUJfejA1eGhpSzBzWnVhdDNkZlpRdDB1VDBVY1BIeVhGSE4wbjdwazR6OTBkdW05Q2o0dHkxNlgzV3BWaDRtc19LVXItN0V5OUFGeTlVVmR5N3o5WTkyODBlb0oyZy00blFSaWtpVHZSdjgxVEZXbFoyZkF6NXVmdldWYzRhTzRiYw?oc=5</link>
+<guid isPermaLink="false">6d0c1f620b847090ee7d9caf153eb57b6d51e40071530d16a7612ceafce5c7ea</guid>
+<source>Google News Artificial Intelligence</source>
+<category>technology</category>
+<pubDate>Fri, 16 Oct 2026 22:35:53 +0000</pubDate>
+<description>FAA AI use sparks new reviews into AI safety, workforce shortages Federal News Network</description>
 </item>
 <item>
 <title>Buying Legal NYC 2026: Why legal leaders are focused on the foundations of AI success - Wolters Kluwer</title>
@@ -152,15 +172,6 @@
 <description>The World Can’t Afford to Get AI Wrong Unric</description>
 </item>
 <item>
-<title>How my son showed me AI is now the world’s biggest lose-lose bet - AFR</title>
-<link>https://news.google.com/rss/articles/CBMinAFBVV95cUxPeFhuU3NXX2J1Q0xWaHo4WldKbHg5Sll5bElqbERYVzcxY0U3UXFlWHhTbzFCOXItaXd1d2hGcVp1QjM5OFVNZjhhdlNhR2JKMDBvYklQS1k3LWxYY0JRenFyOV94VE9QYVhuM25Cb1RpeGFsTFN5UmY5RVBoZU5hN3dKTUh4T2twTDA1MV9BU0g5bVFYY3ZlRUVKYmw?oc=5</link>
-<guid isPermaLink="false">ceddaf5bd9f49cf5c09e4d34bb20edf92ce866ae4f333eef4ec3ed104f40afaa</guid>
-<source>Google News Artificial Intelligence</source>
-<category>technology</category>
-<pubDate>Fri, 16 Oct 2026 21:06:48 +0000</pubDate>
-<description>How my son showed me AI is now the world’s biggest lose-lose bet AFR</description>
-</item>
-<item>
 <title>Government’s AI problem is a structure gap, not a skills gap - Federal News Network</title>
 <link>https://news.google.com/rss/articles/CBMirgFBVV95cUxQcFZNWHJFTy1iWWNsWXB5cllZVmw3cUZ2VlFHRzJ1VkhUelJTWjBMSVBmZzI3cWlzWS1UT2ZHUGRta05NUG81LXRIRDdNN2Q5djNybXRuX051Y0FJRFdOT29LVENXM0V3RDllSjZ0X3BhMDVKREVvR1hXVnY3SkRTaDlzcUlrdVBTSFlxYTg0dzU5ZlZFY3hTLUtWVUNfTHFxQUh2cm4yUmJTY1JvTVE?oc=5</link>
 <guid isPermaLink="false">6d67c88f5760da83a9ec70f9610b57fea162d83c2be14fd89b65aec0b96d264f</guid>
@@ -177,6 +188,17 @@
 <category>technology</category>
 <pubDate>Fri, 16 Oct 2026 21:01:23 +0000</pubDate>
 <description>Comments</description>
+</item>
+<item>
+<title>OpenAI models hacked a crypto wallet and breached more websites</title>
+<link>https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites</link>
+<guid isPermaLink="false">5b95b356b53e30b5501bac49982795662e15c275a4b35b342562adc414ddc378</guid>
+<source>Ars Technica</source>
+<category>technology</category>
+<pubDate>Fri, 16 Oct 2026 20:59:01 +0000</pubDate>
+<description>The actions could have resulted in criminal charges had humans been behind the keyboard.</description>
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/ai-agents-1152x648.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/ai-agents-1152x648.jpg" medium="image"/>
 </item>
 <item>
 <title>Warsh says rise of AI will prove ‘very bumpy,’ trigger demand shock - CFO Dive</title>
@@ -315,6 +337,15 @@
 <description>Comments</description>
 </item>
 <item>
+<title>AI decision-support systems are often seen as just battlefield tools, but they are so much more - Federal News Network</title>
+<link>https://news.google.com/rss/articles/CBMi7wFBVV95cUxNQkV1S2NMemxJQUZuRmIwX1JCVGJRZ1Q5a003VDlEdGY0QU0wc0piaWxMWEl1Vy1fZTVack5sbk01dnRTTnVvbGQyUzlJeUFoWkVvUi1KS282d2FCRFNRNHliMVhkX2RMOEx1VXBXTDF4UjBpSl92eTU2aVNZa2JCQ2x0TWFCbkpIZWNJNW9rV3h4UC02SFY4VENWU2YwMGVmeEhjQmxjcUx6d2lVbnlybVlKSW1yTnNwRDJZUHV5RUVUc1d2R3pKOVozOVpTTHA2X19nbmQ3ZEg0MUpQOFlLWDRkQVZJSzVqODVtbi1zMA?oc=5</link>
+<guid isPermaLink="false">0657261221556039815b079bda887d01c6d4f8d0f1721606b54c27dcc6699995</guid>
+<source>Google News Artificial Intelligence</source>
+<category>technology</category>
+<pubDate>Fri, 16 Oct 2026 19:43:22 +0000</pubDate>
+<description>AI decision-support systems are often seen as just battlefield tools, but they are so much more Federal News Network</description>
+</item>
+<item>
 <title>US Rep proposes bill to give video game buyers "ownership," not "a license"</title>
 <link>https://arstechnica.com/gaming/2026/10/us-rep-proposes-bill-to-give-video-game-buyers-ownership-not-a-license</link>
 <guid isPermaLink="false">61d81d76320557ce7927aed8aa629d379c51bcfaf57cb4291d837feb853aa809</guid>
@@ -333,15 +364,6 @@
 <category>technology</category>
 <pubDate>Fri, 16 Oct 2026 19:40:00 +0000</pubDate>
 <description>The 2026 Porsche Macan Turbo EV is a two-row crossover with 630 horsepower and a 100-kilowatt-hour battery.</description>
-</item>
-<item>
-<title>AI decision-support systems are often seen as just battlefield tools, but they are so much more - Federal News Network</title>
-<link>https://news.google.com/rss/articles/CBMi7wFBVV95cUxNQkV1S2NMemxJQUZuRmIwX1JCVGJRZ1Q5a003VDlEdGY0QU0wc0piaWxMWEl1Vy1fZTVack5sbk01dnRTTnVvbGQyUzlJeUFoWkVvUi1KS282d2FCRFNRNHliMVhkX2RMOEx1VXBXTDF4UjBpSl92eTU2aVNZa2JCQ2x0TWFCbkpIZWNJNW9rV3h4UC02SFY4VENWU2YwMGVmeEhjQmxjcUx6d2lVbnlybVlKSW1yTnNwRDJZUHV5RUVUc1d2R3pKOVozOVpTTHA2X19nbmQ3ZEg0MUpQOFlLWDRkQVZJSzVqODVtbi1zMA?oc=5</link>
-<guid isPermaLink="false">0657261221556039815b079bda887d01c6d4f8d0f1721606b54c27dcc6699995</guid>
-<source>Google News Artificial Intelligence</source>
-<category>technology</category>
-<pubDate>Fri, 16 Oct 2026 19:38:22 +0000</pubDate>
-<description>AI decision-support systems are often seen as just battlefield tools, but they are so much more Federal News Network</description>
 </item>
 <item>
 <title>Standing Room Only: New Platform Uses Machine Learning to Tackle Recreation Crowding - Utah State University</title>
@@ -537,15 +559,6 @@
 <category>technology</category>
 <pubDate>Fri, 16 Oct 2026 17:52:24 +0000</pubDate>
 <description>The agents got in through credentials and connection settings left exposed in app configurations, public code repositories, and overly permissive cloud roles.</description>
-</item>
-<item>
-<title>Zero tolerance | EDITORIAL CARTOON - Baltimore Sun</title>
-<link>https://news.google.com/rss/articles/CBMiekFVX3lxTE40SVJ0clNjYlgxZUtvVUNpd2pjZG9pM0c1Z2U0WllvMjh0dlhhRmxpVnJwWFVFSDhqdWdseWlMeTZaejVMTXFPamFIYWhqX2ZFaklQR1Uxd01xeFpzVVhvZlRUWXJTaDA2MFFBa29oUlU4bUlPSndoZzh3?oc=5</link>
-<guid isPermaLink="false">22823002155e9e512f6c309d6406f6a1773426e62d84037eac03c6070195c6ab</guid>
-<source>Google News Artificial Intelligence</source>
-<category>technology</category>
-<pubDate>Fri, 16 Oct 2026 17:48:10 +0000</pubDate>
-<description>Zero tolerance | EDITORIAL CARTOON Baltimore Sun</description>
 </item>
 <item>
 <title>Millions of dollars spent on AI-generated political ads as midterms approach - The National Desk</title>
@@ -749,6 +762,15 @@
 <description>ARA Secures Patent for Artificial Intelligence in Critical Care Yahoo Finance</description>
 </item>
 <item>
+<title>Fed Chair Kevin Warsh warns of AI 'shock' for economy, pledges to contain inflation - ABC News - Breaking News, Latest News and Videos</title>
+<link>https://news.google.com/rss/articles/CBMilwFBVV95cUxOSHRMYTRHanJFWjJnNGNLRExKaGZOdEtWWlNKdHFhdmRHc3dJcnZNV2NfZmxkTFJQdmRKYkllRFVsN1lIbGVsWFdxN3NJRVZCLWNVNzhPaU5aUGlSMDE3bTN4RFpCT01KVlZ1R0dieUhhQ1pmNlh5RjhXLWpCWFE2VEhYQy10OHRFU2dLX0owMlMtbnVTR0NN0gGcAUFVX3lxTE9NczBRSGxTSUhocXdVbmRiQVdhRUg2d0FaTk9nZkpQRDdnNUlMS1BJeFZrOVhiU0RYZEt6VUVjRm52SDdJaHFWeHFSQVI3Q09hZVB1dFQtZDRGb3pfVndMY1lJVklyRUVwM2p5R2c0cmJIc3VLbXJsczR1SHlCNGZfUVB2R1dnTlBIamphWUtQQzNQdnRzY2xsSTNEVw?oc=5</link>
+<guid isPermaLink="false">ed816b952e05192ca949a378cd1910daf804604acf6b663210b92a5a4fd023af</guid>
+<source>Google News Artificial Intelligence</source>
+<category>technology</category>
+<pubDate>Fri, 16 Oct 2026 16:12:34 +0000</pubDate>
+<description>Fed Chair Kevin Warsh warns of AI 'shock' for economy, pledges to contain inflation ABC News - Breaking News, Latest News and Videos</description>
+</item>
+<item>
 <title>JPEG XL vs. AVIF for web use-cases</title>
 <link>https://jakearchibald.com/2026/jpeg-xl-vs-avif</link>
 <guid isPermaLink="false">3bd41a7b8a0cfdd9ef7747f8361fb1029905d020d5e02857cd8fd1a70bdc3ec9</guid>
@@ -890,15 +912,6 @@
 <description>Apple’s big AI week ends with Mac + Muse AI supercomputers Computerworld</description>
 </item>
 <item>
-<title>AI-driven workforce changes create anxiety but may offer opportunities - ABC7 Bay Area</title>
-<link>https://news.google.com/rss/articles/CBMipAFBVV95cUxPQ0FPR2EwTU5MOW1JSXN5emNTVXk4TTBxdWlvb29MbGJZTTVfYXZPbXRGRzJpY3RHcVhtam9NRGl5c2tvWTFjT0RYcDl3RHJBd0xGa1RwZkFDaHZKbzNWT1ZzOG55eUFEa2lOX2FsaW13THFHamFwdG4xZktFREdZSXJmU3pyaVhoMkF6eDUwOEZTNFVLSlhRNlVHXzBsSXBZUW5ETtIBqgFBVV95cUxPY3VwU09yLUxjNzhkVGFodnduSlBncDlaR2hGdWNOcGVfRElqcWlmcDZMdVViaFhWSnIzMmk3dEgwRjhhYml0WjE0TFJMTXNJSldPZzBlRjROUEc2aFpwZmxmVDVfWDFDeXJOU3NqejJuTDBLWFhvY2wybDZMRk1sUmJYRzE3bXFEUllWemdRdjkwNjMzbnUxN0I4NXNpYWh5Z0JIZkM2UUJZQQ?oc=5</link>
-<guid isPermaLink="false">5b51bd8107d0f6b62acd6aa2e783c127e0e2a004b1c006623ee4e458c1949c29</guid>
-<source>Google News Artificial Intelligence</source>
-<category>technology</category>
-<pubDate>Fri, 16 Oct 2026 15:30:44 +0000</pubDate>
-<description>AI-driven workforce changes create anxiety but may offer opportunities ABC7 Bay Area</description>
-</item>
-<item>
 <title>Elon Musk Is Almost Single-Handedly Funding the Republican Midterms Push</title>
 <link>https://www.wired.com/story/elon-musk-is-almost-single-handedly-funding-the-republicans-midterms-push</link>
 <guid isPermaLink="false">efd1da72b2bab1ce76b19175dc6ca227e397e122785ef88ca617df73e66fc995</guid>
@@ -1008,17 +1021,6 @@
 <category>technology</category>
 <pubDate>Fri, 16 Oct 2026 14:18:44 +0000</pubDate>
 <description>Comments</description>
-</item>
-<item>
-<title>The incredible flying Tesla Roadster is just for show</title>
-<link>https://www.theverge.com/transportation/1012783/tesla-roadster-flying-stunt-production-reality-musk</link>
-<guid isPermaLink="false">8753c3420820c4882715952203a27c5ecb81d0dcb9b209e2bcdb53dd40a848ab</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Fri, 16 Oct 2026 14:15:29 +0000</pubDate>
-<description>Last night, Elon Musk gave the people what they want: a car driving vertically up a multistory ramp, launching off the edge, executing a midair "kickflip" over a lineup of Teslas, and landing via cold-gas thrusters. That's what the people want, right? "We were promised flying cars," sure, but isn't the operative word in that […]</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/HUuw-rwXoAAQf9r.jpeg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/HUuw-rwXoAAQf9r.jpeg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
 <title>Manufacturing Intelligence Report: The intelligent factory needs more than artificial intelligence - Manufacturing Today</title>
@@ -1529,17 +1531,6 @@
 <description>Benchmark says the Valley’s rule against backing rivals is getting harder to keep.</description>
 </item>
 <item>
-<title>Surfshark Promo Codes: 87% Off | October 2026</title>
-<link>https://www.wired.com/story/surfshark-coupon</link>
-<guid isPermaLink="false">4c8534bddadc727025884fa6ce22a3da59745a5b0ddd4184efffd35d8478be4c</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Fri, 16 Oct 2026 05:00:00 +0000</pubDate>
-<description>Save up to 87% with a Surfshark coupon code, 3 months of VPN free today, and more from WIRED.</description>
-<enclosure url="https://media.wired.com/photos/66ea076e56fd4954a7f91e0c/master/pass/WIRED-Coupons-17.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/66ea076e56fd4954a7f91e0c/master/pass/WIRED-Coupons-17.jpg" medium="image"/>
-</item>
-<item>
 <title>Total Wireless Promo Codes &amp; Deals: 50% Off Select Plans</title>
 <link>https://www.wired.com/story/total-wireless-promo-code</link>
 <guid isPermaLink="false">b6650a5bc0b1fd7bbfb22c69c30bf17d51a804af993e9ff4fe65df76943a69c3</guid>
@@ -1549,6 +1540,17 @@
 <description>Find great deals for Total Wireless, like 50% off select plans, and enjoy big savings.</description>
 <enclosure url="https://media.wired.com/photos/66ea0772ca863bb4c1028b66/master/pass/WIRED-Coupons-4.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/66ea0772ca863bb4c1028b66/master/pass/WIRED-Coupons-4.jpg" medium="image"/>
+</item>
+<item>
+<title>Surfshark Promo Codes: 87% Off | October 2026</title>
+<link>https://www.wired.com/story/surfshark-coupon</link>
+<guid isPermaLink="false">4c8534bddadc727025884fa6ce22a3da59745a5b0ddd4184efffd35d8478be4c</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Fri, 16 Oct 2026 05:00:00 +0000</pubDate>
+<description>Save up to 87% with a Surfshark coupon code, 3 months of VPN free today, and more from WIRED.</description>
+<enclosure url="https://media.wired.com/photos/66ea076e56fd4954a7f91e0c/master/pass/WIRED-Coupons-17.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/66ea076e56fd4954a7f91e0c/master/pass/WIRED-Coupons-17.jpg" medium="image"/>
 </item>
 <item>
 <title>Skechers Coupon Codes 20% Off</title>
@@ -1872,17 +1874,6 @@
 <media:content url="https://www.engadget.com/img/gallery/e-inks-new-kaleido-4-could-inch-us-closer-to-the-perfect-color-e-reader/l-intro-1792089646.jpg" medium="image"/>
 </item>
 <item>
-<title>Microplastics in water aren’t inert and make damaging chemicals on their own</title>
-<link>https://arstechnica.com/science/2026/10/microplastics-in-water-arent-inert-and-make-damaging-chemicals-on-their-own</link>
-<guid isPermaLink="false">3963c640e2ced6de61c3b565b7284124794dc191aca10783f7fe1081c875fe2b</guid>
-<source>Ars Technica</source>
-<category>technology</category>
-<pubDate>Thu, 15 Oct 2026 18:39:17 +0000</pubDate>
-<description>Its effect on people remains an ongoing question.</description>
-<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1922961716-1152x648.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1922961716-1152x648.jpg" medium="image"/>
-</item>
-<item>
 <title>Riot will sunset League of Legends Classic in January 2027</title>
 <link>https://www.engadget.com/2287985/riot-will-sunset-league-of-legends-classic-in-january-2027</link>
 <guid isPermaLink="false">648018a5340cec96017caedc1c68bfff214d3c380ce21119decbda3dfed17a62</guid>
@@ -1934,6 +1925,15 @@
 <category>technology</category>
 <pubDate>Thu, 15 Oct 2026 16:01:46 +0000</pubDate>
 <description>Careers in Artificial Intelligence: Specializations, Salaries, and Degrees Pace University</description>
+</item>
+<item>
+<title>Breakingviews - COMMENTARY: AI boom stumbles over white swan events - Reuters</title>
+<link>https://news.google.com/rss/articles/CBMiogFBVV95cUxOYTlZeXJxOEtPVGJnZ3c4bjY5NnRTSko5WHlRUVZxM2NnWTEzZjZkdXI2N3JOVmhTNUMtYW5RV1JJNnNSdFdEX0t4M0ZvX0xXQjY3NjFPNkpJSmQ3Z05pSmpCalFvYWFtaS1BS0VCVUwxdkViZi1HYjRsUlNpUGw2TkVzYl9BdzZHSzdJZExlZlVYYjhXb1luTFdGVWV6YXlOUlE?oc=5</link>
+<guid isPermaLink="false">cd597020f60a1d490d6851a0a5391d401686466544292ba62d0f79977f3ad1f4</guid>
+<source>Google News Artificial Intelligence</source>
+<category>technology</category>
+<pubDate>Thu, 15 Oct 2026 15:57:21 +0000</pubDate>
+<description>Breakingviews - COMMENTARY: AI boom stumbles over white swan events Reuters</description>
 </item>
 <item>
 <title>How Can We Apply Artificial Intelligence? - Pace University</title>
@@ -2238,6 +2238,15 @@
 <description>Comments</description>
 </item>
 <item>
+<title>Olympus: Correcting the power dynamic of code (2024)</title>
+<link>https://danieltemkin.com/Esolangs/Olympus</link>
+<guid isPermaLink="false">49dd2c1668d003ee3d2795c44eeaa509784d7f99bbfb0b5c5f16fdfc5be1b54a</guid>
+<source>Hacker News</source>
+<category>technology</category>
+<pubDate>Wed, 14 Oct 2026 15:23:27 +0000</pubDate>
+<description>Comments</description>
+</item>
+<item>
 <title>AI @ CLS: Columbia Law School’s Artificial Intelligence Initiative - Columbia Law School</title>
 <link>https://news.google.com/rss/articles/CBMipwFBVV95cUxNMHJneUFEd0JsTEc3ckpyejh4LXJfM0lEYlBYazJ0RXNlQTF2WURyOWMyWTJPU0NOYkpuLWpzVkFWWmRGV1NLMWJmV1FPb3VPcTZBMVRvWi0yYmg2LVdpUzRwUG1zUU1RbVEwRlJJX05aS282Vm1CWUJMcHBqSERsQ05CQ3paRGlmZXVSdDZ2M3lQSHRSMkhjQWxMM1hTdEFaTVdiTXZxcw?oc=5</link>
 <guid isPermaLink="false">bcd123d08f1f8e4158fac66f95e4ad4c0283b4d39cb55c0894f98556117a3586</guid>
@@ -2302,17 +2311,6 @@
 <media:content url="https://media.wired.com/photos/6ace56e6d9cd42daf5a15def/master/pass/Review%20Breville%20Eye%20Q%20Toaster%20102026%20top%20art%20SOURCE%20Breville.jpg" medium="image"/>
 </item>
 <item>
-<title>The Politics of Solar Energy Are Getting Weird, Mean, and a Little MAGA</title>
-<link>https://www.wired.com/story/the-politics-of-solar-energy-are-getting-weird-mean-and-a-little-maga</link>
-<guid isPermaLink="false">b7759926fe52d087ebd12bce3319829839b4d9f38547f86e59a69a4c4a48f231</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Wed, 14 Oct 2026 10:30:00 +0000</pubDate>
-<description>A mysterious super PAC that doubles as a pro-solar-energy outfit is funding some of the most knives-out attack ads of the midterms season.</description>
-<enclosure url="https://media.wired.com/photos/6acef92248e0f30c1c04574c/master/pass/Business_The%20Green%20Movement%20Goes%20Knives%20Out%20for%20the%20Midterms_v1.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/6acef92248e0f30c1c04574c/master/pass/Business_The%20Green%20Movement%20Goes%20Knives%20Out%20for%20the%20Midterms_v1.jpg" medium="image"/>
-</item>
-<item>
 <title>JackRabbit MG Cargo Bike Review (2026): Compact and Powerful</title>
 <link>https://www.wired.com/review/jackrabbit-mg-cargo-electric-bicycle</link>
 <guid isPermaLink="false">4e1ee63fe6bb37e6b4af7e95c60a5321f56c58fd354be58f70933035e7c94890</guid>
@@ -2322,6 +2320,17 @@
 <description>This compact, plucky ride is the cargo ebike for people who don’t want a cargo ebike. It’s even fun to ride.</description>
 <enclosure url="https://media.wired.com/photos/6ace50eeb4ce7b4026cc7e3c/master/pass/Review%20JackRabbit%20MG%20Cargo%20Review%20102026%20top%20art%20SOURCE%20Jackrabbit.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/6ace50eeb4ce7b4026cc7e3c/master/pass/Review%20JackRabbit%20MG%20Cargo%20Review%20102026%20top%20art%20SOURCE%20Jackrabbit.jpg" medium="image"/>
+</item>
+<item>
+<title>The Politics of Solar Energy Are Getting Weird, Mean, and a Little MAGA</title>
+<link>https://www.wired.com/story/the-politics-of-solar-energy-are-getting-weird-mean-and-a-little-maga</link>
+<guid isPermaLink="false">b7759926fe52d087ebd12bce3319829839b4d9f38547f86e59a69a4c4a48f231</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Wed, 14 Oct 2026 10:30:00 +0000</pubDate>
+<description>A mysterious super PAC that doubles as a pro-solar-energy outfit is funding some of the most knives-out attack ads of the midterms season.</description>
+<enclosure url="https://media.wired.com/photos/6acef92248e0f30c1c04574c/master/pass/Business_The%20Green%20Movement%20Goes%20Knives%20Out%20for%20the%20Midterms_v1.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6acef92248e0f30c1c04574c/master/pass/Business_The%20Green%20Movement%20Goes%20Knives%20Out%20for%20the%20Midterms_v1.jpg" medium="image"/>
 </item>
 <item>
 <title>cool kids are writing in all lowercase now. does that make you mad?</title>
@@ -2370,15 +2379,6 @@
 <source>Hacker News</source>
 <category>technology</category>
 <pubDate>Tue, 13 Oct 2026 23:10:04 +0000</pubDate>
-<description>Comments</description>
-</item>
-<item>
-<title>The Bawdy Graffiti of Pompeii and Herculaneum (2017)</title>
-<link>https://kashgar.com.au/blogs/history/the-bawdy-graffiti-of-pompeii-and-herculaneu</link>
-<guid isPermaLink="false">fc55386120f0c382198a95f10b84439a2f20c7b710274b143eac77ed4ce494e3</guid>
-<source>Hacker News</source>
-<category>technology</category>
-<pubDate>Tue, 13 Oct 2026 19:40:29 +0000</pubDate>
 <description>Comments</description>
 </item>
 <item>
