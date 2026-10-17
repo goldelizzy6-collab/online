@@ -4,6 +4,26 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Meta removes language that raised scraping and AI training concerns</title>
+<link>https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns</link>
+<guid isPermaLink="false">5eb559e50fd7886d16ab05385266393c7126d95ff81c90f2c2f7713f6112db3d</guid>
+<source>TechCrunch</source>
+<category>technology</category>
+<pubDate>Sat, 17 Oct 2026 21:31:32 +0000</pubDate>
+<description>A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web.</description>
+</item>
+<item>
+<title>The Tesla Roadster is far from the first car to use fans for downforce</title>
+<link>https://www.engadget.com/2289646/tesla-roadster-not-first-car-use-fans-for-downforce</link>
+<guid isPermaLink="false">885c5f23e575787b4e492cb9e38689c11b1f6e6aeacd30a58d60bc6da0da6da3</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Sat, 17 Oct 2026 21:20:21 +0000</pubDate>
+<description>Here are some of the other, older vehicles that use fans for downforce like the Tesla Roadster does.</description>
+<enclosure url="https://www.engadget.com/img/gallery/the-tesla-roadster-is-far-from-the-first-car-to-use-fans-for-downforce/l-intro-1792267762.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/the-tesla-roadster-is-far-from-the-first-car-to-use-fans-for-downforce/l-intro-1792267762.jpg" medium="image"/>
+</item>
+<item>
 <title>TikTok permanently bans ‘Musk’ documentary advertising account</title>
 <link>https://techcrunch.com/2026/10/17/tiktok-permanently-bans-musk-documentary-advertising-account</link>
 <guid isPermaLink="false">c79f49bb8435e5e99d50222299d67b1df7af2b4f98686c9efa196d326b30235a</guid>
@@ -69,6 +89,15 @@
 <description>At least there's still Assassin's Creed Jade to look forward to.</description>
 <enclosure url="https://www.engadget.com/img/gallery/leaked-gameplay-purports-to-show-a-canceled-assassins-creed-game-set-in-ancient-china/l-intro-1792264605.jpg" type="image/jpeg"/>
 <media:content url="https://www.engadget.com/img/gallery/leaked-gameplay-purports-to-show-a-canceled-assassins-creed-game-set-in-ancient-china/l-intro-1792264605.jpg" medium="image"/>
+</item>
+<item>
+<title>Anthropic’s AI Safety Bill Has an Alarming Threshold for Government Action - Mother Jones</title>
+<link>https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNk85UDhheTRLWlR3YUtHQ2FjUnU2dVg5Q3dIa1Y4b1p5bS1XajV1REJSMWotUUN4XzZLZGNIajBmRm45M0p5aTdBb0p3R082SHJFNVVXcFRKXzZBZGJsRURfWXhBNmRNdEJYYnJsaGVGM3ZNSXV5UE1NSkZTS0hSU2FsSS1nUVBnSGtBdGk2Sm11S0xqUkZNT3dRTDNTNVpwel9lS0pycU9jZHkxZUFRb1FCemdJdDdKUkhr?oc=5</link>
+<guid isPermaLink="false">b6701c04ff4cc1a43b3c395de0cf7e665cbbe651555eac0d3da26529f2e0bfa9</guid>
+<source>Google News Artificial Intelligence</source>
+<category>technology</category>
+<pubDate>Sat, 17 Oct 2026 19:20:55 +0000</pubDate>
+<description>Anthropic’s AI Safety Bill Has an Alarming Threshold for Government Action Mother Jones</description>
 </item>
 <item>
 <title>Replit makes OpenAI its default over Anthropic, CEO says</title>
@@ -149,15 +178,6 @@
 <description>Comments</description>
 </item>
 <item>
-<title>Weak Links Start to Show in A.I. Borrowing - The New York Times</title>
-<link>https://news.google.com/rss/articles/CBMiigFBVV95cUxNaG5jQ0JtclR4S2w1dzdJeFNQWmdXLTlwaDJ0SWhseFFKTHdUb2tHaHIzd0R4cEhobmFjV21TRXVDdS1HeUVGZm5RbDRCcGRMYlhCMnB0QkYzV3FrX2hhLXB2X0lnSUI3c2QzQWpTREdxLVRaUjVfOEtHQ2VrMlZrV0c5VHNTNjV0OVE?oc=5</link>
-<guid isPermaLink="false">a871765c2d2b5a4bc748ee3e2c25b471233ec319c035c0762d5603495683990a</guid>
-<source>Google News Artificial Intelligence</source>
-<category>technology</category>
-<pubDate>Sat, 17 Oct 2026 18:00:06 +0000</pubDate>
-<description>Weak Links Start to Show in A.I. Borrowing The New York Times</description>
-</item>
-<item>
 <title>You might be surprised by how much the Slate truck can carry</title>
 <link>https://www.engadget.com/2289615/slate-truck-how-much-can-carry</link>
 <guid isPermaLink="false">78713ec1b6b10d43f4395d98432549ab6753c25112abcfa08c75c152571ac4c3</guid>
@@ -176,6 +196,15 @@
 <category>technology</category>
 <pubDate>Sat, 17 Oct 2026 17:48:00 +0000</pubDate>
 <description>Using an AI Agent Makes You a Sucker for Phishing Emails Futurism</description>
+</item>
+<item>
+<title>Codex is EATING my Mac's disk space</title>
+<link>https://github.com/openai/codex/issues/25921</link>
+<guid isPermaLink="false">9ce1d661b5d81c143a196fc1aa7afafe0c3d292f33f4f370087f34164afe9a01</guid>
+<source>Hacker News</source>
+<category>technology</category>
+<pubDate>Sat, 17 Oct 2026 17:45:08 +0000</pubDate>
+<description>Comments</description>
 </item>
 <item>
 <title>I Became a Citizen of Japan</title>
@@ -600,17 +629,6 @@
 <media:content url="https://www.engadget.com/img/gallery/is-the-google-fitbit-air-waterproof/l-intro-1791818373.jpg" medium="image"/>
 </item>
 <item>
-<title>How to check your Ethernet cable's speed</title>
-<link>https://www.engadget.com/2283972/how-to-check-ethernet-cable-speed</link>
-<guid isPermaLink="false">bcbecbbd493fc801d3aa6bb0510e10cd678cb2ce7bcd98c9728fdd26a2673c8b</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Sat, 17 Oct 2026 12:15:00 +0000</pubDate>
-<description>Understand the speeds your Ethernet cable can transmit at help you diagnose where the slowdowns on your network are happening.</description>
-<enclosure url="https://www.engadget.com/img/gallery/how-to-check-your-ethernet-cables-speed-and-not-your-home-networks/l-intro-1791820333.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/how-to-check-your-ethernet-cables-speed-and-not-your-home-networks/l-intro-1791820333.jpg" medium="image"/>
-</item>
-<item>
 <title>Apple’s HomeView is just the latest threat to online recipe writers</title>
 <link>https://www.theverge.com/tech/1012820/apple-homeview-recipe-formatting</link>
 <guid isPermaLink="false">742b811341ce80f2fbc9bb5222b0bed0147459cc30b5369177d74a0f0379b4ce</guid>
@@ -731,6 +749,15 @@
 <description>German bishops join initiative for ‘child-friendly’ artificial intelligence EWTN News</description>
 </item>
 <item>
+<title>AI Agents Accessed Indian Organizations Without Authorization, CERT-In Warns - Security Affairs</title>
+<link>https://news.google.com/rss/articles/CBMiugFBVV95cUxONWxVR2c5UElISHROSXVOR1MzSHA2U0cweGxuVG5RVDlmN1ZPM2oyT29sZEg0T2lKTGdUQUFDX1RaOEo3TWU2VE1zTXR3MGtqVEpfbUlqQVJEODZVZHJmUzZ0emRtTzBzOGsxN1ZTa0I1T0hNamhZenEzNnQ2NXdoandFU2VBMUwwVlVpeDZ3Z19XZGt0YnRzbENhOHozUHY5dFQ1UWlSeG5DQTVpZjNSMmJORUdSV0xpTXfSAb8BQVVfeXFMTjZOUlVKQ0NBdDVGazJKRU1hWURYcU14VUQwNDRqWmdwSHZqb0N6U056emhuYWxPN0ZzV2puZ3hCdjZJUkx4ME9NRTI5RVROUVFWTzRLazYyOUh0ajBSbzVJOXV4TzFFRWZlbjhTWXZfN0Z4VnhwMjNYeWtzLXJvVHJvZFAwaU1GUEM4ZFd6Um5RaW9IeHVxLWZ3UGJVbjI1T0RJVW10dG9GSEFveTlVZXR6azJsVl85UEVNRUYtakk?oc=5</link>
+<guid isPermaLink="false">762acb01974d2b12cb3d399e1a069811797751db87ac6c23a28a5eeeb3195f41</guid>
+<source>Google News Artificial Intelligence</source>
+<category>technology</category>
+<pubDate>Sat, 17 Oct 2026 10:55:23 +0000</pubDate>
+<description>AI Agents Accessed Indian Organizations Without Authorization, CERT-In Warns Security Affairs</description>
+</item>
+<item>
 <title>North Korea says it tested new torpedo system with AI capabilities - ABC News - Breaking News, Latest News and Videos</title>
 <link>https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRm1tS05uWk1Lb2Jmc0tNaENfMENCay1SMURhWjc5WmxOTFh2X2dUSzZVcXRhaE9LRkxKZEV0cGtxZXJySnBRUi1peFRKV1NlN09Hck9PQm16ZEtsblJlUm5NUGFvMW9FMEZOTGQxY05heEdKTkRZbHZxUXdTT293R1BzSG9hbGg0MHB4TUVOUENqa1cydERoV3luZGdwUU5vVkJLcmFBNnRfdXfSAbABQVVfeXFMUGhET3VnaG9VR0pQVFV3YnJCRWhIMi1feVU3THNDaklZSDJkSV8yQWd6TUNxNS1xbUZ2dEczRVNWbVdRYUFRdlJqcVlOVGVLREFmWU1BOVBoRXdjV0lFLVpUOXI1RUNnNzhsUjNyY0RacU1CdUNIaDVuSERHTnBZX1hvMS02c2I0cGhVVk5kdFQ3SVdEUWFuU2diT3FiVVdjSXFaVWhBS0hYc19NckR5emE?oc=5</link>
 <guid isPermaLink="false">0b90cfde7425afd262fd955c87d08b83b831e90cda514010dcaebe15c6449b49</guid>
@@ -762,24 +789,6 @@
 <media:content url="https://media.wired.com/photos/6ad1f0ac654d391d88f8bd34/master/pass/Bitcoin%20Legacy.jpg" medium="image"/>
 </item>
 <item>
-<title>What’s Working: A Durango nonprofit gets to build AI that will help caseworkers spend more time with those they help - The Colorado Sun</title>
-<link>https://news.google.com/rss/articles/CBMimwFBVV95cUxPdDczV3RRbmxmWGU4T0t3WE5EOXBPdEcxb25HQnk0blRvRUZ3QVRvajRjbHNOOTd2ZjlOMklXNWc5LVNjRzlmZk1XWHpWZmlOdERoeW9HSm80RTVWcmF5UUxJQU1COHJBcUNILVNzclhiVUhOUEJON3RCeVNNUDg5dURVdVl2eVRyei15bVdncG1FVjFRY3VxQnRaSQ?oc=5</link>
-<guid isPermaLink="false">d95c5a8c943f5b0f546dc2a8ff39a87d47602396d8f959c263875b89b41208da</guid>
-<source>Google News Artificial Intelligence</source>
-<category>technology</category>
-<pubDate>Sat, 17 Oct 2026 10:00:00 +0000</pubDate>
-<description>What’s Working: A Durango nonprofit gets to build AI that will help caseworkers spend more time with those they help The Colorado Sun</description>
-</item>
-<item>
-<title>Anthropic’s Clark says AI’s impact accelerating quickly and could vastly boost US GDP - WTVB</title>
-<link>https://news.google.com/rss/articles/CBMitAFBVV95cUxPTmpjamwwdlVJalVhM29BVElWWDJNdWxOQVJ2UDd5SDU1cjFDemJGbmg3Q3dabmM4Um9GV1lyOXJXa0FsbV80SFhfa19BbGR6MzdkUzhvMmRXZkp5QmpNV05yZmM5bEUxcG04SGJTV3J6UWlrclQ1emdlTFBfRmNCbm1KaGF2Wlk3dFJQdkdCX3UxcHVxYUh0c1dlVF9MSEQzVzdGelNOZDdkYnIzeTNJbFNPU1U?oc=5</link>
-<guid isPermaLink="false">22a23c88804c17f5a72d7c450c28c59ba36b188b8a91bd4b1841a61e921fbb8c</guid>
-<source>Google News Artificial Intelligence</source>
-<category>technology</category>
-<pubDate>Sat, 17 Oct 2026 09:34:27 +0000</pubDate>
-<description>Anthropic’s Clark says AI’s impact accelerating quickly and could vastly boost US GDP WTVB</description>
-</item>
-<item>
 <title>artificial intelligence erotica - Universidad de Córdoba (UCO)</title>
 <link>https://news.google.com/rss/articles/CBMikAJBVV95cUxQSWFRRmJ0Rlh2RVkxV0ZQYVVNSXdMNFRhMldHb3Q2bE1oTTdfVGZGZzhxX19vOE5hdlFEMEdKalhzek8xdFdQMGNYQ1RhSW5EaFBCbWtENGVGT25jck5xRXVBTjJtZGc1dHFaNlNYSnRoRzJ1bklJbVhHZ2pNVDAwVkVXeml2YUE2dllHQXdCLTdwZnpFUmNsSTFKQThFZTdHdlJPZXkySng3bndBRXZjbm9QZ2pjNE5DYW1USGRuVkNZUkhqRjMtTzkwWVMtV2pESlY1QzFFYi1pbFFqM2ZNbElLcno1X0RNVjFvc2kwX3Z3YVFpYXpqUmp2WWRHbENtLWs5YWxLeFM5dlpoRTlWVg?oc=5</link>
 <guid isPermaLink="false">e26b88bdf4ba7c7cb31378372b66d669aab2e7fdc7918b416bec63fb6037379e</guid>
@@ -796,6 +805,15 @@
 <category>technology</category>
 <pubDate>Sat, 17 Oct 2026 09:11:54 +0000</pubDate>
 <description>SATURDAY MORNING WITH CRANKY DON JOE | Larry Introduced Me to Artificial Intelligence, and Now I Have Questions MinneapoliMedia</description>
+</item>
+<item>
+<title>Weak Links Start to Show in A.I. Borrowing - The New York Times</title>
+<link>https://news.google.com/rss/articles/CBMiigFBVV95cUxNaG5jQ0JtclR4S2w1dzdJeFNQWmdXLTlwaDJ0SWhseFFKTHdUb2tHaHIzd0R4cEhobmFjV21TRXVDdS1HeUVGZm5RbDRCcGRMYlhCMnB0QkYzV3FrX2hhLXB2X0lnSUI3c2QzQWpTREdxLVRaUjVfOEtHQ2VrMlZrV0c5VHNTNjV0OVE?oc=5</link>
+<guid isPermaLink="false">a871765c2d2b5a4bc748ee3e2c25b471233ec319c035c0762d5603495683990a</guid>
+<source>Google News Artificial Intelligence</source>
+<category>technology</category>
+<pubDate>Sat, 17 Oct 2026 09:00:52 +0000</pubDate>
+<description>Weak Links Start to Show in A.I. Borrowing The New York Times</description>
 </item>
 <item>
 <title>Microplastics React With Water, a New Study Says. That’s a Problem for Biology</title>
@@ -836,6 +854,24 @@
 <category>technology</category>
 <pubDate>Sat, 17 Oct 2026 08:19:38 +0000</pubDate>
 <description>China AI supply-chain IPOs hold firm despite valuation pullback, Citi says Reuters</description>
+</item>
+<item>
+<title>AI fears are being weaponised - Al Jazeera</title>
+<link>https://news.google.com/rss/articles/CBMigAFBVV95cUxNRHlSVFJseF9uVnRkbEFxYTVrU1N6MVp4MmhFczdNVV9meHVPNUU0NjFtYm03OHJvc2FCb1RwN2k2T0I1SXhhdjlBcFQ4VFFwV0hzZ1ZwVVB6OGFDeVFjWXljVFRmSk5rNGZPN1UxT1lJZy1Tcm1rVV8yUkd3N1N4WNIBhgFBVV95cUxNU3RjY3VnbUQ2YU82ZVJkRk45ZUZsUVo1MmlMUXY5dnphc1d3Y0xEb3BqeE1nbGhwZ3NNZUsySWRIYnR6UTlBa2lvaV9zeHozTldjd2I5SVA2UEsyZkZVWU1UMmFTaWRsdUpjbDZ6SlY2RldIOFpSM0NGRDJ5TnhXdEhGRjZZQQ?oc=5</link>
+<guid isPermaLink="false">d2cd76914405dc02b3c8a78472da94b0286d821ec69495584b9437c000fe77b1</guid>
+<source>Google News Artificial Intelligence</source>
+<category>technology</category>
+<pubDate>Sat, 17 Oct 2026 06:54:56 +0000</pubDate>
+<description>AI fears are being weaponised Al Jazeera</description>
+</item>
+<item>
+<title>IMF members call for more support amid war shocks, 'advanced intelligence' risks - Reuters</title>
+<link>https://news.google.com/rss/articles/CBMixwFBVV95cUxNbXNKelJOV3BhOFlRUmVnYWwyV0FXSkNpa0VNS2g0ek01V1BhaUNxX3FBclJXUUNKRENoU2d5cHNNazZIMWZ2TXB4aVZIcHNXaWNFbDkxYXpvdlhwakgxekdDd0ZWRDlJMW9zeE9FU3kwcWRPMjJFVmVfNnJ3OGNxV3JaSU5xTHVVQnRTaEdfUGpzVVY0a216eGlrZFBsYmxSQThnSlM5alJvd3hKMU1vY2N0dDFUNGdoTTdBd25kUllEMG45RFhZ?oc=5</link>
+<guid isPermaLink="false">13a6a7b03813d0a7758529d86162ca9117e72c9fc3ad21cb681d502204828780</guid>
+<source>Google News Artificial Intelligence</source>
+<category>technology</category>
+<pubDate>Sat, 17 Oct 2026 06:19:00 +0000</pubDate>
+<description>IMF members call for more support amid war shocks, 'advanced intelligence' risks Reuters</description>
 </item>
 <item>
 <title>Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware</title>
@@ -899,15 +935,6 @@
 <category>technology</category>
 <pubDate>Sat, 17 Oct 2026 00:10:00 +0000</pubDate>
 <description>Local economist says AI could create jobs as well as eliminate them KTNV Las Vegas</description>
-</item>
-<item>
-<title>Weekend profile: Alexandr Wang, Meta’s Gen Z billionaire AI whizz - The Economist</title>
-<link>https://news.google.com/rss/articles/CBMilwFBVV95cUxPaG5qc0V5SDRTalBtZ0JJaTZpRkhWaGFvWEZCQXgzMl9yNW5XY0E2RlRjTU5FZGRLeWY0Szl0Z1FULUlVT0RSTVpsd2lJZ0E1QXg1UmhvZ0s3NUxldDNSaWlRSy14NUlWYmItT1NHMGpIQkFud2JJMmlfREhtWUl5ZzRrQmZhYmc1aWpWUjFPbk5ON1R0X2Zn?oc=5</link>
-<guid isPermaLink="false">e4889c4ce32cbee9c481da58ec92422c9fc1e1ca5e831ade80e8640668a52a0e</guid>
-<source>Google News Artificial Intelligence</source>
-<category>technology</category>
-<pubDate>Sat, 17 Oct 2026 00:00:00 +0000</pubDate>
-<description>Weekend profile: Alexandr Wang, Meta’s Gen Z billionaire AI whizz The Economist</description>
 </item>
 <item>
 <title>Show HN: Things to Do API</title>
@@ -1011,15 +1038,6 @@
 <category>technology</category>
 <pubDate>Fri, 16 Oct 2026 20:51:59 +0000</pubDate>
 <description>Reflection AI CEO confronts the risks of artificial intelligence: ‘It certainly worries me’ Fox Business</description>
-</item>
-<item>
-<title>Building trust in AI agents: A production-ready evaluation framework with Amazon Bedrock AgentCore - Amazon Web Services (AWS)</title>
-<link>https://news.google.com/rss/articles/CBMi3AFBVV95cUxPYlRvMDFmOXZBTEFiY2lrbFNVWnUzSnZwc2FrTF9hVExFLXc1R2lNVHdXUmpjbGRsQldybDdoT3poS3BmRWlUcVc0T1YybmthLU9pQ3NYSk5WdVM3S0pGRV90Um1ERzlJcmtVaDRNMlRQaGI2em05aUdLVFl1ZHUtM2szNlNYdHpWNHA0X3hvSDBWTTFmVENPLUVzQUNiUS1RelZNYjZOQWd5MklLTVNQdzlpWEZ1WDktcENwZzZMYlRZSWxUNnViZE0zcEdLM0JLNzRWMWQ2b010eUFO?oc=5</link>
-<guid isPermaLink="false">18d1e44de8d029c019fd315b4265ac5c66b31db04786b5b81d1b728840958784</guid>
-<source>Google News Artificial Intelligence</source>
-<category>technology</category>
-<pubDate>Fri, 16 Oct 2026 20:48:16 +0000</pubDate>
-<description>Building trust in AI agents: A production-ready evaluation framework with Amazon Bedrock AgentCore Amazon Web Services (AWS)</description>
 </item>
 <item>
 <title>Clinicians from all specialties use AI to answer cardiology questions - Cardiovascular Business</title>
@@ -1245,6 +1263,15 @@
 <description>The HBO series served as a stand-in for everything wrong with white millennial women during its original run. Then Gen Z started watching.</description>
 <enclosure url="https://media.wired.com/photos/6acfdbcff99bae5deb44dd4d/master/pass/Thank-Gen-Z-for-Girls-Revival-Culture-TCDGIRL_EC147.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/6acfdbcff99bae5deb44dd4d/master/pass/Thank-Gen-Z-for-Girls-Revival-Culture-TCDGIRL_EC147.jpg" medium="image"/>
+</item>
+<item>
+<title>ARA Secures Patent for Artificial Intelligence in Critical Care - GlobeNewswire</title>
+<link>https://news.google.com/rss/articles/CBMi0AFBVV95cUxPOUlNVHhhc0pOMUxLYXBhZGVLSjljWEpmSjZWNV9uamFPQXN4YzVzMUUyeHp1UXhtaTR0S25nWFRVX2tXTzllMHlPd3lIajZyNHk5MmpKUkdxNklvTmF6ZzAxUVJsdllNT2Rybmk4b2llYTZQeHJvQjUySHBrZTRDakdWa21fbDRKZXdraVA4UE9TMEk4RzJXY3QxRlg4NFlVRnVPY2t3aXR2dHEtX1owN1Bic21FVzFGTG1BX0dRY0Foa24ybVZuVjhiT1Mxd1lX?oc=5</link>
+<guid isPermaLink="false">d0c9ea96c8cdb7514c0bdb4bc4affb56ed685209043b97e207e6e9b2174c7aa2</guid>
+<source>Google News Artificial Intelligence</source>
+<category>technology</category>
+<pubDate>Fri, 16 Oct 2026 16:20:31 +0000</pubDate>
+<description>ARA Secures Patent for Artificial Intelligence in Critical Care GlobeNewswire</description>
 </item>
 <item>
 <title>USCIS Is Using Artificial Intelligence: Even Small Immigration Discrepancies Could Create Big Problems - Reddy Neumann Brown PC</title>
@@ -1524,6 +1551,15 @@
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/MS_Surface_Laptop_Ultra_Feature-1152x648.jpg" medium="image"/>
 </item>
 <item>
+<title>Key Practices for Incident Readiness and Response in Super Intelligence Training and Evaluation - National Institute of Standards and Technology (.gov)</title>
+<link>https://news.google.com/rss/articles/CBMiuwFBVV95cUxNdnNFXzhOOTI1SVpMMEpPNkZhWTBOOVZzc1BzTDBzYVc3al9JdzJacGZ6V0NJcjVVSEFTN1lnc1hjdmQ5ZHMyLUU2bS1zV2FvdEZicEF2NFRvbncxMlY3Z3pCelAyWVZ0UXRjcEZiRXUyTzNXZUlSMkNzb0p0dEhjOTU0YVVUUjFYOVBNTkNwZ1V5Q3U4OWRyVGtmS0JsMkFCSFZtRnFpeER4cDE4bTAxVzZLMS1hZG5lVlhF?oc=5</link>
+<guid isPermaLink="false">dbcd726f59a7e882d7ea32173539345b63cb272f78ff7945ba22aa6f11e2e070</guid>
+<source>Google News Artificial Intelligence</source>
+<category>technology</category>
+<pubDate>Fri, 16 Oct 2026 12:00:00 +0000</pubDate>
+<description>Key Practices for Incident Readiness and Response in Super Intelligence Training and Evaluation National Institute of Standards and Technology (.gov)</description>
+</item>
+<item>
 <title>Rocket Report: FAA eyes more Starbase traffic; India's Skyroot snares US customer</title>
 <link>https://arstechnica.com/space/2026/10/rocket-report-faa-eyes-more-starbase-traffic-indias-skyroot-snares-us-customer</link>
 <guid isPermaLink="false">7499b41fdf7fc003ff9b99df1997628f4dfeebc6729d196588fafb5067dbbb7c</guid>
@@ -1577,13 +1613,13 @@
 <description>Memphis nonprofit helping older adults learn about artificial intelligence FOX13 Memphis</description>
 </item>
 <item>
-<title>Monmouth-Roseville Board Approves Artificial Intelligence Guidance Framework - Radio Monmouth, IL</title>
-<link>https://news.google.com/rss/articles/CBMiqAFBVV95cUxPY21TalBvWDQ1TktYa0ZDVDB4VFk5SWYwNDBjTzdnVWtaOHlRRHlLZDFqLWFIdk9wTmQ2RHl3WW5UZlFnU2YwNUdqRmx6azNSdnVacVJ3bDJ5N011MG5XWEo3LVp5bC1GTjZkOXVlV2lpNXV6Q0pmUncwNWJiRksxU1FHQzJlZ0lXRV9tZzNMXzBBclVndG1EbEh4SGt2RURfaEszaFlrQ0w?oc=5</link>
-<guid isPermaLink="false">9e1579431ddcb1106735fd2c3eb4cdf24b74892e63c8fe70f7142acafb529b3c</guid>
+<title>Prediction: A $10,000 Investment in This Artificial Intelligence (AI) Hardware Stock Will At Least Double by 2030 (Hint: It’s Not Nvidia or Micron) - The Motley Fool</title>
+<link>https://news.google.com/rss/articles/CBMilAJBVV95cUxNandhNzFIaFk5UnZYSnoxeG1SczhNX0cxRjhEQ2RkcUxtcFNMXzJkbDQ1aWFSLWEtM2cxNFllcUtBSWJWcEg1Mk5kYzFRZnUtTVFOdmQzdFo1djFuNVVGV3lydzFJTzB1d0gtd0VHOVJReElKOGZWaWpaajhjTUt2U19Pejhva1R1SUtHalNKb3JoR1BfOGF0UlFQUnM4OE9NXzNIZGxlck1UWkZjQTVlUmhPd1A3dnZDNUttR2JaTEFXQndiVXVwOHBkZ0VFR0hfOHEyc1ZLblJNV3JwZUU5eTN5X2FPSlRsMHdxYU5RaXRpUnBXRGNTTkxnU1Ytc2U4SGt4VW9EazZSUlNYWWQycEcwbmU?oc=5</link>
+<guid isPermaLink="false">7e613b0632da5d1ee71fb2f77f4645bd982758dc87b47138ea516f6316f67913</guid>
 <source>Google News Artificial Intelligence</source>
 <category>technology</category>
-<pubDate>Fri, 16 Oct 2026 10:16:35 +0000</pubDate>
-<description>Monmouth-Roseville Board Approves Artificial Intelligence Guidance Framework Radio Monmouth, IL</description>
+<pubDate>Fri, 16 Oct 2026 10:16:00 +0000</pubDate>
+<description>Prediction: A $10,000 Investment in This Artificial Intelligence (AI) Hardware Stock Will At Least Double by 2030 (Hint: It’s Not Nvidia or Micron) The Motley Fool</description>
 </item>
 <item>
 <title>Artificial intelligence for life-cycle-aware sustainable materials discovery - Nature</title>
@@ -1715,17 +1751,6 @@
 <media:content url="https://media.wired.com/photos/66ea076e56fd4954a7f91e0c/master/pass/WIRED-Coupons-17.jpg" medium="image"/>
 </item>
 <item>
-<title>Skechers Coupon Codes 20% Off</title>
-<link>https://www.wired.com/story/skechers-coupon-codes</link>
-<guid isPermaLink="false">a6e009ecefdbae423044503e6a838ddb0b56e47bec165e66263fa7c5f45dd3a8</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Fri, 16 Oct 2026 05:00:00 +0000</pubDate>
-<description>Learn how to find, compare, and apply the best Skechers online discounts to save on comfortable sneakers, athletic apparel, and accessories.</description>
-<enclosure url="https://media.wired.com/photos/67b63b972c751893c256c1e6/master/pass/WIRED-Coupons-R2_16.png" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/67b63b972c751893c256c1e6/master/pass/WIRED-Coupons-R2_16.png" medium="image"/>
-</item>
-<item>
 <title>Total Wireless Promo Codes &amp; Deals: 50% Off Select Plans</title>
 <link>https://www.wired.com/story/total-wireless-promo-code</link>
 <guid isPermaLink="false">b6650a5bc0b1fd7bbfb22c69c30bf17d51a804af993e9ff4fe65df76943a69c3</guid>
@@ -1735,6 +1760,17 @@
 <description>Find great deals for Total Wireless, like 50% off select plans, and enjoy big savings.</description>
 <enclosure url="https://media.wired.com/photos/66ea0772ca863bb4c1028b66/master/pass/WIRED-Coupons-4.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/66ea0772ca863bb4c1028b66/master/pass/WIRED-Coupons-4.jpg" medium="image"/>
+</item>
+<item>
+<title>Skechers Coupon Codes 20% Off</title>
+<link>https://www.wired.com/story/skechers-coupon-codes</link>
+<guid isPermaLink="false">a6e009ecefdbae423044503e6a838ddb0b56e47bec165e66263fa7c5f45dd3a8</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Fri, 16 Oct 2026 05:00:00 +0000</pubDate>
+<description>Learn how to find, compare, and apply the best Skechers online discounts to save on comfortable sneakers, athletic apparel, and accessories.</description>
+<enclosure url="https://media.wired.com/photos/67b63b972c751893c256c1e6/master/pass/WIRED-Coupons-R2_16.png" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/67b63b972c751893c256c1e6/master/pass/WIRED-Coupons-R2_16.png" medium="image"/>
 </item>
 <item>
 <title>HP Coupon Codes and Deals October 2026</title>
@@ -1813,15 +1849,6 @@
 <category>technology</category>
 <pubDate>Thu, 15 Oct 2026 23:44:56 +0000</pubDate>
 <description>The company generated over $30 million in revenue in two years and was acquired by MyFitnessPal for an undisclosed amount of money in March.</description>
-</item>
-<item>
-<title>And the winner of Startup Battlefield at Disrupt 2026 is: Intero Biosystems</title>
-<link>https://techcrunch.com/2026/10/15/and-the-winner-of-startup-battlefield-at-disrupt-2026-is-intero-biosystems</link>
-<guid isPermaLink="false">dc672ac3b05d54dfebf218f353f2d007765a2a2984e1e9a5480b30e53a921497</guid>
-<source>TechCrunch</source>
-<category>technology</category>
-<pubDate>Thu, 15 Oct 2026 23:33:45 +0000</pubDate>
-<description>Intero Biosystems beat out 199 other Startup Battlefield companies to take home the $100,000 grand prize at TechCrunch Disrupt 2026.</description>
 </item>
 <item>
 <title>KDE turns 30 with Plasma 6.8, remote upgrades, and an X11 farewell</title>
@@ -2097,6 +2124,15 @@
 <media:content url="https://media.wired.com/photos/6ace784a3ccd7fa0977b8204/master/pass/WR-Nasa.jpg" medium="image"/>
 </item>
 <item>
+<title>Not Memory. Not Energy. This Is the Biggest Bottleneck in Artificial Intelligence, and These Are the Companies That Can Benefit. - The Motley Fool</title>
+<link>https://news.google.com/rss/articles/CBMimAFBVV95cUxNMjF1S0pqYjE5Mk1zbW1QcHVaMm0zcmVrWjhNMnY0UERMbnFrYXpKeXVIbngwNTBxZWVJLUFzenFFQk4za1JOVnJwN1lPMmdvemFkbE5nQ29McnNjQ19qcXBWSFNaWDlnTkV1WGhWRW9JVm9ub2stRVk4UkdETVVMR1JJdW5lN0xiTXBHckNzOFZjN1AxR1RaVg?oc=5</link>
+<guid isPermaLink="false">03202b2f0174f9e8101c56ce19b7adb9cb950b655396c29bd856b4df0ef9fe3a</guid>
+<source>Google News Artificial Intelligence</source>
+<category>technology</category>
+<pubDate>Thu, 15 Oct 2026 09:14:00 +0000</pubDate>
+<description>Not Memory. Not Energy. This Is the Biggest Bottleneck in Artificial Intelligence, and These Are the Companies That Can Benefit. The Motley Fool</description>
+</item>
+<item>
 <title>Over $600 Million in Polymarket Election Trades Took Place After Races Ended</title>
 <link>https://www.wired.com/story/over-dollar600-million-traded-on-polymarket-election-contracts-after-races-ended</link>
 <guid isPermaLink="false">11ff8ec29951a09759d96e697d8c85dcc18cd2d39d20c0c5a441f1de723331fe</guid>
@@ -2221,24 +2257,6 @@
 <description>Sound Practices for Responsible Adoption of Artificial Intelligence (AI): Overview of consultation responses Financial Stability Board</description>
 </item>
 <item>
-<title>How Should Engineering Schools Adapt To Artificial Intelligence? - Aviation Week</title>
-<link>https://news.google.com/rss/articles/CBMivwFBVV95cUxPeDFtYjREdWJtWEE3a2ZGcHhiN0RQSF85TXJFb2NSZHhRM21KeFFBUlhLMjJzQk5ma1NFRThzQjVEdlRTZVBFb1JPWVE3czFGWVo3d2hSZEtBNG5qODhWS1J0VFNjQnlyV29sc1hFcTZjOEphUHdnWFI3ZDRGbWswTTFaQjFsX1V4SWRrOVY1VzR5TXc2bGxVZ0VWQnJmTWFyQjVPRmV0Vmh1THg0eVNQZXR4LTQyQVFFbEdHT3I2VQ?oc=5</link>
-<guid isPermaLink="false">f5a386d4ea6a5a850df58e65ede8254daf1e7bde58e2883189850e18f973da02</guid>
-<source>Google News Artificial Intelligence</source>
-<category>technology</category>
-<pubDate>Wed, 14 Oct 2026 23:44:22 +0000</pubDate>
-<description>How Should Engineering Schools Adapt To Artificial Intelligence? Aviation Week</description>
-</item>
-<item>
-<title>Yael Grushka-Cockayne discusses artificial intelligence and future of business education - The Cavalier Daily</title>
-<link>https://news.google.com/rss/articles/CBMizwFBVV95cUxNRlJ3elc1Z3ZFbW4xM0xNbjFZSlJHWVlWQ0ZILTdZZnI5a29YeU1NbGdhbkR3SG1WT0tFTDBnVzZRWndicWZmMDRrMWZoelExU1pmdjNwdmRJMFY0RlBodGo0b0ZVTVJURnVKeXFEY1lHdlVYLW9GY05JU2tabnFmSGxhR1piaGh2dDhqcW12aEx1WTE1UlFUN0N1WHBoMUo4Sk9BM0hWdk1fX3ZaUkRWLTZzT20yd01QTk1pNU0zX1FPYlhDd2VKNDROU1JpYzg?oc=5</link>
-<guid isPermaLink="false">d6a1ae58f8e9f4b1607f2c3b2c104e35299857d949073615ccc57cf22810973f</guid>
-<source>Google News Artificial Intelligence</source>
-<category>technology</category>
-<pubDate>Wed, 14 Oct 2026 23:34:42 +0000</pubDate>
-<description>Yael Grushka-Cockayne discusses artificial intelligence and future of business education The Cavalier Daily</description>
-</item>
-<item>
 <title>Artificial intelligence-enabled clinical phenotyping of human brown fat - Nature</title>
 <link>https://news.google.com/rss/articles/CBMiX0FVX3lxTE9GZTlIVXVnazYxNTFrWEppcUVrV3ZIVUVNY2RQQURkSGtDR29wcnJ1SUxqSnNlc0ZTVFpnN0RORDBqNFRHWFZBTXZiMWp0TnBPMC1uZnZIWkJwTHI2UGJn?oc=5</link>
 <guid isPermaLink="false">7ac2d608ec7cddcf090a75627fe97347c0526b8ac95f1fd9df014f954ef96e0e</guid>
@@ -2255,15 +2273,6 @@
 <category>technology</category>
 <pubDate>Wed, 14 Oct 2026 22:05:00 +0000</pubDate>
 <description>Mission adopts policy for artificial intelligence usage in city business MyRGV.com</description>
-</item>
-<item>
-<title>13 Action News Big Story: Artificial intelligence, real problems - WTVG</title>
-<link>https://news.google.com/rss/articles/CBMinAFBVV95cUxQanVJN2MxQmVwbTd0bUlxVmNRUDlYMFdEVDhxOUFhbWRyUFhVVXRTaHNJb2tYcTh3Z1dsZ2RDRFVQZURFODFOWGlHVjlRMGFxOFpiaDc1di1CaXpOUTBmOHYyc2drb2NxcFNLMzNkRWlzcWg0WDhGVFNNMnhhcDd3cmdPSEE2V254UHk3U1FzRGdDaWw2M3NyYmVJWFDSAbABQVVfeXFMTVVQNVY2Z0hmQ0xFVWxtNmp4cmtZeFZ6LU5UenhBMGRKT21PZ1FGLWZkVmRDSGI0bVBMY2dVeGZEYmpxNUcyUndxUDNMb1VqcERnZkZMSTdNUl9uR2pxMUtGVG0wSWhRX2htOUtQbkcwV2NQVl9pVndNZVRnVUhtWUZwVDFVRWJPQWZZa08wbDJvUi1nUXZsUVN4VTNia3IxNlVGdmFXMTBSOGNPQXI4OVI?oc=5</link>
-<guid isPermaLink="false">b21a3e2237560b5900d2560e5602303610ed77766666f726b4fe8148d9e50ede</guid>
-<source>Google News Artificial Intelligence</source>
-<category>technology</category>
-<pubDate>Wed, 14 Oct 2026 21:27:00 +0000</pubDate>
-<description>13 Action News Big Story: Artificial intelligence, real problems WTVG</description>
 </item>
 <item>
 <title>Trump Aides Admit the House Is a Lost Cause</title>
@@ -2286,15 +2295,6 @@
 <description>Comments</description>
 </item>
 <item>
-<title>Opinion | A Manifesto to End All Manifestoes - The New York Times</title>
-<link>https://news.google.com/rss/articles/CBMijAFBVV95cUxOSGJaY0FxbGpVbnBkaDQtRmVKNVNMVXFEVGNPdlhBbW80cVctYjRiVjQtdFdwWXZHaDBoWE1LR0xrRHJWamZHdmlqSF96bk5xdEJWQ0hiVHFaTVNUcURkdnFiNF9vZEduZmdsTmdKbHZ4c0h5MFFObHJvdktpWFJCNGlrTXViNy1Wcy1Jcg?oc=5</link>
-<guid isPermaLink="false">47d4b044fe9d7e2dc72ec3c4565f33f775f3daefc0f432418780f448256f5be2</guid>
-<source>Google News Artificial Intelligence</source>
-<category>technology</category>
-<pubDate>Wed, 14 Oct 2026 19:00:19 +0000</pubDate>
-<description>Opinion | A Manifesto to End All Manifestoes The New York Times</description>
-</item>
-<item>
 <title>AI Came for Math. Now It’s Chasing the Rest of Science</title>
 <link>https://www.wired.com/story/ai-is-coming-for-science-next-watch-out</link>
 <guid isPermaLink="false">4634524ba4f8bd48dcaaf285bd880150589d87511b61cebc1d9a4eb71d67217b</guid>
@@ -2304,15 +2304,6 @@
 <description>AI may soon be the default way to solve theoretical problems in economics, high-energy physics, and other fields, MIT researchers tell WIRED.</description>
 <enclosure url="https://media.wired.com/photos/6ace87bed95d506835d511b4/master/pass/AI-Lab-AI-Coming-for-Other-Areas-of-Science-Businesspsd.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/6ace87bed95d506835d511b4/master/pass/AI-Lab-AI-Coming-for-Other-Areas-of-Science-Businesspsd.jpg" medium="image"/>
-</item>
-<item>
-<title>Almost every dumbphone worth knowing about</title>
-<link>https://slowerliving.club/phones</link>
-<guid isPermaLink="false">aced949d4eb78db2194c687e9f03b37ab47c0307cf369f0452c037353b0e451f</guid>
-<source>Hacker News</source>
-<category>technology</category>
-<pubDate>Wed, 14 Oct 2026 15:58:44 +0000</pubDate>
-<description>Comments</description>
 </item>
 <item>
 <title>AI @ CLS: Columbia Law School’s Artificial Intelligence Initiative - Columbia Law School</title>
@@ -2344,6 +2335,15 @@
 <description>Brian K. Vaughan claims he’s seen Dune: Part Three and it’s “a fucking beautiful movie.”</description>
 <enclosure url="https://media.wired.com/photos/6acd53c53982e9e93e8e9175/master/pass/Dune-Writer-Comic-Book-Culture-1242062718.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/6acd53c53982e9e93e8e9175/master/pass/Dune-Writer-Comic-Book-Culture-1242062718.jpg" medium="image"/>
+</item>
+<item>
+<title>What a Group of A.I. Agents Talked About as Their Humans Had a Dinner Party - The New York Times</title>
+<link>https://news.google.com/rss/articles/CBMilwFBVV95cUxPUjdWaktiYTFVLTlGZFZRelhDLVZTVm5RRGxIWVlfaHNqZXJIeUpMTW1IYzVQMEozcS1UU0VJVktDSzc4cUJIR1haVVJJYWc4SERibnNKS1ZEX2p4NDNYbUxtbDNCYUM3VjU5dW1HMzZiLVFaazJsSEh6Q09XMTJwOVNmUkxkeEwzU2xjOUZ4czBpNGk4U3hr?oc=5</link>
+<guid isPermaLink="false">cef4e950ba0db74507dfa8db6d67fdd9c6da8d39fb1f8537c61db5b279015f54</guid>
+<source>Google News Artificial Intelligence</source>
+<category>technology</category>
+<pubDate>Wed, 14 Oct 2026 09:01:19 +0000</pubDate>
+<description>What a Group of A.I. Agents Talked About as Their Humans Had a Dinner Party The New York Times</description>
 </item>
 <item>
 <title>A Tudor life in the time of plague (2020)</title>
