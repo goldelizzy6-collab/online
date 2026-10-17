@@ -4,6 +4,35 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Artie (YC S23) Is Hiring Enterprise AES and Senior Engineers</title>
+<link>https://www.artie.com/careers</link>
+<guid isPermaLink="false">5ae5c54823aa7726153c057f4d8ae8c65b31c75f162528aa1dcca3302b8acaa3</guid>
+<source>Hacker News</source>
+<category>technology</category>
+<pubDate>Sat, 17 Oct 2026 17:02:50 +0000</pubDate>
+<description>Comments</description>
+</item>
+<item>
+<title>Mercedes-AMG’s first ground-up SUV is a 1,150hp electric beast</title>
+<link>https://www.theverge.com/transportation/1013088/mercedes-amg-gt-suv-price-specs-performance</link>
+<guid isPermaLink="false">de0cce47f02c45d948f6b05ab3fe2cab655e8049bef2b2325da03ec3ea6d5dc5</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Sat, 17 Oct 2026 17:00:00 +0000</pubDate>
+<description>Earlier this year, Mercedes' AMG performance brand grabbed our attention with the GT four-door coupe, a souped-up sports sedan with three axial flux motors delivering over 1,150 horsepower. Well, now meet its beefier cousin, the 2028 Mercedes-AMG GT SUV, an equally powerful, ultra-fast-charging electric people-hauler. The AMG GT SUV (say that five times fast) marks […]</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/26C0332_071.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/26C0332_071.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Teenagers turning to artificial intelligence for relationships and advice - NewsNation</title>
+<link>https://news.google.com/rss/articles/CBMi0AFBVV95cUxOdnJiUTF4bjlmZWxPeF9JbElRU0p4cnVoeGVrMk1FSUNMZXBnRTQyYlJDaTVKQnprYjJzQUZQUmRJbzZBOG5Salo5ZjVUM1ptSWR5elB1LWNXREhROXpwT1J6djROdFdxcUc2RVphSXQ4cWZBVVdoMDFmOEdiZVNtRHB1c3kyVXZXLXh3T2x4eDFIR2wzd1hrSTdaSlNTSE9fbWd5MGN0LV9EYjVKRlJqLWxmSjU2VVpkZDlXNjlkcDJ1ZmxJLWFBRDVQYjgyTndw?oc=5</link>
+<guid isPermaLink="false">1051b4bc6f68e15ca9092d81a83a62441ee488698ebf7330368b76b94c158a42</guid>
+<source>Google News Artificial Intelligence</source>
+<category>technology</category>
+<pubDate>Sat, 17 Oct 2026 16:52:25 +0000</pubDate>
+<description>Teenagers turning to artificial intelligence for relationships and advice NewsNation</description>
+</item>
+<item>
 <title>Elon Musk settles lawsuits over $1 million voter giveaway</title>
 <link>https://www.theverge.com/tech/1013431/elon-musk-settles-lawsuits-over-1-million-voter-giveaway</link>
 <guid isPermaLink="false">856e060c0f3ab2f7cb9400dcfb9fd467f045602142202e61a3770433c741660a</guid>
@@ -44,6 +73,24 @@
 <description>The premium handheld is expected to start shipping in December.</description>
 <enclosure url="https://www.engadget.com/img/gallery/anbernics-rg-dds-is-almost-double-the-price-of-the-original-nintendo-3ds/l-intro-1792253250.jpg" type="image/jpeg"/>
 <media:content url="https://www.engadget.com/img/gallery/anbernics-rg-dds-is-almost-double-the-price-of-the-original-nintendo-3ds/l-intro-1792253250.jpg" medium="image"/>
+</item>
+<item>
+<title>GLP-1 may slow biological aging</title>
+<link>https://www.universityofcalifornia.edu/news/new-study-shows-popular-glp-1-weight-loss-drug-may-slow-biological-aging</link>
+<guid isPermaLink="false">cf35cd5131cf453d6497c6ce4610750b57dc7c9ae6cb47dc189971bc65e22f0b</guid>
+<source>Hacker News</source>
+<category>technology</category>
+<pubDate>Sat, 17 Oct 2026 16:10:21 +0000</pubDate>
+<description>Comments</description>
+</item>
+<item>
+<title>Amazon uses union-busting AI surveillance to monitor union risk in UK warehouses</title>
+<link>https://www.opendemocracy.net/amazon-ai-surveillance-monitor-union-activity-uk-warehouses-birmingham-coventry-atlas-sutton-coldfield</link>
+<guid isPermaLink="false">c7d27156a54c34ab1026f2726e95664a1424142af6d97be909801168edb99a6c</guid>
+<source>Hacker News</source>
+<category>technology</category>
+<pubDate>Sat, 17 Oct 2026 16:04:23 +0000</pubDate>
+<description>Comments</description>
 </item>
 <item>
 <title>This Samsung Galaxy feature can protect you from untrustworthy apps</title>
@@ -168,7 +215,7 @@
 <description>News 12 Investigates: ECU professor explains how AI is helping military intelligence WCTI</description>
 </item>
 <item>
-<title>Solar surpasses nuclear power globally for first time – pv magazine Global</title>
+<title>Solar surpasses nuclear power globally for first time</title>
 <link>https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time</link>
 <guid isPermaLink="false">21767c06a3d50e267cc0625a1db30fae431641f98b257202b9c418d1e841b392</guid>
 <source>Hacker News</source>
@@ -330,15 +377,6 @@
 <media:content url="https://www.engadget.com/img/gallery/these-common-charging-habits-could-be-degrading-your-ev-battery/l-intro-1791801948.jpg" medium="image"/>
 </item>
 <item>
-<title>Super Intelligence</title>
-<link>https://www.si.gov</link>
-<guid isPermaLink="false">cab1dddcce29a19b96badcc69f8beeadbbb3669867426fcf10f8d420e0fff481</guid>
-<source>Hacker News</source>
-<category>technology</category>
-<pubDate>Sat, 17 Oct 2026 12:36:19 +0000</pubDate>
-<description>Comments</description>
-</item>
-<item>
 <title>Apple updates App Store rules to ensure it doesn't offer AI nudify apps</title>
 <link>https://www.engadget.com/2289567/apple-updates-app-store-rules-ai-nudify-apps</link>
 <guid isPermaLink="false">57c61129ad59926b87ff4058fac6830cfe4694c4bcc7632674be1426b95d6b65</guid>
@@ -441,6 +479,15 @@
 <category>technology</category>
 <pubDate>Sat, 17 Oct 2026 12:00:00 +0000</pubDate>
 <description>Crafty OpenAI agent willingly stole crypto from an account it didn't own to complete a task during test — rogue bot wrote a script to find accounts with public seed phrases, took funds to pay for gas Tom's Hardware</description>
+</item>
+<item>
+<title>AI rapidly improving, could vastly boost US GDP, Anthropic's Clark tells policymakers - Yahoo Finance</title>
+<link>https://news.google.com/rss/articles/CBMilAFBVV95cUxPbWtvRm9GMV9WQV90M25SSXpwUGJNQjlOTGFYa3MyZ2FoTklpRWRxVkllRnZFSVdRTDNFc2FnZWFKYTA4QUVCRUtLNkNIMGRkYXNrZjg0R1Y0SzFOSjNXNDFTWlB3RE1UcWROT0tNd3RLekRUT29uYjNKcE1PbnRvek5iTWc0YkVHWWFPc2tYdzZkekhp?oc=5</link>
+<guid isPermaLink="false">ab28c7e84d2efd6dc3878744f17cb1a6ebb8f857fa646495759ed6eedb31f890</guid>
+<source>Google News Artificial Intelligence</source>
+<category>technology</category>
+<pubDate>Sat, 17 Oct 2026 11:39:03 +0000</pubDate>
+<description>AI rapidly improving, could vastly boost US GDP, Anthropic's Clark tells policymakers Yahoo Finance</description>
 </item>
 <item>
 <title>Croatia sets out €932 million plan for artificial intelligence development - Croatia Week</title>
@@ -686,6 +733,15 @@
 <description>AI fears are being weaponised Al Jazeera</description>
 </item>
 <item>
+<title>Is it safe to upload photos of your child to AI? - BBC</title>
+<link>https://news.google.com/rss/articles/CBMiW0FVX3lxTE1YOUltMFZOYTVXdlVRd2g5N2tjUzlyTWFpRVFWMkdvQzctalZSbWZNaWU0T1hjYnNWS3F2QnhiMnVISVVQT2JTMjdvVHBiUm1CaFItMkJwNC1JVVE?oc=5</link>
+<guid isPermaLink="false">fff47acea5a8606c6d383252bca5e77c87cd418f19cd02b4493f6932a565ef9b</guid>
+<source>Google News Artificial Intelligence</source>
+<category>technology</category>
+<pubDate>Sat, 17 Oct 2026 06:28:46 +0000</pubDate>
+<description>Is it safe to upload photos of your child to AI? BBC</description>
+</item>
+<item>
 <title>Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware</title>
 <link>https://llmspeed.dev</link>
 <guid isPermaLink="false">98169db0a840e6b4ad5f843a35cbf770ae9c9d3189059dd2ed8677c7c0bc580a</guid>
@@ -733,15 +789,6 @@
 <description>Buying Legal NYC 2026: Why legal leaders are focused on the foundations of AI success Wolters Kluwer</description>
 </item>
 <item>
-<title>Flexport Is Hiring a Biz Ops Leader in Office of CEO</title>
-<link>https://www.flexport.com/company/careers</link>
-<guid isPermaLink="false">6f39f452f8af03129a3f575e91d5d0a15b70887e3398dba1848cac7515caa13c</guid>
-<source>Hacker News</source>
-<category>technology</category>
-<pubDate>Sat, 17 Oct 2026 01:01:51 +0000</pubDate>
-<description>Comments</description>
-</item>
-<item>
 <title>Local economist says AI could create jobs as well as eliminate them - KTNV Las Vegas</title>
 <link>https://news.google.com/rss/articles/CBMivwFBVV95cUxOYk1oSDNBVWpRVVh6eDhBOHNDS2pwaGNzQTRJaFhWN3ZiZHZBRnJIeVpMd2JCX3hkQTM1TlNPaUp6Q3p3QldIV2RDVkRKN2RZOWxBbi1zaTF1U19Sc2stb1BmMXFJZ1FUNXc5aU01RnJvY1JmUWJQQUptbEd5RWVxdFVrYk1xcnphaTZyVWdQVTdjQkNOdm1sZHFFS0tVNnlMbUZUNHJZTUhjSVYtekNnNVQzQUNrQU5FVHUyMUx2MA?oc=5</link>
 <guid isPermaLink="false">abebfbec921218bbe6458a451136498bfd7e97bfbf0d045f9122373796789a00</guid>
@@ -767,26 +814,6 @@
 <category>technology</category>
 <pubDate>Fri, 16 Oct 2026 23:53:53 +0000</pubDate>
 <description>Q: What are the biggest threats from artificial intelligence? KRQE</description>
-</item>
-<item>
-<title>All the news about the iPhone Duo</title>
-<link>https://www.theverge.com/tech/1010131/apple-iphone-duo-news-announcements</link>
-<guid isPermaLink="false">d56d7345469111cea7224f27acc3347c26d4f484c8c6bf708bb8ff31d64b6f08</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Fri, 16 Oct 2026 23:36:26 +0000</pubDate>
-<description>Apple has finally announced its long-rumored foldable: the iPhone Duo. The new phone has a 5.4-inch outer display and a 7.6-inch inner display, a “nano‑texture” finish on the inner screen, and barely any visible crease. Instead of Face ID, it uses Touch ID on the power button. It has two cameras, a main lens and […]</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268734_iPhone_Duo_handson_ADiBenedetto_0017.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268734_iPhone_Duo_handson_ADiBenedetto_0017.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
-<title>Nine-Inch Snails</title>
-<link>https://www.theatlantic.com/science/2026/10/giant-african-snails-florida-invasion/688850</link>
-<guid isPermaLink="false">67afb4774c9eea01ff4765a998028f2dfb511e19cd3d44e60ecc0e57c86a0de5</guid>
-<source>Hacker News</source>
-<category>technology</category>
-<pubDate>Fri, 16 Oct 2026 22:21:05 +0000</pubDate>
-<description>Comments</description>
 </item>
 <item>
 <title>China says it will curb tech exports, including AI, citing national security risks - PBS</title>
@@ -1036,15 +1063,6 @@
 <source>Hacker News</source>
 <category>technology</category>
 <pubDate>Fri, 16 Oct 2026 18:06:17 +0000</pubDate>
-<description>Comments</description>
-</item>
-<item>
-<title>Designing more efficient quantum circuits with Claude</title>
-<link>https://www.anthropic.com/research/designing-efficient-quantum-circuits</link>
-<guid isPermaLink="false">d0817155767aa3ab43456e96e09abceaa12a42ca0623f397f41bb639eda1a0df</guid>
-<source>Hacker News</source>
-<category>technology</category>
-<pubDate>Fri, 16 Oct 2026 18:00:18 +0000</pubDate>
 <description>Comments</description>
 </item>
 <item>
@@ -1463,17 +1481,6 @@
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/stoke1-1152x648.jpg" medium="image"/>
 </item>
 <item>
-<title>AI-Generated Hot Girls Are Ripping Off Comedians to Boost Their Horny Content</title>
-<link>https://www.wired.com/story/ai-generated-hot-girls-are-ripping-off-comedians-to-boost-their-horny-content</link>
-<guid isPermaLink="false">af9e2669fba13771a2f551f1a4ccb17321c010e99ff67d20bca3e40eb416261e</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Fri, 16 Oct 2026 11:00:00 +0000</pubDate>
-<description>A network of AI-generated models is using comics’ material to funnel views to their OnlyFans and Fanvue accounts—and there’s not much comedians can do about it.</description>
-<enclosure url="https://media.wired.com/photos/6ad165ce87819d1c9639eaa6/master/pass/Business_ComediansAreGettingRippedOffByAIHotGirls-ezgif.com-video-to-gif-converter%20(2).gif" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/6ad165ce87819d1c9639eaa6/master/pass/Business_ComediansAreGettingRippedOffByAIHotGirls-ezgif.com-video-to-gif-converter%20(2).gif" medium="image"/>
-</item>
-<item>
 <title>AWOL Vision Aetherion Max RGB Laser UST Projector Review: A Top Buy</title>
 <link>https://www.wired.com/review/review-awol-vision-aetherion-max-rgb-laser-ust-projector</link>
 <guid isPermaLink="false">e4859b5d9686ba72baae7d8586a28a6bd8065505fee8101128e03f091fec692d</guid>
@@ -1483,6 +1490,17 @@
 <description>A top performer in both dark rooms and in bright sunshine, the AWOL Vision Aetherion Max RGB Laser UST Projector gives movie theaters a run for their money.</description>
 <enclosure url="https://media.wired.com/photos/6ad1311c8de176c462eacc57/master/pass/AWOL%20Vision%20Aetherion%20Max%20RGB%20Laser%20UST%20Projector%20review%20102026%20top%20art%20SOURCE%20Amazon.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/6ad1311c8de176c462eacc57/master/pass/AWOL%20Vision%20Aetherion%20Max%20RGB%20Laser%20UST%20Projector%20review%20102026%20top%20art%20SOURCE%20Amazon.jpg" medium="image"/>
+</item>
+<item>
+<title>AI-Generated Hot Girls Are Ripping Off Comedians to Boost Their Horny Content</title>
+<link>https://www.wired.com/story/ai-generated-hot-girls-are-ripping-off-comedians-to-boost-their-horny-content</link>
+<guid isPermaLink="false">af9e2669fba13771a2f551f1a4ccb17321c010e99ff67d20bca3e40eb416261e</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Fri, 16 Oct 2026 11:00:00 +0000</pubDate>
+<description>A network of AI-generated models is using comics’ material to funnel views to their OnlyFans and Fanvue accounts—and there’s not much comedians can do about it.</description>
+<enclosure url="https://media.wired.com/photos/6ad165ce87819d1c9639eaa6/master/pass/Business_ComediansAreGettingRippedOffByAIHotGirls-ezgif.com-video-to-gif-converter%20(2).gif" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6ad165ce87819d1c9639eaa6/master/pass/Business_ComediansAreGettingRippedOffByAIHotGirls-ezgif.com-video-to-gif-converter%20(2).gif" medium="image"/>
 </item>
 <item>
 <title>The Best Digital Wall Calendar (2026): Skylight, Everblog, Greenlight</title>
@@ -1565,15 +1583,6 @@
 <description>Surprised by the hype around yet another documentary on Theranos fraudster Elizabeth Holmes? It has everything to do with this experimental comedian.</description>
 <enclosure url="https://media.wired.com/photos/6ad1230d3bea6f2be1ce448f/master/pass/NathanFielder_NF-1.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/6ad1230d3bea6f2be1ce448f/master/pass/NathanFielder_NF-1.jpg" medium="image"/>
-</item>
-<item>
-<title>Big Tech Oligarchs Have a Terrible Plan for Humanity - The Atlantic</title>
-<link>https://news.google.com/rss/articles/CBMikAFBVV95cUxOVFkwUTMtRHpzQ2VydmlxZW1mZ0FhXy0xOGRsMkZ0U3FZaVpQM1BYcm9kdmxfd0dTNlh6NVJnNjFvOUlIQXlnLVlhdmFaM1V6S2dQS3dHeXRhc1J4bEF2UHhpTElFcE83cW1Vdk9FcldRNWFXVVU0eG9CRU1jcDcySjM3TFExUVhkSEl1Z1BGNUo?oc=5</link>
-<guid isPermaLink="false">cac0fa628fc402e713f8657d74acbd1170c295de78eb8cd3c46d348a1e7f4dd9</guid>
-<source>Google News Artificial Intelligence</source>
-<category>technology</category>
-<pubDate>Fri, 16 Oct 2026 10:00:00 +0000</pubDate>
-<description>Big Tech Oligarchs Have a Terrible Plan for Humanity The Atlantic</description>
 </item>
 <item>
 <title>Billionaires Are Selling These 6 Artificial Intelligence (AI) Stocks. Should You Follow? - Yahoo Finance</title>
@@ -1661,17 +1670,6 @@
 <media:content url="https://media.wired.com/photos/66ea076e56fd4954a7f91e0c/master/pass/WIRED-Coupons-17.jpg" medium="image"/>
 </item>
 <item>
-<title>Total Wireless Promo Codes &amp; Deals: 50% Off Select Plans</title>
-<link>https://www.wired.com/story/total-wireless-promo-code</link>
-<guid isPermaLink="false">b6650a5bc0b1fd7bbfb22c69c30bf17d51a804af993e9ff4fe65df76943a69c3</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Fri, 16 Oct 2026 05:00:00 +0000</pubDate>
-<description>Find great deals for Total Wireless, like 50% off select plans, and enjoy big savings.</description>
-<enclosure url="https://media.wired.com/photos/66ea0772ca863bb4c1028b66/master/pass/WIRED-Coupons-4.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/66ea0772ca863bb4c1028b66/master/pass/WIRED-Coupons-4.jpg" medium="image"/>
-</item>
-<item>
 <title>Skechers Coupon Codes 20% Off</title>
 <link>https://www.wired.com/story/skechers-coupon-codes</link>
 <guid isPermaLink="false">a6e009ecefdbae423044503e6a838ddb0b56e47bec165e66263fa7c5f45dd3a8</guid>
@@ -1681,6 +1679,17 @@
 <description>Learn how to find, compare, and apply the best Skechers online discounts to save on comfortable sneakers, athletic apparel, and accessories.</description>
 <enclosure url="https://media.wired.com/photos/67b63b972c751893c256c1e6/master/pass/WIRED-Coupons-R2_16.png" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/67b63b972c751893c256c1e6/master/pass/WIRED-Coupons-R2_16.png" medium="image"/>
+</item>
+<item>
+<title>Total Wireless Promo Codes &amp; Deals: 50% Off Select Plans</title>
+<link>https://www.wired.com/story/total-wireless-promo-code</link>
+<guid isPermaLink="false">b6650a5bc0b1fd7bbfb22c69c30bf17d51a804af993e9ff4fe65df76943a69c3</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Fri, 16 Oct 2026 05:00:00 +0000</pubDate>
+<description>Find great deals for Total Wireless, like 50% off select plans, and enjoy big savings.</description>
+<enclosure url="https://media.wired.com/photos/66ea0772ca863bb4c1028b66/master/pass/WIRED-Coupons-4.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/66ea0772ca863bb4c1028b66/master/pass/WIRED-Coupons-4.jpg" medium="image"/>
 </item>
 <item>
 <title>HP Coupon Codes and Deals October 2026</title>
@@ -2006,15 +2015,6 @@
 <description>Comments</description>
 </item>
 <item>
-<title>Super Intelligence - NASA (.gov)</title>
-<link>https://news.google.com/rss/articles/CBMiUkFVX3lxTE1LNDdCUDJLUjJFbjJuNXNwbWgyMjFJRkg0a2MzR25XNFBWb1U2WUh6QWRNMXRWd1JqXy1RVzhhSTVIVlNCOWhCSGVzdFVOcUw1bnc?oc=5</link>
-<guid isPermaLink="false">add1ac62d3778057053af2067ed337900ddd746e8729ad2d4b770b74242c01a0</guid>
-<source>Google News Artificial Intelligence</source>
-<category>technology</category>
-<pubDate>Thu, 15 Oct 2026 12:35:54 +0000</pubDate>
-<description>Super Intelligence NASA (.gov)</description>
-</item>
-<item>
 <title>Kids’ Content Is Deeply Broken. A New Platform Wants to Fix It</title>
 <link>https://www.wired.com/story/maka-streaming-platform-for-kids-fighting-against-ai-slop</link>
 <guid isPermaLink="false">14a2f02b4378a6425accf32359d4edf7f7ec1c5dcc73b222bbc39b594d8e9241</guid>
@@ -2097,15 +2097,6 @@
 <media:content url="https://media.wired.com/photos/6ace784a3ccd7fa0977b8204/master/pass/WR-Nasa.jpg" medium="image"/>
 </item>
 <item>
-<title>Opinion: Artificial intelligence needs oversight before it runs amok - San Antonio Express-News</title>
-<link>https://news.google.com/rss/articles/CBMirwFBVV95cUxNbFpncEEtdjJnMVBXRVJyZ2pBTFplbUxGZlhUSVZyX0dIQkZTRW5vN2Y0cXZZVjQ0U2lhNmRDMllzbHpTbnRFZmozUEFVZF9DbC1VcVRjT1VNdXc5ZGdGZjg5WmNqcnRUeVA5TjJaVENGa0oxMlZ2UlNGMVh1eTVYSlZVQXdTdjcwSGt4aGRNVVRBT0JpN0R3Z2JZVUJ3XzYyWEJrWEdxTGRVT1ZDYmpJ?oc=5</link>
-<guid isPermaLink="false">e8a5a7c4001f1df13a18ab928b32540f2517331a75af8f828de8ec06d9ec1dd8</guid>
-<source>Google News Artificial Intelligence</source>
-<category>technology</category>
-<pubDate>Thu, 15 Oct 2026 09:09:53 +0000</pubDate>
-<description>Opinion: Artificial intelligence needs oversight before it runs amok San Antonio Express-News</description>
-</item>
-<item>
 <title>Over $600 Million in Polymarket Election Trades Took Place After Races Ended</title>
 <link>https://www.wired.com/story/over-dollar600-million-traded-on-polymarket-election-contracts-after-races-ended</link>
 <guid isPermaLink="false">11ff8ec29951a09759d96e697d8c85dcc18cd2d39d20c0c5a441f1de723331fe</guid>
@@ -2115,6 +2106,15 @@
 <description>Contracts tied to elections in Ethiopia and Romania saw massive trading volumes after the outcomes were decided. “It’s obviously some form of volume manipulation,” one expert says.</description>
 <enclosure url="https://media.wired.com/photos/6ad00b3fddecc03369093fdf/master/pass/Millions-Traded-Zombie-Polymarket-Business.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/6ad00b3fddecc03369093fdf/master/pass/Millions-Traded-Zombie-Polymarket-Business.jpg" medium="image"/>
+</item>
+<item>
+<title>Furifont, a Japanese font that shows furigana</title>
+<link>https://furifont.antfu.me</link>
+<guid isPermaLink="false">b8e542316d9859f25d6eb40bd70279fa8db69fe7023be0dfda64db332f4a0463</guid>
+<source>Hacker News</source>
+<category>technology</category>
+<pubDate>Thu, 15 Oct 2026 08:48:30 +0000</pubDate>
+<description>Comments</description>
 </item>
 <item>
 <title>What changes when your search index lives on S3?</title>
@@ -2230,15 +2230,6 @@
 <description>Sound Practices for Responsible Adoption of Artificial Intelligence (AI): Overview of consultation responses Financial Stability Board</description>
 </item>
 <item>
-<title>How Should Engineering Schools Adapt To Artificial Intelligence? - Aviation Week</title>
-<link>https://news.google.com/rss/articles/CBMivwFBVV95cUxPeDFtYjREdWJtWEE3a2ZGcHhiN0RQSF85TXJFb2NSZHhRM21KeFFBUlhLMjJzQk5ma1NFRThzQjVEdlRTZVBFb1JPWVE3czFGWVo3d2hSZEtBNG5qODhWS1J0VFNjQnlyV29sc1hFcTZjOEphUHdnWFI3ZDRGbWswTTFaQjFsX1V4SWRrOVY1VzR5TXc2bGxVZ0VWQnJmTWFyQjVPRmV0Vmh1THg0eVNQZXR4LTQyQVFFbEdHT3I2VQ?oc=5</link>
-<guid isPermaLink="false">f5a386d4ea6a5a850df58e65ede8254daf1e7bde58e2883189850e18f973da02</guid>
-<source>Google News Artificial Intelligence</source>
-<category>technology</category>
-<pubDate>Wed, 14 Oct 2026 23:44:22 +0000</pubDate>
-<description>How Should Engineering Schools Adapt To Artificial Intelligence? Aviation Week</description>
-</item>
-<item>
 <title>Yael Grushka-Cockayne discusses artificial intelligence and future of business education - The Cavalier Daily</title>
 <link>https://news.google.com/rss/articles/CBMizwFBVV95cUxNRlJ3elc1Z3ZFbW4xM0xNbjFZSlJHWVlWQ0ZILTdZZnI5a29YeU1NbGdhbkR3SG1WT0tFTDBnVzZRWndicWZmMDRrMWZoelExU1pmdjNwdmRJMFY0RlBodGo0b0ZVTVJURnVKeXFEY1lHdlVYLW9GY05JU2tabnFmSGxhR1piaGh2dDhqcW12aEx1WTE1UlFUN0N1WHBoMUo4Sk9BM0hWdk1fX3ZaUkRWLTZzT20yd01QTk1pNU0zX1FPYlhDd2VKNDROU1JpYzg?oc=5</link>
 <guid isPermaLink="false">d6a1ae58f8e9f4b1607f2c3b2c104e35299857d949073615ccc57cf22810973f</guid>
@@ -2264,15 +2255,6 @@
 <category>technology</category>
 <pubDate>Wed, 14 Oct 2026 22:05:00 +0000</pubDate>
 <description>Mission adopts policy for artificial intelligence usage in city business MyRGV.com</description>
-</item>
-<item>
-<title>13 Action News Big Story: Artificial intelligence, real problems - WTVG</title>
-<link>https://news.google.com/rss/articles/CBMinAFBVV95cUxQanVJN2MxQmVwbTd0bUlxVmNRUDlYMFdEVDhxOUFhbWRyUFhVVXRTaHNJb2tYcTh3Z1dsZ2RDRFVQZURFODFOWGlHVjlRMGFxOFpiaDc1di1CaXpOUTBmOHYyc2drb2NxcFNLMzNkRWlzcWg0WDhGVFNNMnhhcDd3cmdPSEE2V254UHk3U1FzRGdDaWw2M3NyYmVJWFDSAbABQVVfeXFMTVVQNVY2Z0hmQ0xFVWxtNmp4cmtZeFZ6LU5UenhBMGRKT21PZ1FGLWZkVmRDSGI0bVBMY2dVeGZEYmpxNUcyUndxUDNMb1VqcERnZkZMSTdNUl9uR2pxMUtGVG0wSWhRX2htOUtQbkcwV2NQVl9pVndNZVRnVUhtWUZwVDFVRWJPQWZZa08wbDJvUi1nUXZsUVN4VTNia3IxNlVGdmFXMTBSOGNPQXI4OVI?oc=5</link>
-<guid isPermaLink="false">b21a3e2237560b5900d2560e5602303610ed77766666f726b4fe8148d9e50ede</guid>
-<source>Google News Artificial Intelligence</source>
-<category>technology</category>
-<pubDate>Wed, 14 Oct 2026 21:27:00 +0000</pubDate>
-<description>13 Action News Big Story: Artificial intelligence, real problems WTVG</description>
 </item>
 <item>
 <title>Trump Aides Admit the House Is a Lost Cause</title>
@@ -2436,6 +2418,15 @@
 <description>National Lab Discovery Series: PermitAI™: Using Artificial Intelligence to Accelerate Environmental Reviews and Permitting Department of Energy (.gov)</description>
 </item>
 <item>
+<title>What is Super Intelligence? - NASA (.gov)</title>
+<link>https://news.google.com/rss/articles/CBMiXEFVX3lxTFBYV1RFejMzMzkxQmpESE1mOVVnRHJ1QUt6bi1WbFVISENxTkM4MTgxZEJfNGIwY09KNmF1ckh1ZEVuSjFXbWtUY0ZpMGEtSjZ1QWFrbDFnY0V3bEll?oc=5</link>
+<guid isPermaLink="false">be84a2cbb71a9af8cb931b2a838dc38c8f493dd4f3fa583603bcda6f8b17c0a6</guid>
+<source>Google News Artificial Intelligence</source>
+<category>technology</category>
+<pubDate>Tue, 06 Oct 2026 16:15:19 +0000</pubDate>
+<description>What is Super Intelligence? NASA (.gov)</description>
+</item>
+<item>
 <title>Artificial intelligence - World Meteorological Organization WMO</title>
 <link>https://news.google.com/rss/articles/CBMiWkFVX3lxTE5teV8xeTgyQjNGNWlRWDFiUTVZMllvVlp5ODhLZWFHOUpOVzVPU2Z2YXUxY1gwMVBkNHdoMGpWS2dRMnltUTlFRVhqdHdQeGlMVGhUTjJZeERhUQ?oc=5</link>
 <guid isPermaLink="false">8b19a09103104c4f32481bd2b90e99b1edd9b0a115b479e7047d853793e91e5a</guid>
@@ -2452,5 +2443,14 @@
 <category>technology</category>
 <pubDate>Tue, 29 Sep 2026 07:00:00 +0000</pubDate>
 <description>Roles and Responsibilities Framework for Artificial Intelligence in Critical Infrastructure Homeland Security (.gov)</description>
+</item>
+<item>
+<title>Inside the Biggest Feud in Artificial Intelligence - The Atlantic</title>
+<link>https://news.google.com/rss/articles/CBMiowFBVV95cUxONjVaQ3hxSkFIeXJrTHA4WGp0Um1ST3Vvd0JTbWh6SjZ2UnJ3WE56aDFseGNkT2wta3ljVVdFMEhBeXIyeGl4NkxJdUlPdW1tNVRDVGl3T3hPNl96WWpQb3hoRXRybFBlc2QzUlRaYVJ0cmVMZ3ptR09iMHl2bnhXSGpJMGFwVWljdEE5Qm9WcHNaWVlIWWZ1WHYtN2dIWVdqXzJN?oc=5</link>
+<guid isPermaLink="false">06a6ba0e710c78d4853834049fa6bcfafacf351dba72aadfbdfd9d1bb89004b9</guid>
+<source>Google News Artificial Intelligence</source>
+<category>technology</category>
+<pubDate>Tue, 29 Sep 2026 07:00:00 +0000</pubDate>
+<description>Inside the Biggest Feud in Artificial Intelligence The Atlantic</description>
 </item>
 </channel></rss>
