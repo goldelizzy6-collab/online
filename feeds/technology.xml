@@ -4,6 +4,24 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>DeepSeek search and fetch – $0.75 per 1000 successful requests</title>
+<link>https://api-docs.deepseek.com/guides/search</link>
+<guid isPermaLink="false">56ddeb4dc142762fd27d1a22025b5a5ab442e28057dc9d2acd3794d84b6bd6f2</guid>
+<source>Hacker News</source>
+<category>technology</category>
+<pubDate>Sun, 18 Oct 2026 06:50:36 +0000</pubDate>
+<description>Comments</description>
+</item>
+<item>
+<title>Huge exit: The Israeli company sold for $6.3b. - The Jerusalem Post</title>
+<link>https://news.google.com/rss/articles/CBMihgFBVV95cUxQbTV0VEV6bDk4Q053OTEwMWZlRDl0VjRKeEJRVnlDWU1EVmZWM0Fnd242NTBzU2YxejJRMzN0ODZkTVlldkdaT3pBQkpNWFdZTVZZemtGME16WUthbHJzemJhSklmS3U3dmU2UWRGQlg4b0ZEandfNlRIbm8yRGh2cllkUnJudw?oc=5</link>
+<guid isPermaLink="false">bb9b282a3c4fc2b4a9bd5fac570840d0434a74a5d6450c19e232f4274146e88b</guid>
+<source>Google News Artificial Intelligence</source>
+<category>technology</category>
+<pubDate>Sun, 18 Oct 2026 06:25:00 +0000</pubDate>
+<description>Huge exit: The Israeli company sold for $6.3b. The Jerusalem Post</description>
+</item>
+<item>
 <title>The game industry is broken – can we fix it?</title>
 <link>https://knowledge.edge-online.com/p/the-game-industry-is-broken-can-we-fix-it-tim-sweeney-edge-crash</link>
 <guid isPermaLink="false">18d168ba06f97832f63a812ec5d8bb19a854864f1f65f0a71a742578a6eb5081</guid>
@@ -22,7 +40,7 @@
 <description>Park Forest to Host Cybersecurity Seminar Focused on Digital Privacy and Artificial Intelligence eNews Park Forest</description>
 </item>
 <item>
-<title>Matthew Prince on why Cloudflare offers a free version and always will</title>
+<title>Matthew Prince on why Cloudflare offers a free version and always will (2016)</title>
 <link>https://webmasters.stackexchange.com/questions/88659/how-can-cloudflare-offer-a-free-cdn-with-unlimited-bandwidth/88685</link>
 <guid isPermaLink="false">a2f5f7f229f326e605f0b39ad9ccef3ed6b65fa640477220c4bdccf1bedb7b1d</guid>
 <source>Hacker News</source>
@@ -40,7 +58,7 @@
 <description>AhnLab announced on the 18th that it introduced artificial intelligence (AI)-based security solution.. 매일경제</description>
 </item>
 <item>
-<title>A Mole Infiltrated the Highest Ranks of American Militias</title>
+<title>A Mole Infiltrated the Highest Ranks of American Militias (2025)</title>
 <link>https://www.propublica.org/article/ap3-oath-keepers-militia-mole</link>
 <guid isPermaLink="false">34d502653d652f089cd5b93506b101901d65f3ed802636444db57b92e93ae88a</guid>
 <source>Hacker News</source>
@@ -58,7 +76,7 @@
 <description>Comments</description>
 </item>
 <item>
-<title>Show HN: Sphinx – a hook that quizzes you on your AI's code before shipping</title>
+<title>Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping</title>
 <link>https://sphinx-six-theta.vercel.app</link>
 <guid isPermaLink="false">a8924e6a619234d7f960d311874442cf1df3ed204e13db03fa688eb080f67268</guid>
 <source>Hacker News</source>
@@ -74,15 +92,6 @@
 <category>technology</category>
 <pubDate>Sun, 18 Oct 2026 04:12:11 +0000</pubDate>
 <description>Norfolk uses artificial intelligence to handle thousands of non-emergency calls WTKR</description>
-</item>
-<item>
-<title>Show HN: 500 clocks in one 6.3 MB HTML file by Opus 5.5</title>
-<link>https://tkgally.github.io/500-clocks</link>
-<guid isPermaLink="false">7a2b274d4bc7910512dc6f1d2747248d728f674febfab84daea2dd908c044130</guid>
-<source>Hacker News</source>
-<category>technology</category>
-<pubDate>Sun, 18 Oct 2026 04:04:58 +0000</pubDate>
-<description>Comments</description>
 </item>
 <item>
 <title>Singing, Dancing and Getting Dumped by A.I. on Korean TV - The New York Times</title>
@@ -101,6 +110,15 @@
 <category>technology</category>
 <pubDate>Sun, 18 Oct 2026 04:00:00 +0000</pubDate>
 <description>Giving AI a “crystal clear” view of the materials world MIT News</description>
+</item>
+<item>
+<title>How the Elizabeth Holmes documentary “You Can See Everything” is deceiving</title>
+<link>https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything</link>
+<guid isPermaLink="false">69ea77dfc1c584eb308297b28696ee382f72dbf567942b52540fed4e2691f724</guid>
+<source>Hacker News</source>
+<category>technology</category>
+<pubDate>Sun, 18 Oct 2026 03:19:49 +0000</pubDate>
+<description>Comments</description>
 </item>
 <item>
 <title>Creativity versus artificial intelligence: 3 crises shaking the world of literature - صوت الإمارات</title>
@@ -714,15 +732,6 @@
 <media:content url="https://media.wired.com/photos/6ad14bcb1efa7811b4f5a5a5/master/pass/Kernel-Panic-Encription-Being-Squeezed-to-Death-Security.jpg" medium="image"/>
 </item>
 <item>
-<title>Croatia sets out €932 million plan for artificial intelligence development - Croatia Week</title>
-<link>https://news.google.com/rss/articles/CBMiekFVX3lxTFBTR3AydTV5Tngyejh0Q3hOU2JRUVJsX2JhUmhPOFR6alJLS1VBOW5aT3BIbTE1M0hzNS02a2lvTGZSLTVqclZMeHpfWmVxcGE1alJrcFk3Vmk1bUJTVnVLV1VraGJvVzJscmpkUWJzby1oWGxuMFFCQ1p3?oc=5</link>
-<guid isPermaLink="false">82e5f7bbfcff68c148e927411be127bab46c75836454ff2cc5509a8679c11bc4</guid>
-<source>Google News Artificial Intelligence</source>
-<category>technology</category>
-<pubDate>Sat, 17 Oct 2026 11:36:14 +0000</pubDate>
-<description>Croatia sets out €932 million plan for artificial intelligence development Croatia Week</description>
-</item>
-<item>
 <title>The power of AI is worrying senior Labour figures – as is the fear of ‘falling behind the public’ - The Guardian</title>
 <link>https://news.google.com/rss/articles/CBMitgFBVV95cUxPN2FGbUpiTndHX1kzUGphcGI1Rl9WUTJ1NW5sMHF5X1Y0VjJNMHZuY2I4b21aN2ROZldyY1NfWnFSektrdUJxQndZWFNXVEpzWlg3TDBHVHlSQkswaTZfSTZNQkNCTEYtUFB3UWU0WG05TjN5ZEZyc3EtTThRZVhwVFdtV041QXpsaWV4WWlCTTVZSl9pLUlqeE50VVZCOWExZ1c4NEE5bjhkSjBVNE9PX04zWURWdw?oc=5</link>
 <guid isPermaLink="false">1e8fcd2ed4c2a2deeff9799486532074248a7ea13fe49b927e6c94f735b03741</guid>
@@ -750,15 +759,6 @@
 <category>technology</category>
 <pubDate>Sat, 17 Oct 2026 11:27:03 +0000</pubDate>
 <description>North Korea has announced their use of artificial intelligence for a "new type" precision-guide torpedo system for target detection and guidance. | via ANC 24/7 Full story link in the comments section. Facebook</description>
-</item>
-<item>
-<title>The Elizabeth Holmes Documentary, via the Eyes of the Reporter Who Exposed Her</title>
-<link>https://www.nytimes.com/2026/10/17/business/theranos-fraud-elizabeth-holmes-documentary.html</link>
-<guid isPermaLink="false">b1533dab5b3c0022ddc6349802a89f4c223f22e01acdd66e6ff5585bd753ae45</guid>
-<source>Hacker News</source>
-<category>technology</category>
-<pubDate>Sat, 17 Oct 2026 11:24:50 +0000</pubDate>
-<description>Comments</description>
 </item>
 <item>
 <title>Science says your boss should talk less in meetings</title>
@@ -946,13 +946,13 @@
 <description>Mark Wahlberg, who once sank money into a gym chain that got kicked off the NYSE, is now building his own, and he promises you’ll get a cold plunge, a blood panel and a protein muffin without needing a trust fund.</description>
 </item>
 <item>
-<title>Q: What are the biggest threats from artificial intelligence? - KRQE</title>
-<link>https://news.google.com/rss/articles/CBMinAFBVV95cUxQUzRmRlJOTHpCdkRJNjBGN2FVQWFTbGh5SlpUQUVtTVR0ektyTnp2SnZVcFplMTUwU18xbHFLcVR4X1NhTl9YNXN3MmZCOXNYbEp1eGhDOU50bEt1d3UtTjNkdlBsU3JaSzdmMUhMQzNhYzFyNTVRWk9kcU9HWmJ5RDJGd25NTWxPc3NwQTBrbDljY2ZrVkpNR3R0Q3k?oc=5</link>
-<guid isPermaLink="false">9fe12937c00ce6ead959e109f2697fab9182e00f2310f759cc3447e942817508</guid>
+<title>Buying Legal NYC 2026: Why legal leaders are focused on the foundations of AI success - Wolters Kluwer</title>
+<link>https://news.google.com/rss/articles/CBMizgFBVV95cUxObHNRWkVhU0RsRW5MemFEZE5IVTFSR3pqVmRRNXNNajBOVFM5X0YtRUM0dFpENWRNc1J1RkZtemswWmZlcmlmQVQweTh6a1dnZFFYWi1QakhhOXhKYkUxQl9Qc1BFd3FjZXg3RDVNdkJQbUNBQnB0V1U1d2xDaGdBd2wzZUp6engxZUJzWXkyQlJSNmtHYUtRQ084UzlMaEk0RVFYZmJUaGw5ZHFScE5MMGY5b3dIdHExbmYzc0ZISm5EUmI4ZUxGUlJEUGlwdw?oc=5</link>
+<guid isPermaLink="false">0807ca6999f1d169506e78fea310f05f2b039aaa5a4962d9a99ca4544ba64847</guid>
 <source>Google News Artificial Intelligence</source>
 <category>technology</category>
-<pubDate>Fri, 16 Oct 2026 23:53:53 +0000</pubDate>
-<description>Q: What are the biggest threats from artificial intelligence? KRQE</description>
+<pubDate>Sat, 17 Oct 2026 01:02:08 +0000</pubDate>
+<description>Buying Legal NYC 2026: Why legal leaders are focused on the foundations of AI success Wolters Kluwer</description>
 </item>
 <item>
 <title>Dam removals are bringing fish back across the northeastern United States</title>
@@ -980,15 +980,6 @@
 <category>technology</category>
 <pubDate>Fri, 16 Oct 2026 22:00:29 +0000</pubDate>
 <description>China says it will curb tech exports, including AI, citing national security risks PBS</description>
-</item>
-<item>
-<title>Anthropic quietly pitches its own AI safety bill to lawmakers - Politico</title>
-<link>https://news.google.com/rss/articles/CBMieEFVX3lxTE0ydWVrbHdHeGNraEdTSHQ5eExwZ2lLRUU1U1BoVFJUTWNLenpWTXJOMHNnWnhaa0thQXlRbk1KdEliVVVGUEJXZWwtcWtUZE9Ielo2X05DaHJKSmJpd05rRl9vMWdQQUE4ZnVRRFBLQ3hlcm9FNG12bg?oc=5</link>
-<guid isPermaLink="false">ca5e43b179e12f1a949323891ba2536a80daee303dd18100e53b12dd01bdbe4f</guid>
-<source>Google News Artificial Intelligence</source>
-<category>technology</category>
-<pubDate>Fri, 16 Oct 2026 21:45:00 +0000</pubDate>
-<description>Anthropic quietly pitches its own AI safety bill to lawmakers Politico</description>
 </item>
 <item>
 <title>New technique uses artificial intelligence to fight breast cancer - CBS News</title>
@@ -1502,6 +1493,15 @@
 <description>Comments</description>
 </item>
 <item>
+<title>Artificial intelligence: after the euphoria, time to reckon - marketscreener.com</title>
+<link>https://news.google.com/rss/articles/CBMirwFBVV95cUxOVnV3cU5jcW9fbXlHZDhKVVI4YVhGM3NORmtWT2FpdUFIa0s1aVhKLTQ0bjdJNTVkOENkT2wtSzlEX0UweE1MczJYUEhWb0Z4dTlMUTVITlpoOXAtWjd6RWlZdGx5UXFFWFdTcmFBZC0xVFRmTGx3ajRuU3pCSFg1VmlpZ0NVRGswVFdjendiM1JhYWlrY2pNU01Hdjc4UERPdzR4OHJZeEwzdDNZODBF?oc=5</link>
+<guid isPermaLink="false">20425ab833eb4d94d0c9a6a8971474f58e5c94bf4b3706a46d5c71118ba7a85d</guid>
+<source>Google News Artificial Intelligence</source>
+<category>technology</category>
+<pubDate>Fri, 16 Oct 2026 13:04:11 +0000</pubDate>
+<description>Artificial intelligence: after the euphoria, time to reckon marketscreener.com</description>
+</item>
+<item>
 <title>Microsoft Surface Laptop Ultra Review: The First Real AI PC</title>
 <link>https://www.wired.com/review/microsoft-surface-laptop-ultra</link>
 <guid isPermaLink="false">1650cf68be633a0d28c9ac79312f034eacd1c0921869cd5fcdd2fbac873602b1</guid>
@@ -1702,15 +1702,6 @@
 <description>Citizen Science Groups Grapple With the Rise of A.I. Slop The New York Times</description>
 </item>
 <item>
-<title>Terry Tao Is on the Front Lines of the Debate Over AI and the Future of Math - The New York Times</title>
-<link>https://news.google.com/rss/articles/CBMib0FVX3lxTE5obDJaUW0zTDU0Q2RqRGd6QlRabDFENjNiMTJtR0ZLOXkycWhXNjVlT2Vxc1hFRWhacTd6MEFyM01fU1c5UmNxME82N1VVVDFCWnBKWVZ0bDdvVXRZLXFXaldhNF83RG1keHVIV04xVQ?oc=5</link>
-<guid isPermaLink="false">fd6fb00f5080679054f5f3626364af5741c9ac7873a862765d01fe4c0d16898b</guid>
-<source>Google News Artificial Intelligence</source>
-<category>technology</category>
-<pubDate>Fri, 16 Oct 2026 09:02:05 +0000</pubDate>
-<description>Terry Tao Is on the Front Lines of the Debate Over AI and the Future of Math The New York Times</description>
-</item>
-<item>
 <title>Egypt’s Climate-Resilient ‘Super Corals’ Are Starting to Feel the Heat</title>
 <link>https://www.wired.com/story/egypts-climate-resilient-super-corals-are-starting-to-feel-the-heat</link>
 <guid isPermaLink="false">97d9f705abfe962fdc027d6c9b181aab08b2d8289006564a3e12512ca507c89c</guid>
@@ -1778,17 +1769,6 @@
 <media:content url="https://media.wired.com/photos/66ea076e56fd4954a7f91e0c/master/pass/WIRED-Coupons-17.jpg" medium="image"/>
 </item>
 <item>
-<title>Total Wireless Promo Codes &amp; Deals: 50% Off Select Plans</title>
-<link>https://www.wired.com/story/total-wireless-promo-code</link>
-<guid isPermaLink="false">b6650a5bc0b1fd7bbfb22c69c30bf17d51a804af993e9ff4fe65df76943a69c3</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Fri, 16 Oct 2026 05:00:00 +0000</pubDate>
-<description>Find great deals for Total Wireless, like 50% off select plans, and enjoy big savings.</description>
-<enclosure url="https://media.wired.com/photos/66ea0772ca863bb4c1028b66/master/pass/WIRED-Coupons-4.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/66ea0772ca863bb4c1028b66/master/pass/WIRED-Coupons-4.jpg" medium="image"/>
-</item>
-<item>
 <title>Skechers Coupon Codes 20% Off</title>
 <link>https://www.wired.com/story/skechers-coupon-codes</link>
 <guid isPermaLink="false">a6e009ecefdbae423044503e6a838ddb0b56e47bec165e66263fa7c5f45dd3a8</guid>
@@ -1798,6 +1778,17 @@
 <description>Learn how to find, compare, and apply the best Skechers online discounts to save on comfortable sneakers, athletic apparel, and accessories.</description>
 <enclosure url="https://media.wired.com/photos/67b63b972c751893c256c1e6/master/pass/WIRED-Coupons-R2_16.png" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/67b63b972c751893c256c1e6/master/pass/WIRED-Coupons-R2_16.png" medium="image"/>
+</item>
+<item>
+<title>Total Wireless Promo Codes &amp; Deals: 50% Off Select Plans</title>
+<link>https://www.wired.com/story/total-wireless-promo-code</link>
+<guid isPermaLink="false">b6650a5bc0b1fd7bbfb22c69c30bf17d51a804af993e9ff4fe65df76943a69c3</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Fri, 16 Oct 2026 05:00:00 +0000</pubDate>
+<description>Find great deals for Total Wireless, like 50% off select plans, and enjoy big savings.</description>
+<enclosure url="https://media.wired.com/photos/66ea0772ca863bb4c1028b66/master/pass/WIRED-Coupons-4.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/66ea0772ca863bb4c1028b66/master/pass/WIRED-Coupons-4.jpg" medium="image"/>
 </item>
 <item>
 <title>HP Coupon Codes and Deals October 2026</title>
@@ -1887,6 +1878,15 @@
 <description>KDE celebrates 30 years with a new Plasma release, a farewell to X11, and a movie.</description>
 <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/KDE_Birthday_30th_Laptop-1070x648.png" type="image/jpeg"/>
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/KDE_Birthday_30th_Laptop-1070x648.png" medium="image"/>
+</item>
+<item>
+<title>Lawyers go to war with clients who force them to sit through AI slop - AFR</title>
+<link>https://news.google.com/rss/articles/CBMi0gFBVV95cUxPV1dRSmV4VlJGODAzTGlrdXIzbHdDcEQ2SnI4VDBqRUNlVWJRQnBieEdiY1VpU0ZiQUtDTlZ2WGZyUjlzU3JuZWU1bW5NUUloSnhHa3VraFlhUW9jbEhxc21vSXZ2bWxod1FEb0dGVzFvTGxZdmhKM0VPTENOWG9BMGYzRTR3Q1BIUWNlYWVsV2J1cUYzNEU5RVp1R1FQZmMybVJwVXBxRU05OUE2WW4tbFhHMFJQSEtGSDNwTFM1OWY3ME41OVFBcF9obXFRNGhsdVE?oc=5</link>
+<guid isPermaLink="false">dd7f451f61aade23cfee963babb9d16f5f5c50405b6ff771c0febbbfb323f8f8</guid>
+<source>Google News Artificial Intelligence</source>
+<category>technology</category>
+<pubDate>Thu, 15 Oct 2026 22:00:00 +0000</pubDate>
+<description>Lawyers go to war with clients who force them to sit through AI slop AFR</description>
 </item>
 <item>
 <title>Plex now helps sell movie theater tickets</title>
@@ -2051,15 +2051,6 @@
 <media:content url="https://media.wired.com/photos/6acec4974eea6509d95be967/master/pass/Junji-Ito-Manga-Horrors-Culture-2276601648.jpg" medium="image"/>
 </item>
 <item>
-<title>Super Intelligence - NASA (.gov)</title>
-<link>https://news.google.com/rss/articles/CBMiUkFVX3lxTE1LNDdCUDJLUjJFbjJuNXNwbWgyMjFJRkg0a2MzR25XNFBWb1U2WUh6QWRNMXRWd1JqXy1RVzhhSTVIVlNCOWhCSGVzdFVOcUw1bnc?oc=5</link>
-<guid isPermaLink="false">add1ac62d3778057053af2067ed337900ddd746e8729ad2d4b770b74242c01a0</guid>
-<source>Google News Artificial Intelligence</source>
-<category>technology</category>
-<pubDate>Thu, 15 Oct 2026 12:35:54 +0000</pubDate>
-<description>Super Intelligence NASA (.gov)</description>
-</item>
-<item>
 <title>Kids’ Content Is Deeply Broken. A New Platform Wants to Fix It</title>
 <link>https://www.wired.com/story/maka-streaming-platform-for-kids-fighting-against-ai-slop</link>
 <guid isPermaLink="false">14a2f02b4378a6425accf32359d4edf7f7ec1c5dcc73b222bbc39b594d8e9241</guid>
@@ -2082,7 +2073,7 @@
 <media:content url="https://media.wired.com/photos/6acd9768fccc4c5244b9544c/master/pass/GettyImages-2247045310.jpg" medium="image"/>
 </item>
 <item>
-<title>Laser Fault Injection on a Budget: RP2350 Edition</title>
+<title>Laser Fault Injection on a Budget: RP2350 Edition (2025)</title>
 <link>https://courk.cc/rp2350-challenge-laser</link>
 <guid isPermaLink="false">09fad5080ce28b035114bf732f69934bb96873871432d8d8f31c1eb2a3f4a611</guid>
 <source>Hacker News</source>
@@ -2371,6 +2362,15 @@
 <category>technology</category>
 <pubDate>Tue, 13 Oct 2026 19:30:06 +0000</pubDate>
 <description>The New York Times. . Artificial intelligence has gone from struggling with basic arithmetic to helping solve some of mathematics’ most famous open problems — and the field is reckoning with what that means. Steven Strogatz, a professor of mathematics at Co Facebook</description>
+</item>
+<item>
+<title>Kroger to lay off 3,000 employees as it leans into artificial intelligence - AZ Family</title>
+<link>https://news.google.com/rss/articles/CBMipwFBVV95cUxPbXFFWGdobHY0ay0teDJ6bUNNUVB3UU9vZjgtVEJjamlhNHAwS2Fpc1d3VVpEckhnTl9lVGI3N2xQREdza1lTREtxRHdScGd4VHBfNVoweFpOYVp1dExzSTVTNFctakw0LV9KS19OY0FTV3g5QzJGR2F0eWdva1BNYU1sNU9tSjc1S0xGUi1SZHZaNlMwSUhBemFCYzhzUC14Rmo2TlNEb9IBuwFBVV95cUxPanhOYUx3MGZmdjN2ZjcwOHR5dFg3cTJwWFhXOFR1Zi1XeEkybDVqQlhCSzdPTnE1VHlaSkFwWmRtM0ZkYkhHUDd6R1B5NldZLTQ3bXVXWjN3aU9lNC1Ud2hOVVF3enFpWTZVY3VjcmUzcmVKSURzMG1mREI0R0tZYkd6N2szOVpVTzlhcVJGQUV5a3p5eXFpRnhQbmVfMVlNTXVEcm5CYksxand5MXh2b2FidFZZTEp0Y2Yw?oc=5</link>
+<guid isPermaLink="false">91196aa3acf3afed756cd3c259dbdda36798baea0b10daeceee3fc5a4a4d12c0</guid>
+<source>Google News Artificial Intelligence</source>
+<category>technology</category>
+<pubDate>Tue, 13 Oct 2026 17:10:00 +0000</pubDate>
+<description>Kroger to lay off 3,000 employees as it leans into artificial intelligence AZ Family</description>
 </item>
 <item>
 <title>What My Son Is Learning From Artificial Intelligence - Greater Good: The Science of a Meaningful Life</title>
