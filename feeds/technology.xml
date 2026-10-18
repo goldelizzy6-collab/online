@@ -4,6 +4,26 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Mister Organ is one of the most unsettling documentaries I’ve ever seen</title>
+<link>https://www.theverge.com/entertainment/1013545/mister-organ-horror-documentary-review</link>
+<guid isPermaLink="false">f8740cf8c54e30f29a49104f7613f269ae932db492538c8599b3d1c3385d5f6f</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Sun, 18 Oct 2026 19:30:00 +0000</pubDate>
+<description>Mister Organ doesn't reach the level of societal horror of The Act of Killing or the creepypasta-meets-true-crime gruesomeness of Beware the Slenderman, but there's something deeply unsettling about Michael Organ and his intimate campaign of terror against everyone who enters his life. Mister Organ is a documentary by David Farrier, an Auckland, New Zealand journalist. […]</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Mister-Organ-poster.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Mister-Organ-poster.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>US threatens Europe over Starlink restrictions</title>
+<link>https://www.ft.com/content/d1e28d93-8574-4a46-946a-b261c401d6fa</link>
+<guid isPermaLink="false">40640d2f9bef57b8ffefc81b19053c075fbfc55bf99bdb105eaf41fae42e856e</guid>
+<source>Hacker News</source>
+<category>technology</category>
+<pubDate>Sun, 18 Oct 2026 19:24:30 +0000</pubDate>
+<description>Comments</description>
+</item>
+<item>
 <title>Everyone’s watching the Elizabeth Holmes documentary ‘You Can See Everything’</title>
 <link>https://techcrunch.com/2026/10/18/everyones-watching-the-elizabeth-holmes-documentary-you-can-see-everything</link>
 <guid isPermaLink="false">bbc76be5efc5dd0b5b62bfa77b8201a5e4c95bcd963bcf9bb22621c749c1b440</guid>
@@ -11,6 +31,15 @@
 <category>technology</category>
 <pubDate>Sun, 18 Oct 2026 19:03:38 +0000</pubDate>
 <description>"You Can See Everything" is having the second biggest opening weekend ever for a documentary film.</description>
+</item>
+<item>
+<title>Personal software factories are a waste of time</title>
+<link>https://www.peterp.me/articles/personal-software-factories-are-a-waste-of-time</link>
+<guid isPermaLink="false">23b7de679ea02d03a50efdaa8ac1bcf81b001ae4b4694664241a89e604574636</guid>
+<source>Hacker News</source>
+<category>technology</category>
+<pubDate>Sun, 18 Oct 2026 19:02:11 +0000</pubDate>
+<description>Comments</description>
 </item>
 <item>
 <title>Free Pascal Compiler Now Supports Dynamic Packages</title>
@@ -136,15 +165,6 @@
 <category>technology</category>
 <pubDate>Sun, 18 Oct 2026 17:19:34 +0000</pubDate>
 <description>Comments</description>
-</item>
-<item>
-<title>Beeks Financial Cloud Group And 2 British AI Stocks To Watch - Yahoo Finance</title>
-<link>https://news.google.com/rss/articles/CBMimAFBVV95cUxQN1lsbGRMVWc3a0VhQmxkTjRGOGRHYnh0V0drdEp4UUtycWRqaHU0YjBNeUtMVVBQNm1UN1VvbkFyTzBHMVU3c2RSUW55WUpfUGZiNTZvdng2T2Q3dVlnU2hSRURKSEpnUTN0Z3JuUXJMNkc4RTRMazhCdTRJRDZLVGlsZzgyQ0VsOHR0S0ZXWTNWQ1RLYzBMeQ?oc=5</link>
-<guid isPermaLink="false">2cb75fbf5d53c6a4001f82a30e09416415796da17d183bbde403142faaafe3f6</guid>
-<source>Google News Artificial Intelligence</source>
-<category>technology</category>
-<pubDate>Sun, 18 Oct 2026 17:16:32 +0000</pubDate>
-<description>Beeks Financial Cloud Group And 2 British AI Stocks To Watch Yahoo Finance</description>
 </item>
 <item>
 <title>Microsoft withdraws from artificial intelligence data center project in Britain - صوت الإمارات</title>
@@ -639,15 +659,6 @@
 <description>Comments</description>
 </item>
 <item>
-<title>The Brain Sandwich</title>
-<link>https://terriblesoftware.org/2026/10/02/the-brain-sandwich</link>
-<guid isPermaLink="false">4428fa3e4250788f274f3801299cb1b51f040c27bac13d2d1e292ded822169c8</guid>
-<source>Hacker News</source>
-<category>technology</category>
-<pubDate>Sun, 18 Oct 2026 11:15:37 +0000</pubDate>
-<description>Comments</description>
-</item>
-<item>
 <title>20 Best Gifts for Men, Manly Men, and Manly Man Men (2026)</title>
 <link>https://www.wired.com/gallery/best-gifts-for-manly-men-2026</link>
 <guid isPermaLink="false">f558eaf2a82dcbb55e7823c5789da820819ff3583eb19cf5bdcc160a923fbc47</guid>
@@ -746,6 +757,15 @@
 <media:content url="https://media.wired.com/photos/6ad29ddafd63dd03d89fa465/master/pass/Review%20Valerion%20VisionMaster%20Max%204K%20Projector%20102026%20top%20art%20SOURCE%20Valerion.jpg" medium="image"/>
 </item>
 <item>
+<title>President Trump Sells Micron Stock and Buys Another Mega-Cap Artificial Intelligence (AI) Stock - The Motley Fool</title>
+<link>https://news.google.com/rss/articles/CBMilwFBVV95cUxQZkR2YldmSlVIWGFUSmJSRmREanIzaFhwMWNyYk5HQk50SFB5cjVSbVcyZnVyY3ZjNXllMVFEUGQtY205MlZRblZRbjFwLU5BUUw5bUdKXzVDN1lfdm10dHBzNmJiUXBsRk5GRlIwenprZEJBcEZTdHJZSmFjR0RSeXJYZzh6Nnp0WldCb21uQ1FzR0hicGFR?oc=5</link>
+<guid isPermaLink="false">a7a2b6815c401280723390e2323fcf9465ba51a417793efe5c8e7e1f4ac3c6a0</guid>
+<source>Google News Artificial Intelligence</source>
+<category>technology</category>
+<pubDate>Sun, 18 Oct 2026 09:48:00 +0000</pubDate>
+<description>President Trump Sells Micron Stock and Buys Another Mega-Cap Artificial Intelligence (AI) Stock The Motley Fool</description>
+</item>
+<item>
 <title>Artificial Intelligence in Iran: Beyond Sanctions, Filters, and the Ruins of War - WANA News Agency</title>
 <link>https://news.google.com/rss/articles/CBMingFBVV95cUxOamVITFhfaDlzeVFObVUtNWVMMkptUnRCYmVzT1F0NFFSVmpzTnBMV3lXblBON3o4SzlPWlFKTExsQjdlV1NSQ0VsblAyVGdxSDBMRXlKbnl1UjZxVk15a1hzZGtHcElNX0NzcVRIWWw5NHZ2UE5MaXAtSGNrTUpESDJ2MC1YYU82bTRrWnpvZUk5STBvVm8wSUQyVmEyZw?oc=5</link>
 <guid isPermaLink="false">3fc16e5268db543f4c61b2457a1a943c9155e44ad7c98907b0dc0c0a998a2c26</guid>
@@ -753,6 +773,15 @@
 <category>technology</category>
 <pubDate>Sun, 18 Oct 2026 09:25:12 +0000</pubDate>
 <description>Artificial Intelligence in Iran: Beyond Sanctions, Filters, and the Ruins of War WANA News Agency</description>
+</item>
+<item>
+<title>President Trump Sells Micron Stock and Buys Another Mega-Cap Artificial Intelligence (AI) Stock - The Globe and Mail</title>
+<link>https://news.google.com/rss/articles/CBMihwJBVV95cUxNdFc2cXNWbUFaaXZZQXUwWkhXSWxZYWZJZXc1ejNadEFCS3I2bXc1MFJsdlc5MlJFQ1E2NW8tbFpVdERMNUJqbDhreGU2YktncGttY3VkbF8zQ0pWc2JBb2dWUVoyZFVUMEg3djN3ejhBQlFJczBRUUxTUGFSdmlrSnV4ZHVDanFoWVFSdTE5d1ZpSzdDUThaTk1WQ3htd1djYlNnc1JvaV9SWVBqbnE5SzFCZzZMeTBSS05MMElIWWcyOGhuUGhmNEY2UUFDUWlwaG83VmZjZGk1bDdlREVUUGw3TTVyREItMDJvNm9nNHdEdHZlV3hOVWE2OVJDbGZ1YmJwNFNPQQ?oc=5</link>
+<guid isPermaLink="false">d82fc591446fb98e97d3082f2dc1f395bd015ac241e74587f13960dc847190f3</guid>
+<source>Google News Artificial Intelligence</source>
+<category>technology</category>
+<pubDate>Sun, 18 Oct 2026 09:14:22 +0000</pubDate>
+<description>President Trump Sells Micron Stock and Buys Another Mega-Cap Artificial Intelligence (AI) Stock The Globe and Mail</description>
 </item>
 <item>
 <title>President Trump Sells Micron Stock and Buys Another Mega-Cap Artificial Intelligence (AI) Stock - Yahoo Finance</title>
@@ -771,6 +800,15 @@
 <category>technology</category>
 <pubDate>Sun, 18 Oct 2026 09:02:00 +0000</pubDate>
 <description>Delay the deployment of artificial intelligence (Voice of the people) Lakeland Ledger</description>
+</item>
+<item>
+<title>3 Charts That Explain the Economy as Voters Head to the Polls - The New York Times</title>
+<link>https://news.google.com/rss/articles/CBMiigFBVV95cUxNa28wWUd5SWRXd3FINE9ybkU5TmI1U3FPVmp6ZGRBc1AxN0hmNnBvc0hJeENhZm0tMXQ1cnNVZUl0V1BGbUFFb0hmVHEteFVNWFVqVkFDUXRLc1RHYkVXTFIwa2hNTDFsR010ZC1nWTJUOVNNXzZRVWpsd0UwQ0h3TFR6VlJIMU5KYmc?oc=5</link>
+<guid isPermaLink="false">e84827f628a55bcb0428444b2538d7d3e82aa3a7c4c7ec3b45ec73e1e2650013</guid>
+<source>Google News Artificial Intelligence</source>
+<category>technology</category>
+<pubDate>Sun, 18 Oct 2026 09:00:50 +0000</pubDate>
+<description>3 Charts That Explain the Economy as Voters Head to the Polls The New York Times</description>
 </item>
 <item>
 <title>The Best AirPods Cases We’ve Used In Our Day-to-Day Lives (2026)</title>
@@ -976,15 +1014,6 @@
 <description>A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web.</description>
 </item>
 <item>
-<title>Bricklayer, 49, travels 1,200 miles for dream girl — only to discover she’s AI-generated - New York Post</title>
-<link>https://news.google.com/rss/articles/CBMipgFBVV95cUxPWHlKbk9HcGVXdHFDRjJPTXRiVGh1V2N4UnVKTmRwUXFZN2pZV1dwQjU4dHoyTm1VWWUtMVdaMS1uQTlaZ2xNWWY0V3ZjME1LVmFJN2xKZVBQSVdyTjdnY3pCVDUxbE0tekVlQzFreHE3WVNIejRBcjEzcEVwWThLMDFvRUNSYU9Xa1Y5RWpVekV2eFdsRE4tOExrNFZsM25YQjdOdUFB?oc=5</link>
-<guid isPermaLink="false">fa0a36958643e2d4ee1b744a55df34dbe6d41d1f3e9f2cd3e1c229e4911dff76</guid>
-<source>Google News Artificial Intelligence</source>
-<category>technology</category>
-<pubDate>Sat, 17 Oct 2026 21:11:00 +0000</pubDate>
-<description>Bricklayer, 49, travels 1,200 miles for dream girl — only to discover she’s AI-generated New York Post</description>
-</item>
-<item>
 <title>TikTok permanently bans ‘Musk’ documentary advertising account</title>
 <link>https://techcrunch.com/2026/10/17/tiktok-permanently-bans-musk-documentary-advertising-account</link>
 <guid isPermaLink="false">c79f49bb8435e5e99d50222299d67b1df7af2b4f98686c9efa196d326b30235a</guid>
@@ -1039,17 +1068,6 @@
 <category>technology</category>
 <pubDate>Sat, 17 Oct 2026 18:03:30 +0000</pubDate>
 <description>Fincantieri to invest $100 million in robotics, artificial intelligence at shipyards MasonCountyPress.com</description>
-</item>
-<item>
-<title>Mercedes-AMG’s first ground-up SUV is a 1,150hp electric beast</title>
-<link>https://www.theverge.com/transportation/1013088/mercedes-amg-gt-suv-price-specs-performance</link>
-<guid isPermaLink="false">de0cce47f02c45d948f6b05ab3fe2cab655e8049bef2b2325da03ec3ea6d5dc5</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Sat, 17 Oct 2026 17:00:00 +0000</pubDate>
-<description>Earlier this year, Mercedes' AMG performance brand grabbed our attention with the GT four-door coupe, a souped-up sports sedan with three axial flux motors delivering over 1,150 horsepower. Well, now meet its beefier cousin, the 2028 Mercedes-AMG GT SUV, an equally powerful, ultra-fast-charging electric people-hauler. The AMG GT SUV (say that five times fast) marks […]</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/26C0332_071.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/26C0332_071.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
 <title>Ember’s new temperature-controlled mug makes my nightly tea ritual even better</title>
@@ -1156,15 +1174,6 @@
 <description>artificial intelligence companions Universidad de Córdoba (UCO)</description>
 </item>
 <item>
-<title>SATURDAY MORNING WITH CRANKY DON JOE | Larry Introduced Me to Artificial Intelligence, and Now I Have Questions - MinneapoliMedia</title>
-<link>https://news.google.com/rss/articles/CBMivwFBVV95cUxOWmM0SEUyY20yZ0xvM3VLYVB6aGFmX1VyMEM5TUxUN3NhOHNYNmVlLUFfekU5VjQ4RjR5c0VmNEhWempZcnFYeVBfdzIzWV9CZ1JhSlAyMUNqTVdYaHQyeUNGR2ZEc0pVSVl0bzM3MUNsR0xVMXIxMVJqOEtxMlBua3d0NDkyaVR6QU5WbW1faE96NzYwN3N1LVJxZXRxTm96anphODAyb1paWUZCaUtsbFEya0FDYUk5VTI4d0RNYw?oc=5</link>
-<guid isPermaLink="false">331d78552476d912eb5625de241cd905f995c6f89fab3a9460aed4c5ab18d77c</guid>
-<source>Google News Artificial Intelligence</source>
-<category>technology</category>
-<pubDate>Sat, 17 Oct 2026 09:11:54 +0000</pubDate>
-<description>SATURDAY MORNING WITH CRANKY DON JOE | Larry Introduced Me to Artificial Intelligence, and Now I Have Questions MinneapoliMedia</description>
-</item>
-<item>
 <title>Microplastics React With Water, a New Study Says. That’s a Problem for Biology</title>
 <link>https://www.wired.com/story/microplastics-react-with-water-new-study-says-thats-a-problem-for-biology</link>
 <guid isPermaLink="false">5b8f7c06c9afe946288978f352a888b7beb8949a6d24526704cc0d4914fa0577</guid>
@@ -1185,6 +1194,15 @@
 <description>The DNA inside our cells isn’t just a series of instructions, but something far more dynamic. Like scientists, AI models don't yet have the data to properly decode it.</description>
 <enclosure url="https://media.wired.com/photos/6acf63d6b06331734b2e70d7/master/pass/Physical%20Genome%20cr-Samuel%20Velasco%20and%20Hannah%20Waters_Quanta%20Magazine-Lede.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/6acf63d6b06331734b2e70d7/master/pass/Physical%20Genome%20cr-Samuel%20Velasco%20and%20Hannah%20Waters_Quanta%20Magazine-Lede.jpg" medium="image"/>
+</item>
+<item>
+<title>Geographical Fun: Being Humourous Outlines of Various Countries (1868)</title>
+<link>https://publicdomainreview.org/collection/geographical-fun-being-humourous-outlines-of-various-countries-1868</link>
+<guid isPermaLink="false">1e1b9a18c8b912addffa9259d84a5e40c11fbc10d66f04155d488a83184d289e</guid>
+<source>Hacker News</source>
+<category>technology</category>
+<pubDate>Sat, 17 Oct 2026 08:24:23 +0000</pubDate>
+<description>Comments</description>
 </item>
 <item>
 <title>China AI supply-chain IPOs hold firm despite valuation pullback, Citi says - Reuters</title>
@@ -1368,15 +1386,6 @@
 <category>technology</category>
 <pubDate>Fri, 16 Oct 2026 18:59:17 +0000</pubDate>
 <description>Beijing seeks tighter grip on AI exports amid US rivalry Reuters</description>
-</item>
-<item>
-<title>Regex visualized as 3D marble run</title>
-<link>https://www.regexmarblerun.com</link>
-<guid isPermaLink="false">7f6d9422aeeab91fbf8d7254870f0d17614452da5087f56c4eef92c64467e1e3</guid>
-<source>Hacker News</source>
-<category>technology</category>
-<pubDate>Fri, 16 Oct 2026 18:48:48 +0000</pubDate>
-<description>Comments</description>
 </item>
 <item>
 <title>Nova Scotia to host massive data centre to power artificial intelligence - CBC</title>
@@ -2325,15 +2334,6 @@
 <source>Hacker News</source>
 <category>technology</category>
 <pubDate>Wed, 14 Oct 2026 22:07:47 +0000</pubDate>
-<description>Comments</description>
-</item>
-<item>
-<title>Hatching (Heraldry)</title>
-<link>https://en.wikipedia.org/wiki/Hatching_(heraldry)</link>
-<guid isPermaLink="false">7b99ba8a42159ea978e594e0efc20231c42fc91cef4da911b04525ea8b9cdb4e</guid>
-<source>Hacker News</source>
-<category>technology</category>
-<pubDate>Wed, 14 Oct 2026 18:57:57 +0000</pubDate>
 <description>Comments</description>
 </item>
 <item>
