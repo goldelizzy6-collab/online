@@ -4,6 +4,46 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>The reason why your drive shows less storage than you paid for</title>
+<link>https://www.engadget.com/2286322/why-new-drive-shows-less-storage</link>
+<guid isPermaLink="false">f02afba8fd9574e4ab1e4574b9938c13f14e13e6dc03868d187fdd285db7654d</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Sun, 18 Oct 2026 15:15:00 +0000</pubDate>
+<description>Despite showing the storage amount on the box or the spec sheet, your new device might not actually hold as much as it states. Here are the reasons why.</description>
+<enclosure url="https://www.engadget.com/img/gallery/the-reason-why-your-drive-shows-less-storage-than-you-paid-for/l-intro-1791975351.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/the-reason-why-your-drive-shows-less-storage-than-you-paid-for/l-intro-1791975351.jpg" medium="image"/>
+</item>
+<item>
+<title>Will it be a golden age or a dark age for mathematics (and science)?</title>
+<link>https://terrytao.wordpress.com/2026/10/18/will-it-be-a-golden-age-or-a-dark-age-for-mathematics-and-science</link>
+<guid isPermaLink="false">5a06480332009773165de4bba9ab5f37a39c5773ee5d3be44d53d6a72017998e</guid>
+<source>Hacker News</source>
+<category>technology</category>
+<pubDate>Sun, 18 Oct 2026 15:00:40 +0000</pubDate>
+<description>Comments</description>
+</item>
+<item>
+<title>Lenovo’s fast, comfy SteamOS handheld is hundreds off</title>
+<link>https://www.theverge.com/gadgets/1013436/lenovo-legion-go-s-steamos-handheld-deal-sale</link>
+<guid isPermaLink="false">3a7eaf979be555684af58d7c6f23a4229d3c2d74a5a2d04fdd034985bbf75918</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Sun, 18 Oct 2026 15:00:00 +0000</pubDate>
+<description>The Legion Go S with SteamOS is a pretty solid alternative to the $789 Steam Deck OLED. It runs identical software, but ships in a design with two-stage triggers, a bigger eight-inch IPS screen (1080p and up to 120Hz versus 800p and 90Hz in the Deck OLED), and it’s got double the RAM and storage […]</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/lenovo-legion-go-s-steamos-sean-hollister-331A1224.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/lenovo-legion-go-s-steamos-sean-hollister-331A1224.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Websites are closing their doors to AI agents</title>
+<link>https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web</link>
+<guid isPermaLink="false">b31543fcd7d1501be961df37b837ad04655b4329769fd3a14ac52809f997151e</guid>
+<source>Hacker News</source>
+<category>technology</category>
+<pubDate>Sun, 18 Oct 2026 14:58:10 +0000</pubDate>
+<description>Comments</description>
+</item>
+<item>
 <title>iOS 27's new CarPlay features are great, but only these iPhones can actually use them</title>
 <link>https://www.engadget.com/2286246/ios-27-carplay-features-not-available-older-iphones</link>
 <guid isPermaLink="false">11a8a3b8a68868662babf6277ec50c62226ae97ec5e21453bcb474f30351f5f6</guid>
@@ -24,6 +64,15 @@
 <description>Comments</description>
 </item>
 <item>
+<title>Tesla 'Cannot Guarantee' Roadster Reservation Holders Will Ever Get a Car</title>
+<link>https://www.thedrive.com/news/tesla-cannot-guarantee-roadster-reservation-holders-will-ever-get-a-car</link>
+<guid isPermaLink="false">0431b2e816d1046bf047d6cd29e2bdbf02a40c06c90ea3ed1d7d1e2b40b79594</guid>
+<source>Hacker News</source>
+<category>technology</category>
+<pubDate>Sun, 18 Oct 2026 14:16:41 +0000</pubDate>
+<description>Comments</description>
+</item>
+<item>
 <title>The reason your Amazon Alexa devices are always listening</title>
 <link>https://www.engadget.com/2285849/reason-amazon-alexa-devices-always-listening</link>
 <guid isPermaLink="false">038dbe3f8281499ce835000c9b1758e188ef35e0409b7fbf0d53e649b125014e</guid>
@@ -33,6 +82,15 @@
 <description>Alexa devices have microphones that are always listening, but what does Amazon do with that data? It's up to you.</description>
 <enclosure url="https://www.engadget.com/img/gallery/the-reason-your-amazon-alexa-devices-are-always-listening/l-intro-1791919400.jpg" type="image/jpeg"/>
 <media:content url="https://www.engadget.com/img/gallery/the-reason-your-amazon-alexa-devices-are-always-listening/l-intro-1791919400.jpg" medium="image"/>
+</item>
+<item>
+<title>Theranos-Style Fraud Has Become the Norm</title>
+<link>https://www.theatlantic.com/ideas/2026/10/theranos-trump-nathan-fielder/689001</link>
+<guid isPermaLink="false">685e1af50874f57be40e2d9e66b15abac0b58e150b07e2d4f708d11415f3d982</guid>
+<source>Hacker News</source>
+<category>technology</category>
+<pubDate>Sun, 18 Oct 2026 14:05:36 +0000</pubDate>
+<description>Comments</description>
 </item>
 <item>
 <title>J Mascis has nothing better to do</title>
@@ -75,6 +133,15 @@
 <media:content url="https://www.engadget.com/img/gallery/these-6-retro-sites-let-you-re-live-the-glory-days-of-2000s-flash-games/l-intro-1791916199.jpg" medium="image"/>
 </item>
 <item>
+<title>The Electronic Disturbance Theater and Electronic Civil Disobedience</title>
+<link>https://www.thing.net/~rdom/ecd/EDTECD.html</link>
+<guid isPermaLink="false">bc6360fe341c7bc63ef993b1147bc1c8b11ccde3c2352ab389dc93c52bd8898a</guid>
+<source>Hacker News</source>
+<category>technology</category>
+<pubDate>Sun, 18 Oct 2026 13:41:06 +0000</pubDate>
+<description>Comments</description>
+</item>
+<item>
 <title>AI-Generated Content Can Plant Fake Memories, Researchers Say - Gizmodo</title>
 <link>https://news.google.com/rss/articles/CBMilgFBVV95cUxQWGVqSDRJcGgzVHhxVVIySGE0QTk4WGZuSEg4cjh0QkRrdWJnbGdSZlFZYl9YbmV6WnFib2lVUEkyUXdKME9TSmVvNzZsOUY0dVpPMWhQTnh3eGtBaFU3TXVieWxSUWdpdkZfeGQwMmh6TzNOSlg3OEJidHpZUGc3aDJwei1pYXN6eHgtcU5ZWjFneGhvOVE?oc=5</link>
 <guid isPermaLink="false">27f6260d427cafc846a4b7e8ff94789c67f576143bfcf3e26e57b07a197fae33</guid>
@@ -82,15 +149,6 @@
 <category>technology</category>
 <pubDate>Sun, 18 Oct 2026 13:39:01 +0000</pubDate>
 <description>AI-Generated Content Can Plant Fake Memories, Researchers Say Gizmodo</description>
-</item>
-<item>
-<title>CoreWeave stock wipeout exposes divide between AI fear and greed - Taipei Times</title>
-<link>https://news.google.com/rss/articles/CBMidkFVX3lxTFBLTFZlRFdGQUdveWJPaXVfSVNSeXpzRmtzSThxbUJXdWRrS3N2Ti1ibl9fMTM5ZUNFUXhNTVdOdzZxMGhRRk0ta1lNdUM1ak9wMnZVckF0MFUxWlBuV0c3NE55THBVcVJ2Ym5OeFQ0RXFFZmx2M1E?oc=5</link>
-<guid isPermaLink="false">fee94809ade9ea3fc1be622c6ca1f34ced905ce9a2d47c6a3f45a68aada9b958</guid>
-<source>Google News Artificial Intelligence</source>
-<category>technology</category>
-<pubDate>Sun, 18 Oct 2026 13:33:18 +0000</pubDate>
-<description>CoreWeave stock wipeout exposes divide between AI fear and greed Taipei Times</description>
 </item>
 <item>
 <title>Your smart TV has one big problem: It's tracking what you watch</title>
@@ -425,6 +483,15 @@
 <description>President Trump Sells Micron Stock and Buys Another Mega-Cap Artificial Intelligence (AI) Stock The Globe and Mail</description>
 </item>
 <item>
+<title>President Trump Sells Micron Stock and Buys Another Mega-Cap Artificial Intelligence (AI) Stock - Yahoo Finance</title>
+<link>https://news.google.com/rss/articles/CBMioAFBVV95cUxNT1poLTRfaTgtMmJRb0RTV2tPbVRzd3kxei1KeFJ3cUk0ajY4M0huOGZvcVhKWE1kQnZEUHNKbjJGLUx4YmR5QzlMRjVnZWItVFZHc0dyVUozUWFock8tcDVyU2FCSGVNNF85dk1fN2FxOUZHSHVGWFhGczFneXAybkRnSEs2ZURpb0tHRVF6NGVodEdGYzlOQTEzb2dsVmJ0?oc=5</link>
+<guid isPermaLink="false">6bdd79b8fc67748b2790b9e4bed74429673792b1d91b5048942d720d05bef475</guid>
+<source>Google News Artificial Intelligence</source>
+<category>technology</category>
+<pubDate>Sun, 18 Oct 2026 09:08:01 +0000</pubDate>
+<description>President Trump Sells Micron Stock and Buys Another Mega-Cap Artificial Intelligence (AI) Stock Yahoo Finance</description>
+</item>
+<item>
 <title>Delay the deployment of artificial intelligence (Voice of the people) - Lakeland Ledger</title>
 <link>https://news.google.com/rss/articles/CBMi0AFBVV95cUxOV2NhSmFHeF84RnA2bGRMRWR2cFBHZWl4OGg1MUdnSExFZFZNdGpycy1qcHZEY2xFUm5sdU9GcWJUaC0yQ0RoMTlPNHhrejVXS1gtVUR1SnNKRURoNHI1dURjSWVwODlLY3NxUEJGWTUzckd5Z3VaZDVpWFBiUzRnOW1IRHplV2RJQ2dsS0dRSEtSbDBsRWE1aUo3ZW5TX3NwMEF3WEcwcElyRm56OFMzNFBoM0VESmVHNlN5MDZIU28yZXNIaU1ybjFKeWxjWUI2?oc=5</link>
 <guid isPermaLink="false">440dbbe6e825ebe4133b4e6ba156443b05e9465165ab020319dc6ecfc82d8aff</guid>
@@ -476,13 +543,13 @@
 <description>Comments</description>
 </item>
 <item>
-<title>Why metal detecting is booming in the age of social media and AI - BBC</title>
-<link>https://news.google.com/rss/articles/CBMiW0FVX3lxTFBGSGozTFozS3NUbFRCSlJVbFMyTjAxbUM2LTkxbDVlMVVHWHFOUnV1cnNHNFVidE56Qm82XzBMNnRRZ1BuQXhGUU5LVC1UdUNGd2g1Qm1WWGF2cGc?oc=5</link>
-<guid isPermaLink="false">169c8f8e0c867ca3f817887c1a9a8aa92f745f0a43e84bd4563002da34d03f28</guid>
+<title>Google Open-Sources Harness2, a Recursive Agent Harnessing Framework - MarkTechPost</title>
+<link>https://news.google.com/rss/articles/CBMimAFBVV95cUxQU01Pdmx0bjRMaGliTFl6ejlMcDhSSnMwbU4yZ0dkMFY2bXJuVGVQRzB1UFpGR3k1bU5lUmtuOERydHc5bkJRZllOcWo3aXk1YnduejJ4U0YySV9Ua2Y1UWIzTkRIWTFxSnV0N1RWLVJObTJGS2Z5NG41M1VDUGtEcUNEajE3Wm9fRVhscVJJTVM3RWdncmVLdNIBmAFBVV95cUxQU01Pdmx0bjRMaGliTFl6ejlMcDhSSnMwbU4yZ0dkMFY2bXJuVGVQRzB1UFpGR3k1bU5lUmtuOERydHc5bkJRZllOcWo3aXk1YnduejJ4U0YySV9Ua2Y1UWIzTkRIWTFxSnV0N1RWLVJObTJGS2Z5NG41M1VDUGtEcUNEajE3Wm9fRVhscVJJTVM3RWdncmVLdA?oc=5</link>
+<guid isPermaLink="false">48f4376dcf23d49fc5b48d312eab92870d4b6479f7088739a5634a206d7db1b3</guid>
 <source>Google News Artificial Intelligence</source>
 <category>technology</category>
-<pubDate>Sun, 18 Oct 2026 08:06:04 +0000</pubDate>
-<description>Why metal detecting is booming in the age of social media and AI BBC</description>
+<pubDate>Sun, 18 Oct 2026 08:15:04 +0000</pubDate>
+<description>Google Open-Sources Harness2, a Recursive Agent Harnessing Framework MarkTechPost</description>
 </item>
 <item>
 <title>From vision systems to robotic dogs, local industry leaders share thoughts on automation and AI - Daily Inter Lake</title>
@@ -611,15 +678,6 @@
 <category>technology</category>
 <pubDate>Sun, 18 Oct 2026 00:21:23 +0000</pubDate>
 <description>Ossoff: "Tech titans dig bunkers while warning us the artificial intelligence they're creating risks human extinction. Meanwhile, our Congress debates youth sports and the president builds a ballroom ... I refuse to leave my girls a world as dark and dangerous an X</description>
-</item>
-<item>
-<title>NY announces game ownership bill requiring ownership rather than licensing</title>
-<link>https://www.tomshardware.com/video-games/new-york-rep-announces-game-ownership-bill-that-would-require-consumer-ownership-rather-than-sale-of-licenses-would-also-require-publishers-to-keep-the-game-functional-after-support-ends</link>
-<guid isPermaLink="false">e49124370cefa3085a3687286896d7f0725ef4cdd1807266ba86732e86778690</guid>
-<source>Hacker News</source>
-<category>technology</category>
-<pubDate>Sun, 18 Oct 2026 00:14:22 +0000</pubDate>
-<description>Comments</description>
 </item>
 <item>
 <title>What to check if your Nintendo Switch 2 isn't connecting to the TV</title>
@@ -806,26 +864,6 @@
 <media:content url="https://www.engadget.com/img/gallery/android-auto-can-be-used-outside-of-your-car-heres-how/l-intro-1791824287.jpg" medium="image"/>
 </item>
 <item>
-<title>What's actually eating all the storage space on your Android Phone?</title>
-<link>https://www.engadget.com/2283986/whats-actually-eating-all-the-storage-space-on-your-android-phone</link>
-<guid isPermaLink="false">b6c2beb31a280cfc333f9ffb58ec708af3581a0e25e9dd9c707223a461608ddd</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Sat, 17 Oct 2026 18:30:00 +0000</pubDate>
-<description>Android phone running out of space? Here's why and what you can do to get rid of old files.</description>
-<enclosure url="https://www.engadget.com/img/gallery/whats-actually-eating-all-the-storage-space-on-your-android-phone/l-intro-1791468108.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/whats-actually-eating-all-the-storage-space-on-your-android-phone/l-intro-1791468108.jpg" medium="image"/>
-</item>
-<item>
-<title>Codex Desktop continuously generates Crashpad pending dumps</title>
-<link>https://github.com/openai/codex/issues/25921</link>
-<guid isPermaLink="false">9ce1d661b5d81c143a196fc1aa7afafe0c3d292f33f4f370087f34164afe9a01</guid>
-<source>Hacker News</source>
-<category>technology</category>
-<pubDate>Sat, 17 Oct 2026 17:45:08 +0000</pubDate>
-<description>Comments</description>
-</item>
-<item>
 <title>Mercedes-AMG’s first ground-up SUV is a 1,150hp electric beast</title>
 <link>https://www.theverge.com/transportation/1013088/mercedes-amg-gt-suv-price-specs-performance</link>
 <guid isPermaLink="false">de0cce47f02c45d948f6b05ab3fe2cab655e8049bef2b2325da03ec3ea6d5dc5</guid>
@@ -886,24 +924,13 @@
 <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK043_VRG_Illo_N_Barclay_2_Meta.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
-<title>Pikmin 4 is $20 off ahead of its $10 Nintendo Switch 2 update</title>
-<link>https://www.theverge.com/gadgets/1013105/pikmin-4-nintendo-switch-deal-sale</link>
-<guid isPermaLink="false">5e77e5d05a55500be66cf2f3f00a60d1f7766b24672f6bc1f42b1c9f394a4931</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Sat, 17 Oct 2026 15:00:00 +0000</pubDate>
-<description>If you’re wondering what video game to play this weekend, my colleague Sheena Vasani spotted a discounted Nintendo Switch title with instant digital delivery. Walmart has the digital version of Pikmin 4 for Switch discounted to $39.88, just over $20 lower than its usual price. This version of the game follows the same puzzle formula […]</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24018761/Nintendo_Direct_9.13.2022_60_17_screenshot.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24018761/Nintendo_Direct_9.13.2022_60_17_screenshot.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
-<title>CoreWeave Woes Risk Shutting Down AI Junk Market: Credit Weekly - Bloomberg</title>
+<title>CoreWeave Woes Risk Shutting Down AI Junk Market: Credit Weekly - Bloomberg.com</title>
 <link>https://news.google.com/rss/articles/CBMiswFBVV95cUxNZ1Z0ODZTMmZ1cGhteHZXUXRpemdYenhIVWJNR0h4bnBublpZRlBRdUxGRUg4Q2hOSU1uYWR6MlMtVXF0Q0NjOGVJaTJPR24wVG1kT0hmWDdNVEFmZmFBRU8zRTZ0bUpsTHNVUHVqcHotUjd1VFY3OENsSGZWcWlrRjlvRF9CSjRvZmRNdDg0bXdJQ3ZmdmE5Z0x3NHIwS2VaTjVwZzFtdVhOQm5FSzU5am5Oaw?oc=5</link>
 <guid isPermaLink="false">e8515f87e7a3c0a1ae8049838d32a09bbfcc269da600297a656a1e65912f23fe</guid>
 <source>Google News Artificial Intelligence</source>
 <category>technology</category>
 <pubDate>Sat, 17 Oct 2026 14:27:13 +0000</pubDate>
-<description>CoreWeave Woes Risk Shutting Down AI Junk Market: Credit Weekly Bloomberg</description>
+<description>CoreWeave Woes Risk Shutting Down AI Junk Market: Credit Weekly Bloomberg.com</description>
 </item>
 <item>
 <title>Making chicken transparent using Dorito dust</title>
@@ -912,24 +939,6 @@
 <source>Hacker News</source>
 <category>technology</category>
 <pubDate>Sat, 17 Oct 2026 13:55:28 +0000</pubDate>
-<description>Comments</description>
-</item>
-<item>
-<title>Artificial Intelligence - ABC News - Breaking News, Latest News and Videos</title>
-<link>https://news.google.com/rss/articles/CBMiXkFVX3lxTFBHQWNlSHQzMUlJUTg1elY2MnlhM0JMRDkyUlMtYUdwNDFYYmF2cktZZzg2X3pDMVluRVhBS01LY0VnRVI0bnk2eElyWkczd0dLdktiOFMybWl5STktVHc?oc=5</link>
-<guid isPermaLink="false">e493019a8adb7a0cafec605daff5a9ff1cfb26b085362fddf65876aa18e8a770</guid>
-<source>Google News Artificial Intelligence</source>
-<category>technology</category>
-<pubDate>Sat, 17 Oct 2026 12:31:26 +0000</pubDate>
-<description>Artificial Intelligence ABC News - Breaking News, Latest News and Videos</description>
-</item>
-<item>
-<title>Interactive Linear Programming in the Browser</title>
-<link>https://lpviz.net</link>
-<guid isPermaLink="false">7981fb8c17775e9da493f8dde9d1dd66b040ec4d43519b75e026b1a39b7a26c8</guid>
-<source>Hacker News</source>
-<category>technology</category>
-<pubDate>Sat, 17 Oct 2026 12:06:44 +0000</pubDate>
 <description>Comments</description>
 </item>
 <item>
@@ -942,6 +951,15 @@
 <description>Canada’s planned surveillance law is the latest grim step in a series of threats to encryption that are spreading around the world.</description>
 <enclosure url="https://media.wired.com/photos/6ad14bcb1efa7811b4f5a5a5/master/pass/Kernel-Panic-Encription-Being-Squeezed-to-Death-Security.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/6ad14bcb1efa7811b4f5a5a5/master/pass/Kernel-Panic-Encription-Being-Squeezed-to-Death-Security.jpg" medium="image"/>
+</item>
+<item>
+<title>Artificial Intelligence - ABC News - Breaking News, Latest News and Videos</title>
+<link>https://news.google.com/rss/articles/CBMiXkFVX3lxTFBHQWNlSHQzMUlJUTg1elY2MnlhM0JMRDkyUlMtYUdwNDFYYmF2cktZZzg2X3pDMVluRVhBS01LY0VnRVI0bnk2eElyWkczd0dLdktiOFMybWl5STktVHc?oc=5</link>
+<guid isPermaLink="false">e493019a8adb7a0cafec605daff5a9ff1cfb26b085362fddf65876aa18e8a770</guid>
+<source>Google News Artificial Intelligence</source>
+<category>technology</category>
+<pubDate>Sat, 17 Oct 2026 11:32:52 +0000</pubDate>
+<description>Artificial Intelligence ABC News - Breaking News, Latest News and Videos</description>
 </item>
 <item>
 <title>The Best LED Grow Lights for Houseplants This Winter (2026)</title>
@@ -1240,15 +1258,6 @@
 <description>The bug is fixed, but privacy concerns remain.</description>
 <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/unnamed-1-875x648.jpg" type="image/jpeg"/>
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/unnamed-1-875x648.jpg" medium="image"/>
-</item>
-<item>
-<title>You could have invented transformers from memory</title>
-<link>https://alexwang.ai/posts/associative-memory</link>
-<guid isPermaLink="false">e44989809c18965e1db9ad876ffb386ac63174d17da0ffec0a99cd59b613b69e</guid>
-<source>Hacker News</source>
-<category>technology</category>
-<pubDate>Fri, 16 Oct 2026 19:01:17 +0000</pubDate>
-<description>Comments</description>
 </item>
 <item>
 <title>Beijing seeks tighter grip on AI exports amid US rivalry - Reuters</title>
@@ -2077,15 +2086,6 @@
 <category>technology</category>
 <pubDate>Thu, 15 Oct 2026 18:28:27 +0000</pubDate>
 <description>Appraising Artificial Intelligence Studies in Dental and Maxillofacial Imaging: A Task-Routed Framework for Reporting Completeness and Risk of Bias Cureus</description>
-</item>
-<item>
-<title>Fun Extending the C Preprocessor</title>
-<link>https://www.davidpriver.com/Fun-Extending-the-C-Preprocessor.html</link>
-<guid isPermaLink="false">b3a92d76ca678f7ed89a43d2d9862687b623ffa55c9d02c77eae90ae8dd2b9de</guid>
-<source>Hacker News</source>
-<category>technology</category>
-<pubDate>Thu, 15 Oct 2026 17:08:26 +0000</pubDate>
-<description>Comments</description>
 </item>
 <item>
 <title>White House Press Secretary Katie Zacharia Was an Affiliate Marketer for a Fitness MLM</title>
