@@ -4,6 +4,66 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>What is the star button for on your Roku remote?</title>
+<link>https://www.engadget.com/2286582/roku-remote-star-button-what-for</link>
+<guid isPermaLink="false">4c42fc09dd294fce08037951526ebc47059cb3582267066668bf61408d74536d</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Sun, 18 Oct 2026 18:45:00 +0000</pubDate>
+<description>While the Roku remote doesn't have confusing colors or weird symbols, the star button can confuse some folks at first.</description>
+<enclosure url="https://www.engadget.com/img/gallery/what-is-the-star-button-for-on-your-roku-remote/l-intro-1791990292.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/what-is-the-star-button-for-on-your-roku-remote/l-intro-1791990292.jpg" medium="image"/>
+</item>
+<item>
+<title>Peter Morici: The best antidote to AI hysteria — do nothing - TribLIVE.com</title>
+<link>https://news.google.com/rss/articles/CBMiVkFVX3lxTFBibE9xbGt1Um1OYmJwWGJhNUkxaGdrbUpTY0pLQ1h5SUtEbFo4dmR2SXRJRzhVbjdwTUZjem5DZVFPVDNjMmg5eEEtVEpRNm1tMm8zTEt3?oc=5</link>
+<guid isPermaLink="false">7720142516de6e2d74b85033132da6ea4ad66baa411a21b842f02f61d901dac4</guid>
+<source>Google News Artificial Intelligence</source>
+<category>technology</category>
+<pubDate>Sun, 18 Oct 2026 18:44:31 +0000</pubDate>
+<description>Peter Morici: The best antidote to AI hysteria — do nothing TribLIVE.com</description>
+</item>
+<item>
+<title>HOA's are making the home crisis worse</title>
+<link>https://hoaspy.com/hoa/fl/florida-hoa-housing-crisis.html</link>
+<guid isPermaLink="false">57743babc5756b426172be5124d4c58b10959817e7d15153093deded556799ae</guid>
+<source>Hacker News</source>
+<category>technology</category>
+<pubDate>Sun, 18 Oct 2026 18:40:16 +0000</pubDate>
+<description>Comments</description>
+</item>
+<item>
+<title>Here's how the Slate truck gets software updates without built-in infotainment</title>
+<link>https://www.engadget.com/2283988/slate-truck-no-infotainment-over-the-air-sofware-updates</link>
+<guid isPermaLink="false">59cdb967337b818c873ab333aad7716097b0e3987e5a416ab6f9bd903d9fb700</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Sun, 18 Oct 2026 18:30:00 +0000</pubDate>
+<description>Basically, it's on you.</description>
+<enclosure url="https://www.engadget.com/img/gallery/heres-how-the-slate-truck-gets-software-updates-without-built-in-infotainment/l-intro-1791571931.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/heres-how-the-slate-truck-gets-software-updates-without-built-in-infotainment/l-intro-1791571931.jpg" medium="image"/>
+</item>
+<item>
+<title>A woman was arrested in Philly for blocking a delivery robot</title>
+<link>https://www.theverge.com/ai-artificial-intelligence/1013541/a-woman-was-arrested-in-philly-for-blocking-a-delivery-robot</link>
+<guid isPermaLink="false">3cf4d945cff63c953202fa1ad62e5f03dfc1db31c33b42442addaba3da47f6eb</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Sun, 18 Oct 2026 18:28:10 +0000</pubDate>
+<description>Carolyn Marvin was arrested and charged with disorderly conduct after blocking the path of an Uber delivery robot and refusing to get out of the way. Marvin told Philadelphia's ABC13 "I know they're taking the jobs of human delivery workers and so, I have been protesting them whenever I saw them by standing in front […]</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/avride-uber-delivery.webp?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/avride-uber-delivery.webp?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>CFPB Opens Debanking Investigation into Nine Large National Banks</title>
+<link>https://www.forbes.com/sites/ajdhaliwal/2026/10/16/cfpb-opens-debanking-investigation-into-nine-large-national-banks</link>
+<guid isPermaLink="false">b24dca433539e972675862c33446be4328df499e41012ed6dfdc27652028e4c3</guid>
+<source>Hacker News</source>
+<category>technology</category>
+<pubDate>Sun, 18 Oct 2026 18:26:40 +0000</pubDate>
+<description>Comments</description>
+</item>
+<item>
 <title>From the Royole FlexPai to the iPhone Duo: How the modern foldable phone has evolved</title>
 <link>https://www.engadget.com/2286505/how-modern-foldable-phone-evolved-from-royole-flexpai-to-iphone-duo</link>
 <guid isPermaLink="false">0cbc28b879d8b966f830ef9827c01beb9ff93aa14128a43e4875d7525e4e6339</guid>
@@ -31,6 +91,15 @@
 <category>technology</category>
 <pubDate>Sun, 18 Oct 2026 17:59:00 +0000</pubDate>
 <description>Artificial Intelligence, Climate Change, and Global Security: Why the World Needs International Regulation Now EIN Presswire</description>
+</item>
+<item>
+<title>PalmOS Lemmings by Aaron Ardiri</title>
+<link>https://github.com/ardiri/palmos-lemmings</link>
+<guid isPermaLink="false">176b32e067f2fd33dbec15e2691e1bd184851a7ffb3d8cb42183e67285ddd42a</guid>
+<source>Hacker News</source>
+<category>technology</category>
+<pubDate>Sun, 18 Oct 2026 17:56:59 +0000</pubDate>
+<description>Comments</description>
 </item>
 <item>
 <title>Mitos editor is a fork of Helix</title>
@@ -677,17 +746,6 @@
 <description>Delay the deployment of artificial intelligence (Voice of the people) Lakeland Ledger</description>
 </item>
 <item>
-<title>Magnesium May Not Reach Your Brain, Despite Supplement Label Promises</title>
-<link>https://www.wired.com/story/magnesium-may-not-reach-your-brain-despite-supplement-label-promises</link>
-<guid isPermaLink="false">4c0911cabb05184072e7fde7ca064413f1d7b7142ca03e6703a83d605181167c</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Sun, 18 Oct 2026 09:00:00 +0000</pubDate>
-<description>Some of the many variants sold today promise to penetrate our gray matter, but biology isn’t in the habit of respecting marketing declarations.</description>
-<enclosure url="https://media.wired.com/photos/6acf777ced16e31e6734c24b/master/pass/GettyImages-2281567983.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/6acf777ced16e31e6734c24b/master/pass/GettyImages-2281567983.jpg" medium="image"/>
-</item>
-<item>
 <title>The Best AirPods Cases We’ve Used In Our Day-to-Day Lives (2026)</title>
 <link>https://www.wired.com/story/best-airpods-case</link>
 <guid isPermaLink="false">1d1a96896d57f89921c5bc6c492d8e3b946f9f2dac3e6959934efbe1eead7752</guid>
@@ -708,6 +766,26 @@
 <description>As coastlines change, so do surf breaks. That may spell the end for premier waves and the tourist economies that depend on them.</description>
 <enclosure url="https://media.wired.com/photos/6ad1f583d142c5fc200c01f2/master/pass/GettyImages-200028593-001.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/6ad1f583d142c5fc200c01f2/master/pass/GettyImages-200028593-001.jpg" medium="image"/>
+</item>
+<item>
+<title>Magnesium May Not Reach Your Brain, Despite Supplement Label Promises</title>
+<link>https://www.wired.com/story/magnesium-may-not-reach-your-brain-despite-supplement-label-promises</link>
+<guid isPermaLink="false">4c0911cabb05184072e7fde7ca064413f1d7b7142ca03e6703a83d605181167c</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Sun, 18 Oct 2026 09:00:00 +0000</pubDate>
+<description>Some of the many variants sold today promise to penetrate our gray matter, but biology isn’t in the habit of respecting marketing declarations.</description>
+<enclosure url="https://media.wired.com/photos/6acf777ced16e31e6734c24b/master/pass/GettyImages-2281567983.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6acf777ced16e31e6734c24b/master/pass/GettyImages-2281567983.jpg" medium="image"/>
+</item>
+<item>
+<title>World leaders weigh on AI's role as driver of growth, its risks - Daily Sabah</title>
+<link>https://news.google.com/rss/articles/CBMiqAFBVV95cUxQYnJGWVViVU5LNEt3SEsybWRwdnJsVDRLZzZPZ1k3U3VsY25QN2dzLThNNmtDTTBpbk5UckIxTm44My1SUlNyakFuQ1lQRjY2SW5KMXh1Z2Z1ZWJDSXZsaTRFWUZNd1RpV0FvUkdHZmV1VEZreGZkUUxnelRPSjdkWU1mdFp5Zi1kMVE4OC04RU5XMnhqSlJMM2NuNmxoT25hSjZySnJJSHY?oc=5</link>
+<guid isPermaLink="false">25a165045d6002aa5afc92ed774f0f28509c35a6fd4f1cdd40fc1572bb30e0f4</guid>
+<source>Google News Artificial Intelligence</source>
+<category>technology</category>
+<pubDate>Sun, 18 Oct 2026 08:30:00 +0000</pubDate>
+<description>World leaders weigh on AI's role as driver of growth, its risks Daily Sabah</description>
 </item>
 <item>
 <title>Parser Combinators</title>
@@ -744,15 +822,6 @@
 <category>technology</category>
 <pubDate>Sun, 18 Oct 2026 06:25:00 +0000</pubDate>
 <description>Huge exit: The Israeli company sold for $6.3b. The Jerusalem Post</description>
-</item>
-<item>
-<title>Park Forest to Host Cybersecurity Seminar Focused on Digital Privacy and Artificial Intelligence - eNews Park Forest</title>
-<link>https://news.google.com/rss/articles/CBMi5gFBVV95cUxQQm05TllFYnVxQ1dETFYtb2pjVlBORXJ0V1NGc25RbUYycDFjNEo1VDc3UHg3UmpyQkRyRjh3RlV4cGQtNFlxbTV6MmxrNkdCWVJ3SnY5MVE4d0ZiQkowTWk1LVFlazJWX19UVWw4c1dGd2hJMjRZVUlybENaaHZCczFwaFBWVEdrVFUyMXBqVkRVQ0h0QVI3M3F5cHhJYnlaTDBBRzlDUHFuZUhfUHkzZkd6NUo4ZHVuczRwX1ZMcVVyMTFkSHFvRDc4dnFodHBocFRzdFlWOWhncFlvY2E2cFJlMzJzUQ?oc=5</link>
-<guid isPermaLink="false">437fe25c133241c6414e16406018e0fb9c6b743cd831844eece66839f99ea7a9</guid>
-<source>Google News Artificial Intelligence</source>
-<category>technology</category>
-<pubDate>Sun, 18 Oct 2026 05:24:28 +0000</pubDate>
-<description>Park Forest to Host Cybersecurity Seminar Focused on Digital Privacy and Artificial Intelligence eNews Park Forest</description>
 </item>
 <item>
 <title>Norfolk uses artificial intelligence to handle thousands of non-emergency calls - WTKR</title>
@@ -871,28 +940,6 @@
 <description>Comments</description>
 </item>
 <item>
-<title>Why your Wi-Fi speeds can drop in the evening, and what to do about it</title>
-<link>https://www.engadget.com/2284612/wifi-speeds-drop-evening-reason-why</link>
-<guid isPermaLink="false">92a6f7a88d8d0ba803cecf0f6437b17e59fd00cffab097cd20f196d8017a4cd6</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Sat, 17 Oct 2026 23:00:00 +0000</pubDate>
-<description>Everyone getting online at the same time can slam the network, but working around these slowdowns is possible with a few tricks.</description>
-<enclosure url="https://www.engadget.com/img/gallery/why-your-wi-fi-speeds-can-drop-in-the-evening-and-what-to-do-about-it/l-intro-1791834714.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/why-your-wi-fi-speeds-can-drop-in-the-evening-and-what-to-do-about-it/l-intro-1791834714.jpg" medium="image"/>
-</item>
-<item>
-<title>How to keep your smart home running even if the internet goes down</title>
-<link>https://www.engadget.com/2284525/how-to-keep-smart-home-running-internet-goes-down</link>
-<guid isPermaLink="false">7db40fcdc47939eba429d53a7a9c4b9bd23930e54a6b2cdf794953a44202008e</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Sat, 17 Oct 2026 22:45:00 +0000</pubDate>
-<description>Smart home products most often harness Wi-Fi to function. But what can you do if you lose internet frequently?</description>
-<enclosure url="https://www.engadget.com/img/gallery/how-to-keep-your-smart-home-running-even-if-the-internet-goes-down/l-intro-1791831565.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/how-to-keep-your-smart-home-running-even-if-the-internet-goes-down/l-intro-1791831565.jpg" medium="image"/>
-</item>
-<item>
 <title>Extending the Loeb Scale to the Search for Extraterrestrial Artificial Intelligence (SETAI) - Avi Loeb – Medium</title>
 <link>https://news.google.com/rss/articles/CBMiygFBVV95cUxOSlRhZ3BEYkd6cWRJRER3LUNXWE9UYmVJRlNVSDdodnpQVTFZekRYM1J2aDNuSmp2bUxPb2xFck5GWXh4SUxhLVVOOGtQREMtczJhcXNNbFJ1RlJORHAzT3dxY3dXakRjcUhXLUNZOE9SVTZfZ29PdzNZMWx5XzlXRWlFQ0R4aHZ1OWZpVHJzRkVhcnBPN2o2WFl2cEhHTWFSYXRlazBWeDNZUS1OUVhVNVJmNkdTTmpkSy1lR2ZYUGJjcmxBMUczQW1B?oc=5</link>
 <guid isPermaLink="false">231a4eb59055820bf7f62feb7aad2bf185b860a30be37ba2ed421a4b8d2da697</guid>
@@ -987,24 +1034,13 @@
 <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/26C0332_071.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
-<title>Elon Musk settles lawsuits over $1 million voter giveaway</title>
-<link>https://www.theverge.com/tech/1013431/elon-musk-settles-lawsuits-over-1-million-voter-giveaway</link>
-<guid isPermaLink="false">856e060c0f3ab2f7cb9400dcfb9fd467f045602142202e61a3770433c741660a</guid>
-<source>The Verge</source>
+<title>Artificial Intelligence - ABC News - Breaking News, Latest News and Videos</title>
+<link>https://news.google.com/rss/articles/CBMiXkFVX3lxTFBHQWNlSHQzMUlJUTg1elY2MnlhM0JMRDkyUlMtYUdwNDFYYmF2cktZZzg2X3pDMVluRVhBS01LY0VnRVI0bnk2eElyWkczd0dLdktiOFMybWl5STktVHc?oc=5</link>
+<guid isPermaLink="false">e493019a8adb7a0cafec605daff5a9ff1cfb26b085362fddf65876aa18e8a770</guid>
+<source>Google News Artificial Intelligence</source>
 <category>technology</category>
-<pubDate>Sat, 17 Oct 2026 16:39:44 +0000</pubDate>
-<description>In 2024, Elon Musk promised to give away $1 million a day to a randomly selected registered voter in a swing state. That prompted legal challenges, raised questions about its legality, and drew lawsuits from two Arizona residents claiming the lottery was a fraud. Musk has now agreed to settle the two lawsuits filed in […]</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKE012_SPACEX_IPO_2026_A.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKE012_SPACEX_IPO_2026_A.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
-<title>Pele – Mermaid diagrams as themeable SVG</title>
-<link>https://pele.run</link>
-<guid isPermaLink="false">4efc4809a5b91e04c5d02a5d9d69665bf6c326c3440c213f775005cc0ef329a9</guid>
-<source>Hacker News</source>
-<category>technology</category>
-<pubDate>Sat, 17 Oct 2026 15:55:09 +0000</pubDate>
-<description>Comments</description>
+<pubDate>Sat, 17 Oct 2026 16:26:46 +0000</pubDate>
+<description>Artificial Intelligence ABC News - Breaking News, Latest News and Videos</description>
 </item>
 <item>
 <title>Ember’s new temperature-controlled mug makes my nightly tea ritual even better</title>
@@ -1014,15 +1050,6 @@
 <category>technology</category>
 <pubDate>Sat, 17 Oct 2026 15:30:00 +0000</pubDate>
 <description>The biggest change about Ember's new mug is that you no longer have to open the app to adjust your drink’s temperature.</description>
-</item>
-<item>
-<title>Artificial Intelligence - ABC News - Breaking News, Latest News and Videos</title>
-<link>https://news.google.com/rss/articles/CBMiXkFVX3lxTFBHQWNlSHQzMUlJUTg1elY2MnlhM0JMRDkyUlMtYUdwNDFYYmF2cktZZzg2X3pDMVluRVhBS01LY0VnRVI0bnk2eElyWkczd0dLdktiOFMybWl5STktVHc?oc=5</link>
-<guid isPermaLink="false">e493019a8adb7a0cafec605daff5a9ff1cfb26b085362fddf65876aa18e8a770</guid>
-<source>Google News Artificial Intelligence</source>
-<category>technology</category>
-<pubDate>Sat, 17 Oct 2026 15:27:51 +0000</pubDate>
-<description>Artificial Intelligence ABC News - Breaking News, Latest News and Videos</description>
 </item>
 <item>
 <title>Encryption Is Getting Squeezed From All Sides</title>
@@ -1169,15 +1196,6 @@
 <description>Comments</description>
 </item>
 <item>
-<title>Bleached corals thrive within days when touching healthy neighbour</title>
-<link>https://www.nature.com/articles/d41586-026-03266-x</link>
-<guid isPermaLink="false">d5c12904d62ec934ca2cce7031e3d89f66c31952cb5f22637e4fcf8f2aa26bb0</guid>
-<source>Hacker News</source>
-<category>technology</category>
-<pubDate>Fri, 16 Oct 2026 23:38:27 +0000</pubDate>
-<description>Comments</description>
-</item>
-<item>
 <title>China says it will curb tech exports, including AI, citing national security risks - PBS</title>
 <link>https://news.google.com/rss/articles/CBMitgFBVV95cUxQV1VUdmQwc0xPcG5KT3AxZFJ2dVJTVXNFc3RYc2lUTlA2R2xGeGJ3TjVqRGlpYUt2WUhNNEZDSDZkX1dJYm1INV9TaTI3eVlMM0RIaHh4V1g4U2FLdGJWOGJNRjFia1Q1amNoWUwzamlLWGFDVVhPNlZzbjRoU29YN3V1X2wyM2E5clBsTnp2MGJkSDNjOTFSVWVBd3MtZUZ1Sk1Yb1JGOGhZUlVoQmR3azVzZzU2Z9IBuwFBVV95cUxOSGI4Vm0wMmNIV3ZNY1NqNkRsaG1kTkd1bm1aZ3ZwZkFERU9YQ29Id3Bnc3FOU2NFNHVPbWwxclR4ZlFYY0hYLVNuMW1KbVRnNGdNTXpQODVReFdOaXZMV3E5cGx3ME9Ha25CZ3V3OXF1Zl9KSFhjWldWcHBwbjJDdGFudGJXVTdwY3dEa0JpYU96VEJqdG5hdW5pVmVvaEcxcFZXUTZoSVlpTWFtMTFlOE1YbUtVYVlBZTdV?oc=5</link>
 <guid isPermaLink="false">dd5ebdb880bb47adae680cfc12e9422965b1e2bc43c8ac2bb2f59a619f852ee3</guid>
@@ -1185,6 +1203,15 @@
 <category>technology</category>
 <pubDate>Fri, 16 Oct 2026 22:00:29 +0000</pubDate>
 <description>China says it will curb tech exports, including AI, citing national security risks PBS</description>
+</item>
+<item>
+<title>Anthropic quietly pitches its own AI safety bill to lawmakers - Politico</title>
+<link>https://news.google.com/rss/articles/CBMieEFVX3lxTE0ydWVrbHdHeGNraEdTSHQ5eExwZ2lLRUU1U1BoVFJUTWNLenpWTXJOMHNnWnhaa0thQXlRbk1KdEliVVVGUEJXZWwtcWtUZE9Ielo2X05DaHJKSmJpd05rRl9vMWdQQUE4ZnVRRFBLQ3hlcm9FNG12bg?oc=5</link>
+<guid isPermaLink="false">ca5e43b179e12f1a949323891ba2536a80daee303dd18100e53b12dd01bdbe4f</guid>
+<source>Google News Artificial Intelligence</source>
+<category>technology</category>
+<pubDate>Fri, 16 Oct 2026 21:45:00 +0000</pubDate>
+<description>Anthropic quietly pitches its own AI safety bill to lawmakers Politico</description>
 </item>
 <item>
 <title>New technique uses artificial intelligence to fight breast cancer - CBS News</title>
@@ -1470,6 +1497,15 @@
 <description>ARA Secures Patent for Artificial Intelligence in Critical Care GlobeNewswire</description>
 </item>
 <item>
+<title>Will AI Take Over the World? - Chabad</title>
+<link>https://news.google.com/rss/articles/CBMimAFBVV95cUxQR3R2VjZqandkR2tmWF9NdEFoV3RrVG1teW16djJobm1BOXNrZzNQdW1yMk1mbW5WLTdWdEduVThaU19PeFpHY3pybVgybGFxUVZGYlNyNmlsWVBVaFg0SnV1Mkd2Z3FCSG1Gd0tXTHBkUDhGN2xobm9SSWh4bUswUk1ISWpCQllFZ0d5bnlrTVRQVkpRTFIxNg?oc=5</link>
+<guid isPermaLink="false">84251946fe99922083a1387f150571d48ce1522a8452bd044380231f4a5b7ac8</guid>
+<source>Google News Artificial Intelligence</source>
+<category>technology</category>
+<pubDate>Fri, 16 Oct 2026 16:19:38 +0000</pubDate>
+<description>Will AI Take Over the World? Chabad</description>
+</item>
+<item>
 <title>Waymo’s robotaxis are headed to Canada</title>
 <link>https://techcrunch.com/2026/10/16/waymos-robotaxis-are-headed-to-canada</link>
 <guid isPermaLink="false">c9651788989bdf1fe76f4c18ca52195beb9aba58193cb0eaf5f22689f5c715f1</guid>
@@ -1515,6 +1551,15 @@
 <description>Artificial intelligence is coming to African schools African Business</description>
 </item>
 <item>
+<title>CKKS – Addition and Multiplication</title>
+<link>https://www.jeremykun.com/2026/10/11/ckks-addition-and-multiplication</link>
+<guid isPermaLink="false">a2328a34ce0aab0189b9df0bede9a796ec5311d36fcee53ea736dc0702bd7c99</guid>
+<source>Hacker News</source>
+<category>technology</category>
+<pubDate>Fri, 16 Oct 2026 15:43:46 +0000</pubDate>
+<description>Comments</description>
+</item>
+<item>
 <title>Meta may use sweeping new commercial TOS to avoid millions in AI licensing fees</title>
 <link>https://arstechnica.com/tech-policy/2026/10/meta-may-use-sweeping-new-commercial-tos-to-avoid-millions-in-ai-licensing-fees</link>
 <guid isPermaLink="false">96acdef40d3eeadb1b6559ca999eb74bf5bb447aaab39b3e2bca627d3521e6b7</guid>
@@ -1524,15 +1569,6 @@
 <description>Meta “streamlined” its commercial TOS. Legal experts warn it’s an AI power grab.</description>
 <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2296621320-1024x648.jpg" type="image/jpeg"/>
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2296621320-1024x648.jpg" medium="image"/>
-</item>
-<item>
-<title>UA Little Rock’s Nitin Agarwal Shares Expertise on how Social Media Shapes What We Believe - UA Little Rock</title>
-<link>https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZ08xcVF5UTdyUDlEb0tLYXB0YjdJTTFWRmxQREdOUlBpWEREUkt0UjY4c2g4X3RKb3JMWWNDeWJIMHNSUmctVmdEamxYTnhkQXNCakV1bzhRemVIT0tuTjhfa2NyNEdGLW85RmtrMTY3aFhuenNUZHNRRG1fTDBKSjBRMmJyc1U1dkdMRVRNRmxiRTlobXFkMG9XSGg2SFZvcjU3NnNaWDhFbTNkZHYzS003OXV6LWJ1eHM0dFhtMVQ?oc=5</link>
-<guid isPermaLink="false">03e2b414be409cfebd38428dcfc4fd44dd7125c0303ade7c776d2a4bca420881</guid>
-<source>Google News Artificial Intelligence</source>
-<category>technology</category>
-<pubDate>Fri, 16 Oct 2026 15:36:37 +0000</pubDate>
-<description>UA Little Rock’s Nitin Agarwal Shares Expertise on how Social Media Shapes What We Believe UA Little Rock</description>
 </item>
 <item>
 <title>Jev is Vercel’s fastest-adopted AI model ever</title>
@@ -1864,15 +1900,6 @@
 <media:content url="https://media.wired.com/photos/6acfd1d0b694762e88044dcf/master/pass/Reef_lead.jpg" medium="image"/>
 </item>
 <item>
-<title>Innodata vs. Nebius: Here's What Revenue Trends Tell Investors About These Artificial Intelligence Companies - The Motley Fool</title>
-<link>https://news.google.com/rss/articles/CBMi6wFBVV95cUxOM1dnQ2sxeHB0cHFqSWxJNmp1UHgtWm5LeWJvMnV1aWZjckZNX1dzeUN6Z0tZSTZ0M1g5NnlMekFLRzB6R19PNU4xZU0xZUNFRGNLVXoyV19IQXJac01HekVmZmdJV25VTkZXb3RMME16cml6cU1DeDZKRjFuZ2lhRDI5UC1CSWc3dzJNZ2xnLUd0OW52Zkh3eFJJandYb0dTdmZtU1p2dUVZNzBwOU43RTh6dDNsc01RcGZULUNpQkczV3hwTnVFZlFDVlNOeG9DbGpYODBwcWloXzl2Ylp5MDBDTHR2NHVJWmVv?oc=5</link>
-<guid isPermaLink="false">33fab4805b8b9f2aff4f37d493bc7ac8df601be6851fda23a6cdd7393ae2f41d</guid>
-<source>Google News Artificial Intelligence</source>
-<category>technology</category>
-<pubDate>Fri, 16 Oct 2026 08:02:00 +0000</pubDate>
-<description>Innodata vs. Nebius: Here's What Revenue Trends Tell Investors About These Artificial Intelligence Companies The Motley Fool</description>
-</item>
-<item>
 <title>WSU Athletics is using Artificial Intelligence to help tell its story. What does that mean? - The Lewiston Tribune</title>
 <link>https://news.google.com/rss/articles/CBMiywFBVV95cUxNUTZjWmFwSTAybHNXZ2pvZHR0UWdKOEFFN0twREwydUpiY2taVmtiZnBXOS1KcS13ZGNac2hPV0lsMncxVUxJbms1UXctMEduRGdMTG5VTWY5S21QQWlUeEpTNU1BajZERE1wV3V4Z0x5MlFNYk5RRFpkTzZsQ1BVTExULW5pQ1M2QVR1QnBsYXA1WWhFX2EzR0FoTWtidzNGLXFjV2I1c3V5b3JrYjBGOU1PMWdsbVRMVEUtTU9LczN4S1V1UTV6amx5TQ?oc=5</link>
 <guid isPermaLink="false">02877e8e7caaec7952cfe64c88d576c74d40292c08544f64514b717f3074748f</guid>
@@ -1953,15 +1980,6 @@
 <media:content url="https://media.wired.com/photos/67b63b9079f27a355461c964/master/pass/WIRED-Coupons-R2_2.png" medium="image"/>
 </item>
 <item>
-<title>Chirp Pong – uses microphones and audio for networked game play</title>
-<link>https://simonwillison.net/2026/Oct/15/chirp-pong</link>
-<guid isPermaLink="false">f63d7248b24014115f326f2f75b98419579c3a55273f3004b9c553efea18c965</guid>
-<source>Hacker News</source>
-<category>technology</category>
-<pubDate>Fri, 16 Oct 2026 04:25:02 +0000</pubDate>
-<description>Comments</description>
-</item>
-<item>
 <title>A Tesla Flying Car? I Don’t Know, Man</title>
 <link>https://www.wired.com/story/tesla-flying-car-faa</link>
 <guid isPermaLink="false">aa4cba8a64873f5ac4c04bea0355e5fed9f1e25a689c40213442f02a7e10cdf0</guid>
@@ -1982,6 +2000,15 @@
 <description>The automaker unveiled its next luxury sports car at an event in Texas. It has thrusters on it that can send it airborne.</description>
 <enclosure url="https://media.wired.com/photos/6ad1d5e2a804ead0a674d698/master/pass/2026-10-16T014704Z_772485108_RC214OA3Y5KO_RTRMADP_3_TESLA-ROADSTER.JPG" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/6ad1d5e2a804ead0a674d698/master/pass/2026-10-16T014704Z_772485108_RC214OA3Y5KO_RTRMADP_3_TESLA-ROADSTER.JPG" medium="image"/>
+</item>
+<item>
+<title>How my son showed me AI is now the world’s biggest lose-lose bet - AFR</title>
+<link>https://news.google.com/rss/articles/CBMinAFBVV95cUxPeFhuU3NXX2J1Q0xWaHo4WldKbHg5Sll5bElqbERYVzcxY0U3UXFlWHhTbzFCOXItaXd1d2hGcVp1QjM5OFVNZjhhdlNhR2JKMDBvYklQS1k3LWxYY0JRenFyOV94VE9QYVhuM25Cb1RpeGFsTFN5UmY5RVBoZU5hN3dKTUh4T2twTDA1MV9BU0g5bVFYY3ZlRUVKYmw?oc=5</link>
+<guid isPermaLink="false">ceddaf5bd9f49cf5c09e4d34bb20edf92ce866ae4f333eef4ec3ed104f40afaa</guid>
+<source>Google News Artificial Intelligence</source>
+<category>technology</category>
+<pubDate>Fri, 16 Oct 2026 00:09:00 +0000</pubDate>
+<description>How my son showed me AI is now the world’s biggest lose-lose bet AFR</description>
 </item>
 <item>
 <title>KDE turns 30 with Plasma 6.8, remote upgrades, and an X11 farewell</title>
@@ -2048,15 +2075,6 @@
 <description>The incident is likely 1st confirmation of mercenary spyware delivered by targeted ads.</description>
 <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2023/07/exploit-vulnerability-security-1.jpg" type="image/jpeg"/>
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2023/07/exploit-vulnerability-security-1.jpg" medium="image"/>
-</item>
-<item>
-<title>Trump’s Move to Rename Artificial Intelligence to ‘Super Intelligence’ is About Much More Than It Seems - Yahoo</title>
-<link>https://news.google.com/rss/articles/CBMiowFBVV95cUxPb041aHhWZHE5MThPZ1Vwc2pRNzg4TWdOZFNrRzRDczFfbExfOHN0VlBYZ0VtT3NBSnpPUWc5ZXlWWWY2UGpSYUxoUG1RemdEWTFwVVdBd1ZzZ0VrblhVRDNnYWhWdmhfcUwtXzZxRHQ5dXZfczBDMDJ4MGFWTG1fU0pBZVEwVnNfbGF5bURtdzNYSnVVTmFHWjB1SzJvNmFDSUJz?oc=5</link>
-<guid isPermaLink="false">9c46821d2f82477ff03716dea157ec6408dd9e8254ffd9b10480f5a47b5311fc</guid>
-<source>Google News Artificial Intelligence</source>
-<category>technology</category>
-<pubDate>Thu, 15 Oct 2026 19:41:51 +0000</pubDate>
-<description>Trump’s Move to Rename Artificial Intelligence to ‘Super Intelligence’ is About Much More Than It Seems Yahoo</description>
 </item>
 <item>
 <title>Trump’s Move to Rename Artificial Intelligence to ‘Super Intelligence’ is About Much More Than It Seems - Talking Points Memo</title>
@@ -2153,15 +2171,6 @@
 <description>The artist’s macabre short works have been adapted into eerily freaky 30-minute bites for television. We got a sneak preview of the next episode airing on HBO Max.</description>
 <enclosure url="https://media.wired.com/photos/6acec4974eea6509d95be967/master/pass/Junji-Ito-Manga-Horrors-Culture-2276601648.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/6acec4974eea6509d95be967/master/pass/Junji-Ito-Manga-Horrors-Culture-2276601648.jpg" medium="image"/>
-</item>
-<item>
-<title>A History of Curves and Surfaces in Computer Aided Geometric Design [pdf]</title>
-<link>https://math.pku.edu.cn/teachers/jiangm/courses/CG/Lectures/spline-history.pdf</link>
-<guid isPermaLink="false">c0e51fc929b83dba5be62279b6b0cfeff8776d090cf348d5a20788624f605468</guid>
-<source>Hacker News</source>
-<category>technology</category>
-<pubDate>Thu, 15 Oct 2026 12:06:38 +0000</pubDate>
-<description>Comments</description>
 </item>
 <item>
 <title>Kids’ Content Is Deeply Broken. A New Platform Wants to Fix It</title>
@@ -2335,15 +2344,6 @@
 <category>technology</category>
 <pubDate>Wed, 14 Oct 2026 18:53:52 +0000</pubDate>
 <description>Comments</description>
-</item>
-<item>
-<title>AI @ CLS: Columbia Law School’s Artificial Intelligence Initiative - Columbia Law School</title>
-<link>https://news.google.com/rss/articles/CBMipwFBVV95cUxNMHJneUFEd0JsTEc3ckpyejh4LXJfM0lEYlBYazJ0RXNlQTF2WURyOWMyWTJPU0NOYkpuLWpzVkFWWmRGV1NLMWJmV1FPb3VPcTZBMVRvWi0yYmg2LVdpUzRwUG1zUU1RbVEwRlJJX05aS282Vm1CWUJMcHBqSERsQ05CQ3paRGlmZXVSdDZ2M3lQSHRSMkhjQWxMM1hTdEFaTVdiTXZxcw?oc=5</link>
-<guid isPermaLink="false">bcd123d08f1f8e4158fac66f95e4ad4c0283b4d39cb55c0894f98556117a3586</guid>
-<source>Google News Artificial Intelligence</source>
-<category>technology</category>
-<pubDate>Wed, 14 Oct 2026 14:53:52 +0000</pubDate>
-<description>AI @ CLS: Columbia Law School’s Artificial Intelligence Initiative Columbia Law School</description>
 </item>
 <item>
 <title>What a Group of A.I. Agents Talked About as Their Humans Had a Dinner Party - The New York Times</title>
