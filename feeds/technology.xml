@@ -4,6 +4,15 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Walmart’s Flipkart is quietly building a food delivery challenger in India</title>
+<link>https://techcrunch.com/2026/10/19/walmarts-flipkart-is-quietly-building-a-food-delivery-challenger-in-india</link>
+<guid isPermaLink="false">100bff9303260c69ed4a87f99644694476594a01426e5f5565fae73d202e0fe8</guid>
+<source>TechCrunch</source>
+<category>technology</category>
+<pubDate>Tue, 20 Oct 2026 02:00:00 +0000</pubDate>
+<description>Flipkart has expanded access to its food-delivery service to thousands of employees ahead of its public launch.</description>
+</item>
+<item>
 <title>Mamdani says feds have abdicated on AI, urges New Yorkers to push back</title>
 <link>https://techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back</link>
 <guid isPermaLink="false">64a3076b94d5dad5f5bc934c7a78977c67e9709a1947a039944c0d2e621680e9</guid>
@@ -28,15 +37,6 @@
 <source>Hacker News</source>
 <category>technology</category>
 <pubDate>Tue, 20 Oct 2026 00:53:52 +0000</pubDate>
-<description>Comments</description>
-</item>
-<item>
-<title>Vortex Code: one prompt, an AI software team that ships</title>
-<link>https://spinozalabs.ai/news/introducing-vortex-code</link>
-<guid isPermaLink="false">8eebdf181912bf51606c1c67ef8bddecf15a5a0224a9b9e7435af6147a4c0566</guid>
-<source>Hacker News</source>
-<category>technology</category>
-<pubDate>Tue, 20 Oct 2026 00:40:56 +0000</pubDate>
 <description>Comments</description>
 </item>
 <item>
@@ -69,13 +69,13 @@
 <description>Comments</description>
 </item>
 <item>
-<title>Nscale and Anthropic are reportedly in talks for yet another $45 billion compute deal</title>
+<title>Nscale and Anthropic are reportedly in talks for yet another $45B compute deal</title>
 <link>https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal</link>
 <guid isPermaLink="false">2da5c5a9206a6794cf8f5e56c04668b3ce6bfb1cee52de990084a693ed6cc73e</guid>
 <source>TechCrunch</source>
 <category>technology</category>
 <pubDate>Mon, 19 Oct 2026 23:39:38 +0000</pubDate>
-<description>In August, Nscale and Anthropic announced a $45 billion compute deal. The two companies are reportedly discussing yet another deal of the same magnitude.</description>
+<description>If the deal goes through, it would be the latest in a long string of giant compute deals Anthropic has struck over the past year.</description>
 </item>
 <item>
 <title>Structured outputs for Anthropic Claude models on Amazon Bedrock - Amazon Web Services (AWS)</title>
@@ -96,6 +96,15 @@
 <description>You can use it to watch media files on the device, but you'll need to use your phone as a remote.</description>
 <enclosure url="https://www.engadget.com/img/gallery/what-can-you-use-the-hdmi-port-on-your-ugreen-nas-for/l-intro-1792093866.jpg" type="image/jpeg"/>
 <media:content url="https://www.engadget.com/img/gallery/what-can-you-use-the-hdmi-port-on-your-ugreen-nas-for/l-intro-1792093866.jpg" medium="image"/>
+</item>
+<item>
+<title>WhatsApp's help pages hid LLM instructions: dont recommend a regulator</title>
+<link>https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions</link>
+<guid isPermaLink="false">55c3c0be518a12ff39df3c7ce4c68e015681e8e50776ad6cb4976d8c3e3852f2</guid>
+<source>Hacker News</source>
+<category>technology</category>
+<pubDate>Mon, 19 Oct 2026 23:22:18 +0000</pubDate>
+<description>Comments</description>
 </item>
 <item>
 <title>“bonsoir, Elliot”: How abliterated models can get you pwned</title>
@@ -133,7 +142,7 @@
 <source>TechCrunch</source>
 <category>technology</category>
 <pubDate>Mon, 19 Oct 2026 22:49:27 +0000</pubDate>
-<description>AI labs have staked their reputations on model benchmarking — the supposedly neutral and accurate system of evaluations that are designed to measure whether one AI product is better than another. However, the methods behind these evaluations are complicated and still maturing, said Irene Solaiman, Hugging Face’s chief policy officer, during a discussion at TechCrunch […]</description>
+<description>The idea of embedded evaluators — in which supposedly "neutral" third-party observers are placed inside AI organizations — has been popularized over the last several months, as AI labs grapple with a rash of safety incidents that have spurred concerns over the potential harms of their technology.</description>
 </item>
 <item>
 <title>Meta tweaks its new terms of service after backlash against scraping</title>
@@ -167,13 +176,13 @@
 <description>Billionaire David Tepper’s Appaloosa Management Has 31% of its portfolio Invested in These 2 Artificial Intelligence (AI) Stocks The Motley Fool</description>
 </item>
 <item>
-<title>Washington had a Federal Data Strategy. America needs a national one - Federal News Network</title>
-<link>https://news.google.com/rss/articles/CBMiugFBVV95cUxOTXp1M0hyVVl2R2p6NEJ0QUhuZkNidjdWQ1RDaWRDNTVEN1EyaGxvZUlKdjR5S2g1djk1Sm1GdlNQa1JHZGZ1eG9tMU5aNFhTTEpWQ1RuXzVPa3B0OUVKZTVIUTJKcXBZTFNpaVVoWlBNM1d3LWo1ZUVWWXVFY3RtUEFaYkVCeTVDalphZnR6X21yUnFHWk1adUo3RUVvM19PNFozRGJUTS14bU42b0hwMWx0bVJiOVo1dVE?oc=5</link>
-<guid isPermaLink="false">dad232fbfad3d924e6009ab8c73fbf1c603f13df9ce50b77d8e11ed8f18d440d</guid>
-<source>Google News Artificial Intelligence</source>
+<title>An ad-free Android TV</title>
+<link>https://cretezy.com/2026/ad-free-android-tv</link>
+<guid isPermaLink="false">71ae8e89bbe13917fbf95187ec19737b97999e22be3fbd391a20519f5737e64f</guid>
+<source>Hacker News</source>
 <category>technology</category>
-<pubDate>Mon, 19 Oct 2026 22:33:20 +0000</pubDate>
-<description>Washington had a Federal Data Strategy. America needs a national one Federal News Network</description>
+<pubDate>Mon, 19 Oct 2026 22:32:37 +0000</pubDate>
+<description>Comments</description>
 </item>
 <item>
 <title>Elon Musk’s proposed SpaceX stock giveaway would go into &amp;#8216;Trump Accounts&amp;#8217;</title>
@@ -185,6 +194,15 @@
 <description>President Donald Trump announced this afternoon that Elon Musk's SpaceX shares for children will be given through Trump Accounts. Musk said earlier today that he would give one of his SpaceX shares to "every kid in America" sometime next year. Musk had thanked Trump Account booster Brad Gerstner for "helping enable this," and Trump appeared […]</description>
 <enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK022_ELON_MUSK_CVIRGINIA4_L.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
 <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK022_ELON_MUSK_CVIRGINIA4_L.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Amanda Sturgill receives grant to explore students’ use of generative AI - Elon University</title>
+<link>https://news.google.com/rss/articles/CBMisAFBVV95cUxPNW90OWcwNDJ2VTJNTWY3bHF6dXRZM0RnZ3diRHZORmNnZU9TOWRVTUFEaDItdk5MZzFWSlZhcVRFMmlXdS16ZTdQNWVqWTA0OWlvSEpDT3A2d2Y1ZjQwbVZSWTRTbUlwR0RFdVV1TXZLYnpneUFFN09wRmEyOFN5alFBVHRMUTVPMmVheU4wSmlMdWlJQ1NOTzIxdjF1UDA2ZDFTVmtwa3pTelhnRThXRg?oc=5</link>
+<guid isPermaLink="false">a40e1c8a1bd07dfa9f833ad85e8d8c75fcfe0dce77dba78cfea4249b1f2cee5b</guid>
+<source>Google News Artificial Intelligence</source>
+<category>technology</category>
+<pubDate>Mon, 19 Oct 2026 22:30:11 +0000</pubDate>
+<description>Amanda Sturgill receives grant to explore students’ use of generative AI Elon University</description>
 </item>
 <item>
 <title>Why your expensive Wi-Fi 7 router could be delivering slower speeds</title>
@@ -223,6 +241,15 @@
 <category>technology</category>
 <pubDate>Mon, 19 Oct 2026 22:06:25 +0000</pubDate>
 <description>Artificial Intelligence, US Reversal on Beneficial Ownership Fueling Fraud ACAMS</description>
+</item>
+<item>
+<title>Elon Musk says he’ll give a SpaceX share to every American child - The Washington Post</title>
+<link>https://news.google.com/rss/articles/CBMisgFBVV95cUxPRklGSGE2QUJjNDV5WTllLXpaREpPTXFEU2lmQld4ZlJ4eDJ4N2J4b2F5eUg0VXpSdjkwOTJGU0RUSk9fMkVkZWFGYWxHQnI1QkE0X1VmOTFIVnBiek1STENoYVV3WnFLdmh0WVV0aENHQUFUUE1QOVZHa3Foel9hcC1DNmhocEJiZkwyQXZ3aHVtNDRnRnMxX1JFTTl4Nm9Obko4UFRmZk16QXF5cDJQRUdB?oc=5</link>
+<guid isPermaLink="false">ab887e99a3cc26e635dc95bccd36030579974697d3ec6163381f70079ce64574</guid>
+<source>Google News Artificial Intelligence</source>
+<category>technology</category>
+<pubDate>Mon, 19 Oct 2026 22:06:06 +0000</pubDate>
+<description>Elon Musk says he’ll give a SpaceX share to every American child The Washington Post</description>
 </item>
 <item>
 <title>Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’</title>
@@ -292,13 +319,22 @@
 <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25824781/STK438_CLIMATE_CHANGE_C.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
-<title>Drupal is now light-years ahead of its reputation</title>
-<link>https://dri.es/state-of-drupal-presentation-september-2026</link>
-<guid isPermaLink="false">6f9baf4b4f296bc7752676ef078d9a2d57fc1190d966325b104fdc50712745d4</guid>
-<source>Hacker News</source>
+<title>Trump Admin Bans DeepSeek From Federal Agencies - Gizmodo</title>
+<link>https://news.google.com/rss/articles/CBMihAFBVV95cUxQandjME0xa25DTTBERlBYeG1BTDhEaUxrd1FmUy1nRFVVR1lmV2xkdmJtcFNZNmRHT25GZHVuRmpFNG1SRk01RlFwa2JDd1ZTTFFzQS1IdHBlNXFvbGNUdWl6WDRFZFR0dHhJalRQU0ZaaVBYOGJCQ1dEOTVsVWgyRC0ybnU?oc=5</link>
+<guid isPermaLink="false">1c0743f0bd39812912dbef80f3e93154faab0c704be54a1edabda6844144f004</guid>
+<source>Google News Artificial Intelligence</source>
 <category>technology</category>
-<pubDate>Mon, 19 Oct 2026 21:38:02 +0000</pubDate>
-<description>Comments</description>
+<pubDate>Mon, 19 Oct 2026 21:41:06 +0000</pubDate>
+<description>Trump Admin Bans DeepSeek From Federal Agencies Gizmodo</description>
+</item>
+<item>
+<title>EXCLUSIVE: How one hacker used AI agents and a few thousand dollars to break into scores of sites - Reuters</title>
+<link>https://news.google.com/rss/articles/CBMixgFBVV95cUxQSUVKUWRvY0tQeUZscHhGcDBLYjI5VVZaYXRFRklFbmEzX29RaVFuMmt6cDlpMURENUtWRFpBQVBnNngwcWJla3NJZllZVDFBb2NKU21YUnBkMTNKb1NEM3BNLXk2OXpVbVpyZXM3NHVaOUNrWGZzRWhGQlRFSDhPa0E4TVdCTnBuZjNBS2R2UU9ySzV1c2hCbUVycmFHUTNpVk1vX0kxSEEyMUllRlpsakRfNEdZUlJUWVBVRTFqYkZiYm5jR1E?oc=5</link>
+<guid isPermaLink="false">1b75e087b70c13e381dbebe3644c2f56716f6b76fe1013325af24e2b82ea8220</guid>
+<source>Google News Artificial Intelligence</source>
+<category>technology</category>
+<pubDate>Mon, 19 Oct 2026 21:30:28 +0000</pubDate>
+<description>EXCLUSIVE: How one hacker used AI agents and a few thousand dollars to break into scores of sites Reuters</description>
 </item>
 <item>
 <title>CoreWeave&amp;#8217;s debt is becoming the whole AI industry&amp;#8217;s problem</title>
@@ -408,24 +444,6 @@
 <description>Comments</description>
 </item>
 <item>
-<title>Character.ai Bankruptcy Exposes the High Cost of AI Companionship - PYMNTS.com</title>
-<link>https://news.google.com/rss/articles/CBMiwAFBVV95cUxNbEJUV2QwTFhOOXMyak5GY2JQcm1uaDNsd0VaazczSk9xMFY5UTlOdUoxN3BYTmhuYVFMUmN1bm16LU00Zmh1bDJVdlQzRVF0TjdmUkdWUWZPTHlUaldvQzF4NjlCSzJTMWxPUGYzN21RRnBGd2NRX0FYc1ZpbExITnFYeW42SGFhamdnLVZRVklqam53OVo0bHF4b3ZvS3g4MXc3V2lEU0lvUDZlM2t0cjhHQ2NObGhGYVA4OFJCVGM?oc=5</link>
-<guid isPermaLink="false">4f20392a0f38f0fdb2c0c10ef7a1225ff320c3e0a09c160c8c236c6a0c19b7b0</guid>
-<source>Google News Artificial Intelligence</source>
-<category>technology</category>
-<pubDate>Mon, 19 Oct 2026 20:28:13 +0000</pubDate>
-<description>Character.ai Bankruptcy Exposes the High Cost of AI Companionship PYMNTS.com</description>
-</item>
-<item>
-<title>AI facial health recognition tools help physicians assess age and survival risk to guide personalized treatment - Mass General Brigham</title>
-<link>https://news.google.com/rss/articles/CBMinwFBVV95cUxPenVRcm9BaHN2LV9udXdIRjRWNE5SVkhoeWppMlB0N0YteHBkc2lfMGZXNEFkaURxenVtTlpqRkNGU2xPR1YySV9rSWlZaUlIQWNFUUFYWFFGbzNCdkdmT1FNTUs3WHd6RmpoQUI3X2ZZcGJ4NjBqRDNjajhYUl83NXRfbThBblBxbnZQS29WNjZqZTVUNFdNOWJ2bXVHSGM?oc=5</link>
-<guid isPermaLink="false">71c553cd169599c8c8ca10c6e4a78d6049cbfc4fd0e3d3fb007d17e09e47efd5</guid>
-<source>Google News Artificial Intelligence</source>
-<category>technology</category>
-<pubDate>Mon, 19 Oct 2026 20:24:41 +0000</pubDate>
-<description>AI facial health recognition tools help physicians assess age and survival risk to guide personalized treatment Mass General Brigham</description>
-</item>
-<item>
 <title>Can AI Help Predict Drug Shortages? - Pharmacy Times</title>
 <link>https://news.google.com/rss/articles/CBMiekFVX3lxTFBOT2xtcS04QTFFc2ZGWkdZcVo2NXZGRWxzUks3cjUyNVZuY29ZU21KLUVaX2tYQld6WXhHbUxZQjV1TkYyYXdaTEV4dTFXaTE0aUNkZk5yYnU2d2M1YTBTSXJNYmF1RUdfcnp1dmNieHJXX2VQZVdYUTJn?oc=5</link>
 <guid isPermaLink="false">31d6a92436987ba91de453173d73383b78cb00b507a106bbbe1effb0e63327dd</guid>
@@ -473,6 +491,15 @@
 <category>technology</category>
 <pubDate>Mon, 19 Oct 2026 19:55:15 +0000</pubDate>
 <description>‘The user is hacking himself’: How AI exposes Israel’s political inner circles - analysis The Jerusalem Post</description>
+</item>
+<item>
+<title>Anthropic putting 5% of shares toward public benefit fund that could address AI impact on workers - Fox News</title>
+<link>https://news.google.com/rss/articles/CBMifEFVX3lxTE5nSDBhTW9ZZkVWV05naXhhZzlqU2ZhRFB2TVFRNFdkV0VYaG9jRl9HbTRMbWVHSEtQZHVzQWQzdUFoRVFGc25sdFo0TndZLWFkWUdwMXVic3FtNGs0LU0wYzEzVkRKdUdpOVFFQnZYWXRsREZ5YlNjNXo0SGU?oc=5</link>
+<guid isPermaLink="false">13935295c9291d82ec91d1417131b072d7812c7958886cc98807c32b6b3c6d90</guid>
+<source>Google News Artificial Intelligence</source>
+<category>technology</category>
+<pubDate>Mon, 19 Oct 2026 19:53:53 +0000</pubDate>
+<description>Anthropic putting 5% of shares toward public benefit fund that could address AI impact on workers Fox News</description>
 </item>
 <item>
 <title>OpenAI Engineer Accused of Spying on Executives Ordered to Remain in Custody</title>
@@ -680,15 +707,6 @@
 <category>technology</category>
 <pubDate>Mon, 19 Oct 2026 18:21:54 +0000</pubDate>
 <description>US bans DeepSeek AI from government use as tech tension with China continues BBC</description>
-</item>
-<item>
-<title>Why teaching AI about symmetry could make prenatal diagnosis more reliable - MIT News</title>
-<link>https://news.google.com/rss/articles/CBMiowFBVV95cUxPbjZpb1ZUa3ZVMGIxWDNac01lMDhoMFYxYnd6RWNibHdDT2RVNnVyVnAxRlJyR1JVZzFOUU94Y1RqZjNNc0xGWDNPdG54ZmJkY1pEYmZnYVp4TW0zYmM4SFJwNnE3ZUc3RENwWGtmNTUzbmhjU0FSUkdHWVVvQlh0U3M5bkxPd0QxS0NUQ0o0cWVNV25kVEU1UjFCUzVFbjdrMTVn?oc=5</link>
-<guid isPermaLink="false">3627c926f23945a250eda8b5162820c0e7d66bcf8d7d3b4edac4bba18760c8ad</guid>
-<source>Google News Artificial Intelligence</source>
-<category>technology</category>
-<pubDate>Mon, 19 Oct 2026 18:20:00 +0000</pubDate>
-<description>Why teaching AI about symmetry could make prenatal diagnosis more reliable MIT News</description>
 </item>
 <item>
 <title>Better Artificial Intelligence Stock for 2026: C3.ai vs. SentinelOne - The Motley Fool</title>
@@ -1017,15 +1035,6 @@
 <description>Improve TTFT for multi-turn agentic workloads with bi-directional KV transfer in vLLM Amazon Web Services (AWS)</description>
 </item>
 <item>
-<title>Launch HN: Laminar (YC S24) – RL-trained model that finds errors in agent traces</title>
-<link>https://news.ycombinator.com/item?id=50154029</link>
-<guid isPermaLink="false">6a23445afa1896da32789b0b0db527d66ce0eb486b7f25c2545cdb79f160a392</guid>
-<source>Hacker News</source>
-<category>technology</category>
-<pubDate>Mon, 19 Oct 2026 16:00:18 +0000</pubDate>
-<description>Comments</description>
-</item>
-<item>
 <title>Researchers use artificial intelligence to design potential antiviral compounds - Phys.org</title>
 <link>https://news.google.com/rss/articles/CBMikgFBVV95cUxQUFljVXEtNWotXzF1SWdqbmRNdkxKd3piV1R6QzJCS0lLeGhOZlFNTW5RLXJQcDd2SWJHeXRoTXR6N2pKcC1Wc2VQd1VpSVpBc0ZrSE9SNkhvRVBrS2hYZ2FZSWo4cHJUbnE0cWpxYnJ1dGVmSWw5akpCVjNlZDFyVkcxRVdLRDdIVXFjM0lTUUtRZw?oc=5</link>
 <guid isPermaLink="false">bb22243eedf5a85112f9764a0544bd1a3044b9733f3cc2bc8b5a4a39b71ba10c</guid>
@@ -1102,6 +1111,15 @@
 <category>technology</category>
 <pubDate>Mon, 19 Oct 2026 15:36:50 +0000</pubDate>
 <description>A Chinese hacker used AI agents to break into more than 100 company websites — Deere and SharkNinja among websites hit by open-source AI-powered problem-solving platform demo Tom's Hardware</description>
+</item>
+<item>
+<title>Explosive Document Claims That AI Is Not What We Think - Futurism</title>
+<link>https://news.google.com/rss/articles/CBMijAFBVV95cUxQZFExYXpoMllKY21CbmNhMWlma25UbHdSR1VYRU0tdG1CdzlZZWJSQ1JnWkFTbmtRd3VKcGtSQ0hKUmNuaGFvUV9PeVBhZGVyc0I1VUhrWGZVbm8yYWVOREpuUzJjd0dPQXN4dzBpRFVCd1ROYmxfRTctT3BReVlYNFBlNG1JMjNranJsTw?oc=5</link>
+<guid isPermaLink="false">462a77bbee4cfcc6bdf936d57636a35f6ea5fee58892390794484457f0d62d4d</guid>
+<source>Google News Artificial Intelligence</source>
+<category>technology</category>
+<pubDate>Mon, 19 Oct 2026 15:36:49 +0000</pubDate>
+<description>Explosive Document Claims That AI Is Not What We Think Futurism</description>
 </item>
 <item>
 <title>The AI doom scenario you've never heard of may be the hardest to stop - CBS News</title>
@@ -1187,15 +1205,6 @@
 <category>technology</category>
 <pubDate>Mon, 19 Oct 2026 14:52:04 +0000</pubDate>
 <description>Comments</description>
-</item>
-<item>
-<title>Not Nvidia. Not Micron. This Artificial Intelligence (AI) Chip Stock Has the Most Upside Through 2030. - The Globe and Mail</title>
-<link>https://news.google.com/rss/articles/CBMihwJBVV95cUxPTjdHSXl2RmNZWlRCOTVnV2xLMV9DLWllNTA2TkZac1RiUDNvUmhqTy1iNnRaTXJRbUhrWWpTeDVyVlNIMHQtaU9GQ1FSZ3A3SUc4dWc3cXRrbGp3b2xPZkdRcXB4Y0x5ajVtUXRhc2xFVjI3dWZyZW9LR3RValJVNlVvUGV5cDdlYmdwNkdpaXRMSG1UNENlYl9xY2dQZWhiaTFiX3Uxb1BKU1NBc1lvSGtNSncwLTduMnV0TXJBREg2MVJfd09NUmN5TzNJMHp0NkluRkhFYzlXX0F6VnJzSlhzTlNKUHUwQzVKX29nSkktTDFRcDM5Q3FETjhnM2ZqNHVnbUg1VQ?oc=5</link>
-<guid isPermaLink="false">f284259d6a311e82eb8a964fed2248e4fd6f1f818c0d51cacf6a849e5f7db58e</guid>
-<source>Google News Artificial Intelligence</source>
-<category>technology</category>
-<pubDate>Mon, 19 Oct 2026 14:51:26 +0000</pubDate>
-<description>Not Nvidia. Not Micron. This Artificial Intelligence (AI) Chip Stock Has the Most Upside Through 2030. The Globe and Mail</description>
 </item>
 <item>
 <title>Disney found a way to buy Character.AI without buying its lawsuits</title>
@@ -1376,15 +1385,6 @@
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/05/lanterns1-1152x648-1790363326.jpg" medium="image"/>
 </item>
 <item>
-<title>This Artificial Intelligence (AI) Stock Is Already Seeing Demand Stretching Into 2030 - The Globe and Mail</title>
-<link>https://news.google.com/rss/articles/CBMi9AFBVV95cUxORDhfdTBXR19MM2JFU2pXWGlIS1JmdXJaa2RrOXAzcmoxWUxmNmtkb2dHUDktOU5qV0ozWDN1cndMNHNCbHdJWEdmSTZmTE1RLTJFa2I4TktKVEdjM292N0MzTk5xUkV2NWtRNndkMkoxaDczUlNkTzBDWmRJb2stZUF2bTVOSlRwUU5sN2I2TEJxM1F0aTR6MnhVYXhST2NqN2ljcXdKaDdZRW93OFF1bDk2emR6TEZnVkUwMGlBMTJvbmtxdmtrb21ibGFtVW51ZzhqNk9LbkRCdWZ6YkVaeDVCXzV0b3ZEcEladzdiSnRSWGx4?oc=5</link>
-<guid isPermaLink="false">a77262614f272a23cb53a7d3cf09a39dc783963223dd1892d5342e0aaa26c3ff</guid>
-<source>Google News Artificial Intelligence</source>
-<category>technology</category>
-<pubDate>Mon, 19 Oct 2026 13:20:23 +0000</pubDate>
-<description>This Artificial Intelligence (AI) Stock Is Already Seeing Demand Stretching Into 2030 The Globe and Mail</description>
-</item>
-<item>
 <title>Which businesses are using AI technology? - Federal Reserve Bank of St. Louis</title>
 <link>https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMW54SFFNc04xd0RPNW5NZVd1ZnJDRFd6bzRhSHZiZHl0SGtfZlM5allnS1NuOG5WQ0lzZC1oT0FKV29hUmY4dDJaWjdtajhQV0NEaVlYNFBjajhJTnR0UXhwSGNXNy0teU14RFk0UlprSmN2X3N1VUtkeUllYl82eHRNVlhfUDYz?oc=5</link>
 <guid isPermaLink="false">0f0bd4116a9a8d8b24e110928fab2c9d5f46f368cd9bd2c70248cb06f68ddbd0</guid>
@@ -1526,13 +1526,13 @@
 <description>China's MiniMax launches updated AI model M3.1 Flash, claims major improvements Reuters</description>
 </item>
 <item>
-<title>Artificial Intelligence (AI) in Crop Monitoring Market with Segment Analysis and Strategic Industry Insights - EIN News</title>
-<link>https://news.google.com/rss/articles/CBMi4gFBVV95cUxNNHNjRUJWZ3F6b2F4YXFQN3cwM1A1Zi01eHlXSjQ4LWM5dmxscWtrWllCcHhCbHoxbzFjOVpBX2piTjBNQmx0bl94RWJkWWZnX0FPZFYzZ1lUcGZtSUxGRG1YQ0hGWTNKRUJDZTRDMUpnTnBfNThEdjJxZHdaV1RCVDdwTmZkNTJWU1lJSzVvbnF2WXh4TmcyOXhMXzUybEZDUjJ2MGNyZ1RXRVA0RnY5UTlvTFR0U1BfbVZyY01hU0ktLXltNExUSHluT0xMX2tiVmxfR3p0SDR5VlVFTFpWRnBn?oc=5</link>
-<guid isPermaLink="false">75255c9476616001844fd61eb57d09b643223569af837c1b35c8323c1d2471e7</guid>
+<title>Artificial Intelligence (AI) in Crop Monitoring Market with Segment Analysis and Strategic Industry Insights - EIN Presswire</title>
+<link>https://news.google.com/rss/articles/CBMi6AFBVV95cUxNaF9WNHFXTmtLYU5VbVBXcmFfdlpJM1ZQRlc2X0pBY0o3QTdjQTc0U3BtaTZWN3c3SFczUDdLSG52S05YZS01V3ZGTkVIS092c3JacENmd25XamhvWkxQLVZYN1hWZnJ2dHVWWWZrazJzd2g0UUp4RjdWOVlWTDhMeWtyR2hFOFltYmhKdUtHSEZRNnp3WlJ2aUtPSGpucVBUWU1rU0I2ZFB1MzFrYXhQX0hmbVh0WjFlVWlzMWxzZS1uNTZJMGZmdDVhMFFZcTVFekpfQTdrODFrdlQ2LUV0Z05nR1Z2bzN1?oc=5</link>
+<guid isPermaLink="false">0473cc2ff8f65c994cd82f3825419c3103899afa0d2a3dc5899b7b6bf2db6754</guid>
 <source>Google News Artificial Intelligence</source>
 <category>technology</category>
 <pubDate>Mon, 19 Oct 2026 12:23:00 +0000</pubDate>
-<description>Artificial Intelligence (AI) in Crop Monitoring Market with Segment Analysis and Strategic Industry Insights EIN News</description>
+<description>Artificial Intelligence (AI) in Crop Monitoring Market with Segment Analysis and Strategic Industry Insights EIN Presswire</description>
 </item>
 <item>
 <title>4 ways to tame shadow AI (hint: you need them all) - Computerworld</title>
@@ -1680,15 +1680,6 @@
 <category>technology</category>
 <pubDate>Mon, 19 Oct 2026 09:59:32 +0000</pubDate>
 <description>Comments</description>
-</item>
-<item>
-<title>The AI Boom Is Entering a New Phase: 2 Stocks to Buy Now, According to Wall Street Analysts - The Motley Fool</title>
-<link>https://news.google.com/rss/articles/CBMikwFBVV95cUxPYVVtMnVaaTZ3cUJzODRiZkFabDVLWmNEcGdoRVVYMjFKUnZXZHNlNnRMWXhTdk1oRWNGczBxYjJOZWNsbUtCT2ZKSkVyTVBqOEt0NXgxZEROdGZzRFR3OXhLeWtqYWtGVzVxUTRzZHRRRWZWcE96anhweDNHZXpkSWJEN0xyUE1wNGVpM0dOdkpXVUU?oc=5</link>
-<guid isPermaLink="false">c303237a3de62e9beb85d32b682344cf530675b8d9ffb7815753c5f23a85e50c</guid>
-<source>Google News Artificial Intelligence</source>
-<category>technology</category>
-<pubDate>Mon, 19 Oct 2026 09:48:00 +0000</pubDate>
-<description>The AI Boom Is Entering a New Phase: 2 Stocks to Buy Now, According to Wall Street Analysts The Motley Fool</description>
 </item>
 <item>
 <title>15 Best White Elephant Gifts, Plus a Prank Box to Put Them In (2026)</title>
@@ -1850,15 +1841,6 @@
 <description>Why Artificial Intelligence Could Threaten The Future Of Science Forbes</description>
 </item>
 <item>
-<title>Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’</title>
-<link>https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund</link>
-<guid isPermaLink="false">33da8aabe6e16f93a7957c91367405748ea6a264b28b121b330ebee69669dc6a</guid>
-<source>TechCrunch</source>
-<category>technology</category>
-<pubDate>Sun, 18 Oct 2026 20:37:40 +0000</pubDate>
-<description>The company offered some broad-strokes ideas for how this money might actually be used, such as “large donations to traditional nonprofits or direct distributions to specific populations.”</description>
-</item>
-<item>
 <title>Anthropic gives outside AI watchdog “employee-like” access</title>
 <link>https://arstechnica.com/ai/2026/10/anthropic-gives-outside-ai-watchdog-employee-like-access</link>
 <guid isPermaLink="false">3055ac5eec49bd6dea8987e25392fec815a89476a5998b6c35a6b099ad6dad85</guid>
@@ -1941,17 +1923,6 @@
 <media:content url="https://media.wired.com/photos/6ad29ddafd63dd03d89fa465/master/pass/Review%20Valerion%20VisionMaster%20Max%204K%20Projector%20102026%20top%20art%20SOURCE%20Valerion.jpg" medium="image"/>
 </item>
 <item>
-<title>Magnesium May Not Reach Your Brain, Despite Supplement Label Promises</title>
-<link>https://www.wired.com/story/magnesium-may-not-reach-your-brain-despite-supplement-label-promises</link>
-<guid isPermaLink="false">4c0911cabb05184072e7fde7ca064413f1d7b7142ca03e6703a83d605181167c</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Sun, 18 Oct 2026 09:00:00 +0000</pubDate>
-<description>Some of the many variants sold today promise to penetrate our gray matter, but biology isn’t in the habit of respecting marketing declarations.</description>
-<enclosure url="https://media.wired.com/photos/6acf777ced16e31e6734c24b/master/pass/GettyImages-2281567983.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/6acf777ced16e31e6734c24b/master/pass/GettyImages-2281567983.jpg" medium="image"/>
-</item>
-<item>
 <title>Climate Change Has It In for the World’s Best Surfing</title>
 <link>https://www.wired.com/story/climate-change-has-it-in-for-the-worlds-best-surfing</link>
 <guid isPermaLink="false">8c53bca09a49f3aa302dc02528a3d8d7f8b7ff05411516d1a0f59f62e912c676</guid>
@@ -1961,6 +1932,17 @@
 <description>As coastlines change, so do surf breaks. That may spell the end for premier waves and the tourist economies that depend on them.</description>
 <enclosure url="https://media.wired.com/photos/6ad1f583d142c5fc200c01f2/master/pass/GettyImages-200028593-001.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/6ad1f583d142c5fc200c01f2/master/pass/GettyImages-200028593-001.jpg" medium="image"/>
+</item>
+<item>
+<title>Magnesium May Not Reach Your Brain, Despite Supplement Label Promises</title>
+<link>https://www.wired.com/story/magnesium-may-not-reach-your-brain-despite-supplement-label-promises</link>
+<guid isPermaLink="false">4c0911cabb05184072e7fde7ca064413f1d7b7142ca03e6703a83d605181167c</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Sun, 18 Oct 2026 09:00:00 +0000</pubDate>
+<description>Some of the many variants sold today promise to penetrate our gray matter, but biology isn’t in the habit of respecting marketing declarations.</description>
+<enclosure url="https://media.wired.com/photos/6acf777ced16e31e6734c24b/master/pass/GettyImages-2281567983.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6acf777ced16e31e6734c24b/master/pass/GettyImages-2281567983.jpg" medium="image"/>
 </item>
 <item>
 <title>The Best AirPods Cases We’ve Used In Our Day-to-Day Lives (2026)</title>
@@ -2007,6 +1989,15 @@
 <source>Hacker News</source>
 <category>technology</category>
 <pubDate>Sat, 17 Oct 2026 23:24:05 +0000</pubDate>
+<description>Comments</description>
+</item>
+<item>
+<title>What If Video Games Came on VHS? One Modder Is Finding Out</title>
+<link>https://gardinerbryant.com/what-if-video-games-came-on-vhs</link>
+<guid isPermaLink="false">dd6110111f14b2a10877067a868454f3cd0b2fc81ca3a007821af7f34f3f54bc</guid>
+<source>Hacker News</source>
+<category>technology</category>
+<pubDate>Sat, 17 Oct 2026 21:12:16 +0000</pubDate>
 <description>Comments</description>
 </item>
 <item>
@@ -2277,17 +2268,6 @@
 <media:content url="https://media.wired.com/photos/6ad13db2947d3d6c92ec6bb7/master/pass/Review%20Surface%20Laptop%20Ultra%20102026%20top%20art%20SOURCE%20BH%20Photo.jpg" medium="image"/>
 </item>
 <item>
-<title>AI-Generated Hot Girls Are Ripping Off Comedians to Boost Their Horny Content</title>
-<link>https://www.wired.com/story/ai-generated-hot-girls-are-ripping-off-comedians-to-boost-their-horny-content</link>
-<guid isPermaLink="false">af9e2669fba13771a2f551f1a4ccb17321c010e99ff67d20bca3e40eb416261e</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Fri, 16 Oct 2026 11:00:00 +0000</pubDate>
-<description>A network of AI-generated models is using comics’ material to funnel views to their OnlyFans and Fanvue accounts—and there’s not much comedians can do about it.</description>
-<enclosure url="https://media.wired.com/photos/6ad165ce87819d1c9639eaa6/master/pass/Business_ComediansAreGettingRippedOffByAIHotGirls-ezgif.com-video-to-gif-converter%20(2).gif" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/6ad165ce87819d1c9639eaa6/master/pass/Business_ComediansAreGettingRippedOffByAIHotGirls-ezgif.com-video-to-gif-converter%20(2).gif" medium="image"/>
-</item>
-<item>
 <title>AWOL Vision Aetherion Max RGB Laser UST Projector Review: A Top Buy</title>
 <link>https://www.wired.com/review/review-awol-vision-aetherion-max-rgb-laser-ust-projector</link>
 <guid isPermaLink="false">e4859b5d9686ba72baae7d8586a28a6bd8065505fee8101128e03f091fec692d</guid>
@@ -2297,6 +2277,17 @@
 <description>A top performer in both dark rooms and in bright sunshine, the AWOL Vision Aetherion Max RGB Laser UST Projector gives movie theaters a run for their money.</description>
 <enclosure url="https://media.wired.com/photos/6ad1311c8de176c462eacc57/master/pass/AWOL%20Vision%20Aetherion%20Max%20RGB%20Laser%20UST%20Projector%20review%20102026%20top%20art%20SOURCE%20Amazon.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/6ad1311c8de176c462eacc57/master/pass/AWOL%20Vision%20Aetherion%20Max%20RGB%20Laser%20UST%20Projector%20review%20102026%20top%20art%20SOURCE%20Amazon.jpg" medium="image"/>
+</item>
+<item>
+<title>AI-Generated Hot Girls Are Ripping Off Comedians to Boost Their Horny Content</title>
+<link>https://www.wired.com/story/ai-generated-hot-girls-are-ripping-off-comedians-to-boost-their-horny-content</link>
+<guid isPermaLink="false">af9e2669fba13771a2f551f1a4ccb17321c010e99ff67d20bca3e40eb416261e</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Fri, 16 Oct 2026 11:00:00 +0000</pubDate>
+<description>A network of AI-generated models is using comics’ material to funnel views to their OnlyFans and Fanvue accounts—and there’s not much comedians can do about it.</description>
+<enclosure url="https://media.wired.com/photos/6ad165ce87819d1c9639eaa6/master/pass/Business_ComediansAreGettingRippedOffByAIHotGirls-ezgif.com-video-to-gif-converter%20(2).gif" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6ad165ce87819d1c9639eaa6/master/pass/Business_ComediansAreGettingRippedOffByAIHotGirls-ezgif.com-video-to-gif-converter%20(2).gif" medium="image"/>
 </item>
 <item>
 <title>The Best Digital Wall Calendar (2026): Skylight, Everblog, Greenlight</title>
@@ -2452,5 +2443,14 @@
 <category>technology</category>
 <pubDate>Tue, 13 Oct 2026 17:09:40 +0000</pubDate>
 <description>What My Son Is Learning From Artificial Intelligence Greater Good: The Science of a Meaningful Life</description>
+</item>
+<item>
+<title>This award-winning microscopy image used AI — igniting controversy in a prestigious competition - Nature</title>
+<link>https://news.google.com/rss/articles/CBMiX0FVX3lxTFBmb1lpdkRPOU45ek5VdWVvWGc0WkNIUTlyazJ2Z1FtbHVxNmJkQi05ZDRSUFl4am1ScVJyblh0cVlQWGR3UjE2aGJmVHQ2UHQ5cENtRXJEZl84OVJEd2xv?oc=5</link>
+<guid isPermaLink="false">fef26ba4e848c091143e60eaa03175f028d7eac62c214f1a5e099da0370afd92</guid>
+<source>Google News Artificial Intelligence</source>
+<category>technology</category>
+<pubDate>Wed, 30 Sep 2026 07:00:00 +0000</pubDate>
+<description>This award-winning microscopy image used AI — igniting controversy in a prestigious competition Nature</description>
 </item>
 </channel></rss>
