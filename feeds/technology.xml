@@ -4,6 +4,55 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>The UK is investing $134 million into an AI Biosecurity Lab</title>
+<link>https://www.engadget.com/2296211/the-uk-is-investing-134-million-into-an-ai-biosecurity-lab</link>
+<guid isPermaLink="false">f008bd26103e63b7cb86e4a96257833a41c79082802d404e4c0990c3a83130cf</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Sat, 24 Oct 2026 16:11:53 +0000</pubDate>
+<description>The UK has established the AI Biosecurity Lab, which will help it detect biological threats and develop vaccines with AI.</description>
+<enclosure url="https://www.engadget.com/img/gallery/the-uk-is-investing-134-million-into-an-ai-biosecurity-lab/l-intro-1792858052.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/the-uk-is-investing-134-million-into-an-ai-biosecurity-lab/l-intro-1792858052.jpg" medium="image"/>
+</item>
+<item>
+<title>Roku developer repositories moved from GitHub to GitLab</title>
+<link>https://blog.roku.com/developer/gitlab-move</link>
+<guid isPermaLink="false">c852cf262baca51dc366fcd1c2efa7b82968161d0543632825f68d69c4ea60e7</guid>
+<source>Hacker News</source>
+<category>technology</category>
+<pubDate>Sat, 24 Oct 2026 16:06:26 +0000</pubDate>
+<description>Comments</description>
+</item>
+<item>
+<title>Block’s new voice model sounds eerily human</title>
+<link>https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human</link>
+<guid isPermaLink="false">ed1379dde355db6ba1e1d05e7bdcc6f988640a2d4a4e2c2a5f050274f05eef43</guid>
+<source>TechCrunch</source>
+<category>technology</category>
+<pubDate>Sat, 24 Oct 2026 16:00:00 +0000</pubDate>
+<description>Block said that the voice model can run locally on a MacBook M4 Max</description>
+</item>
+<item>
+<title>Your smart TV's Wi-Fi is probably faster than its Ethernet, but speed isn't everything</title>
+<link>https://www.engadget.com/2291599/smart-tv-wifi-faster-than-ethernet-speed-isnt-everything</link>
+<guid isPermaLink="false">9ed72e711b6aaad29e4b956f82c47eb025df925462385a4c33fb458f5f593081</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Sat, 24 Oct 2026 16:00:00 +0000</pubDate>
+<description>You might have never thought to use Ethernet with your TV, but it's not speed that's worth connecting for.</description>
+<enclosure url="https://www.engadget.com/img/gallery/your-smart-tvs-wi-fi-is-probably-faster-than-its-ethernet-but-speed-isnt-everything/l-intro-1792505372.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/your-smart-tvs-wi-fi-is-probably-faster-than-its-ethernet-but-speed-isnt-everything/l-intro-1792505372.jpg" medium="image"/>
+</item>
+<item>
+<title>Neural chip decodes interactions between brain regions</title>
+<link>https://actu.epfl.ch/news/neural-chip-decodes-interactions-between-brain-r-2</link>
+<guid isPermaLink="false">003c34cec635b771973eb2074f325e7be6aa3f9a3964970a2337bea185281db6</guid>
+<source>Hacker News</source>
+<category>technology</category>
+<pubDate>Sat, 24 Oct 2026 15:57:17 +0000</pubDate>
+<description>Comments</description>
+</item>
+<item>
 <title>Letter: Delay the deployment of artificial intelligence - Grand Forks Herald</title>
 <link>https://news.google.com/rss/articles/CBMipgFBVV95cUxQNUl3Z1V4Q0ZBZUx4SDhLaTBsWjl3aW84QllITWpxdHpuYUJaOXgwS2ExejRVeW9LZzY0bVBmZGFqN282NTRpd1Z1V0dNbzg0ei13RWhpMWU5M1VDSVRFSF93eGFXWmkwRHFsQkVsSUhFanFHVnFuMGVXYmUzcVIwWmtEQUp5V1M2cVREOW02TmZWWmdaTEk3Ukt6Y2oxQkwwR3RVc1hn?oc=5</link>
 <guid isPermaLink="false">67fec927908764dbf1de344dbc66048bbf7459d0d5f1bb60221430e3b9ff752f</guid>
@@ -118,15 +167,6 @@
 <category>technology</category>
 <pubDate>Sat, 24 Oct 2026 14:38:37 +0000</pubDate>
 <description>AI in the middle market: High satisfaction, limited enterprise adoption RSM US LLP</description>
-</item>
-<item>
-<title>Google illegally cut down 250K trees in Finland for data center</title>
-<link>https://nypost.com/2026/10/24/business/google-illegally-tore-down-250k-trees-for-finland-data-center-infuriating-locals-report</link>
-<guid isPermaLink="false">c443ab9e67b8cfe158b01325e57dc76affbdaff6500ff9eebfb9682e2e3c172c</guid>
-<source>Hacker News</source>
-<category>technology</category>
-<pubDate>Sat, 24 Oct 2026 14:38:34 +0000</pubDate>
-<description>Comments</description>
 </item>
 <item>
 <title>Why your Ring camera is still useful without a subscription</title>
@@ -577,13 +617,13 @@
 <media:content url="https://media.wired.com/photos/6adb93924c15513ff5ac298b/master/pass/Update%20Best%20Laptops%20102026%20top%20art%20SOURCE%20Best%20Buy-Walmart.jpg" medium="image"/>
 </item>
 <item>
-<title>Is your Medicare Advantage plan ending next year? Here's what to know - WXXI News</title>
-<link>https://news.google.com/rss/articles/CBMisgFBVV95cUxQUWZiODJfME9SRGFOU0ZIWTVaRXJPYnh6czF6YkNsYkpnNGpETHp1X0x0WWxjMFU4TTFWdXVSRmh2cldBaWh3T1J6elhJOUdqSFdFa2dEaWxUUXNqNDdKUGZBVjU4M0kzSFQ5S2RmV25WdzVsZXVVWVhyZVdJbXEyMGl3cDZSUm9oWkJCZnBXOXBKTEs2MDVvaUE1YTFsTFI4OHFDbjR0X0JzeEkyNkZwZFRn?oc=5</link>
-<guid isPermaLink="false">b7f2f34046746ede7a040a3e441a7e7986f3aa0071aea6d926c8773de12c8b73</guid>
+<title>Is your Medicare Advantage plan ending next year? Here's what to know - WFSU News</title>
+<link>https://news.google.com/rss/articles/CBMirgFBVV95cUxPR0NKUmVTaFdHbVB3YWN6U1BEajFISWFzUXRpVWZuS1kyNExnT0h1RWtyTU1CN3pFZDFnVFlSWUlZSENxNXpsUGVjTHFNTmpKeHNZUC1MMnJra0s1QjBpLWRULUZWWF8tMWUyaWpiV0ZlVmNTeGc3Q2tKVjNPWEdXY2xfaS1CdGQyTlJ2ZFhyZFZPcGpldjhKd0Y4cldVRFV1WEVQZ2tBQ3R2WVhBelE?oc=5</link>
+<guid isPermaLink="false">a3e97636679400b22a9dbd47aa14dfa5aca8ea8babf77dd3edd018a39642af03</guid>
 <source>Google News Artificial Intelligence</source>
 <category>technology</category>
 <pubDate>Sat, 24 Oct 2026 10:00:00 +0000</pubDate>
-<description>Is your Medicare Advantage plan ending next year? Here's what to know WXXI News</description>
+<description>Is your Medicare Advantage plan ending next year? Here's what to know WFSU News</description>
 </item>
 <item>
 <title>GPU-unlock: FP/BF16 instruction issue rate on Nvidia 3000's cards</title>
@@ -593,6 +633,15 @@
 <category>technology</category>
 <pubDate>Sat, 24 Oct 2026 09:58:27 +0000</pubDate>
 <description>Comments</description>
+</item>
+<item>
+<title>UK pledges more funding to guard against artificial intelligence risks - marketscreener.com</title>
+<link>https://news.google.com/rss/articles/CBMiwAFBVV95cUxQb2ZRN0MxMG1DNmpYNGJhakg4d2hFWUlJRnZnX0d5clNZVXlHbnppTVU5Sk9XOGFQVU9QZnBWWTc2Y0xDTVpuZGhkMW5sU2J5Qi1xaVRVRnMwX21JWkpqZEFaWkp5a2hsX3QxVVRyMUVGM01yX2d3dktoY2d4emlzUndFcElTX3JMTHpWLXE1Z01VWEhCSExUcllUcFlOaFJoejNOMXpkVmUwOF9td2trUk5wT2FYV1NhVG9Bbm03aXc?oc=5</link>
+<guid isPermaLink="false">68ea978b66790a9d18dfc3eb02d2ae9ec0769bb9dfa02c4a185c5f4d972ca8e5</guid>
+<source>Google News Artificial Intelligence</source>
+<category>technology</category>
+<pubDate>Sat, 24 Oct 2026 09:54:17 +0000</pubDate>
+<description>UK pledges more funding to guard against artificial intelligence risks marketscreener.com</description>
 </item>
 <item>
 <title>I Don't Understand Quantum Physics (2018)</title>
@@ -682,9 +731,9 @@
 <description>Artificial intelligence is rewriting art history: Modern technologies are revealing the secrets of ancient paintings صوت الإمارات</description>
 </item>
 <item>
-<title>Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended</title>
-<link>https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds</link>
-<guid isPermaLink="false">f906e00b0e99c6927eff77fd384d9f1432f97e0308cd764d6a25c1c77604401f</guid>
+<title>Root shell on Samsung TV</title>
+<link>https://twitter.com/log4j/status/2113014142600953868?s=46</link>
+<guid isPermaLink="false">d46e0e54d2d1e480074293208465c5210bb18d91919cc50856e95c601b66d544</guid>
 <source>Hacker News</source>
 <category>technology</category>
 <pubDate>Sat, 24 Oct 2026 05:49:57 +0000</pubDate>
@@ -868,15 +917,6 @@
 <description>Enterprises face evolving insurance landscape for artificial intelligence risks SC Media</description>
 </item>
 <item>
-<title>CVE Tracker</title>
-<link>https://cve.0xosprey.com</link>
-<guid isPermaLink="false">cd2d98f3fd44b82701a385e490d1d2b17ebd0de98eff4c9a2ad2805889887fc6</guid>
-<source>Hacker News</source>
-<category>technology</category>
-<pubDate>Fri, 23 Oct 2026 21:21:47 +0000</pubDate>
-<description>Comments</description>
-</item>
-<item>
 <title>How artificial intelligence affects real estate sales - thv11.com</title>
 <link>https://news.google.com/rss/articles/CBMirAFBVV95cUxPSDlHa01uRGNNUy1DSnFSSjBxeHFObFlQNGc4SHVva3pEQkVXQ1N4ZzJfY0hmbF9pUWNPd2pjMXR2bUk1T25IRkpqeThiRE9lVTE1aDNacFBicERPOW9qa1RMVU13TXVpZjhMOHBtSkNYenlzcldjYjU3MXMxd2JVb1lHTzVYWWNpYmtmbzBRM3F2R25INl8yWk4zcUxIYkxlOVNEcHdhZGE5ekQw?oc=5</link>
 <guid isPermaLink="false">db87042a10bb1e6bcecfd4ea67443289b135aa38825aacccecfabb84f39e6fc9</guid>
@@ -944,15 +984,6 @@
 <category>technology</category>
 <pubDate>Fri, 23 Oct 2026 20:03:14 +0000</pubDate>
 <description>TechCrunch Founder Summit 2026 is coming to SoWa Power Station in Boston on November 4, bringing founders, investors, and operators together for a full day of candid conversations, practical sessions, live pitching, networking, and smaller roundtables built for deeper discussion.</description>
-</item>
-<item>
-<title>Agencies Urge AI Agent Access Limits, Weigh Human Oversight - MeriTalk</title>
-<link>https://news.google.com/rss/articles/CBMimAFBVV95cUxQdDFKY1Nfc2lrTWlRSUNfQlhaeGg5clpvRG41Ny1hSVFXTDdoVjd3VnBCVGVjSXFXQVNIZzl2SUhKcVE0YWRxWnBKT1d6d0tzSHlydFlMTU0xVkJpeXZ6NW5wVnVYZHhCZ2M0U0N0VUtYc19UOTlVMlc0VEpnWFNyWUtnRVlxMkl2em5ucjc5Y05kRmwzejlOMw?oc=5</link>
-<guid isPermaLink="false">d71b8b825d0f3aa21febfdfcb98a4a4eebec1585ee32ae76521100454fba7b29</guid>
-<source>Google News Artificial Intelligence</source>
-<category>technology</category>
-<pubDate>Fri, 23 Oct 2026 19:56:33 +0000</pubDate>
-<description>Agencies Urge AI Agent Access Limits, Weigh Human Oversight MeriTalk</description>
 </item>
 <item>
 <title>USC helps seniors learn how to use artificial intelligence - WSPA 7News</title>
@@ -1031,15 +1062,6 @@
 <category>technology</category>
 <pubDate>Fri, 23 Oct 2026 19:06:23 +0000</pubDate>
 <description>Hosted by TechCrunch in partnership with Fidelity Private Shares, the full-day event goes beyond fundraising and AI to explore the realities of finding customers, building teams, sharpening a pitch, developing founder leadership, and scaling companies both inside and outside traditional startup hubs.</description>
-</item>
-<item>
-<title>AI trip planning raises safety concerns after hikers require mountain rescue - RVtravel</title>
-<link>https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUF9keXlpUjhBYlhLNHozalYxbjVOdGdnRnVKR0poQVdFb0llbFkxZW5HVkhtQ3lpY1RuY3ZZTERIdVhUWmVua19pa3I3aWZ2OUZQZDJtT2pFRlQ2VjlIM3lvcmJ6cUNELXdpUHJQN18wZ0RNMjRIdTFRVENDclhZd3FJU2pQRTZyN3I2Sm5kenVHN3MxeWNxcEJ0WHRKR1JmSV9GUDY0MHM?oc=5</link>
-<guid isPermaLink="false">83d660961cfd0201301a40a56a9e7225eff5866ffebe3c642d9f4a056cf679fa</guid>
-<source>Google News Artificial Intelligence</source>
-<category>technology</category>
-<pubDate>Fri, 23 Oct 2026 18:55:45 +0000</pubDate>
-<description>AI trip planning raises safety concerns after hikers require mountain rescue RVtravel</description>
 </item>
 <item>
 <title>Sam Altman: ‘I No Longer Think We’re Gonna Be Able to Just Patch All the Bugs’ - Gizmodo</title>
@@ -1276,6 +1298,15 @@
 <description>Early-stage and follow-on investors in the AI lab are already sitting on major paper returns.</description>
 </item>
 <item>
+<title>Cognitive surrender: Artificial intelligence’s threat to democracy - The Hill</title>
+<link>https://news.google.com/rss/articles/CBMigwFBVV95cUxOaHNiX1o5akZOX0tGVTFyaEpBUEdUUkVMeTBleFZNY3NJMHF2ZHV6RUVmVzdjdkZaaTZCWWpubHdWVzI2WHhKeEltZDhLQlE4Z21lRlFyU0NtSXg2Q0M2MElTSmVMMjNESTRmdGRwNUI2UkxrN3N1czZZTEhnemZwVVJoa9IBiAFBVV95cUxORnhpUTV6NUczREVla3ZqQ2JQZDR3WnNmVVJTbnBUMEdwMjIyY1NjYldaeEdiU1o0dG5OQWVsYVc2TDRhbWw3Z3lOUzdqelRfbnlKdkRMRndwTXVMVGFRU3dVd2JyZURXZU9CMjdZZXFtYjEyLTRWMElTbXpUWi1pYlg4OTIzU3dZ?oc=5</link>
+<guid isPermaLink="false">cde9b6ca42938b2292c165dfa93dd84842172b7676f0883b325e77149b790a5d</guid>
+<source>Google News Artificial Intelligence</source>
+<category>technology</category>
+<pubDate>Fri, 23 Oct 2026 16:00:00 +0000</pubDate>
+<description>Cognitive surrender: Artificial intelligence’s threat to democracy The Hill</description>
+</item>
+<item>
 <title>Apple Music has a fun Easter egg for the iPod's 25th anniversary</title>
 <link>https://www.engadget.com/2295392/apple-music-has-a-fun-easter-egg-for-the-ipods-25th-anniversary</link>
 <guid isPermaLink="false">32e3822fd124d9f12a6aecb24aa745acec006327010ecd62eea32aeb89df9461</guid>
@@ -1332,6 +1363,15 @@
 <description>Meta got hit this week with its biggest fine yet, the latest in a mounting pile of court-ordered payments.</description>
 <enclosure url="https://media.wired.com/photos/6ada8957133035a6bb08c0f2/master/pass/Business_How%20Many%20Billions%20Would%20It%20Take%20to%20Hold%20Meta%20Accountable_v1.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/6ada8957133035a6bb08c0f2/master/pass/Business_How%20Many%20Billions%20Would%20It%20Take%20to%20Hold%20Meta%20Accountable_v1.jpg" medium="image"/>
+</item>
+<item>
+<title>Artificial intelligence boosts productivity and is gaining ground in tourism - Travel2Latam</title>
+<link>https://news.google.com/rss/articles/CBMivgFBVV95cUxNalo1cmpTTzFPWnExbzJXcm40TjBaaC1CcTA2X0ZxY3NrcnhLblo2cnJJTTdsUnowbGxyZHdZWEFwZjBpWTRnQjlpM0lUa3dtNVJLSlZ1cnZRVlo3clAyQU9ERlBjWEhZV3BfTGdwcXYtS2ZqM3dJSFZTX1RFMi1rbWhzcExMYVVaY2QtSHJjeTB1TXEyNjFzZVV0ckZ4MGswWndUcTVBMTY0WHNSWWxUYTdOWUw5dnlQWjZCUmZn?oc=5</link>
+<guid isPermaLink="false">ebd33bfd9cfc3d23c623cf7fd3ca4b018ade595a18ef233f3c6c6704bf851b08</guid>
+<source>Google News Artificial Intelligence</source>
+<category>technology</category>
+<pubDate>Fri, 23 Oct 2026 14:47:00 +0000</pubDate>
+<description>Artificial intelligence boosts productivity and is gaining ground in tourism Travel2Latam</description>
 </item>
 <item>
 <title>Advancing Transit Cybersecurity, System Assurance, and Artificial Intelligence Governance - Passenger Transport</title>
@@ -1428,15 +1468,6 @@
 <media:content url="https://www.engadget.com/img/gallery/greece-enacts-social-media-ban-for-kids-under-15/l-intro-1792761065.jpg" medium="image"/>
 </item>
 <item>
-<title>Nasdaq Futures Steady as AI Selloff Pauses - WSJ</title>
-<link>https://news.google.com/rss/articles/CBMijwFBVV95cUxPZ0VLcjUyVmtISG5uUVBpbjNndFBQV1ZqV3RqY0xwZjhvVFlfZ3dFdjYtNV9CNHdVek4wMUtYQnFLc0xEcnpZTWZRLWw3cm01cG9YaU4zcjdLeVFKZEE2MlNwWXJHaWY4M0IxS25iSjlCbUdmYmZBdVFrY0lFZmQ2RUtYc2NGV21FcjNWQU4wMA?oc=5</link>
-<guid isPermaLink="false">1db5138dee20eacef27dede2ebf60a853c5d0602f7608db8ce1fc71f8a3590e7</guid>
-<source>Google News Artificial Intelligence</source>
-<category>technology</category>
-<pubDate>Fri, 23 Oct 2026 12:35:00 +0000</pubDate>
-<description>Nasdaq Futures Steady as AI Selloff Pauses WSJ</description>
-</item>
-<item>
 <title>Apple Music 404 Not Found</title>
 <link>https://music.apple.com/this-url-doesnt-exist</link>
 <guid isPermaLink="false">01356892d8796636b4ea8a399bc3bd438b4a2c3f6e7900d55342c370837129e8</guid>
@@ -1495,28 +1526,6 @@
 <description>Samsung’s cute compact is for those who want the smallest possible phone. Performance and camera are solid, but it’s pricier than its predecessor.</description>
 <enclosure url="https://media.wired.com/photos/6ada7f3c75ce8d8c38ba9dad/master/pass/Review%20Samsung%20Galaxy%20Z%20Flip8%20102026%20top%20art%20SOURCE%20Amazon.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/6ada7f3c75ce8d8c38ba9dad/master/pass/Review%20Samsung%20Galaxy%20Z%20Flip8%20102026%20top%20art%20SOURCE%20Amazon.jpg" medium="image"/>
-</item>
-<item>
-<title>GuliKit TT Pro review: The ideal Switch 2 controller for players on the go</title>
-<link>https://www.engadget.com/2294411/gulikit-tt-pro-review</link>
-<guid isPermaLink="false">ab7a8cddd3c666ede5ebb91eb55446b44ee4beb01b946cdb8f090f13864fd7bd</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Fri, 23 Oct 2026 11:30:00 +0000</pubDate>
-<description>A protective case and an accessory box make it easy to travel with the TT Pro.</description>
-<enclosure url="https://www.engadget.com/img/gallery/gulikit-tt-pro-review-the-ideal-switch-2-controller-for-players-on-the-go/l-intro-1792685476.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/gulikit-tt-pro-review-the-ideal-switch-2-controller-for-players-on-the-go/l-intro-1792685476.jpg" medium="image"/>
-</item>
-<item>
-<title>Tesla says it will no longer release the Cybertruck in Australia and New Zealand</title>
-<link>https://www.engadget.com/2295058/tesla-will-not-release-cybertruck-in-australia-and-new-zealand</link>
-<guid isPermaLink="false">9fbeaa53772ebc161e6ca5b3d00f8600b294b2b4c39adb5325815f6b05c65ab3</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Fri, 23 Oct 2026 11:26:04 +0000</pubDate>
-<description>People who reserved the Cybertruck in Australia and New Zealand will soon get a refund, because Tesla now won't release it there.</description>
-<enclosure url="https://www.engadget.com/img/gallery/tesla-says-it-will-no-longer-release-the-cybertruck-in-australia-and-new-zealand/l-intro-1792754657.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/tesla-says-it-will-no-longer-release-the-cybertruck-in-australia-and-new-zealand/l-intro-1792754657.jpg" medium="image"/>
 </item>
 <item>
 <title>Review: Crystal Lake suffers a bit from its obsession with Pam Voorhees</title>
@@ -1683,15 +1692,6 @@
 <category>technology</category>
 <pubDate>Fri, 23 Oct 2026 00:45:37 +0000</pubDate>
 <description>MIT researchers marooned 13 AIs on a virtual island, and they responded by inventing games, mourning a lost ring and, eventually, getting better at their jobs.</description>
-</item>
-<item>
-<title>Mark Zuckerberg’s creative plan to pay California’s proposed billionaire tax without losing control of Meta</title>
-<link>https://techcrunch.com/2026/10/22/mark-zuckerbergs-creative-plan-to-pay-californias-proposed-billionaire-tax-without-losing-control-of-meta</link>
-<guid isPermaLink="false">4c84086298b3685bbdd7cce57bdf4d2ae4ca8c98ab284d1a319a1a0492bc4095</guid>
-<source>TechCrunch</source>
-<category>technology</category>
-<pubDate>Thu, 22 Oct 2026 23:50:41 +0000</pubDate>
-<description>A newly launched stock class being offered was partially engineered to help Meta founder and CEO Mark Zuckerberg pay the "billionaire's tax," should the measure be voted into law.</description>
 </item>
 <item>
 <title>Half Moon Bay City Council Hears Draft Artificial Intelligence (AI) Policy; Next Day City Website Shut Down After Worldwide PHP Programming Language Attack - coastside buzz</title>
@@ -1943,6 +1943,15 @@
 <description>The Fellow Aiden Precision Coffee Maker is a smart, high-end machine that offers pour-over quality. You can get it refurbished from the brand for 25 percent off.</description>
 <enclosure url="https://media.wired.com/photos/6ada246c62f24429e365a94f/master/pass/Fellow%20Aiden%20Coffee%20Maker%20Deals%20Post%20102026%20top%20art%20SOURCE%20Shop.com.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/6ada246c62f24429e365a94f/master/pass/Fellow%20Aiden%20Coffee%20Maker%20Deals%20Post%20102026%20top%20art%20SOURCE%20Shop.com.jpg" medium="image"/>
+</item>
+<item>
+<title>Parsing EDIFACT in Python with syntax trees</title>
+<link>https://github.com/AmadeusITGroup/Edison</link>
+<guid isPermaLink="false">d7985e87b72de67d0725aa5f385c3eab5ee2b570848fc6d6b51aa33ce0ab4d23</guid>
+<source>Hacker News</source>
+<category>technology</category>
+<pubDate>Thu, 22 Oct 2026 14:07:48 +0000</pubDate>
+<description>Comments</description>
 </item>
 <item>
 <title>Investing in Artificial Intelligence (AI) Stocks Can be Risky, but This Might be a Great Way to Do It - Yahoo Finance</title>
@@ -2299,15 +2308,6 @@
 <category>technology</category>
 <pubDate>Wed, 21 Oct 2026 07:00:00 +0000</pubDate>
 <description>Super Intelligence U.S. Department of War (.gov)</description>
-</item>
-<item>
-<title>C vs. C#: racing VLC's Gaussian blur</title>
-<link>https://martinfinkel.com/blog/gaussian-blur-c-vs-csharp</link>
-<guid isPermaLink="false">0cccb5dd7dbe1aeae7e6b5d3c6d0bbcbedb149e104ede9031c8a8faa3d23f0db</guid>
-<source>Hacker News</source>
-<category>technology</category>
-<pubDate>Wed, 21 Oct 2026 05:48:12 +0000</pubDate>
-<description>Comments</description>
 </item>
 <item>
 <title>Bringing uv and ty together</title>
