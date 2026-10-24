@@ -4,12 +4,61 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>New mRNA Vaccine Reduces Risk of Melanoma Recurrence by Over 40 Percent</title>
+<link>https://www.wired.com/story/new-melanoma-vaccine-reduces-risk-of-tumor-reoccurrence-by-over-40-percent</link>
+<guid isPermaLink="false">03f1d2121e395027b66f85d2ef1ab9b42f36a34fbc424682a0384402c2595183</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Sat, 24 Oct 2026 11:30:00 +0000</pubDate>
+<description>The vaccine is personalized to a patient’s tumor, and results from the Phase 3 trial are yet another example of the promise of mRNA vaccines in treating cancer.</description>
+<enclosure url="https://media.wired.com/photos/6adbb6236c5716eb12b3253b/master/pass/vacuna%20melanoma%202275195271.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6adbb6236c5716eb12b3253b/master/pass/vacuna%20melanoma%202275195271.jpg" medium="image"/>
+</item>
+<item>
+<title>Peak on consoles, hockey roguelites and other new indie games worth checking out</title>
+<link>https://www.engadget.com/2295856/peak-on-consoles-hockey-roguelites-and-other-new-indie-games-worth-checking-out</link>
+<guid isPermaLink="false">aa32569e42eaacd3a62c515e8422f95c235651d9e1024e818975ee130a6ccd6b</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Sat, 24 Oct 2026 11:30:00 +0000</pubDate>
+<description>Steam Next Fest means there are a lot of weird new games in our indie gaming roundup this week.</description>
+<enclosure url="https://www.engadget.com/img/gallery/peak-on-consoles-hockey-roguelites-and-other-new-indie-games-worth-checking-out/l-intro-1792786507.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/peak-on-consoles-hockey-roguelites-and-other-new-indie-games-worth-checking-out/l-intro-1792786507.jpg" medium="image"/>
+</item>
+<item>
+<title>Artificial Intelligence: A Blessing or a Curse? - The Good Men Project</title>
+<link>https://news.google.com/rss/articles/CBMimwFBVV95cUxQbWtKWjVfblJPLWhnczNMcS1IWWpFUlhvMEdmaVJSNEZnRHZiMVhqMUt4MC1iNG04aGVEWjBiT2R6elhDWWYxWWxMUFprZlh6V1ZFRnJ0VGFHSVB3QXpEYUdZc3ZmeG92UDE4MmlhQlZlYWRsZklHTjlia2Q3Z1gzNGZLYlRsS1NtUFVRMnlMRTc0MUZLVjNPZ2c4QQ?oc=5</link>
+<guid isPermaLink="false">4ceec5320f7c52521f0808e584c906dc6b1f8519a06829ac4d294d5196328ce7</guid>
+<source>Google News Artificial Intelligence</source>
+<category>technology</category>
+<pubDate>Sat, 24 Oct 2026 11:28:29 +0000</pubDate>
+<description>Artificial Intelligence: A Blessing or a Curse? The Good Men Project</description>
+</item>
+<item>
 <title>AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist</title>
 <link>https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist</link>
 <guid isPermaLink="false">08ab153fd915aa89f41f580e3d5d7087867977080fb705ffed426898b48bf063</guid>
 <source>Hacker News</source>
 <category>technology</category>
 <pubDate>Sat, 24 Oct 2026 11:18:54 +0000</pubDate>
+<description>Comments</description>
+</item>
+<item>
+<title>Prediction: $200 a Month Invested in Nvidia Will Be Worth This Much by 2035 - The Motley Fool</title>
+<link>https://news.google.com/rss/articles/CBMilwFBVV95cUxPQjRKeXR1Y2ZxeVBnS21lRDA2S0t4a18yNHJfdVpwUS1DbC1qZEZ2NUFBdnBVMVk4QldTdlVYZjRNWml0LWNpdTNucFYwbVBnMzBjWjZyYV9DMEp2by1ma0lpNW84RUNwYTBpT0l4VHh3MEZHZlVLcU5ITld0Nzg5RjFQNi13eEZha0Z3M1ByVGx1aEVnRjRF?oc=5</link>
+<guid isPermaLink="false">865e713790cd9c0ba63a7645e92faceb898213b7d75a343f585fe1b14c271b47</guid>
+<source>Google News Artificial Intelligence</source>
+<category>technology</category>
+<pubDate>Sat, 24 Oct 2026 11:14:11 +0000</pubDate>
+<description>Prediction: $200 a Month Invested in Nvidia Will Be Worth This Much by 2035 The Motley Fool</description>
+</item>
+<item>
+<title>Node.js Vulnerability Blog</title>
+<link>https://nodejs.org/en/blog/vulnerability</link>
+<guid isPermaLink="false">dfb5544318fb7c278f31ea6d50c335346347f4334730b86dff05cb56e76bbcd9</guid>
+<source>Hacker News</source>
+<category>technology</category>
+<pubDate>Sat, 24 Oct 2026 11:08:47 +0000</pubDate>
 <description>Comments</description>
 </item>
 <item>
@@ -49,6 +98,15 @@
 <category>technology</category>
 <pubDate>Sat, 24 Oct 2026 11:00:01 +0000</pubDate>
 <description>Nvidia's role as AI financier faces first big test as neoclouds take market hit CNBC</description>
+</item>
+<item>
+<title>Show HN: Autonomous root for Tcl Android TV via CVE-2022-22706</title>
+<link>https://gitlab.com/c4psu13/mali-pagecache-root</link>
+<guid isPermaLink="false">153b7aa18d6a1f9add07e6e1161fe40d6c8eb337787e29496c73f1a7e18b9f9a</guid>
+<source>Hacker News</source>
+<category>technology</category>
+<pubDate>Sat, 24 Oct 2026 10:51:35 +0000</pubDate>
+<description>Comments</description>
 </item>
 <item>
 <title>9 Unique Apps to Try on the iPhone Duo</title>
@@ -424,15 +482,6 @@
 <description>The robots, stomping their little feet and making tiny R2-D2 noises, sat, fell down dead for a "nap," and summersaulted on voice command.</description>
 </item>
 <item>
-<title>One Man's Pan Am 747 Replica [video]</title>
-<link>https://www.youtube.com/watch?v=vAFwHGGfPz4</link>
-<guid isPermaLink="false">c7797af04f4224afcdafaa5cfba1a9b2b79c2cf0b14ee9cfa84ef92a2561f5f6</guid>
-<source>Hacker News</source>
-<category>technology</category>
-<pubDate>Fri, 23 Oct 2026 21:46:51 +0000</pubDate>
-<description>Comments</description>
-</item>
-<item>
 <title>The Human Advantage - MTSU News</title>
 <link>https://news.google.com/rss/articles/CBMitgFBVV95cUxQTjNBSEliVW1ic2JZX1ZsSWp1TUhaOHU4dHhBeGFKVXNySTQ3ejY1TzZKa0wxRlhMaW1HdkN1QU91V0RBajdCZmkzZDlISEE0Mm5zaTdDa2Y3RTZaQ3JydjBnRm1QbnlSS0JKR1Z1SWxoYmFrTkdLUWQ1UTE0dUVCUEhvYmxCV1lPNngxOVdHZEg1SjlwbE5xMXZxWjRROVFKcjFCb0ZabkxScmswTGJzTGl1clFsQQ?oc=5</link>
 <guid isPermaLink="false">a756f8666d6ed495d7f671bec20d0caf3a86c371f3586bb5d80b0b469c79e753</guid>
@@ -574,15 +623,6 @@
 <category>technology</category>
 <pubDate>Fri, 23 Oct 2026 19:47:30 +0000</pubDate>
 <description>USC helps seniors learn how to use artificial intelligence WSPA 7News</description>
-</item>
-<item>
-<title>Show HN: Corgi, a helpful {agent, terminal} multiplexer</title>
-<link>https://corgi.computer</link>
-<guid isPermaLink="false">eaba44c2708ba968b42037e0ecf26c5677813549fadf581e5e59e4522a6aaef6</guid>
-<source>Hacker News</source>
-<category>technology</category>
-<pubDate>Fri, 23 Oct 2026 19:46:38 +0000</pubDate>
-<description>Comments</description>
 </item>
 <item>
 <title>Abandoned Popcorn Time apps had to be disabled to prevent a zombie army</title>
@@ -741,15 +781,6 @@
 <description>Did Texas use artificial intelligence to call fourth-down play against Florida? Fox News</description>
 </item>
 <item>
-<title>C.S. Brown STEM teacher recognized for leadership in Artific... - Roanoke-Chowan News-Herald</title>
-<link>https://news.google.com/rss/articles/CBMi1gFBVV95cUxNeFFpdkNwRUJJVS15eHB3d09LZ3V2U1V4Z2JGaWNOcG5kWTQ0a2tKSmRJS1JrWm9jM1VwTlpzeDAzc0hYNzdYTms0VlBDbEFNN2dKZVJ2cUdST3JNWXM4ZkJyNXhKVmtTTC1ka25OSVI2NWRSVFFyLVNoQUJWSl9MNU9zZEZtaFZrQWxlRmZ3WERkcmZON01JbFlieW5ncnVqbGdidkp2RUkxc1hkQ0FpUDNxVEZGSGV3blZlNUhVdkQ2SzZtQlBvNDZNY2xCLWZMb05VWGF3?oc=5</link>
-<guid isPermaLink="false">d1ae4f428cebbaec54ebfdffb04b561bf68f98818da99f49161b2fa9ef5b8b62</guid>
-<source>Google News Artificial Intelligence</source>
-<category>technology</category>
-<pubDate>Fri, 23 Oct 2026 18:08:11 +0000</pubDate>
-<description>C.S. Brown STEM teacher recognized for leadership in Artific... Roanoke-Chowan News-Herald</description>
-</item>
-<item>
 <title>Kansas City lab trains artificial intelligence to predict disease proteins - KCTV</title>
 <link>https://news.google.com/rss/articles/CBMisAFBVV95cUxNZ0V0RVBXRGZ5Ny1FcW9YQXRfdXZQbk1OMC1Hb2pVMF9UOHM0V3l4Q0RORTQtMjdwRWRCUjJNVlpYWTBSQlZ2OVFCR2kwc2VJd2dBRlA3eHdFX252NW1RbDFkaWdGcmhvbTF5T3JaNlRIQlhNLWQ3NnVUbTlUeTIzMklPUzFnUnJSRHBUdU9ibGk0MjhHbDBBWjFudEFMck1Pbk5yTjU5MmpkR21WY0RTUw?oc=5</link>
 <guid isPermaLink="false">07312da13f5c06ed9797b006352d7bf4fc0a8e5ecde68791c51addc4fe6f40ef</guid>
@@ -777,15 +808,6 @@
 <category>technology</category>
 <pubDate>Fri, 23 Oct 2026 17:43:34 +0000</pubDate>
 <description>Arundhati Roy: Artificial Intelligence Is Capitalism’s Final Destination Democracy Now!</description>
-</item>
-<item>
-<title>Midmarket AI gap: Small IT teams are being asked to do enterprise-sized jobs - Network World</title>
-<link>https://news.google.com/rss/articles/CBMiwwFBVV95cUxPbkZDeWZHb3VBbUl4aExLTk5XSHlaemtZX0NYX2VaQ1JnbUcyZWJvc18yUjVFOTFJMzhTcU4zWHJ0blpFMlBqbTB6TG80UGE4TXQ3aXYwSDJnRUlDQmxma1MtV3ZLNjFtVlFxYnhHbzgtNFFkSkhfVmsxYzRjYlluUXhHZUFvdHk1QzVjRUZiVC16MUpXeUhtTVdRRUZ0V3g4Vnp0cnBXczcyMFhHck56Yk5oMTVQZTQ2UzhnV1Rvak9PNnc?oc=5</link>
-<guid isPermaLink="false">da36a6afc12b3f7750f1c505d525eb894758bbb22aee925e8d0b97b34338a5e0</guid>
-<source>Google News Artificial Intelligence</source>
-<category>technology</category>
-<pubDate>Fri, 23 Oct 2026 17:42:19 +0000</pubDate>
-<description>Midmarket AI gap: Small IT teams are being asked to do enterprise-sized jobs Network World</description>
 </item>
 <item>
 <title>Art and artificial intelligence stand side by side in the halls - Tribal Tribune</title>
@@ -900,8 +922,8 @@
 </item>
 <item>
 <title>IBD Stock Of The Day: From Nuts And Bolts To Artificial Intelligence - Investor's Business Daily</title>
-<link>https://news.google.com/rss/articles/CBMikAFBVV95cUxOUjJGNWFnNHFuX2FaMmVPUkswVTlMOW9nVzhwYmREcFgzTldhSXozZjA0NG9jZTJBYkJvd193VVhDMm1NdkVtck9PdG45QlJSTXVTMy02LVFMUVRjbHVvdDRIa1k5dk1fblV4U0lWNU1BMjdQMmg4QXJDNzhQYU9Ma0x0Y09ObFFzVl9rSl9MdGU?oc=5</link>
-<guid isPermaLink="false">800118d3dccf25648d3b46fc8319491e6430cad8399047c43fbbf656c5189624</guid>
+<link>https://news.google.com/rss/articles/CBMiiwFBVV95cUxOcHFVeTNEOTdRejBnVlFvVFRkVmpvR2dWOE0wOHJyb2oxcHhIVU9qb0UzTW5DZEUxVTRET2p1Ykc5YXFwNUp5eFRfaGEya1FWbzktYVJITWtGUW5xalloQ1plbWh1WmlWbE4tV3l0UVczaTN1bUVHQ3M4NG95NVkwNjF3cl9RZW9tUmM0?oc=5</link>
+<guid isPermaLink="false">a1193db931ecd48c7859106047b0609e84cd79aed7bd884461bddb89592a03d7</guid>
 <source>Google News Artificial Intelligence</source>
 <category>technology</category>
 <pubDate>Fri, 23 Oct 2026 16:55:00 +0000</pubDate>
@@ -1102,15 +1124,6 @@
 <description>Meta got hit this week with its biggest fine yet, the latest in a mounting pile of court-ordered payments.</description>
 <enclosure url="https://media.wired.com/photos/6ada8957133035a6bb08c0f2/master/pass/Business_How%20Many%20Billions%20Would%20It%20Take%20to%20Hold%20Meta%20Accountable_v1.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/6ada8957133035a6bb08c0f2/master/pass/Business_How%20Many%20Billions%20Would%20It%20Take%20to%20Hold%20Meta%20Accountable_v1.jpg" medium="image"/>
-</item>
-<item>
-<title>SEC exams to focus on private credit, artificial intelligence, among other priorities in FY27 - Seeking Alpha</title>
-<link>https://news.google.com/rss/articles/CBMiyAFBVV95cUxOQmRmVHRSdGlVdmVILWRTNmJIM0ZZWWdkcEVCMEZUVWhJSHgtaEdSakFJQzdKUWNKUjVPQ0tBMkJPUFhzR0xsQlhUYi1ZVXVXV3oxbFlCU0xqZmw1TkRGLWxFNkZzcEFCaWpKa3p1ak01RFk1dGcwLWprakdqQnpoNkg0b1lpejVMTWVZWlRJRklYUE9ZM1hNbGd3M2NUQ2dTazVNYzk0VXJxS2FLbmVPczVXTldlSXNDNlZQSG40bmRodjR4b3h4UA?oc=5</link>
-<guid isPermaLink="false">91127f2e4aeaa00314c0919cee5ef8babcacf0213327d24ededb3f65d8d7ed73</guid>
-<source>Google News Artificial Intelligence</source>
-<category>technology</category>
-<pubDate>Fri, 23 Oct 2026 14:53:45 +0000</pubDate>
-<description>SEC exams to focus on private credit, artificial intelligence, among other priorities in FY27 Seeking Alpha</description>
 </item>
 <item>
 <title>Why Strong Math Skills Are Essential as Artificial Intelligence Advances - University Herald</title>
@@ -1861,17 +1874,6 @@
 <media:content url="https://media.wired.com/photos/6ada4bc4d53570f6403f714a/master/pass/Soundcore%20by%20Anker%20Space%202%20deal%20102026%20top%20art%20SOURCE%20Amazon.jpg" medium="image"/>
 </item>
 <item>
-<title>Unauthorized AI agents are reportedly already accessing US bank accounts</title>
-<link>https://www.engadget.com/2294523/unauthorized-ai-agents-are-reportedly-already-accessing-us-bank-accounts</link>
-<guid isPermaLink="false">6c534d42ab318a9bd45fcf04f54a0d7c0386a9493a89dc62196b6615e7d7e076</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Thu, 22 Oct 2026 18:02:04 +0000</pubDate>
-<description>Sources at several banks have indicated that they have been taking actions independent of user instructions.</description>
-<enclosure url="https://www.engadget.com/img/gallery/unauthorized-ai-agents-are-reportedly-already-accessing-us-bank-accounts/l-intro-1792692008.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/unauthorized-ai-agents-are-reportedly-already-accessing-us-bank-accounts/l-intro-1792692008.jpg" medium="image"/>
-</item>
-<item>
 <title>A New Ice Age Was Beginning. Then Humans Started Burning Fossil Fuels</title>
 <link>https://www.wired.com/story/ice-age-beginning-then-humans-started-burning-fossil-fuels</link>
 <guid isPermaLink="false">3a1e0b361388d63d0f696f3ce90c8776a42315c15b0640900a661ff0902675c8</guid>
@@ -1968,15 +1970,6 @@
 <category>technology</category>
 <pubDate>Thu, 22 Oct 2026 12:40:56 +0000</pubDate>
 <description>Comments</description>
-</item>
-<item>
-<title>Enterprises don’t need artificial general intelligence. They need artificial specific intelligence - CIO</title>
-<link>https://news.google.com/rss/articles/CBMi0wFBVV95cUxQVXc3OUZnX2NiVlBZNFlwUWJNTFlIZWgzT253VVVjYkIydDJZR25nQTRQa3BkYnc3eUQtTlFQS3RrVzJ4M1dDYUMxaW1RS0JJMjlrYVBXZ2xYbkp5UGZRei1DNVZhRFNtamV5VWNhd2Y3bWZkYk1sX1ZDZkdrcjVzMGlpOUplLUo5cWxYdlF3X1V4LWl5WVlPR0ZjOGluZEo3Tk5PbUFHOGNaaEpEOXJUdGUyNXc5b2hxX01kXzduWHZubWZfZUt2dmN0U1JHZlljdS1z?oc=5</link>
-<guid isPermaLink="false">c91be2c8d49d6821cd40a9569c92662f72eec060de65daa26b2ff7254b42f835</guid>
-<source>Google News Artificial Intelligence</source>
-<category>technology</category>
-<pubDate>Thu, 22 Oct 2026 11:03:36 +0000</pubDate>
-<description>Enterprises don’t need artificial general intelligence. They need artificial specific intelligence CIO</description>
 </item>
 <item>
 <title>Best Microsoft Surface Laptop (2026): Which Models to Buy and Avoid</title>
@@ -2281,15 +2274,13 @@
 <description>Artificial Intelligence In The Hearing Room: How AI Use Is Reshaping Arbitration Practice JD Supra</description>
 </item>
 <item>
-<title>The Best Art TV Deals: Samsung Frame, Hisense Canvas, and More (2026)</title>
-<link>https://www.wired.com/story/art-tv-samsung-frame-tv-sale-october-2026</link>
-<guid isPermaLink="false">3ab60313498aee6384c86688c6e728d9b12e341268f144ae45f9bf60ebf0ff7b</guid>
-<source>Wired</source>
+<title>Appreciating the beauty of all your body's scars and scratches</title>
+<link>https://1000awesomethings.com/2026/10/08/576-appreciating-the-beauty-of-all-your-bodys-scars-and-scratches-4</link>
+<guid isPermaLink="false">d69e63eaa8c33ad0acd6bfc585fddbcef401b9d052bfbd3cb10dafc320e59359</guid>
+<source>Hacker News</source>
 <category>technology</category>
-<pubDate>Wed, 21 Oct 2026 17:00:15 +0000</pubDate>
-<description>Samsung’s Frame and Frame Pro are both on sale, as well as some of our other favorite art TVs.</description>
-<enclosure url="https://media.wired.com/photos/6ad8d105b20b46511fb6b20d/master/pass/Best%20Time%20to%20Buy%20an%20Art%20TV%20102026%20top%20art%20SOURCE%20Amazon.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/6ad8d105b20b46511fb6b20d/master/pass/Best%20Time%20to%20Buy%20an%20Art%20TV%20102026%20top%20art%20SOURCE%20Amazon.jpg" medium="image"/>
+<pubDate>Wed, 21 Oct 2026 14:00:08 +0000</pubDate>
+<description>Comments</description>
 </item>
 <item>
 <title>If I Could Only Buy 1 Artificial Intelligence (AI) Semiconductor Stock to Buy Before 2027, It Would Be This One - Yahoo Finance</title>
@@ -2355,21 +2346,21 @@
 <description>Comments</description>
 </item>
 <item>
+<title>3 Artificial Intelligence (AI) Stocks That Look Like Great Buys Right Now - Yahoo Finance</title>
+<link>https://news.google.com/rss/articles/CBMioAFBVV95cUxQUTZHSXNzSGtidllldW9LYndvMU15anU1a3ZRTjVzajh6aVI5YWM3NEJyNnFwM290OUNBazlLQVBPS1FsXzQ5bW9MZmVtdFNkSXBETk1OU1VwWHBoNW80Y1RBZ2Zjd0ZIYUdBdm82R2VWZ3hKQlJ3YnRLV1FDVUlHSGdvQ2NsYmpXTU5kQUtVcFBURksxcnY0cWNtZFhSaEp5?oc=5</link>
+<guid isPermaLink="false">0734eefbb65c1f0159c1caa4aa42c93170172d4801a27c2b675312c15638ffa7</guid>
+<source>Google News Artificial Intelligence</source>
+<category>technology</category>
+<pubDate>Tue, 20 Oct 2026 19:05:02 +0000</pubDate>
+<description>3 Artificial Intelligence (AI) Stocks That Look Like Great Buys Right Now Yahoo Finance</description>
+</item>
+<item>
 <title>The Real Kevin Bacon</title>
 <link>https://pudding.cool/2026/10/kevin-bacon</link>
 <guid isPermaLink="false">711e11db15dd7c885a62e1c9d5eee23dc3f53ed384afad72a8470da75f7e294b</guid>
 <source>Hacker News</source>
 <category>technology</category>
 <pubDate>Tue, 20 Oct 2026 17:10:05 +0000</pubDate>
-<description>Comments</description>
-</item>
-<item>
-<title>Rise of collagen-eating microbes may help explain gaps in the fossil record</title>
-<link>https://www.cam.ac.uk/research/news/rise-of-collagen-eating-microbes-may-help-explain-gaps-in-the-fossil-record</link>
-<guid isPermaLink="false">dff96282590c480042d3708f70b1fb93dd13abfa531bc4efcac7a4490bec78b9</guid>
-<source>Hacker News</source>
-<category>technology</category>
-<pubDate>Tue, 20 Oct 2026 15:41:28 +0000</pubDate>
 <description>Comments</description>
 </item>
 <item>
