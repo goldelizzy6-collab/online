@@ -4,6 +4,15 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Evolving Threat: http2shell is an RCE in node, Python, and more</title>
+<link>https://nitter.click/AikidoSecurity/status/2113759110625906950?__galadriel=lPmlGl9id4oAd5UeBwMhlYKArHyr6lR2IDGujPwB5HV2kQ1aLoPWFd5A9sGuzNcmrp8fUso8qygmHcKTDZ8MNHWqQ3bDJcycV87xp_0VypzQLYj6O_RRHlZuQqj33oASGY2YLSoAiMjeOZN40h7Stf8AG7DPrGZbAPVKUXy36HoMudRbvwF3_r2uYNmfJMhpKzywQDM6Ab8</link>
+<guid isPermaLink="false">3513b9999983f116ac8c5e0812579074ec3fee0875f9d1f9cc2e75c93ef49f28</guid>
+<source>Hacker News</source>
+<category>technology</category>
+<pubDate>Fri, 23 Oct 2026 23:30:17 +0000</pubDate>
+<description>Comments</description>
+</item>
+<item>
 <title>Startups don’t need to go viral to win customers</title>
 <link>https://techcrunch.com/2026/10/23/startups-dont-need-to-go-viral-to-win-customers</link>
 <guid isPermaLink="false">48dd6bd9146bbf9b087441b51df8ab64ac984eca1a513dbd4a4742f7e4167281</guid>
@@ -20,15 +29,6 @@
 <category>technology</category>
 <pubDate>Fri, 23 Oct 2026 23:05:49 +0000</pubDate>
 <description>OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work.</description>
-</item>
-<item>
-<title>UK government sets out $800 million of AI security funding - Reuters</title>
-<link>https://news.google.com/rss/articles/CBMioAFBVV95cUxQTDJseUNYVnJGcWZWUjlPR0RUSXJHTVItRmh1dkdnNTFiZ2tmTFhUM1p3YnI1T2RGdlpFZ1JWN3BGR2dCajk3Y1pBMlBCYjNFX2dnbjJzZnNJb1BONkNGREFYamNWT1FLRFJXdjdVeEdMUFZnM3FQRXE2VFBIbFdWUVItWEJwd3F4dmFRbHpKTzE4RWpXSGRnTzY4QVdISFJj?oc=5</link>
-<guid isPermaLink="false">b30e837e645717bb4c0e274c238544415462a94b5e01b4b990352b9f98363300</guid>
-<source>Google News Artificial Intelligence</source>
-<category>technology</category>
-<pubDate>Fri, 23 Oct 2026 23:03:43 +0000</pubDate>
-<description>UK government sets out $800 million of AI security funding Reuters</description>
 </item>
 <item>
 <title>NASA updates lander plans for Moon landings, finally solves long-festering Orion issue</title>
@@ -60,15 +60,6 @@
 <category>technology</category>
 <pubDate>Fri, 23 Oct 2026 22:18:49 +0000</pubDate>
 <description>Comments</description>
-</item>
-<item>
-<title>Deciding with fake images: More candidates are using AI in political ads to get your vote - NBC News</title>
-<link>https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNjBIcFl2cGhpemRSNzBYVlFWaGg0eGxycFYxcTVLa3FMeks3U0xVVVpheXlkcktrOTROUlJKUGh3TjV1cUlRTjVlRy1id2Z5azRMbGViUUJGMDBFSEMzaTlSSV9pdl9YTnZwek1lajRfdUpJNUhBUEtyVVV5cFFmYUFFQmJ0UWJFOVdOTEVHQmZRZTgzdVJyUnVHdDRnT1lyS05qMkdfUFptT0w4U1o4ZE9WVnN6NEk3?oc=5</link>
-<guid isPermaLink="false">3022c68209d950f7848168f2ef9014f0d98f1058e2f3de561e1b1f9129ce5522</guid>
-<source>Google News Artificial Intelligence</source>
-<category>technology</category>
-<pubDate>Fri, 23 Oct 2026 22:10:40 +0000</pubDate>
-<description>Deciding with fake images: More candidates are using AI in political ads to get your vote NBC News</description>
 </item>
 <item>
 <title>How much artificial intelligence should be included in art? - Global News</title>
@@ -192,13 +183,13 @@
 <description>Comments</description>
 </item>
 <item>
-<title>OpenAI to Train AI Models Without Internet After Cyber Incidents - Bloomberg</title>
+<title>OpenAI to Train AI Models Without Internet After Cyber Incidents - Bloomberg.com</title>
 <link>https://news.google.com/rss/articles/CBMitgFBVV95cUxPcTNobXdjbFlXYi0tUHc4QVhnOXY3aDB4bTZ5amJDTm5LTDFlaUJ4UDdYdUFwOHpURk05ZE5Ycm1rMWZDUENSVHh5X3pWZHJEOFlpcUhSa3N6OTZueDlEME1GenV2SllMWkZpZVpSNGhGNWQ0R2V3am1FYnFCU1pDdkVVWm9HMU44a1JiZDhGNjhqTzctZlZyZnZYSTFlMXdjV2xNazdHUmtDS3NwLTktNW5rX0twQQ?oc=5</link>
 <guid isPermaLink="false">858a07aad60ffffb0759cda09f4857194bd689c937996939b9f88e244868ef53</guid>
 <source>Google News Artificial Intelligence</source>
 <category>technology</category>
 <pubDate>Fri, 23 Oct 2026 20:30:17 +0000</pubDate>
-<description>OpenAI to Train AI Models Without Internet After Cyber Incidents Bloomberg</description>
+<description>OpenAI to Train AI Models Without Internet After Cyber Incidents Bloomberg.com</description>
 </item>
 <item>
 <title>Hegseth warns prediction market bets warp military judgment, endanger troops</title>
@@ -411,6 +402,15 @@
 <description>Artificial intelligence told them how to get there. Rescuers had to get them out RVtravel</description>
 </item>
 <item>
+<title>Caffeine-like utility to keep you MacBook awake with its lid closed</title>
+<link>https://github.com/clashman/caffeinate-plus</link>
+<guid isPermaLink="false">ff6885b70af99034d8aca50b16638f4173899a2995960eb55ca166b6f0f1d503</guid>
+<source>Hacker News</source>
+<category>technology</category>
+<pubDate>Fri, 23 Oct 2026 18:54:01 +0000</pubDate>
+<description>Comments</description>
+</item>
+<item>
 <title>Barclays is the latest company to trim its workforce for AI efficiency - Fast Company</title>
 <link>https://news.google.com/rss/articles/CBMibkFVX3lxTE8yTzBhT3ZXc1J2LXdVN0lpR2Z0b05YX1h2SS1EMUZIQzRqN1ZYbDlZUHcxdWhnT1ktQVZ1c3gwbFQ0VWhjUXlsRXN1T01XT0tYWDctVHRLZE5laHZ4elJyLU9hVEhTNDdsSGUzbTRB?oc=5</link>
 <guid isPermaLink="false">1f9e354e10f0e040b2835a347d02919a2d53324b098eac29eed18d5d4ab624b9</guid>
@@ -429,6 +429,15 @@
 <description>My colleague John Higgins considered Soundcore’s Space One some of the best budget noise-canceling headphones you could buy when they launched in 2023 — and their successor has only improved upon their winning formula, albeit with a $30 price increase. Thankfully, the Soundcore Space 2 are currently on sale at Amazon, Best Buy, and Walmart […]</description>
 <enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/268498_Soundcore_Space_2_AKrales_0084.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
 <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/268498_Soundcore_Space_2_AKrales_0084.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Sam Altman: ‘I No Longer Think We’re Gonna Be Able to Just Patch All the Bugs’ - Gizmodo</title>
+<link>https://news.google.com/rss/articles/CBMiqAFBVV95cUxObkp5NEdMM3dXdnRJQjRFZEFmbW9KbkJFNUxRZ0dxaHJOV1dHS2VQNG9vTFcxeVYwNzFITXptRGszUkxDM1FtMUdLZ29CVkhqazZ4U0ZBWEdIWkJ5WkZEa1Yxa0pXM0g5dmRCbWNUSGZiZnRPdHNORC1tR18zQ1h6VXhVdU1UWDJwbUplZ0QtNXROU3ZodGEtcEIwZHlyZk5jaG1ucjNTNG8?oc=5</link>
+<guid isPermaLink="false">c9780eb1f9d0dc46d965cd0b571b89909d7a8336ac2a7b6f8913055470f83954</guid>
+<source>Google News Artificial Intelligence</source>
+<category>technology</category>
+<pubDate>Fri, 23 Oct 2026 18:40:48 +0000</pubDate>
+<description>Sam Altman: ‘I No Longer Think We’re Gonna Be Able to Just Patch All the Bugs’ Gizmodo</description>
 </item>
 <item>
 <title>State artificial intelligence laws create a complicated picture for psychologists - American Psychological Association (APA)</title>
@@ -525,6 +534,15 @@
 <description>LSEG Pays $3.5 Billion to Feed Wall Street’s AI PYMNTS.com</description>
 </item>
 <item>
+<title>Anthropic and Hg Form Company to Embed AI Engineers in European Enterprises - PYMNTS.com</title>
+<link>https://news.google.com/rss/articles/CBMizgFBVV95cUxOQXdyMmotRUxLbzBiZE9IMjllemwxZmZ2b2xKb0VkVm9wNVB0aGdMQUg3ZHpXYjBYVnBKQTJiNUc3b0o0LVp5XzdwY0NhNGFKbzZIanZQUk1mcndWNXpuOWdSRk1WUWVkU1hPU0JZRkp1THNHX1pCRnlTMnpQMGJBQVNjdGJabFBCcTVsbldMSVZXWDdqQlRybUtfLTl1WWd0amIxb0d3TllvM08yOVNjZVc0V3BTSEhUbmxsc3g3THNzdHlpWDN4TG5kc0pCdw?oc=5</link>
+<guid isPermaLink="false">0abf71e465136fc38be746a1ccf472e2c185eb15e6d772a4c145b434741c170d</guid>
+<source>Google News Artificial Intelligence</source>
+<category>technology</category>
+<pubDate>Fri, 23 Oct 2026 17:51:58 +0000</pubDate>
+<description>Anthropic and Hg Form Company to Embed AI Engineers in European Enterprises PYMNTS.com</description>
+</item>
+<item>
 <title>Arundhati Roy: Artificial Intelligence Is Capitalism’s Final Destination - Democracy Now!</title>
 <link>https://news.google.com/rss/articles/CBMilgFBVV95cUxOTVdFcDNjQ09Td0I0aWVMalc3QUJQNzNKSHJNVzJ0X0tMRHZJTDZwWnJYTTRPX3RvZFBRSGJxQkptZXY5eFFVQkxpWmNRN0U0Zkt5NHRjcFY4QUFmNlhqOHB2Z1dDVTNtT3c1UDVtbzBGYlVLU0x2dGlEcFc4UmJDb0NyQ2dwX3htZmJrektzdDFOTXBtWEE?oc=5</link>
 <guid isPermaLink="false">324240a9cae98d7dfa71ec17175bc7051eeb7f81a669e5029b2152a67e20dc89</guid>
@@ -610,15 +628,6 @@
 <description>Company says foreign-made robotic vehicles are crucial to US chip production.</description>
 <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/Intel-fab-interior-1152x648.jpg" type="image/jpeg"/>
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/Intel-fab-interior-1152x648.jpg" medium="image"/>
-</item>
-<item>
-<title>Can we replace a $150k Looker with a bucket of HTML files?</title>
-<link>https://david.lequin.dev/blog/bi-software-is-dead</link>
-<guid isPermaLink="false">870947cc813e3918d88728d8546db6e3940624995dd138399c66a3abb371f507</guid>
-<source>Hacker News</source>
-<category>technology</category>
-<pubDate>Fri, 23 Oct 2026 17:15:03 +0000</pubDate>
-<description>Comments</description>
 </item>
 <item>
 <title>An artificial intelligence system for human papillomavirus-positive dual stain cervical cancer screening reads p16-Ki67 slides - 2 Minute Medicine</title>
@@ -1030,15 +1039,6 @@
 <description>Artificial intelligence boosts productivity and is gaining ground in tourism Travel2Latam</description>
 </item>
 <item>
-<title>Gemma-4-26B-A4B with 39-69% less thinking at same accuracy</title>
-<link>https://bottlecapai.com/post/thinkingcap-gemma-4-26b</link>
-<guid isPermaLink="false">272ca529595ace68cce2e9a240321cae0f2eed9cf0e8cffc9fa6dab743d4293b</guid>
-<source>Hacker News</source>
-<category>technology</category>
-<pubDate>Fri, 23 Oct 2026 14:43:02 +0000</pubDate>
-<description>Comments</description>
-</item>
-<item>
 <title>Stop the insider threat lurking in AI agents - CIO</title>
 <link>https://news.google.com/rss/articles/CBMijgFBVV95cUxPZTI3dFJBRVVnZmtIYU1kWmhNN1d0dHVyb0xtUkhTNlpGdUI5MVI1d2NNQzk4QURyWnZTbklFM2tiamxJWnduQ1BiRHZRTHYtVkZ3YWd2cUk4SnpZTHRlWEJYbUJaUlpCaVd3dDJ4aDhzT0dyRWdROXFxelNZc3p0WUllZXkyTDN0NUdPOWFB?oc=5</link>
 <guid isPermaLink="false">edc1e31ef6aa7612c904b7061bf23f753028adb58202508b2b1f170ab2c3c76f</guid>
@@ -1160,15 +1160,6 @@
 <media:content url="https://www.engadget.com/img/gallery/greece-enacts-social-media-ban-for-kids-under-15/l-intro-1792761065.jpg" medium="image"/>
 </item>
 <item>
-<title>Texas Athletics and McCombs School of Business Launch New Bevo Lab, Bringing Together Sports, AI and Analytics - University of Texas Athletics</title>
-<link>https://news.google.com/rss/articles/CBMirgFBVV95cUxNUTlIS3d3dXplaHpRRlVZTlhVdEhxVkd0ZmFPYVgzQjJleTBIQWFianRzTjZVZ1c3dDdxOHhfMGRYV1p1M2FROXJnOFJEVEZmZ192WE0xelhWdzVHSjBmenlnZ1VTeDlYYVJ4TDhXNVQ5OWJTNVpIS3EwUEJaOUpkWVkwUDBFTXJxV0FhX0dmelAydG9JZEVmdzVjWkozNXFyNGlxZUkzUU1zRHRoWWc?oc=5</link>
-<guid isPermaLink="false">949fd62ad36b517f2e581546091eca35e2b722f65576cc0689a5ec0bc2818a45</guid>
-<source>Google News Artificial Intelligence</source>
-<category>technology</category>
-<pubDate>Fri, 23 Oct 2026 13:03:07 +0000</pubDate>
-<description>Texas Athletics and McCombs School of Business Launch New Bevo Lab, Bringing Together Sports, AI and Analytics University of Texas Athletics</description>
-</item>
-<item>
 <title>Is AI going to kill us? Does AI have a soul? A cybermissionary weighs in - The Christian Chronicle</title>
 <link>https://news.google.com/rss/articles/CBMiXkFVX3lxTE9ybFBMRFhpRmJka1h1Y2N0ajIyRHREa2NDbEFwM3RYQ3ZQbVBoQk5kODYyRFlHZkIyLTloLVI1Q2lsZERZazdQc21Vbzl2cF94NExfdnk3SVhKMGZNWXc?oc=5</link>
 <guid isPermaLink="false">98eb452ff5367ae33cb5864dec4a172fcd1018662624ac1a406ce0e39bf91054</guid>
@@ -1196,6 +1187,15 @@
 <description>Comments</description>
 </item>
 <item>
+<title>To Shape AI, Use AI - Bloomberg.com</title>
+<link>https://news.google.com/rss/articles/CBMivwFBVV95cUxOWm9wUFFJVmxycDdjam5sRnlUaEw1Rkk5cmgzXzBQUEgzalB1S2c2YXNiXzJua1FxbmxLUVVGVTFQeGVTcVdNTk1mNWdTMlFHV1dxUFp4U2w2NTUwLXNkQ0QtTlhVOC1oNnBjQkZnVlNwMWVtbjVuR0ItZU1iTkpZRk1qUXdIZ2wxSWQxMjNITi1UaWo4WlRCODZlUVUzTW9mdFpHc1IxYzJraHRoV21QNC01V2RRTGt0RFBfczFXYw?oc=5</link>
+<guid isPermaLink="false">b26779bc76118adf24263d7f2a6d0e51238841d92720c6d4bd0a420e960deb26</guid>
+<source>Google News Artificial Intelligence</source>
+<category>technology</category>
+<pubDate>Fri, 23 Oct 2026 12:00:08 +0000</pubDate>
+<description>To Shape AI, Use AI Bloomberg.com</description>
+</item>
+<item>
 <title>ASUS ProArt P16 review: A sleek showcase for NVIDIA's RTX Spark</title>
 <link>https://www.engadget.com/2294849/asus-proart-p16-rtx-spark-review</link>
 <guid isPermaLink="false">9a0970c2cab75ef72cfe68980a3882a3b5a89fb5e91df9228fa6355169397d37</guid>
@@ -1207,22 +1207,31 @@
 <media:content url="https://www.engadget.com/img/gallery/asus-proart-p16-review-a-sleek-showcase-for-nvidias-rtx-spark/l-intro-1792702282.jpg" medium="image"/>
 </item>
 <item>
-<title>Artificial Intelligence for Automated Continuous Quantification of Left Ventricular Ejection Fraction From Standard Adult Transthoracic Echocardiography: A Systematic Review - The Cureus Journal of Medical Science</title>
+<title>Artificial Intelligence for Automated Continuous Quantification of Left Ventricular Ejection Fraction From Standard Adult Transthoracic Echocardiography: A Systematic Review - Cureus</title>
 <link>https://news.google.com/rss/articles/CBMitgJBVV95cUxPbnVub0xxeGVlOTZ2cFYyU25JOTRBUG5hRHo4czl2Q2pEZm93Qy1WZm53cjl6MEtOMkdvNmRsTlFTci1iNVlrNER0TmYxV0tfeWhQNExJX2JxN2U4NWFxRjNGVGl6b05ZbWNmWGlVamVkYjZ0VEdxUVhWRmRUQTJjQXFBc0tSbWxNbnNVdUFSSGtya2NXUndvbTRUcnc5MEtuUFFUeERpZVNRbDRaVmtKbG1MSjdfS0RYb2RLSTVhSjJDTVpZQVRqbVBLYzhua0JER2MycURPLVZGdjl3MVFiQ2drS1luV2lzMHRrYzVqczlUc2h2NzZfNWpyMG55VGU3LU5FV1NFdERmNjNEZXVpeHI2ck95em5YYVhSRUJ2bnBHSWR3eVBzaEx0YV9XeV81RmtsdXp3?oc=5</link>
 <guid isPermaLink="false">b2f90c14820b01d1e0552be13488832f10eda478119ac907efe8b81ef574138f</guid>
 <source>Google News Artificial Intelligence</source>
 <category>technology</category>
 <pubDate>Fri, 23 Oct 2026 11:56:04 +0000</pubDate>
-<description>Artificial Intelligence for Automated Continuous Quantification of Left Ventricular Ejection Fraction From Standard Adult Transthoracic Echocardiography: A Systematic Review The Cureus Journal of Medical Science</description>
+<description>Artificial Intelligence for Automated Continuous Quantification of Left Ventricular Ejection Fraction From Standard Adult Transthoracic Echocardiography: A Systematic Review Cureus</description>
 </item>
 <item>
-<title>When Artificial Intelligence Becomes Irreplaceable: A Proposed Framework for AI Attachment Dysregulation - The Cureus Journal of Medical Science</title>
+<title>When Artificial Intelligence Becomes Irreplaceable: A Proposed Framework for AI Attachment Dysregulation - Cureus</title>
 <link>https://news.google.com/rss/articles/CBMi2gFBVV95cUxQQmlzVS04OHlmQnZQeDQ0M2xvczFueGpZY1FoRENIbkV2TnYzSV84VVQzTkZaWHpLNW41RlpzU3hWNzZjMnJucjFteFQ1Ui0wRnprLWZpUng1cUJURlRmeEk3V2FhcTg2UHcyMXp2dUxsSGQ1UEhTMXVzTExUTUlrSGU0d1VOQUdCb3RYa29aQXhMMWhGelRUQ3RlWHgyMzY3ZVBUc2ExSlg5NnVqQUtXMXB1U1hBbjUxSkxYRS1KWmh5YWdpM0RhQlItN2N0WXAxeXQzakpoWTNJQQ?oc=5</link>
 <guid isPermaLink="false">afd0372230629428393def6e75b80e018c8befc64f1b9cbefa186a417556db72</guid>
 <source>Google News Artificial Intelligence</source>
 <category>technology</category>
 <pubDate>Fri, 23 Oct 2026 11:55:41 +0000</pubDate>
-<description>When Artificial Intelligence Becomes Irreplaceable: A Proposed Framework for AI Attachment Dysregulation The Cureus Journal of Medical Science</description>
+<description>When Artificial Intelligence Becomes Irreplaceable: A Proposed Framework for AI Attachment Dysregulation Cureus</description>
+</item>
+<item>
+<title>A Tech Rotation Roils the Markets, Again - The New York Times</title>
+<link>https://news.google.com/rss/articles/CBMiiAFBVV95cUxQN0FQUFEwV25pVGlhQmdUYzFrZXlCOE16UENqZG4wbE0xV21PczlPaV9mSXFhX2RWeUpVMHY1aVRWYTA5TGkwc3JSUnlJOXA0NFBZMUZBbW1QbE5DbTBkUzFJZGRFTlgyRWpJcjBzc19HTmcyU0JWSThVU0FkUmZPTVpidkVIN1BO?oc=5</link>
+<guid isPermaLink="false">00c0bfb5e6e6d758da097a989ab0dad137ea91a8e1fd736b2661f78a471fff94</guid>
+<source>Google News Artificial Intelligence</source>
+<category>technology</category>
+<pubDate>Fri, 23 Oct 2026 11:42:50 +0000</pubDate>
+<description>A Tech Rotation Roils the Markets, Again The New York Times</description>
 </item>
 <item>
 <title>SAP lets AI play key role in its certification renewal process - CIO</title>
@@ -1926,6 +1935,15 @@
 <description>Don Beyer on artificial intelligence Punchbowl News</description>
 </item>
 <item>
+<title>Microsoft, Opella partner on agentic AI content verification platform - Fierce Healthcare</title>
+<link>https://news.google.com/rss/articles/CBMivwFBVV95cUxQMGdDQ3RuaUotV1JMZXk4YWt5bUp6RnprRVZCUXplWUhoMFluTjJGOHlQVHcwVFpHNTQzVzRuSnpTalFrTFRLVUcxTGdVVWdkdnFNUGE3SWxadTYzR084bkFTY09qdlIzRVVqekhKQTJDbFdfRGpsU3RHRDFKSHRjQkp6di1oeFN5LTczcjJzU3VqMFA2bXFmeEs4TUM0ZHk5Y1JSVDJJWS1TaG5DbEhMTVpyOWFrb3Bpc0hlRUc5QQ?oc=5</link>
+<guid isPermaLink="false">653785841155893d6aa144f99da548a3008e04d4bbfa610a6692cf2412273fad</guid>
+<source>Google News Artificial Intelligence</source>
+<category>technology</category>
+<pubDate>Thu, 22 Oct 2026 17:00:00 +0000</pubDate>
+<description>Microsoft, Opella partner on agentic AI content verification platform Fierce Healthcare</description>
+</item>
+<item>
 <title>Sundar Pichai (allegedly) draws the line at oceans</title>
 <link>https://www.engadget.com/2294319/sundar-pichai-allegedly-draws-the-line-at-oceans</link>
 <guid isPermaLink="false">ea9644e63b2bba7b15dca5d4c29d9b4c794b8ce2dcbd46fd19c62f60803bba60</guid>
@@ -1995,6 +2013,15 @@
 <category>technology</category>
 <pubDate>Thu, 22 Oct 2026 11:21:35 +0000</pubDate>
 <description>Judges explore Artificial Intelligence but keep decision-making human The Florida Bar</description>
+</item>
+<item>
+<title>Enterprises don’t need artificial general intelligence. They need artificial specific intelligence - CIO</title>
+<link>https://news.google.com/rss/articles/CBMi0wFBVV95cUxQVXc3OUZnX2NiVlBZNFlwUWJNTFlIZWgzT253VVVjYkIydDJZR25nQTRQa3BkYnc3eUQtTlFQS3RrVzJ4M1dDYUMxaW1RS0JJMjlrYVBXZ2xYbkp5UGZRei1DNVZhRFNtamV5VWNhd2Y3bWZkYk1sX1ZDZkdrcjVzMGlpOUplLUo5cWxYdlF3X1V4LWl5WVlPR0ZjOGluZEo3Tk5PbUFHOGNaaEpEOXJUdGUyNXc5b2hxX01kXzduWHZubWZfZUt2dmN0U1JHZlljdS1z?oc=5</link>
+<guid isPermaLink="false">c91be2c8d49d6821cd40a9569c92662f72eec060de65daa26b2ff7254b42f835</guid>
+<source>Google News Artificial Intelligence</source>
+<category>technology</category>
+<pubDate>Thu, 22 Oct 2026 11:03:36 +0000</pubDate>
+<description>Enterprises don’t need artificial general intelligence. They need artificial specific intelligence CIO</description>
 </item>
 <item>
 <title>Best Microsoft Surface Laptop (2026): Which Models to Buy and Avoid</title>
@@ -2083,15 +2110,6 @@
 <media:content url="https://media.wired.com/photos/6ad8a5e5a9fa5fe98ee99914/master/pass/Mimesis%20Statement%20_%20Telos%209800%20_%20Theia%20Passive%20SOURCE%20Simon%20Lucas.jpeg" medium="image"/>
 </item>
 <item>
-<title>Here’s How UMKC is Embracing Artificial Intelligence - University of Missouri-Kansas City</title>
-<link>https://news.google.com/rss/articles/CBMiowFBVV95cUxPdHJlWEdVZUV6NzFsWkw0T3RycmNidzVTNWpNU3VaeUhIXzc0RDhsYjBVQW9NblVsZVBVM1RIV1pOS0xTYk9QdWdDODVPNldqZ2MxVTg5M0xINlZ5bnFMVFp0ZW5tNzQ0d0c4ZWpoajFMSEw1ZFZ6TWlmeTdyaTdyNTFURWY3TDlhUS1mTms0UDdJaWc2cWx6RXY4SGpSbGFNbktj?oc=5</link>
-<guid isPermaLink="false">58d343dd0f0d0fde4f8966aaa2c937eb7bd0673f4e6ad85113903ed49cfff1d7</guid>
-<source>Google News Artificial Intelligence</source>
-<category>technology</category>
-<pubDate>Thu, 22 Oct 2026 07:00:00 +0000</pubDate>
-<description>Here’s How UMKC is Embracing Artificial Intelligence University of Missouri-Kansas City</description>
-</item>
-<item>
 <title>Cognitive Task Substitution, Cognitive Offloading, and Behavioral Dependency on Artificial Intelligence-Assisted Technologies: A Scoping Review - The Cureus Journal of Medical Science</title>
 <link>https://news.google.com/rss/articles/CBMiiwJBVV95cUxNVndGOWlsZnJTSXZsNkllUUpIQ08yaFBRSmdyV2tGazU2X0Rvc3VMZDVKa1BfOUdTaVVNUmVKSlptU21nSTZERm03dktvUTlrQl8ydFhKSV9qSXlGaTh1ams5eXA3ampzOUJ1MFJaeENFeFFNZ3Y4UjVQQzFVNXU5emRmeTlCZ3lrX0tYbTVWcU9hSDY4Q09MMHZ3TkhNUHB0VTEwM3l5TkNmV2gtM1RWZDZHQ0xYQ2ZJVDR6Z1JVSDVieWRsZ0FTcTBUYTNoSGU3eEpCamRhZm1ycURmVnE0OHhSRjZrZExVdTVOVlY1SDNQZjJvYWhSaUVHSGZCY3BwZW5NWkFEcXU5b0U?oc=5</link>
 <guid isPermaLink="false">c647b9090495ec16d488b7afc366c153316599ff06fec9c60012430386df3002</guid>
@@ -2112,6 +2130,15 @@
 <media:content url="https://media.wired.com/photos/6ad971de90e0d6636d239398/master/pass/Security_HackersExploitingPHPBugsforDays-ezgif.com-video-to-gif-converter.gif" medium="image"/>
 </item>
 <item>
+<title>Securing Quick access from corporate networks with AWS PrivateLink - Amazon Web Services (AWS)</title>
+<link>https://news.google.com/rss/articles/CBMiswFBVV95cUxQeUdmNHlONTUwZDl4WU05NG50eWJKZDNnZXRVS0R0VVJJaXdDYmdYVnB6X2tGMU1NRnNvQ0J5elFEcXhWRU0zX21YQlI4TzdwR1M5SklERTJDTWp3M2R3SEF3dERwZDczY29TNEpwRnExeFMxNHhyQlFRVXJleDVreERGeDFLNTVLM1M1dTd0NjV4ekdUQzVMVWIzTW5UZXJJYjNiWnlUX0hGYmN0ZVBzMkFmdw?oc=5</link>
+<guid isPermaLink="false">f2c1d36b772bf494566ceb9ac9e78aef0b86cbbb27d33f3c73fb333159c08e01</guid>
+<source>Google News Artificial Intelligence</source>
+<category>technology</category>
+<pubDate>Wed, 21 Oct 2026 23:38:38 +0000</pubDate>
+<description>Securing Quick access from corporate networks with AWS PrivateLink Amazon Web Services (AWS)</description>
+</item>
+<item>
 <title>Mark Zuckerberg Agrees to Stay in California Despite Billionaires’ Tax Ballot Measure</title>
 <link>https://www.wired.com/story/mark-zuckerberg-agrees-to-stay-in-california-despite-billionaires-tax-ballot-measure</link>
 <guid isPermaLink="false">e39c688df31a7f54f7ef5d13d495d031f07dc7c77abafceb96cea80e0b94d16a</guid>
@@ -2130,6 +2157,15 @@
 <category>technology</category>
 <pubDate>Wed, 21 Oct 2026 22:16:44 +0000</pubDate>
 <description>Artificial intelligence checks the trustworthiness of breast cancer AI models Radiology Business</description>
+</item>
+<item>
+<title>Prediction: This Artificial Intelligence (AI) Stock Will Be the Biggest Winner of 2027 - The Motley Fool</title>
+<link>https://news.google.com/rss/articles/CBMimAFBVV95cUxQckVxc3U4dkZFaTZKTVRTUzJMX0tEdWhzZEN3ZlZfcHlCcHAyYW5SZUV1NE01eHNTb0FuWUVCSjE2ZWljcmZOc1BMcGFvOU8wVm55WVU4R1kxdTJWMHZxMHhpNXM5QkpiWlZOYjNuOVRSVjlaR013TXRzT253OURyLXVXV0F6OWZsNFZVTXFpM2s0SDNtN3dTMg?oc=5</link>
+<guid isPermaLink="false">78201826b492da591ed421f82cf7858259be843af9b6ca6dafb1f21f3cfbbbb9</guid>
+<source>Google News Artificial Intelligence</source>
+<category>technology</category>
+<pubDate>Wed, 21 Oct 2026 22:16:00 +0000</pubDate>
+<description>Prediction: This Artificial Intelligence (AI) Stock Will Be the Biggest Winner of 2027 The Motley Fool</description>
 </item>
 <item>
 <title>Airbnb Hosts Are Furious They Can No Longer Make Guests Do Their Chores</title>
@@ -2324,6 +2360,15 @@
 <media:content url="https://media.wired.com/photos/6ad7fa47e71bc9cefa5d5242/master/pass/Wired%20Low%20T.jpg" medium="image"/>
 </item>
 <item>
+<title>Ask the Rev: Am I Being Alarmist About Artificial Intelligence? - Seven Days Vermont</title>
+<link>https://news.google.com/rss/articles/CBMiswFBVV95cUxNaXNZUDdWU2NvYmVTOE5MbGc5Z0FqekJtRk4tLTh1d3RrU204elllNzZlMUxqX2Fvek1DUzRVZF8yUVlHbW9GRFlqR0JSS1JPcllxQlQ0VmxrSkU4MWtTdnZnam5ERzduYm5QUS1NcnV0aFo2aHhuc2lRcFRadkR3U0hCSlJRdllfWjdvLVdvZENubHd2OGhuaFVKaWl0Q0VTbnB1RmY4N2V5RXE0aGJ3QXBQUQ?oc=5</link>
+<guid isPermaLink="false">c6d1a415ba87287be0058b3ab07804782801d7fe4857432f6e3ff9bb954befb1</guid>
+<source>Google News Artificial Intelligence</source>
+<category>technology</category>
+<pubDate>Wed, 21 Oct 2026 13:30:00 +0000</pubDate>
+<description>Ask the Rev: Am I Being Alarmist About Artificial Intelligence? Seven Days Vermont</description>
+</item>
+<item>
 <title>Roku Pro Series OLED TV Review (2026)</title>
 <link>https://www.wired.com/review/roku-pro-series-oled</link>
 <guid isPermaLink="false">4d2e237275c836cd8fb25da872edf965fefa88c5ca61a5c52cde2b3f501b2dc8</guid>
@@ -2344,15 +2389,6 @@
 <description>The company is suspending the feature after security researchers discovered how easy it was to access sensitive information shared with the AI assistant.</description>
 <enclosure url="https://media.wired.com/photos/6ad7df7552635a2423fcfe8e/master/pass/GettyImages-2297134397.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/6ad7df7552635a2423fcfe8e/master/pass/GettyImages-2297134397.jpg" medium="image"/>
-</item>
-<item>
-<title>John Snow Cholera Data</title>
-<link>https://johnsnow.rtwilson.com</link>
-<guid isPermaLink="false">d0a3ca2daa43c88c18aa52982e53ac3d5b8f16c2dd0280876998ff653a051cd0</guid>
-<source>Hacker News</source>
-<category>technology</category>
-<pubDate>Wed, 21 Oct 2026 12:00:21 +0000</pubDate>
-<description>Comments</description>
 </item>
 <item>
 <title>A Bicycle Journey Across Brazil to Find a Vanishing Savanna</title>
@@ -2391,57 +2427,21 @@
 <description>Comments</description>
 </item>
 <item>
-<title>Artificial intelligence-enabled triage tools may reflect human biases : Newsroom - UT Southwestern</title>
-<link>https://news.google.com/rss/articles/CBMipwFBVV95cUxOTkZMdEpUSzJ3aWM3QmxFRVYwTGQyOFBlN0lUVDFOeGd3YWI4bkhMVm9OajNoMUk5ZnB1Rm1SV0NMSUdaM1ZockM2cGFWZ1NpbXMwNlFXWUxKcnYtRUxnaEtvcDJzX3NsSGJZclVFMXR3Q3ZmMERZYXZ4NzZ5T1UxdENXSXRXUjJuc1JtN3JqUUdoSDRTckozb0pRX291c0V1MEJDOU9mMA?oc=5</link>
-<guid isPermaLink="false">6f720f9ede74b362c2aaf1a55ce5fbf512131522bfb13045b244278dea452ec7</guid>
-<source>Google News Artificial Intelligence</source>
+<title>Rise of collagen-eating microbes may help explain gaps in the fossil record</title>
+<link>https://www.cam.ac.uk/research/news/rise-of-collagen-eating-microbes-may-help-explain-gaps-in-the-fossil-record</link>
+<guid isPermaLink="false">dff96282590c480042d3708f70b1fb93dd13abfa531bc4efcac7a4490bec78b9</guid>
+<source>Hacker News</source>
 <category>technology</category>
-<pubDate>Tue, 20 Oct 2026 15:32:07 +0000</pubDate>
-<description>Artificial intelligence-enabled triage tools may reflect human biases : Newsroom UT Southwestern</description>
+<pubDate>Tue, 20 Oct 2026 15:41:28 +0000</pubDate>
+<description>Comments</description>
 </item>
 <item>
-<title>Call for papers: Advancing research on the Ethics of Artificial Intelligence - UNESCO</title>
-<link>https://news.google.com/rss/articles/CBMinAFBVV95cUxOYnM5SmxmRGY5Z1NzeVVjX1VZX1dpZU1VRlB6UTNPVWRLYklpMzhSd3JaV0Z4VlZrTDdqQmdvRjhQZDlOMEYzMGFYSGFieVpMdVpKZDBZTnZTTEprUm9lMlhxT3F1X0VNbjNILTRWMkE5eHMtWXBrMTN1OEZJdENKSExRSl9iNlU4Wmp6b2RiSGxab0hCOVdWd1YxN2c?oc=5</link>
-<guid isPermaLink="false">10b8a8cc2a777461d67829517a2c2a68fbbd549136f802c6b6346b7438594ab8</guid>
+<title>DOE Explains...Artificial Intelligence - Department of Energy (.gov)</title>
+<link>https://news.google.com/rss/articles/CBMidEFVX3lxTE41OVprOE5tN2lBVzZuck52RDRvRU9FU0JvNThpald0enFRaUNzSHBxY0QzVmVhWnJMMHNEUXAzUlNrRnFmOFBtNkpTUVhTQ1lkdFVFeXJpRUZodHAwWTZwMDQ1UzNfMThKTFZqSjZuWkxtOEl2?oc=5</link>
+<guid isPermaLink="false">30af39774c5f088bb4cccb81986938d9635459af04aacffabc5c4575d358aff6</guid>
 <source>Google News Artificial Intelligence</source>
 <category>technology</category>
-<pubDate>Tue, 20 Oct 2026 07:00:00 +0000</pubDate>
-<description>Call for papers: Advancing research on the Ethics of Artificial Intelligence UNESCO</description>
-</item>
-<item>
-<title>FSB finalises sound practices for the responsible adoption of artificial intelligence (AI) - Financial Stability Board</title>
-<link>https://news.google.com/rss/articles/CBMiuAFBVV95cUxNYlowZTZteDU0NjQ1YU9jVWhWVi1WS2gzUlFyN1c0T01CTTBNb0tkeUZfdWJEQ09NNnUtV1VyQ0NDcC1pZ0VnUWt6MnB4cWxhMVJZdDc5SGdrR2I3clFHVHJLa1U4cVlYTXg2djVIVnR5ZU5Mb2VGOGI0aFZocWVFeWJyNWpHVnNYaWN2UW1RQzdKYVBZa1lwSWpVN2RocnpjbkVqdlNuakVxMC1yeEJTVUpBS0JZWVBJ?oc=5</link>
-<guid isPermaLink="false">cff7ef1676d7e886395d08df6bb3e08bc4c43d3674af6bf6739253931b9ce0e3</guid>
-<source>Google News Artificial Intelligence</source>
-<category>technology</category>
-<pubDate>Thu, 15 Oct 2026 07:00:00 +0000</pubDate>
-<description>FSB finalises sound practices for the responsible adoption of artificial intelligence (AI) Financial Stability Board</description>
-</item>
-<item>
-<title>Artificial intelligence-enabled clinical phenotyping of human brown fat - Nature</title>
-<link>https://news.google.com/rss/articles/CBMiX0FVX3lxTE9GZTlIVXVnazYxNTFrWEppcUVrV3ZIVUVNY2RQQURkSGtDR29wcnJ1SUxqSnNlc0ZTVFpnN0RORDBqNFRHWFZBTXZiMWp0TnBPMC1uZnZIWkJwTHI2UGJn?oc=5</link>
-<guid isPermaLink="false">7ac2d608ec7cddcf090a75627fe97347c0526b8ac95f1fd9df014f954ef96e0e</guid>
-<source>Google News Artificial Intelligence</source>
-<category>technology</category>
-<pubDate>Wed, 14 Oct 2026 07:00:00 +0000</pubDate>
-<description>Artificial intelligence-enabled clinical phenotyping of human brown fat Nature</description>
-</item>
-<item>
-<title>What My Son Is Learning From Artificial Intelligence - Greater Good: The Science of a Meaningful Life</title>
-<link>https://news.google.com/rss/articles/CBMinwFBVV95cUxPWko1cF9xQjVnclFKcHBxTDl1dDNwNTlldW90cWFZOVBYaFpwMk1makQydU5vQXdlbjVSYjE5RUhFVFEyQmtyY2ljQzdoU0RqUkJvdGtOeWwxSTB0V2dlT2hqbHhaVVd0cWxoWHdrai12SUNfanFHLXBFdDVVRm1HTzRaZTVxM3BtX3ZSYy05TVB5ZC1nbm1TMjJGVFlWWWM?oc=5</link>
-<guid isPermaLink="false">fa86bf461f9c5fe215f313d6ffe5324e3a5e4e9c5e38fe782ba6db62e5a572a8</guid>
-<source>Google News Artificial Intelligence</source>
-<category>technology</category>
-<pubDate>Tue, 13 Oct 2026 07:00:00 +0000</pubDate>
-<description>What My Son Is Learning From Artificial Intelligence Greater Good: The Science of a Meaningful Life</description>
-</item>
-<item>
-<title>The New York Times. . Artificial intelligence has gone from struggling with basic arithmetic to helping solve some of mathematics’ most famous open problems — and the field is reckoning with what that means. Steven Strogatz, a professor of mathematics at Co - Facebook</title>
-<link>https://news.google.com/rss/articles/CBMinAFBVV95cUxNU0RGUE1VajZ0NWZfYWVGbGJOOXBoUi1kNnZXX2lGQjFmS0F4SERhN0VJbXJWc1BKSUl5ekNLbU96X2ZqWXdNNVF6YU1sRTFFZVFIZWpVLWN2NXRSWnRVUlUzam5qQ0xEaE13Z3ZpTmdWeTFMZnJNdkhkTVQ1UDRuNVNyOG8xZzFNV0lrbXFfMnpiWE5aMkw2TFYyUWM?oc=5</link>
-<guid isPermaLink="false">fd8ce9fa0f337c2c4d94c5382527fa478c704cf2672f6a93fb4efb5706562a33</guid>
-<source>Google News Artificial Intelligence</source>
-<category>technology</category>
-<pubDate>Tue, 13 Oct 2026 07:00:00 +0000</pubDate>
-<description>The New York Times. . Artificial intelligence has gone from struggling with basic arithmetic to helping solve some of mathematics’ most famous open problems — and the field is reckoning with what that means. Steven Strogatz, a professor of mathematics at Co Facebook</description>
+<pubDate>Fri, 16 Oct 2026 17:30:00 +0000</pubDate>
+<description>DOE Explains...Artificial Intelligence Department of Energy (.gov)</description>
 </item>
 </channel></rss>
