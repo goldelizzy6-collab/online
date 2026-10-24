@@ -4,13 +4,22 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
-<title>The AI graveyard: a running list of projects and startups that didn’t make it</title>
-<link>https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it</link>
-<guid isPermaLink="false">988202d2feb5743dae62da6676c5e85c2d531e20a98b1301b50cff6c1bd975cc</guid>
-<source>TechCrunch</source>
+<title>John Carmack on the Goose Language: multiple data stacks and relative references</title>
+<link>https://twitter.com/ID_AA_Carmack/status/2113704269274636568</link>
+<guid isPermaLink="false">c46275baec7232028b92d22aa048088cb93214aff3651904eac12c4c95f1dff0</guid>
+<source>Hacker News</source>
 <category>technology</category>
-<pubDate>Sat, 24 Oct 2026 19:00:00 +0000</pubDate>
-<description>From Apple's repeatedly delayed Siri AI to OpenAI's messy "super app" launch, here's a look at the AI projects that shut down or missed expectations.</description>
+<pubDate>Sat, 24 Oct 2026 19:06:55 +0000</pubDate>
+<description>Comments</description>
+</item>
+<item>
+<title>PHP Foundation 'under-funded' with one full-time staff member, director says</title>
+<link>https://www.reuters.com/technology/php-foundation-under-funded-with-one-full-time-staff-member-director-says-2026-10-23</link>
+<guid isPermaLink="false">23f18d30e5fd0e8f23ffb17c89ada5b61d91c491830cd6c4f103264e30fbae9b</guid>
+<source>Hacker News</source>
+<category>technology</category>
+<pubDate>Sat, 24 Oct 2026 19:03:59 +0000</pubDate>
+<description>Comments</description>
 </item>
 <item>
 <title>‘Synthetic twin’: Why Socceroo Cristian Volpato is the latest footballer to license his AI clone - The Guardian</title>
@@ -18,8 +27,17 @@
 <guid isPermaLink="false">cb3c9d755e753bfd0c79fc33fb6b747459694f8331ab3c70072717fb1fc7ac95</guid>
 <source>Google News Artificial Intelligence</source>
 <category>technology</category>
-<pubDate>Sat, 24 Oct 2026 19:00:00 +0000</pubDate>
+<pubDate>Sat, 24 Oct 2026 19:01:00 +0000</pubDate>
 <description>‘Synthetic twin’: Why Socceroo Cristian Volpato is the latest footballer to license his AI clone The Guardian</description>
+</item>
+<item>
+<title>The AI graveyard: a running list of projects and startups that didn’t make it</title>
+<link>https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it</link>
+<guid isPermaLink="false">988202d2feb5743dae62da6676c5e85c2d531e20a98b1301b50cff6c1bd975cc</guid>
+<source>TechCrunch</source>
+<category>technology</category>
+<pubDate>Sat, 24 Oct 2026 19:00:00 +0000</pubDate>
+<description>From Apple's repeatedly delayed Siri AI to OpenAI's messy "super app" launch, here's a look at the AI projects that shut down or missed expectations.</description>
 </item>
 <item>
 <title>Google is quietly linking your phone number to other Android accounts</title>
@@ -100,6 +118,15 @@
 <description>You can try out the new feature on the Steam store's homepage.</description>
 <enclosure url="https://www.engadget.com/img/gallery/steam-rolls-out-personal-calendar-feature-that-constantly-updates-recommended-games/l-intro-1792865304.jpg" type="image/jpeg"/>
 <media:content url="https://www.engadget.com/img/gallery/steam-rolls-out-personal-calendar-feature-that-constantly-updates-recommended-games/l-intro-1792865304.jpg" medium="image"/>
+</item>
+<item>
+<title>Why is AI generated language so hard to understand?</title>
+<link>https://arxiv.org/abs/2610.29162</link>
+<guid isPermaLink="false">02e941dcb42029b302a12c90329d3a99a2928bfbf857f51edd5a0492475b44c3</guid>
+<source>Hacker News</source>
+<category>technology</category>
+<pubDate>Sat, 24 Oct 2026 18:04:57 +0000</pubDate>
+<description>Comments</description>
 </item>
 <item>
 <title>Xbox Game Pass could let you pick which features you pay for</title>
@@ -354,13 +381,13 @@
 <description>WA school AI policies are stuck in the 2010s, not prepping us for tomorrow | Op-Ed The Seattle Times</description>
 </item>
 <item>
-<title>AI in the middle market: High satisfaction, limited enterprise adoption - RSM US LLP</title>
-<link>https://news.google.com/rss/articles/CBMilAFBVV95cUxPZGRUa2hEa2NMdjFRVllHNkh3bXExbk9mNm56UWV6dGdaNkQ4SDRab3VKNU9FNnZQSThZM1F3VDVXUEl2Qmdqb0xFS2pLUVI2UWFwV0VHQkJLYTQzdWwyUXFZY3ptN2RCS2piaXAtb3lOZ1lWQ1lLZGo0UHZRTnhhMVJ1LTRMc0MxSXJsS3l5X3dQa0Rw?oc=5</link>
-<guid isPermaLink="false">c1383e3213a8e67f1628ee03502a04066e69d4b36671ddc4d588bf9fd2566096</guid>
+<title>NOAA Moves Weather Data to Cloud as Agencies Scale AI - GovCIO Media &amp; Research</title>
+<link>https://news.google.com/rss/articles/CBMihAFBVV95cUxQaHQ4dktHRndBOWJUYm4xZXVGbHpsOWNPUWVtLXNWVzFUYjJ5MTlkTkJsSmNadGVqZUZhZ0cybUpKUHoybHVQNkJUS1V5LTRWMjJmY2tOcjZkQXA1Ty1VVG52aU5wMGVnN0ZtdHRxNmU1ZG5xc3gtMEhNTWxsUjVPczhSMGk?oc=5</link>
+<guid isPermaLink="false">b809ba3964f1cd3835e57d6a21d708f9dc9050e9eaf101b5e4dabd46eaeee85d</guid>
 <source>Google News Artificial Intelligence</source>
 <category>technology</category>
-<pubDate>Sat, 24 Oct 2026 14:38:37 +0000</pubDate>
-<description>AI in the middle market: High satisfaction, limited enterprise adoption RSM US LLP</description>
+<pubDate>Sat, 24 Oct 2026 14:55:29 +0000</pubDate>
+<description>NOAA Moves Weather Data to Cloud as Agencies Scale AI GovCIO Media &amp; Research</description>
 </item>
 <item>
 <title>Why your Ring camera is still useful without a subscription</title>
@@ -673,15 +700,6 @@
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1458824614-1152x648.jpg" medium="image"/>
 </item>
 <item>
-<title>Show HN: Autonomous root for Tcl Android TV via CVE-2022-22706</title>
-<link>https://gitlab.com/c4psu13/mali-pagecache-root</link>
-<guid isPermaLink="false">153b7aa18d6a1f9add07e6e1161fe40d6c8eb337787e29496c73f1a7e18b9f9a</guid>
-<source>Hacker News</source>
-<category>technology</category>
-<pubDate>Sat, 24 Oct 2026 10:51:35 +0000</pubDate>
-<description>Comments</description>
-</item>
-<item>
 <title>9 Unique Apps to Try on the iPhone Duo</title>
 <link>https://www.wired.com/story/unique-apps-to-try-on-the-iphone-duo</link>
 <guid isPermaLink="false">bdb8ca14035efa6d284a869783ae44cc9836a1ff4489d760866fbf0c26257e3b</guid>
@@ -691,6 +709,15 @@
 <description>Apple’s first folding phone is inspiring indie developers to create fun, quirky apps that take advantage of the screen and the hinge. Here are a few to try as you explore the Duo.</description>
 <enclosure url="https://media.wired.com/photos/6adb699efc34ba9fae2279b4/master/pass/Top%20Art%20SOURCE%20Julian%20Chokkattu.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/6adb699efc34ba9fae2279b4/master/pass/Top%20Art%20SOURCE%20Julian%20Chokkattu.jpg" medium="image"/>
+</item>
+<item>
+<title>No Signs of AI Payoff Outside the Tech Sector - Apollo Global Management</title>
+<link>https://news.google.com/rss/articles/CBMirwFBVV95cUxNOHZjSE5HWVFmaFJNNVJMV09Sc1BWRGZVb0FhazlOQlFCY2hRV1VzSEtyNzh6WnhqWUhVSHV2NWpJanBrZm9rdGkwaW9MbS1FUnhTUkc4MDJ6SkI4T3YwWEdsY19HbW9LWG9ZNXRxOENPX2hrZWhCb2tVUEd0c29yNWxTdzRwMURoTVZaOXR1M0ptUEJEc1JpVFpJT0ZSZ29FYlA1LWRLTnNBNkVmVnNr?oc=5</link>
+<guid isPermaLink="false">a2e632106f3f5e7d1dda262d0c95a4935e5a41577b8fb01f29b56ac34c3a6a5e</guid>
+<source>Google News Artificial Intelligence</source>
+<category>technology</category>
+<pubDate>Sat, 24 Oct 2026 10:44:59 +0000</pubDate>
+<description>No Signs of AI Payoff Outside the Tech Sector Apollo Global Management</description>
 </item>
 <item>
 <title>Google Says Gmail and Photos Data Shared With AI Search Could Be Used for Targeted Ads - The Hacker News</title>
@@ -979,15 +1006,6 @@
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/centaur-1002x648.jpg" medium="image"/>
 </item>
 <item>
-<title>Deciding with fake images: More candidates are using AI in political ads to get your vote - NBC News</title>
-<link>https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNjBIcFl2cGhpemRSNzBYVlFWaGg0eGxycFYxcTVLa3FMeks3U0xVVVpheXlkcktrOTROUlJKUGh3TjV1cUlRTjVlRy1id2Z5azRMbGViUUJGMDBFSEMzaTlSSV9pdl9YTnZwek1lajRfdUpJNUhBUEtyVVV5cFFmYUFFQmJ0UWJFOVdOTEVHQmZRZTgzdVJyUnVHdDRnT1lyS05qMkdfUFptT0w4U1o4ZE9WVnN6NEk3?oc=5</link>
-<guid isPermaLink="false">3022c68209d950f7848168f2ef9014f0d98f1058e2f3de561e1b1f9129ce5522</guid>
-<source>Google News Artificial Intelligence</source>
-<category>technology</category>
-<pubDate>Fri, 23 Oct 2026 22:10:40 +0000</pubDate>
-<description>Deciding with fake images: More candidates are using AI in political ads to get your vote NBC News</description>
-</item>
-<item>
 <title>Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell</title>
 <link>https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell</link>
 <guid isPermaLink="false">1e55c29e6e1a3d35fd9408ca3a175b371eb5aa07c792a81249d1aa42bdcb12ab</guid>
@@ -1267,15 +1285,6 @@
 <description>The first folding iPhone Duo is here, alongside the 18 Pro and 18 Pro Max, but they’re not your only options. We have all the details on Apple’s smartphone lineup to help you find the right model.</description>
 <enclosure url="https://media.wired.com/photos/6adb8eb7c29fe197e204584d/master/pass/iPhone%20Buying%20Guide%20102026%20top%20art%20SOURCE%20Apple.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/6adb8eb7c29fe197e204584d/master/pass/iPhone%20Buying%20Guide%20102026%20top%20art%20SOURCE%20Apple.jpg" medium="image"/>
-</item>
-<item>
-<title>Kimi K3.1 Pro and K3.1 Pro Highspeed</title>
-<link>https://www.kimi.ai/blog/kimi-k3-1-pro</link>
-<guid isPermaLink="false">bf44de9e544de4cbe9fe1a2a613ba67b03dda83fe8633fc284d5c9ec8453b5d7</guid>
-<source>Hacker News</source>
-<category>technology</category>
-<pubDate>Fri, 23 Oct 2026 16:59:08 +0000</pubDate>
-<description>Comments</description>
 </item>
 <item>
 <title>RFK Jr.’s vaccine injury clinic could damage NIH hospital, board warns</title>
@@ -1981,15 +1990,6 @@
 <description>Step one in convincing people to live with robots with cameras on their faces? Disguise them as cute home decor.</description>
 <enclosure url="https://media.wired.com/photos/6ad73249e71bc9cefa5d514d/master/pass/OKA_MORI_Companion_EveningWorkAtLaptop.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/6ad73249e71bc9cefa5d514d/master/pass/OKA_MORI_Companion_EveningWorkAtLaptop.jpg" medium="image"/>
-</item>
-<item>
-<title>How to run a city builder on 16 MHz</title>
-<link>https://larstofus.com/2025/11/16/how-to-run-a-city-builder-on-12-5-mhz</link>
-<guid isPermaLink="false">6553bb199dbc2b4008a026cdaa6ce57fa07c8f9e5a9915904b37408e8f5d51ca</guid>
-<source>Hacker News</source>
-<category>technology</category>
-<pubDate>Thu, 22 Oct 2026 12:40:56 +0000</pubDate>
-<description>Comments</description>
 </item>
 <item>
 <title>Barclays to cut 5,000 jobs and employ more artificial intelligence - Computer Weekly</title>
