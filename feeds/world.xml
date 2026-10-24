@@ -4,9 +4,18 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
-<title>North Korean leader Kim Jong Un arrived in China's border city</title>
-<link>https://www.dw.com/en/north-korean-leader-kim-jong-un-arrived-in-china-s-border-city/a-79748580?maca=en-rss-en-all-1573-rdf</link>
-<guid isPermaLink="false">57a6b9690cb8a833c71e71806643b73caf3948257e0b2f034ae206e5ca4de9fa</guid>
+<title>Man arrested after fire breaks out at Hitler’s former Alpine retreat</title>
+<link>https://www.aljazeera.com/video/newsfeed/2026/10/24/man-arrested-after-fire-breaks-out-at-hitlers-former-alpine-retreat?traffic_source=rss</link>
+<guid isPermaLink="false">42e12b79a3d4195512e41a22c97a4b7aca2e8a946755b455dcc77823f336aa96</guid>
+<source>Al Jazeera</source>
+<category>world</category>
+<pubDate>Sat, 24 Oct 2026 07:31:42 +0000</pubDate>
+<description>A man has been arrested after a fire broke out at Hitler’s former Alpine retreat, the Kehlsteinhaus, on Friday night.</description>
+</item>
+<item>
+<title>North Korean leader Kim Jong Un arrives in Chinese border city</title>
+<link>https://www.dw.com/en/north-korean-leader-kim-jong-un-arrives-in-chinese-border-city/a-79748580?maca=en-rss-en-all-1573-rdf</link>
+<guid isPermaLink="false">377da59a300c8ac3cd512a6e87b7b0a7ff7465abb4e1497b22f1b077f2c61403</guid>
 <source>DW News</source>
 <category>world</category>
 <pubDate>Sat, 24 Oct 2026 07:29:00 +0000</pubDate>
@@ -44,7 +53,7 @@
 <media:content url="https://s.france24.com/media/display/d9366fa6-cf76-11f1-894f-4d317af013fd/w:1024/p:16x9/AP26296361269027.jpg" medium="image"/>
 </item>
 <item>
-<title>North Korea’s Kim Jong Un arrives in China, South Korean media says</title>
+<title>North Korea’s Kim Jong Un arrives in China, South Korean media say</title>
 <link>https://www.aljazeera.com/news/2026/10/24/north-koreas-kim-jong-un-arrives-in-china-south-korean-media-says?traffic_source=rss</link>
 <guid isPermaLink="false">5e6aea2c6264f5f6003065c8170f9df4f714eb3dd7a5cf7108c099816776b499</guid>
 <source>Al Jazeera</source>
@@ -133,6 +142,17 @@
 <description>Messi awarded the Princess of Asturias Award for his work for disadvantaged children's access to health and education.</description>
 </item>
 <item>
+<title>Former Goldman chief Sherwood leaves Britain amid tax hike fears</title>
+<link>https://news.sky.com/story/former-goldman-chief-sherwood-leaves-britain-amid-tax-hike-fears-13602963</link>
+<guid isPermaLink="false">85adb63d5a88ddb5b38b647ed4377d4ef0449c9ba80e0dd7e1597088b9320b5e</guid>
+<source>Sky News</source>
+<category>world</category>
+<pubDate>Sat, 24 Oct 2026 06:40:00 +0000</pubDate>
+<description>A former Goldman Sachs chief who sits on the board of Revolut, Europe’s most valuable private technology company, has become the latest prominent financier to leave the country amid concerns about Britain’s rising tax burden.</description>
+<enclosure url="https://e3.365dm.com/24/04/1920x1080/skynews-treasury-spending_6530389.jpg?20240423071047" type="image/jpeg"/>
+<media:content url="https://e3.365dm.com/24/04/1920x1080/skynews-treasury-spending_6530389.jpg?20240423071047" medium="image"/>
+</item>
+<item>
 <title>Smith v Puello world title fight predictions</title>
 <link>https://www.bbc.co.uk/sport/boxing/articles/cwe9ldpmeljyo?at_medium=RSS&amp;at_campaign=rss</link>
 <guid isPermaLink="false">e987b4b024a0fa49da1f9374271cf01eaf76d53e85b7e45f785e7b11ed07c43a</guid>
@@ -153,7 +173,7 @@
 <description>France is deploying some 70,000 police as fresh nationwide protests are set to begin. A deadly shooting near Paris has additionally fueled tensions. DW has more.</description>
 </item>
 <item>
-<title>Why a convicted £33m tax fraudster is living it up in Dubai</title>
+<title>The convicted £33m tax fraudster living it up in Dubai</title>
 <link>https://www.bbc.co.uk/news/articles/cmy83v286571o?at_medium=RSS&amp;at_campaign=rss</link>
 <guid isPermaLink="false">d7b70f33fdad3417679e7030f672d5d115373398d5c1a5ab9486cf850adc5c0f</guid>
 <source>BBC News</source>
@@ -319,7 +339,7 @@
 <description>Residents and analysts doubt October 27 vote will bring any meaningful shift in Israeli policy towards their country.</description>
 </item>
 <item>
-<title>The rise of AI election ads in US midterms campaign</title>
+<title>Watch: The rise of AI election ads in US midterms campaign</title>
 <link>https://www.bbc.co.uk/news/videos/cm62y59zw8zko?at_medium=RSS&amp;at_campaign=rss</link>
 <guid isPermaLink="false">aee9d87fa08b66bcc454f274fcc924bc860c89e1e2bd78be3dbc96ace71c0abf</guid>
 <source>BBC News</source>
@@ -352,15 +372,24 @@
 <media:content url="https://i.guim.co.uk/img/media/13ceb52a43f1b6771519d70b1eb33680ffbec0ca/0_0_2750_2200/master/2750.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=7c0a9667489edbac502049a00339a656" medium="image"/>
 </item>
 <item>
-<title>Live: Hundreds of protests expected in France amid high tensions and heavy police presence</title>
+<title>Live: France braces for fresh wave of protests amid high tensions</title>
 <link>https://www.france24.com/en/france/20261024-live-hundreds-of-protests-expected-in-france-amid-high-tensions-and-heavy-police-presence</link>
 <guid isPermaLink="false">fda62057d1dabffa7b3d3d34bce19f3745b0731a388cc2947e4f9cd070fcdab2</guid>
 <source>France 24</source>
 <category>world</category>
 <pubDate>Sat, 24 Oct 2026 04:59:58 +0000</pubDate>
-<description>A coalition of the “Yellow Vests” movement, labor unions and students will march across France on Saturday with demands centered around studying conditions and purchasing power. Some 70,000 police will be deployed with authorities fearing ransacking and looting similar to the unrest that erupted last Saturday on the sidelines of protests that saw at least 550,000 participants. Follow our liveblog for the latest updates.</description>
+<description>A coalition of the “Yellow Vests” movement, labor unions and students will march across France on Saturday with demands centered around studying conditions and purchasing power. Some 70,000 police will be deployed with authorities fearing ransacking and looting similar to the unrest that erupted last Saturday on the sidelines of protests that saw at least half a million participants. Follow our liveblog for the latest updates.</description>
 <enclosure url="https://s.france24.com/media/display/54acf25a-cf67-11f1-bc3a-bba4eee3dc72/w:1024/p:16x9/000-D43U7DP.jpg" type="image/jpeg"/>
 <media:content url="https://s.france24.com/media/display/54acf25a-cf67-11f1-bc3a-bba4eee3dc72/w:1024/p:16x9/000-D43U7DP.jpg" medium="image"/>
+</item>
+<item>
+<title>Paris shuts museums and police deploy in big numbers for new protests across France - AP News</title>
+<link>https://news.google.com/rss/articles/CBMikgFBVV95cUxPWFhXb1VmdWxKRzJmZnRpSGpJTk40b3JoTldmR0FjTW9nWWxibmNBOTJCN1NNa1IyenIycmtueTVnVHhaR19YOUU3TkE2ODBHRFFlRWdDYVZzVWY0MVlqV0dTOHlkaTdEbmxkdnFNMnJicVFjSkhYUVdOaGFYYU5jVEQ5VEhRUU5tWlJjZ1pzOE5GQQ?oc=5</link>
+<guid isPermaLink="false">1d2e125be7148b928b958f3c206e674459144c7c7dd38692b6eebd5e2d7845b1</guid>
+<source>Google News World</source>
+<category>world</category>
+<pubDate>Sat, 24 Oct 2026 04:59:00 +0000</pubDate>
+<description>Paris shuts museums and police deploy in big numbers for new protests across France AP News Ruins of Limoges city hall a symbol of France divided by national protests BBC Paris museums close, stores put up barricades as France prepares for more protests CBS News France to deploy 70,000 police on Saturday to prevent civil unrest The Guardian France's Macron tightens curbs on protests, blaming hard left for unrest Reuters</description>
 </item>
 <item>
 <title>India news: India-China border tensions back in focus despite ongoing talks</title>
@@ -392,9 +421,18 @@
 <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/deb7/live/c6c4f620-cf31-11f1-93e1-3b657b665bcf.jpg" medium="image"/>
 </item>
 <item>
-<title>Suspect arrested over fire at Nazis' WWII 'Eagle's Nest' retreat</title>
-<link>https://news.sky.com/story/suspect-arrested-over-fire-at-nazis-wwii-eagles-nest-mountain-retreat-13602938</link>
-<guid isPermaLink="false">390a4d53fb8327112813322e24232cd0df9360c73f2753879678ae4b9d96b832</guid>
+<title>Palestinian Gunmen Open Fire on Israelis in the West Bank, Officials Say - The New York Times</title>
+<link>https://news.google.com/rss/articles/CBMiigFBVV95cUxNNlJoOXZ4OHV6X3hNUTFnWnJveU5VWEVNWGhSMTRueHdwV09qZlowMkI5VlROQ0hKcUNXSHBkWmlyYmVIVUpENVhTc1BYRHVjU1R1Ymx2MDVWMHJVdmR1YzVjRWlQMzJuSXMwV3lZSmlYcDY4Ul9aMXcwYzZqS01CSkJuWXdWSmV4alE?oc=5</link>
+<guid isPermaLink="false">b55ac640f33cbf198aae5c54a312117984a2c4dcf9ab30d3eb0e46dedc905349</guid>
+<source>Google News World</source>
+<category>world</category>
+<pubDate>Sat, 24 Oct 2026 04:42:00 +0000</pubDate>
+<description>Palestinian Gunmen Open Fire on Israelis in the West Bank, Officials Say The New York Times Israel begins demolitions in West Bank city after two soldiers killed in shooting attack CNN Israel imposes closures across a West Bank city after attacks, and other Mideast news Yahoo Netanyahu Calls for West Bank Lockdown After Deadly Attack WSJ Israel raids towns, detains dozens of Palestinians in occupied West Bank Al Jazeera</description>
+</item>
+<item>
+<title>Suspect arrested after fire at Hitler's 'Eagle's Nest' retreat</title>
+<link>https://news.sky.com/story/suspect-arrested-after-fire-at-nazis-wwii-eagles-nest-mountain-retreat-13602938</link>
+<guid isPermaLink="false">a6a66a15bcada94349ef33ea873cfa3dab48a619855f891f3b3cfce55063473a</guid>
 <source>Sky News</source>
 <category>world</category>
 <pubDate>Sat, 24 Oct 2026 04:15:00 +0000</pubDate>
@@ -403,22 +441,22 @@
 <media:content url="https://e3.365dm.com/26/10/1920x1080/skynews-fire-nazi_7385230.png?20261024055752" medium="image"/>
 </item>
 <item>
-<title>France is in revolt. But the real storm is yet to come - Financial Times</title>
-<link>https://news.google.com/rss/articles/CBMicEFVX3lxTE9JNjZNY2VmaFZnd0dlc3NHSXJGVDVjdERyTEN5d2swSWJ0QXdTMTFDR1hkWVZ4QlBnODRvWjBqTHBfQmQtR3Y5VlBRbTFsbU9SWEdEX29ZQjlhS21TTzdSTnN4cVd2VjFRTExhSUUtaXQ?oc=5</link>
-<guid isPermaLink="false">8229bb123acd3d5de08000d8f13a4c8e6e2e5f6d0116bbc48b09b94d62dc6e13</guid>
-<source>Google News World</source>
-<category>world</category>
-<pubDate>Sat, 24 Oct 2026 04:01:14 +0000</pubDate>
-<description>France is in revolt. But the real storm is yet to come Financial Times Gen Z are leading the European protests. Here’s why they’re angry CNN Student Protests Mushroom Across Europe, Exposing Bleak Views of the Future The New York Times The Guardian view on Europe’s protests: the social contract has broken – and young people want solutions | Editorial The Guardian Will Europe’s Protests Mark a Turning Point? Council on Foreign Relations</description>
-</item>
-<item>
 <title>Suspect arrested as Hitler's Eagle's Nest, the Kehlsteinhaus, catches fire - DW.com</title>
 <link>https://news.google.com/rss/articles/CBMijAFBVV95cUxPQXNqMFNUR1dPQjNiVVJzNFY4TTA0dWNGb1hMejdtMnRlbjBTRFNwWG1qVlBzdEpYQnEtRmI1UFRYdGJrSXBWZ1pHam52WV9sSjRNem5jd3FMZHd3bk95MF9HalBzdzdlckUyRUlwWGVuME5fTncxbnZiME1Pbmk3Y3R4QXlMbEl4WXlxStIBjAFBVV95cUxOb3QzaUZZbmwxdkREYVoxYzcwcjRBSkh4T2JYZlFNNmdhZjFzY0hGUkJBdGN4cFFtcUpRM0swaFN5N2xsbVJUeS1oOWhvNDFmQXNzY1hZSHZoWkd4Z3dtSFFCN3l6RHFRMm1ERFBIampUMUhHTWYtT1Z4RXVEMExKTmZfSXVMMExZYXlTVw?oc=5</link>
 <guid isPermaLink="false">b4ae6cea8b64989844418d81d9b5c070a224f3eaabdfabf71f0f81e8bbfeaa2c</guid>
 <source>Google News World</source>
 <category>world</category>
 <pubDate>Sat, 24 Oct 2026 04:00:45 +0000</pubDate>
-<description>Suspect arrested as Hitler's Eagle's Nest, the Kehlsteinhaus, catches fire DW.com Arrest made after fire at Hitler's famed Eagle's Nest retreat BBC Blaze engulfs Hitler’s ‘Eagle’s Nest’ mountain retreat in Bavaria The Guardian Suspect arrested as fire engulfs Nazi guest house 'Eagle's Nest', German police say Reuters Suspect arrested as fire engulfs Hitler’s ‘Eagle’s Nest’ retreat, German police say NBC News</description>
+<description>Suspect arrested as Hitler's Eagle's Nest, the Kehlsteinhaus, catches fire DW.com Arrest made after fire at Hitler's famed Eagle's Nest retreat BBC Suspect detained as fire rages at Hitler's former Eagle Nest retreat Yahoo Blaze engulfs Hitler’s ‘Eagle’s Nest’ mountain retreat in Bavaria The Guardian Fire breaks out at Hitler's mountain retreat, suspect arrested Yahoo</description>
+</item>
+<item>
+<title>A teenager starved to death months after being detained. Her mom’s taking police to court - CNN</title>
+<link>https://news.google.com/rss/articles/CBMie0FVX3lxTE96b2p5WHV3UU5DRzc3aFNJcklFb19vMlZKdWU1OVNLQTlPa19tZTYyd2lPNDhtdHMxemNZckNKbVBLem9ycWgtWFZwOS00dzJXOE8tcnJTXzhlWWVhLWJheWY2bE5KUjRJVUcwNmlkNFV5RnpDdVFUczJ6TQ?oc=5</link>
+<guid isPermaLink="false">a89afcb957fc55bed6cc352335c668b8668ac5463585c9b46a27181e312d4df6</guid>
+<source>Google News World</source>
+<category>world</category>
+<pubDate>Sat, 24 Oct 2026 04:00:15 +0000</pubDate>
+<description>A teenager starved to death months after being detained. Her mom’s taking police to court CNN</description>
 </item>
 <item>
 <title>Argentina identifies dozens of victims killed in its ‘Dirty War’</title>
@@ -437,8 +475,8 @@
 <category>world</category>
 <pubDate>Sat, 24 Oct 2026 03:51:25 +0000</pubDate>
 <description>Around 200 emergency personnel are deployed to fight the blaze at the Nazi dictator's Alpine residence in Germany.</description>
-<enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e79e/live/f46e35b0-cf76-11f1-b441-2b33b063138f.jpg" type="image/jpeg"/>
-<media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e79e/live/f46e35b0-cf76-11f1-b441-2b33b063138f.jpg" medium="image"/>
+<enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b513/live/b8fe52a0-cf7e-11f1-ae2e-3fbb7ae6bffe.jpg" type="image/jpeg"/>
+<media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b513/live/b8fe52a0-cf7e-11f1-ae2e-3fbb7ae6bffe.jpg" medium="image"/>
 </item>
 <item>
 <title>Marco Rubio urges Cubans to collaborate with CIA to topple gov’t</title>
@@ -468,6 +506,15 @@
 <description>Pete Hegseth says the Pentagon dismantled 80 ‘propaganda cells’ operating under new names at 30 universities.</description>
 </item>
 <item>
+<title>El Salvador sends special forces to search for troops missing in Haiti - The Washington Post</title>
+<link>https://news.google.com/rss/articles/CBMirgFBVV95cUxQRF9KQW1CR1hkUXlEZTFrZFZrUGh4ZjdLTWxlR3p0cElTRnk4WGpzS2JpV2FqX2ktRWJrMmxWT1o1U2swWlRLXy0tRDQ5OFZ0Y2wxUk91eV9RMGVvX3FRU2JUWDVUczk0bjNnek1aQnRJbTNaQnRmZ2ZqdlljRTNyN3hSVmNtZkVlU0lVWGFHNldZSTVST1RlWkFrcUVHclEzay1TYW05R3ExbGQtMkE?oc=5</link>
+<guid isPermaLink="false">b5caad36a0a02361ab1dcb080cfaae6ef2de5344439f8c6ac9c499f8e0df324a</guid>
+<source>Google News World</source>
+<category>world</category>
+<pubDate>Sat, 24 Oct 2026 03:29:45 +0000</pubDate>
+<description>El Salvador sends special forces to search for troops missing in Haiti The Washington Post El Salvador sends troops to Haiti to rescue four service members CNN Ambush of Salvadoran Soldiers Escalates Haiti’s Anti-Gang Mission The New York Times El Salvador's president threatens Haitian gangs over military hostages BBC Salvadoran troops land in Haiti aboard Pentagon plane amid crisis over ambushed soldiers Miami Herald</description>
+</item>
+<item>
 <title>Met investigates reports of letter detailing claims about Meghan's father</title>
 <link>https://www.bbc.co.uk/news/articles/cmlylkkzl2neo?at_medium=RSS&amp;at_campaign=rss</link>
 <guid isPermaLink="false">d97041663f772319a734d58f4c949a78dfe2caebd9e0b31550635f82081aad04</guid>
@@ -477,6 +524,15 @@
 <description>Scotland Yard opens an inquiry after the Duchess of Sussex said she was sent a letter containing "disturbing allegations".</description>
 <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4388/live/9cae2750-cf48-11f1-93e1-3b657b665bcf.jpg" type="image/jpeg"/>
 <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4388/live/9cae2750-cf48-11f1-93e1-3b657b665bcf.jpg" medium="image"/>
+</item>
+<item>
+<title>Met investigates reports of letter detailing claims about Meghan's father - BBC</title>
+<link>https://news.google.com/rss/articles/CBMiW0FVX3lxTFBnVFJKX25mTGdQdldLd00zbjRvYk5HM1lFYldYZmdRUjlzV2FlSWRURWMwbmlEV1ZjN000MTNvZFlYNWVxclRTcUxNeXNuYzFBTi03S1k5ZE94dTg?oc=5</link>
+<guid isPermaLink="false">7522dee4a1b3b4260549e9e404fb48ad69eb04348ec1ded246d48c00374ad565</guid>
+<source>Google News World</source>
+<category>world</category>
+<pubDate>Sat, 24 Oct 2026 03:17:24 +0000</pubDate>
+<description>Met investigates reports of letter detailing claims about Meghan's father BBC Meghan says she was informed about 'disturbing allegations' against her father in 2018 BBC Meghan ‘deeply distressed’ over child sex abuse image allegations against father CNN Royal Family May Distance Itself From Harry and Meghan, Expert Says InStyle Meghan Markle Feels ‘Relief’ as Allegations Against Father Are Investigated People.com</description>
 </item>
 <item>
 <title>Century-old mosque near Indian PM’s residence under gov’t threat</title>
@@ -516,7 +572,7 @@
 <source>Google News World</source>
 <category>world</category>
 <pubDate>Sat, 24 Oct 2026 02:49:04 +0000</pubDate>
-<description>Intelligence memo warns Iran plotting to kill Americans in Middle East Financial Times Iran in ‘Advanced Stages’ of Planning Attacks Against Americans, Officials Say The New York Times Scoop: U.S. intel memo warns of "advanced" Iranian plots to kill officials abroad Axios US discreetly moves diplomats and families from multiple Middle Eastern countries as escalation fears grow CNN Iran Plots, Houthi Attacks Spur US Departure Orders in Mideast Bloomberg.com</description>
+<description>Intelligence memo warns Iran plotting to kill Americans in Middle East Financial Times Iran in ‘Advanced Stages’ of Planning Attacks Against Americans, Officials Say The New York Times Iran trying harder to target US personnel in Middle East, intelligence chief warns BBC Scoop: U.S. intel memo warns of "advanced" Iranian plots to kill officials abroad Axios US discreetly moves diplomats and families from multiple Middle Eastern countries as escalation fears grow CNN</description>
 </item>
 <item>
 <title>UK pledges £600m to defend against AI health and security threats</title>
@@ -537,15 +593,6 @@
 <category>world</category>
 <pubDate>Sat, 24 Oct 2026 02:40:00 +0000</pubDate>
 <description>Authorities have arrested a suspect as firemen try to put out the fire in Bavaria, near the Austrian border.</description>
-</item>
-<item>
-<title>Attack in the West Bank kills 2 Israeli soldiers, and other Mideast news - AP News</title>
-<link>https://news.google.com/rss/articles/CBMikgFBVV95cUxNVjk1RXRCNHBkeXhWRXgwMTdlX3RERmtfNFBpMVlYY3BjTlVaUnpfMmdXdEFZdDdzQjVTMVlIYzhVQnpHZmQxTWdYeFNqOERVc0ZPQVhKcmFKRXVINThvdVJyS2tud2p1ZThUdDF6UTNSempUcFczUnFoWV8tbGZBZ2UxOGM2RXZlUXBiYktTS1h0UQ?oc=5</link>
-<guid isPermaLink="false">60f7deb10326829ba75d10dfc8d6f08715ba1ef628ee7d3d566a191d78d6a4ac</guid>
-<source>Google News World</source>
-<category>world</category>
-<pubDate>Sat, 24 Oct 2026 02:29:00 +0000</pubDate>
-<description>Attack in the West Bank kills 2 Israeli soldiers, and other Mideast news AP News Israel begins demolitions in West Bank city after two soldiers killed in shooting attack CNN Palestinian Gunmen Open Fire on Israelis in the West Bank, Officials Say The New York Times Israel raids towns, detains dozens of Palestinians in occupied West Bank Al Jazeera Netanyahu Calls for West Bank Lockdown After Deadly Attack WSJ</description>
 </item>
 <item>
 <title>Typhoon Champi kills one and injures more than 500 in Taiwan as it heads to China</title>
@@ -598,7 +645,7 @@
 <source>BBC World</source>
 <category>world</category>
 <pubDate>Sat, 24 Oct 2026 01:55:15 +0000</pubDate>
-<description>The Independent MP is now in a serious but stable condition, according to the Melbourne hospital.</description>
+<description>The independent MP is now in a serious but stable condition, according to the Melbourne hospital.</description>
 <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e656/live/f2bfb570-cf41-11f1-81c6-53f66e190efd.jpg" type="image/jpeg"/>
 <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e656/live/f2bfb570-cf41-11f1-81c6-53f66e190efd.jpg" medium="image"/>
 </item>
@@ -738,15 +785,6 @@
 <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8d0b/live/15946bd0-cf39-11f1-a003-d5e5a8cb108b.jpg" medium="image"/>
 </item>
 <item>
-<title>Woman, 65, becomes second patient to die of Ebola in Kenya - BBC</title>
-<link>https://news.google.com/rss/articles/CBMiW0FVX3lxTFBoeDAzV2FRQ1dDUll6cmlMdEpMTWRwM1ZfNFVNUGRKTFRMb09lUU5JTm9rRjNhd29jOGJOUC1FRkdyUHNfV2tFRzhicHVnR2JMQ2N3WUZwRk5VTjA?oc=5</link>
-<guid isPermaLink="false">542b3329f74983e97a75e2626362bace37b81e4b7202f3300d3431e84c2c6d83</guid>
-<source>Google News World</source>
-<category>world</category>
-<pubDate>Sat, 24 Oct 2026 00:05:43 +0000</pubDate>
-<description>Woman, 65, becomes second patient to die of Ebola in Kenya BBC Kenya reports second death from Ebola Reuters Kenya announces second Ebola death, says ‘no evidence’ of community spread Al Jazeera Ebola: Kenya records second death as 65-year-old woman succumbs Daily Nation Nine Ebola Cases Have Kenya Holding Its Breath WSJ</description>
-</item>
-<item>
 <title>Iran war live: Tehran says US military banned entirely from Gulf entry</title>
 <link>https://www.aljazeera.com/news/liveblog/2026/10/24/iran-war-live-israel-launches-targeted-hebron-operation-after-attack?traffic_source=rss</link>
 <guid isPermaLink="false">d824cd6e4750097a85f4cedc1e6a6e20a632fd7231b262a4cc068bfedb16ba2c</guid>
@@ -798,7 +836,7 @@
 <description>Macklemore says ‘being human is not complicated’ as he kicked off his Free Palestine tour on Thursday night.</description>
 </item>
 <item>
-<title>Strictly's new presenters - after initial stumbles are they finding their feet?</title>
+<title>Strictly's new presenters - after mixed reviews have they found their feet?</title>
 <link>https://www.bbc.co.uk/news/articles/c5zjxp1rjne8o?at_medium=RSS&amp;at_campaign=rss</link>
 <guid isPermaLink="false">9cfe8a504962d1304cc6e512e909267d482f1ed0af4ebe856b3265a993041cf1</guid>
 <source>BBC News</source>
@@ -818,6 +856,15 @@
 <description>Voters are about to decide if the mega-rich among them should hand over billions of dollars to pay for improvements to healthcare.</description>
 <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b0f/live/ff750910-ce7d-11f1-bc2e-018d645d8d21.jpg" type="image/jpeg"/>
 <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b0f/live/ff750910-ce7d-11f1-bc2e-018d645d8d21.jpg" medium="image"/>
+</item>
+<item>
+<title>North Korea has opened up bridges to Russia and China – in which direction will it go? - The Guardian</title>
+<link>https://news.google.com/rss/articles/CBMilwFBVV95cUxQRmFVT2VRQ3FNeDRmV1JWTDVpR1ZYWXdpTHZBVG5QTjJxeE9BelcwTV8zTFh1UWNoWWp0SlhZb3Q3eWllT2VVY0xVYVBjYmNfSTFBSVdnd29MQzVpT0lQcDk5dUxKRVRRamxpWmxMYVFxOWJBRUdZSkFIVnpSZ1luMmNENmZMU2U2RmFNZGJZU0k3MEtNd1Fj?oc=5</link>
+<guid isPermaLink="false">15b4d01ea5a13b2e20e17f02f5e84dafc03c78967ffd08ef1ca70c708c404351</guid>
+<source>Google News World</source>
+<category>world</category>
+<pubDate>Fri, 23 Oct 2026 23:11:00 +0000</pubDate>
+<description>North Korea has opened up bridges to Russia and China – in which direction will it go? The Guardian North Korea's Kim Jong Un visits China via Dandong bridge, South Korean official says Reuters North Korean leader Kim Jong Un visits China, South Korean news agency reports AP News At Long Last, Trucks Traverse New DPRK-Friendship Bridge 38 North Kim Jong Un Arrives in China’s Dandong City, Yonhap Reports Bloomberg.com</description>
 </item>
 <item>
 <title>Typhoon Champi hits Taiwan, killing one and injuring hundreds</title>
@@ -851,15 +898,6 @@
 <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2145/live/2966bce0-ced9-11f1-8507-45cb00a1c41c.jpg" medium="image"/>
 </item>
 <item>
-<title>Ruins of Limoges city hall a symbol of France divided by national protests - BBC</title>
-<link>https://news.google.com/rss/articles/CBMiW0FVX3lxTE80VHg0MzA5Rm0ya09JOFpMOF9YSm9Kam0xUGRvWlEwUnM4ME1vV2R5aE0zU2FzdUJWUXhxOThuREtvbEZKcDF3eUZHdFI3MUdpdFVvb3I5VURhalU?oc=5</link>
-<guid isPermaLink="false">b7c199b468a0b23ba9be50b301dd48e807074e29a3287b3dcaaf77981ff1b1ea</guid>
-<source>Google News World</source>
-<category>world</category>
-<pubDate>Fri, 23 Oct 2026 23:09:16 +0000</pubDate>
-<description>Ruins of Limoges city hall a symbol of France divided by national protests BBC France on Edge as New Protests Raise Fears of Violence, Looting Bloomberg.com France to deploy 70,000 police on Saturday to prevent civil unrest The Guardian France's Macron tightens curbs on protests, blaming hard left for unrest Reuters France protests: More violence feared amid renewed demonstrations DW.com</description>
-</item>
-<item>
 <title>Student movement takes Serbia's Vučić to the wire in neck-and-neck election</title>
 <link>https://www.bbc.co.uk/news/articles/cm1dwz311476o?at_medium=RSS&amp;at_campaign=rss</link>
 <guid isPermaLink="false">03a27aa845611eb59fcfdda45e56b0a659fd6384597a4852ccc07f9a7d5d0576</guid>
@@ -882,7 +920,7 @@
 <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d961/live/a03e74a0-cf35-11f1-b4af-39e764734ae7.jpg" medium="image"/>
 </item>
 <item>
-<title>Father who killed Oregon school shooter describes anguish over children he couldn't save</title>
+<title>Father who killed Oregon school gunman describes anguish over children he couldn't save</title>
 <link>https://www.bbc.co.uk/news/articles/crgj9ndwvj9jo?at_medium=RSS&amp;at_campaign=rss</link>
 <guid isPermaLink="false">316ed2d0479cf95c4307498c65212aad8595c3b0e5098eaf0f89a36f3cf529fb</guid>
 <source>BBC News</source>
@@ -904,15 +942,6 @@
 <media:content url="https://i.guim.co.uk/img/media/bb974d706976903f7cd52427fedbf3da4ecd08d1/0_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=bc2600a4ff06b5aefd4a4b66553715c2" medium="image"/>
 </item>
 <item>
-<title>Fox News Entertainment newsletter: Harry risks 'lobbing a grenade' at William; Kate brings back Diana's tiara - Fox News</title>
-<link>https://news.google.com/rss/articles/CBMi0wFBVV95cUxOcDVFVTBJcHJRTjdQYWM2WDRGd0piN1FIdDdQbXctOUUyQWMtc3h6eWZkR1N0dkRiRXdNTDMtRmlnVVEzR1BkaWdmVmdBVXVLLXlGZ3pCWTM3YjlKWHRHQlZjSWE4S0lxX0dDNHhwbmU5QW9oT0poZ2tqOGozU0FEXzBzTzM4NGJJSE42c2dSZ044THNzT2piZ0JLODBrUGlxb2xERzlVMGVpOEdFVU1jYnYzd0NaQzRwbUo2SnhiX3NwenhKUDJkRGFLcWY3ZjNUckNn?oc=5</link>
-<guid isPermaLink="false">f5aa6bdb3710e1c43e406e8c3b5bee518e84488f95089d72fd3ce040b6f14879</guid>
-<source>Google News World</source>
-<category>world</category>
-<pubDate>Fri, 23 Oct 2026 22:36:08 +0000</pubDate>
-<description>Fox News Entertainment newsletter: Harry risks 'lobbing a grenade' at William; Kate brings back Diana's tiara Fox News Harry says he wants to 'reconcile' with his family BBC Prince Harry Believes Rift with Prince William Can Be Repaired Despite Lasting ‘Scars’ People.com Prince Harry reveals real reasons for UK return USA Today Prince Harry risks 'lobbing a grenade' at Prince William as chance to heal yearslong feud emerges: expert Fox News</description>
-</item>
-<item>
 <title>Kenya announces second Ebola death, says ‘no evidence’ of community spread</title>
 <link>https://www.aljazeera.com/news/2026/10/23/kenya-announces-second-ebola-death-says-no-evidence-of-community-spread?traffic_source=rss</link>
 <guid isPermaLink="false">c97917ca683ccda5df3c00853ce6b289e97d993887418ff6108c5759f0cd78d9</guid>
@@ -920,6 +949,17 @@
 <category>world</category>
 <pubDate>Fri, 23 Oct 2026 22:33:48 +0000</pubDate>
 <description>The Ebola outbreak has now spread to four countries across eastern, central ⁠⁠and western Africa.</description>
+</item>
+<item>
+<title>Who actually controls Ukraine's access to Starlink?</title>
+<link>https://www.bbc.co.uk/news/videos/cqy7lvv0lvzpo?at_medium=RSS&amp;at_campaign=rss</link>
+<guid isPermaLink="false">1f9547d1f07b0cccb7052a4d8a7bbd7f623b133f28015210b26be1f655a6fa43</guid>
+<source>BBC World</source>
+<category>world</category>
+<pubDate>Fri, 23 Oct 2026 22:24:36 +0000</pubDate>
+<description>President Zelensky says limits to the technology continue to affect Ukrainian forces, while US officials and Elon Musk offer conflicting accounts of who controls it.</description>
+<enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a39d/live/2b410510-cf2f-11f1-b441-2b33b063138f.jpg" type="image/jpeg"/>
+<media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a39d/live/2b410510-cf2f-11f1-b441-2b33b063138f.jpg" medium="image"/>
 </item>
 <item>
 <title>Why is Israel increasing its presence in the Balkans?</title>
@@ -971,15 +1011,6 @@
 <media:content url="https://i.guim.co.uk/img/media/ed52b753a2b75c6d81fae075e1edfac4bc26ed44/438_0_4377_3502/master/4377.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f82d54c7ed9adfca5f49c60e6cf22489" medium="image"/>
 </item>
 <item>
-<title>Masked gunmen kill seven in attack on church funeral in Jordan</title>
-<link>https://www.aljazeera.com/video/newsfeed/2026/10/23/aje-onl-nf_masked-gunmen-kill-seven-in-attack-on-church-jordan-231026?traffic_source=rss</link>
-<guid isPermaLink="false">84100e574b083cb75d51ed06beff87b803a57da3e734978ad692f20bc1490a03</guid>
-<source>Al Jazeera</source>
-<category>world</category>
-<pubDate>Fri, 23 Oct 2026 21:27:32 +0000</pubDate>
-<description>At least seven people were killed and 34 wounded after two masked gunmen opened fire at a church in Karak, Jordan.</description>
-</item>
-<item>
 <title>Ebola: Kenya announces second death</title>
 <link>https://www.dw.com/en/ebola-kenya-announces-second-death/a-79747550?maca=en-rss-en-all-1573-rdf</link>
 <guid isPermaLink="false">c2d969226ea9d2eb3b46426a03d1dfa720e0ec36c28d2307b91cfba5301d14fb</guid>
@@ -995,7 +1026,7 @@
 <source>Google News World</source>
 <category>world</category>
 <pubDate>Fri, 23 Oct 2026 21:00:09 +0000</pubDate>
-<description>Xi Jinping gathers China’s top communist cadres with focus on discipline Financial Times The Spring and Autumn of Chinese Politics Carnegie Endowment for International Peace China’s party elite gathers with purges and promotions in mind The Economist In Focus | What will China’s fifth plenum mean for the root-and-branch corruption drive? South China Morning Post A Simple Guide to China’s Very Complicated Policy Universe Bloomberg.com</description>
+<description>Xi Jinping gathers China’s top communist cadres with focus on discipline Financial Times The Spring and Autumn of Chinese Politics Carnegie Endowment for International Peace China’s party elite gathers with purges and promotions in mind The Economist In Focus | What will China’s fifth plenum mean for the root-and-branch corruption drive? South China Morning Post How China's October 26 to 29 Communist Party plenum works Reuters</description>
 </item>
 <item>
 <title>Argentina drops investigation into President Milei over crypto fraud</title>
@@ -1038,15 +1069,6 @@
 <description>The move comes as Trump's Republican Party scrambles to maintain control of the US Congress, with a Republican candidate in a key Senate race saying she had lobbied to lift the tariffs on Canadian products.</description>
 </item>
 <item>
-<title>Salvadoran troops land in Haiti aboard Pentagon plane amid crisis over ambushed soldiers - Miami Herald</title>
-<link>https://news.google.com/rss/articles/CBMikgFBVV95cUxPY1lEcl9YWGJOMWZuNkNNWGNRVUZQaFBxVFVSZ3RDQXRwNmVzWFZtQU5JQTY0Tkw4TllHZXZpYWxZdkhIWTdheFZUdVhVWnctSU1jMXhNN01wSGdqLThiOUFhM1hkWVhmWlhkS0VQV05xSHVNd01zN0QxWHRrbW4yWXBtOUFPV0VTb0xPbG1wcjJXd9IBkgFBVV95cUxPb2ZmSU93bEFiX0RqWDJfWF9oWEtaSWcxVXI0bWpyRVBxTDZUSnBobUpUaktmRFlJWUN4VDFZNkxHMS1BLVpRdkgtXy1ZaGpBTmR5RVBTY3UzZ3RSNEs5NWxPdFpoZ1I1NGNDb19iaGI3Um5pdUswRXladk52UVlpTHlZdGI4ZWQ4RGtORWxEQkFHdw?oc=5</link>
-<guid isPermaLink="false">1f1001e6999a547d58139eaa3830513d938aa99df50ff7580153c6b08b199423</guid>
-<source>Google News World</source>
-<category>world</category>
-<pubDate>Fri, 23 Oct 2026 20:33:00 +0000</pubDate>
-<description>Salvadoran troops land in Haiti aboard Pentagon plane amid crisis over ambushed soldiers Miami Herald Ambush of Salvadoran Soldiers Escalates Haiti’s Anti-Gang Mission The New York Times El Salvador sends special forces to search for troops missing in Haiti The Washington Post El Salvador sends troops to Haiti to rescue four service members CNN El Salvador sends special forces to Haiti to find 4 missing soldiers The Haitian Times</description>
-</item>
-<item>
 <title>Building collapse in Nairobi search for survivors under way</title>
 <link>https://www.france24.com/en/building-collapse-in-nairobi-search-for-survivors-under-way</link>
 <guid isPermaLink="false">5d7e9d1e7359b2739823407bdc5cd28f7bddd4672237ac3bee769467dde8fb57</guid>
@@ -1067,6 +1089,15 @@
 <description>Ukrainians held alongside the American say they witnessed beatings and sexual humiliation by Russian guards during his detention.</description>
 <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9844/live/e91cc740-cf1b-11f1-9796-954775b3a434.jpg" type="image/jpeg"/>
 <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9844/live/e91cc740-cf1b-11f1-9796-954775b3a434.jpg" medium="image"/>
+</item>
+<item>
+<title>Trump and Burnham discuss North Sea oil, Ukraine and Falklands - Reuters</title>
+<link>https://news.google.com/rss/articles/CBMirgFBVV95cUxPNUNKODFrR1F2TUlucF9FcWd0TV8xUHFzc0RKOHdfUk4tcEtaa1ZCUGZLNV80NXFUQlJLajRxOHRZSTZ5NUJnSllzWDZJMFNFbnBkd3NTaTNkNWV0NTFrZnF2THNmd3U4S1E4cU5hN0VJRFdUR1FHeEJLcFBhUTUtMHRjaEQycVN5Zkx2SThGaVZKMzNQdnVGaUtuaFBmaTVLZ1pmN0g0T09vZDVZWmc?oc=5</link>
+<guid isPermaLink="false">b4a4886832c863fd5908d717e33df722ce0fe6cd85cb9323d3f10bdd793ed981</guid>
+<source>Google News World</source>
+<category>world</category>
+<pubDate>Fri, 23 Oct 2026 20:06:35 +0000</pubDate>
+<description>Trump and Burnham discuss North Sea oil, Ukraine and Falklands Reuters Trump says Burnham is 'getting it done' after Jackdaw decision BBC Donald Trump tells Andy Burnham the UK will become 'very rich' by drilling in the North Sea Sky News PM call with President Trump of the United States: 23 October 2026 GOV.UK Trump praises Burnham for defying ‘liberal’ principles on North Sea The Telegraph</description>
 </item>
 <item>
 <title>Seven shot dead by gunmen at church funeral in Jordan, officials say</title>
@@ -1202,15 +1233,6 @@
 <description>The Ukrainian city of Oleshky, occupied by Russia and on the frontline, faces a humanitarian crisis. The localized truce comes as Ukrainian President Zelenskyy said negotiators would meet for wider talks next month.</description>
 </item>
 <item>
-<title>Philippines investigates Thomas Markle, father of Meghan, after child sexual abuse images claims - Reuters</title>
-<link>https://news.google.com/rss/articles/CBMiuwFBVV95cUxPWTRjZXZvemFKV2pJS3hnbDVBRDVCUkdrQ2dnZjRkd0o3dEpQT2NjcFlwS3FJaXlZbUQtOUo1UDNiYTQ1SGJiSWhMZTlXclNFcjJ4Q0toVTlsdnY1UFBURHNuRWVDQlBjcjBEc0YyeVNyRllMVE44bkpnY1NCbV9GeTRSSUJ2UWxIcF9DUWdybkRsdVhpWk9KSlZ6dDlBSHlucXg2QjdjQU8yblJaNW1malNWZXNDdV9HMmlB?oc=5</link>
-<guid isPermaLink="false">05e840bce16d6d1ff8215cf835ab26f7824dd486fe8f54ebba0e0992d4e3ce9c</guid>
-<source>Google News World</source>
-<category>world</category>
-<pubDate>Fri, 23 Oct 2026 18:12:32 +0000</pubDate>
-<description>Philippines investigates Thomas Markle, father of Meghan, after child sexual abuse images claims Reuters Meghan says she was informed about 'disturbing allegations' against her father in 2018 BBC Philippines investigating allegations against Meghan's father Yahoo Meghan Says She Is ‘Distressed’ by Claim Her Father Kept Child Abuse Images The New York Times Meghan Markle says she kept father away from kids to 'protect' them over 'disturbing allegations' against him Fox News</description>
-</item>
-<item>
 <title>Mother drowns trying to save sons during Bahamas snorkeling trip - USA Today</title>
 <link>https://news.google.com/rss/articles/CBMiqgFBVV95cUxPajlucGF4UkVmZldURU9oMjVMOFZKVFdvR0ZPN1VTakNTdkhZSWl4OHB3X19fdFBLQjh1YmhDZHdDMHo1SEFxa3hzUDd1OUhiVjg2OGNneUJjeWh2SXRoaXlxXzNKOHFzQTRqbGpMQlBYUnNVYlFQQjFBWWV3blBCbkZQTk9iYVNOR3BqOG1EVS0wZXEtbVR3R0F3dDI5V3pyY1FpZ3BVZldzUQ?oc=5</link>
 <guid isPermaLink="false">b3b2c415ad1d1015d9538e8373cf305f318d849235523f2aa60b14f23c496bdf</guid>
@@ -1218,15 +1240,6 @@
 <category>world</category>
 <pubDate>Fri, 23 Oct 2026 17:53:00 +0000</pubDate>
 <description>Mother drowns trying to save sons during Bahamas snorkeling trip USA Today British mother dies while trying to save her sons from strong current in the Bahamas FOX Weather 36-Year-Old Mom Drowns Attempting to Save Her 2 Sons from Rough Waters During Vacation Snorkel in Bahamas People.com Mom dies trying to save her children who were swept away snorkeling in Bahamas on cruise stop New York Post British woman drowns in Bahamas while trying to save her children The Telegraph</description>
-</item>
-<item>
-<title>Trump says Burnham is 'getting it done' after Jackdaw decision - BBC</title>
-<link>https://news.google.com/rss/articles/CBMiW0FVX3lxTE5OcUxyam9ndVNVRENSaVVUZ1prN0JIOXlULXM1VS1oVHpEeEctek85RTNLMkdHMkJjRGh4YjljT3lsZzV3LWw3bnlGb2ZzZGpxTlZEWjczaXU3bVU?oc=5</link>
-<guid isPermaLink="false">6fdaa87c758968e03914695aa37b4ab6b4de059a34fe2068ee124d1d7db03e7c</guid>
-<source>Google News World</source>
-<category>world</category>
-<pubDate>Fri, 23 Oct 2026 17:27:20 +0000</pubDate>
-<description>Trump says Burnham is 'getting it done' after Jackdaw decision BBC Trump and Burnham discuss North Sea oil, Ukraine and Falklands Reuters Donald Trump tells Andy Burnham the UK will become 'very rich' by drilling in the North Sea Sky News PM call with President Trump of the United States: 23 October 2026 GOV.UK Trump praises Burnham for defying ‘liberal’ principles on North Sea The Telegraph</description>
 </item>
 <item>
 <title>Nepal becomes first country to receive climate change reparations - The Telegraph</title>
@@ -1311,17 +1324,6 @@
 <description></description>
 </item>
 <item>
-<title>Vincent Kompany taken to hospital after collapsing at Bayern Munich training</title>
-<link>https://news.sky.com/story/vincent-kompany-bayern-coach-taken-to-hospital-after-collapsing-at-training-13602791</link>
-<guid isPermaLink="false">2b3c3601bd8c25253c28d0cd464c0dc4ea5e79e3645ca438d0e37cd1c6367469</guid>
-<source>Sky News</source>
-<category>world</category>
-<pubDate>Fri, 23 Oct 2026 16:55:00 +0000</pubDate>
-<description>Bayern Munich coach Vincent Kompany has been taken to hospital after collapsing at the club's training ground.</description>
-<enclosure url="https://e3.365dm.com/26/10/1920x1080/skynews-vincent-kompany-bayern-munich_7384916.jpg?20261023191749" type="image/jpeg"/>
-<media:content url="https://e3.365dm.com/26/10/1920x1080/skynews-vincent-kompany-bayern-munich_7384916.jpg?20261023191749" medium="image"/>
-</item>
-<item>
 <title>Pope Leo will not make Assisi visit to aid recovery after surgery - Vatican News</title>
 <link>https://news.google.com/rss/articles/CBMingFBVV95cUxONl9SVVViXzJBZl9EQ1ktQXNBdU0zRmNYLUxvYnZDek1PWG5xV1BMR1ZtYkFTQUZUdTJyLUxlZkVHREpkQW5JdFRDb010eVAxVTNlaTdhV2hWS2hXeXR6VjdyNUlEQ2pDR0dFcHMtV0g4NzdmQmxHRXZXOENReGU4X21NZ3J3Rk9rRE93ZGNEVHRscXpXd3VEYWloQVFvdw?oc=5</link>
 <guid isPermaLink="false">df13fc11acba7123633d309b2507f4481e2e5d6a23f96fec8ce0bcd97096f2f3</guid>
@@ -1337,7 +1339,7 @@
 <source>Google News World</source>
 <category>world</category>
 <pubDate>Fri, 23 Oct 2026 16:49:35 +0000</pubDate>
-<description>Russia, Ukraine agree to ceasefire in Ukrainian city hit by food crisis, brokered by Melania Trump Yahoo News UK Melania Trump brokers a ceasefire deal in Russian-occupied Ukrainian city to get relief aid in AP News Russia, Ukraine agree on ceasefire in embattled town, to hold peace talks next month Reuters Russia and Ukraine agree to local ceasefire in Oleshky amid deepening humanitarian crisis The Guardian Melania Trump brokered ceasefire at besieged Ukrainian town, White House says The Washington Post</description>
+<description>Russia, Ukraine agree to ceasefire in Ukrainian city hit by food crisis, brokered by Melania Trump Yahoo News UK Melania Trump brokers a ceasefire deal in Russian-occupied Ukrainian city to get relief aid in AP News Russia, Ukraine agree on ceasefire in embattled town, to hold peace talks next month Reuters Russia and Ukraine agree to local ceasefire in Oleshky amid deepening humanitarian crisis The Guardian US Says Russia, Ukraine to Let Civilians Leave War-Torn Area Bloomberg.com</description>
 </item>
 <item>
 <title>Trump Blasts Vanity Fair Over ‘Fake News’ On Jared Kushner’s Alleged Undisclosed Foreign Bank Accounts - Forbes</title>
@@ -1375,7 +1377,7 @@
 <source>Google News World</source>
 <category>world</category>
 <pubDate>Fri, 23 Oct 2026 16:38:45 +0000</pubDate>
-<description>Finland’s Puppy Livestream Provides Comfort in Troubled Times The New York Times Need a smile? This livestream features 6 puppies all day long AP News Puppy love: Finnish 24-hour newborn pup livestream is TV smash hit The Guardian Finland gripped by national broadcaster’s puppies live stream CNN Pentulive 2026 – live puppy broadcast from Finland Yle</description>
+<description>Finland’s Puppy Livestream Provides Comfort in Troubled Times The New York Times Puppy love: Finnish 24-hour newborn pup livestream is TV smash hit The Guardian Need a smile? This livestream features 6 puppies all day long AP News Finland gripped by national broadcaster’s puppies live stream CNN Pentulive 2026 – live puppy broadcast from Finland Yle</description>
 </item>
 <item>
 <title>🔴 Live: French student groups call for protests to continue after meeting with Macron</title>
@@ -1385,17 +1387,6 @@
 <category>world</category>
 <pubDate>Fri, 23 Oct 2026 16:31:44 +0000</pubDate>
 <description></description>
-</item>
-<item>
-<title>Watch: CCTV footage shows gunmen near church in Jordan</title>
-<link>https://www.bbc.co.uk/news/videos/c39wz712q0kzo?at_medium=RSS&amp;at_campaign=rss</link>
-<guid isPermaLink="false">e2a20110fb044eb92abf07f27d63256d5825ab8249cd7bda98735fe9c3c69185</guid>
-<source>BBC World</source>
-<category>world</category>
-<pubDate>Fri, 23 Oct 2026 15:59:36 +0000</pubDate>
-<description>Dozens of people had been inside the church for a funeral when the shooting began, local media report.</description>
-<enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0594/live/4fa5d550-cefa-11f1-93e1-3b657b665bcf.jpg" type="image/jpeg"/>
-<media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0594/live/4fa5d550-cefa-11f1-93e1-3b657b665bcf.jpg" medium="image"/>
 </item>
 <item>
 <title>West Bank: Extensive military operation 'on the way', Netanyahu says</title>
@@ -1418,6 +1409,15 @@
 <description>Israeli settlers and soldiers have made a habit of destroying olive trees grown by Palestinian farmers in the West Bank and, in recent days, a video showing some trees being ripped up has circulated online. Just one problem: this particular video was generated by artificial intelligence.</description>
 <enclosure url="https://s.france24.com/media/display/ce2ffdb4-cef6-11f1-93cf-bdb9616e85cf/w:1024/p:16x9/ban-olivier2-EN.jpg" type="image/jpeg"/>
 <media:content url="https://s.france24.com/media/display/ce2ffdb4-cef6-11f1-93cf-bdb9616e85cf/w:1024/p:16x9/ban-olivier2-EN.jpg" medium="image"/>
+</item>
+<item>
+<title>Many feared trapped as a tall building collapses in Kenya - AP News</title>
+<link>https://news.google.com/rss/articles/CBMiiwFBVV95cUxQRTRXak1SOHdpMTFYY0diUmJkbnBCcFhjS1RScVl0YktpcWV0ZG40VWhFbFhEbE05ZjM1Rl9uNVFWT01aWXF4TE9jVnd1LU9IVUhaTi1VcVhhM3ZZaFdRRUtXSXRSTUVtdGMxUy1iVTZEV181Q3U5OHRRZ0ZhUE8yWExYYWtnMHNiN3VN?oc=5</link>
+<guid isPermaLink="false">c4cf199d1f4cdad4fec653b9724a2cf30795b8d8fe9fc8a46937c6a0520be72e</guid>
+<source>Google News World</source>
+<category>world</category>
+<pubDate>Fri, 23 Oct 2026 15:41:00 +0000</pubDate>
+<description>Many feared trapped as a tall building collapses in Kenya AP News See more headlines &amp; perspectives on Google News</description>
 </item>
 <item>
 <title>Google told to halt work on Finnish data centers after clearing an estimated 250,000 trees - Fortune</title>
@@ -1457,7 +1457,7 @@
 <source>Google News World</source>
 <category>world</category>
 <pubDate>Fri, 23 Oct 2026 15:30:00 +0000</pubDate>
-<description>Middle East Physical Crude Slides While Brent Hits Five-Month High Crude Oil Prices Today | OilPrice.com See more headlines &amp; perspectives on Google News</description>
+<description>Middle East Physical Crude Slides While Brent Hits Five-Month High Crude Oil Prices Today | OilPrice.com More Oil Is Now Coming Out of the Persian Gulf Than Before the Iran War WSJ Physical Oil Prices Drop in Mideast as Flows Via Hormuz Hold Up Bloomberg.com COMMENTARY: Don't mistake Mideast oil rebound for normality Reuters Opinion | Oil’s great escape from the Middle East The Washington Post</description>
 </item>
 <item>
 <title>Hacked emails yield revelations on Germany's far-right AfD party leader - Reuters</title>
@@ -1467,6 +1467,15 @@
 <category>world</category>
 <pubDate>Fri, 23 Oct 2026 15:19:15 +0000</pubDate>
 <description>Hacked emails yield revelations on Germany's far-right AfD party leader Reuters Germany news: Hackers release AfD party emails DW.com Email leak exposes shadowy figures behind AfD leader The Times Hacker leaks 281 GB of data from Germany's far-right AfD party Bitdefender Hacked Docs Reveal How Germany’s Far-Right AfD Has Been Courting Trump Yahoo</description>
+</item>
+<item>
+<title>A drone hit and sank a cargo vessel in new Black Sea attack near Romania, killing 1 - AP News</title>
+<link>https://news.google.com/rss/articles/CBMiigFBVV95cUxQRWpJaVFWeFdvT0NpdU9ZQnVuQ3BhNjJ4dG0tVkZ3cm1UWXhtbVlXb1N4eTN1SG9adUVybERkSFJNbkVBbE9tWmh5ekxaMjcySVotYTZkSGFoRGpkVjJvbmhySF9CdFZRNlhfSEdXaFNSOWNkMEpYTTJoeElDeUhadGlTelZZWkxCZkE?oc=5</link>
+<guid isPermaLink="false">f3e5045549b2ca7c3022a2e98d56da4ed428941327846ae0685c3b967b878f74</guid>
+<source>Google News World</source>
+<category>world</category>
+<pubDate>Fri, 23 Oct 2026 15:19:00 +0000</pubDate>
+<description>A drone hit and sank a cargo vessel in new Black Sea attack near Romania, killing 1 AP News NATO to send planes and drones to Black Sea after attacks on shipping Reuters Romania blames Russia after drone sinks ship in the Black Sea Al Jazeera Ukraine’s Foreign Minister Calls for Joint Black Sea Response After Russian Drone Attack on Cargo Ship UNITED24 Media Romania blames Russia for ship attack in the Black Sea DW.com</description>
 </item>
 <item>
 <title>AKAA art and design fair brings African artists to Paris</title>
@@ -1518,15 +1527,6 @@
 <description>A marathon EU summit on October 15-16 failed to produce a breakthrough on the European Union's next long-term budget. Although EU leaders put on a brave face at the end of the talks by saying that "the way forward is clearer", EU capitals appear deadlocked on what that path is. At stake is the EU's ability to finance its strategic priorities from 2028 to 2034. The main dividing line is between the so-called "frugal countries", who want deep cuts to the proposed budget, and the "friends of cohesion", who say that cuts are not the answer.</description>
 <enclosure url="https://s.france24.com/media/display/1c61fbc0-ce36-11f1-95b2-7967b15eed96/w:1024/p:16x9/TALKING-EUROPE-DEBAT-BUDGET.png" type="image/jpeg"/>
 <media:content url="https://s.france24.com/media/display/1c61fbc0-ce36-11f1-95b2-7967b15eed96/w:1024/p:16x9/TALKING-EUROPE-DEBAT-BUDGET.png" medium="image"/>
-</item>
-<item>
-<title>Many feared trapped as a tall building collapses in Kenya - AP News</title>
-<link>https://news.google.com/rss/articles/CBMiiwFBVV95cUxQRTRXak1SOHdpMTFYY0diUmJkbnBCcFhjS1RScVl0YktpcWV0ZG40VWhFbFhEbE05ZjM1Rl9uNVFWT01aWXF4TE9jVnd1LU9IVUhaTi1VcVhhM3ZZaFdRRUtXSXRSTUVtdGMxUy1iVTZEV181Q3U5OHRRZ0ZhUE8yWExYYWtnMHNiN3VN?oc=5</link>
-<guid isPermaLink="false">c4cf199d1f4cdad4fec653b9724a2cf30795b8d8fe9fc8a46937c6a0520be72e</guid>
-<source>Google News World</source>
-<category>world</category>
-<pubDate>Fri, 23 Oct 2026 14:34:38 +0000</pubDate>
-<description>Many feared trapped as a tall building collapses in Kenya AP News See more headlines &amp; perspectives on Google News</description>
 </item>
 <item>
 <title>World’s only venomous primate lost to science for 90 years resurfaces in unbelievable place - New York Post</title>
@@ -1617,7 +1617,7 @@
 <source>Google News World</source>
 <category>world</category>
 <pubDate>Fri, 23 Oct 2026 14:16:29 +0000</pubDate>
-<description>Several killed, dozens wounded in Jordan church shooting France 24 At least 7 people killed in unprecedented shooting at church in Jordan CNN US embassy in Amman says security ramped up across Jordan after deadly church attack The Times of Israel Seven killed as gunmen open fire at church in Jordan in 'terrorist' attack, authorities say Reuters Seven killed and 40 injured after gunmen open fire at church funeral in Jordan The Guardian</description>
+<description>Several killed, dozens wounded in Jordan church shooting France 24 At least 8 people killed in unprecedented shooting at church in Jordan CNN Jordan tightens security after deadly church attack kills seven Reuters Seven killed and 40 injured after gunmen open fire at church funeral in Jordan The Guardian Jordan church shooting leaves seven dead, officials say BBC</description>
 </item>
 <item>
 <title>Many feared trapped under collapsed building in Nairobi</title>
@@ -1660,15 +1660,6 @@
 <description>Michael Carrick speaks for five uninterrupted minutes at media briefing to outline what Manchester United means to him, then refuses to rule out dropping Bruno Fernandes.</description>
 <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/73a2/live/6c9e6ab0-cee5-11f1-b441-2b33b063138f.jpg" type="image/jpeg"/>
 <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/73a2/live/6c9e6ab0-cee5-11f1-b441-2b33b063138f.jpg" medium="image"/>
-</item>
-<item>
-<title>Romania blames Russia for drone that sinks cargo ship; 1 killed, 3 missing - Reuters</title>
-<link>https://news.google.com/rss/articles/CBMirwFBVV95cUxPOF9iZ3FoTHAycU5fWGxKNWNiYnpvRXlwUWJ2ZVFtQU9IUmF4UWJTU1AwTEFRT21vNWRDNzRjWTgtY0F6Vkp0RkdxeG9xM1A0X1RRX19Eb0RqVG9tbTBNeWFRaXZ2SzEtUUFEc2VjZlZPaUxtR3JGTUNEN3VRdWtRMEdTM21OSTVSQWNJN3FaOWpBNHdld3IyZS1sbVA1a2wxLVJXRm01ejhKWXZzQU5B?oc=5</link>
-<guid isPermaLink="false">9c7db7316ba44ae799a25d91ba2b2b0451a2322092dc7ccfcfef91bfc4cf7fbd</guid>
-<source>Google News World</source>
-<category>world</category>
-<pubDate>Fri, 23 Oct 2026 13:53:43 +0000</pubDate>
-<description>Romania blames Russia for drone that sinks cargo ship; 1 killed, 3 missing Reuters A drone hit and sank a cargo vessel in new Black Sea attack near Romania, killing 1 AP News NATO to send planes and drones to Black Sea after attacks on shipping Reuters Romania blames Russia after drone sinks ship in the Black Sea Al Jazeera Ukraine’s Foreign Minister Calls for Joint Black Sea Response After Russian Drone Attack on Cargo Ship UNITED24 Media</description>
 </item>
 <item>
 <title>Mystery over source of Ebola infection in Nigeria fuels concern about spread of virus - The Guardian</title>
@@ -1722,7 +1713,7 @@
 <source>Google News World</source>
 <category>world</category>
 <pubDate>Fri, 23 Oct 2026 12:28:29 +0000</pubDate>
-<description>Serbia: Hope, tension and apprehension as voters prepare to elect new parliament DW.com Student movement takes Serbia's Vučić to the wire in neck-and-neck election BBC Opinion | Something Astonishing Is Happening in My Country. The World Should Take Note. The New York Times Opinion | How a leaderless student movement could topple Serbia’s autocrat The Washington Post Massive student-led rally marches in Belgrade ahead of Serbian election The Guardian</description>
+<description>Serbia: Hope, tension and apprehension as voters prepare to elect new parliament DW.com Student movement takes Serbia's Vučić to the wire in neck-and-neck election BBC Opinion | How a leaderless student movement could topple Serbia’s autocrat The Washington Post Opinion | Something Astonishing Is Happening in My Country. The World Should Take Note. The New York Times Serbian Vote Pits Putin-Backed Strongman Against Student Dissent Bloomberg.com</description>
 </item>
 <item>
 <title>Trump Says We’re Winning in Iran. The Troops Are Telling a Very Different Story. - Medium</title>
@@ -1792,6 +1783,15 @@
 <description>French police arrested a suspect after gunshots were fired on the outskirts of Paris in what President Macron described as a racist and terrorist attack.</description>
 </item>
 <item>
+<title>Eisenkot Challenges Netanyahu With Responsibility-First Stance - Newser</title>
+<link>https://news.google.com/rss/articles/CBMipgFBVV95cUxQSURCYk9kVHd2ZDBPOHQzZXZNMHVpV01kZzctdmxoMW1zRXE3ZWluRzJLcFJ0SmhwbVFlQW9zamJBZnhJbWZWV0V5Q0FHLXBxLVM4VlRrN0FXZTJ2VHhWQ0tqMjlsdUk0bzZRYzZtdGJscndJUzZsNEFmaEFHd2hwOWlKdEwyM3c0T011cVl1SGI2UDFIQmY2OUtoODRsdE1HdFVSbE13?oc=5</link>
+<guid isPermaLink="false">bb23c567c45c4aeacf57ba9eb75ef1c1d92017a993f135dd219ff9ae2f900b68</guid>
+<source>Google News World</source>
+<category>world</category>
+<pubDate>Fri, 23 Oct 2026 11:18:00 +0000</pubDate>
+<description>Eisenkot Challenges Netanyahu With Responsibility-First Stance Newser Who is Gadi Eisenkot, Netanyahu’s main challenger in Israel’s elections? CNN Eisenkot offers hawkish alternative to Netanyahu for Israeli PM Reuters Opinion | From Yitzhak Rabin to Gadi Eisenkot: A mission to save Israel Haaretz I met Gadi Eisenkot. He did not perform leadership. He practiced it - opinion The Jerusalem Post</description>
+</item>
+<item>
 <title>‘This is a lethal threat’: Indigenous groups fear Bolsonaro’s hold on voters in Brazil’s Amazon towns - The Guardian</title>
 <link>https://news.google.com/rss/articles/CBMiqAFBVV95cUxPRjliVEJIZzJRLVF1Z3lOaTAyWXl2UXFTZVNXdmVPN0lHclBrU3VCSFV3dU42T055VXRYeHd5Ujk5QVFLdDUxOVBXcmZmclg4bjJuZjFxTUZJZFQzNkpvMEh1T0ppTndQd2p0VU90cGNWaU1zREsxdkhEU05FMkQ3Uk5KMDJGOHYzdEpxczhmTURqUXZoeVlscnVuRm80bVRROWRLYlhob20?oc=5</link>
 <guid isPermaLink="false">8f4623ed64e037eeba05ca7c74949515f5c2f8ae324bff1597c3c2c364054da8</guid>
@@ -1836,7 +1836,7 @@
 <source>Google News World</source>
 <category>world</category>
 <pubDate>Fri, 23 Oct 2026 09:00:00 +0000</pubDate>
-<description>After nearly 6 years, ex-Myanmar leader Aung San Suu Kyi's son hears her voice NPR Myanmar's detained leader Suu Kyi traded health concerns with her son in their first call in 5 years AP News Aung San Suu Kyi’s son speaks to detained former Myanmar leader for first time in five years The Guardian Rare photos of Myanmar’s ex-leader Aung San Suu Kyi show her receiving books sent by King Charles NBC News Myanmar releases rare images of Aung San Suu Kyi after King Charles’s dramatic intervention The Independent</description>
+<description>After nearly 6 years, ex-Myanmar leader Aung San Suu Kyi's son hears her voice NPR See more headlines &amp; perspectives on Google News</description>
 </item>
 <item>
 <title>Final Israeli polls point to stalemate ahead of Tuesday’s election - Jewish Insider</title>
@@ -1845,7 +1845,7 @@
 <source>Google News World</source>
 <category>world</category>
 <pubDate>Fri, 23 Oct 2026 08:48:57 +0000</pubDate>
-<description>Final Israeli polls point to stalemate ahead of Tuesday’s election Jewish Insider Opinion | Why I’m flying 6,000 miles to vote against Netanyahu The Washington Post ‘The biggest motivation is fear’: High turnout among Israel’s Palestinians could unseat Netanyahu The Guardian Israel’s New Center of Gravity WSJ In Netanyahu stronghold, signs of fraying loyalty emerge before election AP News</description>
+<description>Final Israeli polls point to stalemate ahead of Tuesday’s election Jewish Insider Final polls before election show both blocs short of majority, small parties out of Knesset The Times of Israel Opinion | Palestinian Voters Could Determine Israel’s Future The New York Times A deeply divided Israel prepares to vote The Economist Signs of fraying loyalty emerge in Netanyahu stronghold before Israeli election PBS</description>
 </item>
 <item>
 <title>Deadly fire at Canada military base was caused by live grenade exercise, army says - New York Post</title>
@@ -1854,7 +1854,7 @@
 <source>Google News World</source>
 <category>world</category>
 <pubDate>Fri, 23 Oct 2026 08:31:00 +0000</pubDate>
-<description>Deadly fire at Canada military base was caused by live grenade exercise, army says New York Post U.S. Ambassador Pete Hoekstra offers Canada help following Wainwright tragedy CBC Blaze that killed 4 soldiers on Canadian military base sparked on grenade launcher range, officials say CBS News Canada Area presidency offers condolences after deadly military base fire Church News Devastating fire at CFB Wainwright started on automatic grenade launcher range, official says The Globe and Mail</description>
+<description>Deadly fire at Canada military base was caused by live grenade exercise, army says New York Post Blaze that killed 4 soldiers on Canadian military base sparked on grenade launcher range, officials say CBS News U.S. Ambassador Pete Hoekstra offers Canada help following Wainwright tragedy CBC Canada Area presidency offers condolences after deadly military base fire Church News Devastating fire at CFB Wainwright started on automatic grenade launcher range, official says The Globe and Mail</description>
 </item>
 <item>
 <title>The revolution arrives in Albania This is Europe’s autumn of discontent - UnHerd</title>
@@ -1973,13 +1973,13 @@
 <media:content url="https://i.guim.co.uk/img/media/0ed9f2c263f907e249340eb3fefc038e54c166e5/827_0_5033_4027/master/5033.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=28efa8ac67f988d31942b18efb61218f" medium="image"/>
 </item>
 <item>
-<title>New Zealand’s military chief resigns after admitting to an inappropriate relationship - AP News</title>
-<link>https://news.google.com/rss/articles/CBMiogFBVV95cUxQN1c2QzRJdFhyWkdOTHBSUzRLc3RXRktMMEMxOFpuaE5JVEpfblBYdWExdnpCQUJ4Y1R4MUIwNGxYeTJPQ2dSWm1VanVkME9GS0YwbkgtUXptSl9hYjBBNVBoaTBHOEdESkVmTjdCeXJ6WVBlcEJQMUZrdkdZRE1OYXZ1RUR5THd2NldXeEhZZFBnWnB1S1JnQ19CR3p5UURsQXc?oc=5</link>
-<guid isPermaLink="false">f4790713aeb29de5a870ce3d8dc49909b7a8097853d004a4622b7910aed8b31d</guid>
+<title>What do the protests in France look like from China? Internet users weigh in - South China Morning Post</title>
+<link>https://news.google.com/rss/articles/CBMiswFBVV95cUxPeEVSZjZ6SXl1ZWpJNVV3UGFFV05US3NZazNQUXNBeFc0TGowQTBQY3hwVjlSYVhGR3M1cVpBZzFyNTBJTXVHNTA5SEJka0JieDJYSEZrNWJlUlJVU3diejk1X2JuckYycGxaY3ExOENZMlJraE9BOFZvVFdocFoyQUlvdThMNnBFajNHQ1NlQ1FLSXhlX05ZYUxEYzM2ZHNvQ0tlOVJQVzZodTVubnpBUXduRdIBswFBVV95cUxPWXYxMUF6QTdIRGtnVWRWMkppWmxVbjhqTWFpaURHd3BpRHlNWTAtc25ESkFXWlBXYWNWZkNITm92Qmt1bWpKLVd5S2RmTGtEeFNWZlp0UzV6RWF6VDlONFcwOXhyWnBVcGNndENBYzV1S0dlYUpaaFM4dmRrTFZOYnVSTHFJc2lNVlZSWUVETHBrYzBTdjU3eGlBcDBQRm1DdUE2bWpCZEJvM3lsUFlzazRLNA?oc=5</link>
+<guid isPermaLink="false">1e295ca4329c8206080e342cb7ea012fea3ca5f1ef5a8cfba3608076f055cdf1</guid>
 <source>Google News World</source>
 <category>world</category>
-<pubDate>Fri, 23 Oct 2026 04:42:00 +0000</pubDate>
-<description>New Zealand’s military chief resigns after admitting to an inappropriate relationship AP News New Zealand defense chief resigns over ‘inappropriate relationship’ Defense News New Zealand's top military officer resigns over 'inappropriate relationship' Reuters Chief of Defence resigns over 'inappropriate relationship' RNZ Defence Force chief resigns after 'inappropriate relationship' NZ Herald</description>
+<pubDate>Fri, 23 Oct 2026 04:00:30 +0000</pubDate>
+<description>What do the protests in France look like from China? Internet users weigh in South China Morning Post Gen Z are leading the European protests. Here’s why they’re angry CNN France is in revolt. But the real storm is yet to come Financial Times Student Protests Mushroom Across Europe, Exposing Bleak Views of the Future The New York Times The Guardian view on Europe’s protests: the social contract has broken – and young people want solutions | Editorial The Guardian</description>
 </item>
 <item>
 <title>Russian Offensive Campaign Assessment, October 22, 2026 - Institute for the Study of War</title>
@@ -1988,7 +1988,7 @@
 <source>Google News World</source>
 <category>world</category>
 <pubDate>Fri, 23 Oct 2026 03:58:47 +0000</pubDate>
-<description>Russian Offensive Campaign Assessment, October 22, 2026 Institute for the Study of War Russian Offensive Campaign Assessment, October 23, 2026 Institute for the Study of War Russia Has Lost 241 More Square Kilometers Than It Captured Since September, ISW Says UNITED24 Media The Russia-Ukraine War Report Card, Oct. 21, 2026 Russia Matters Is Putin Seeking an Agreement or Trying to Impose His Terms on US? نورنیوز</description>
+<description>Russian Offensive Campaign Assessment, October 22, 2026 Institute for the Study of War Russian Offensive Campaign Assessment, October 23, 2026 Institute for the Study of War Russia Has Lost 241 More Square Kilometers Than It Captured Since September, ISW Says UNITED24 Media The Russia-Ukraine War Report Card, Oct. 21, 2026 Russia Matters ISW Russian Offensive Campaign Assessment, October 23, 2026 Kyiv Post</description>
 </item>
 <item>
 <title>Brazil’s election and the battle for the Amazon – podcast</title>
@@ -2041,7 +2041,7 @@
 <source>Google News World</source>
 <category>world</category>
 <pubDate>Thu, 22 Oct 2026 21:33:09 +0000</pubDate>
-<description>Iran says 7 oil tankers attacked in the Strait of Hormuz as fears of a return to war grow NBC News Iran says 7 oil tankers attacked in the Strait of Hormuz as fears grow of a return to war AP News Ship attacks in Strait of Hormuz hit record high in October Reuters Iran says 7 oil tankers damaged in Strait of Hormuz, and other Middle East news PBS Iran says 7 vessels hit near Strait of Hormuz, warns US of wider response NewsNation</description>
+<description>Iran says 7 oil tankers attacked in the Strait of Hormuz as fears of a return to war grow NBC News Ship attacks in Strait of Hormuz hit record high in October Reuters Iran says seven ships hit in Hormuz Strait, warns US of wider response Al Jazeera Iran says 7 oil tankers attacked in the Strait of Hormuz as fears grow of a return to war AP News Iran says 7 vessels hit near Strait of Hormuz, warns US of wider response NewsNation</description>
 </item>
 <item>
 <title>U.A.E. Diplomat Jolts Deadlocked U.N. Leadership Race - WSJ</title>
@@ -2071,6 +2071,15 @@
 <category>world</category>
 <pubDate>Thu, 22 Oct 2026 19:18:00 +0000</pubDate>
 <description>As police try to suppress anti-corruption protests by young Albanians, Prime Minister Edi Rama is claiming that "antifa" is behind the unrest. Few are buying that explanation.</description>
+</item>
+<item>
+<title>Prince Harry dealt devastating new blow live on air after bombshell interview - Daily Express</title>
+<link>https://news.google.com/rss/articles/CBMiogFBVV95cUxPOExZYlVUYldnSlY0UXB3SjJmQ3Q2WFdVZWdJbGxRZ0FEcnpFbEJRYVU3aXhQRzZwcTJvNXRZSHBOM2I4OVRsc21Xdi14NHhVaWVVd2dKdUFkN0MzQS1rQkxpYUFZbG5DQmw4SU9HaUk0WTVFcG01X2w2T1NycV9UVkdaTkJlU3ZvV3VQMjJQNm84aUtmUTd3OWs5SGtjdlUzakHSAacBQVVfeXFMTVYwUFV5cV90LUJlOHU2YURRUnRrVXdLbGwxWE9iSnNFNnRVaHpXWjdYQl9TSnYxamdCbTV5Rm1XN3pjazFhQm9tMkRMRnpscF9RRkI2SkZCZzVEZjMxa3R1bHE2dnllU0RNLUNhU3VmOHU5Z0FlMVpNREZ5d0JTV2lWZGJNdmlxT0xROFJFV0ZWSGt3TFI2b3hsUmxMUm93b3pHN0RaSWc?oc=5</link>
+<guid isPermaLink="false">615904f722c365b7378ff889f49255ea58e51b815a9ecda5d14f0f09e4d39517</guid>
+<source>Google News World</source>
+<category>world</category>
+<pubDate>Thu, 22 Oct 2026 18:31:00 +0000</pubDate>
+<description>Prince Harry dealt devastating new blow live on air after bombshell interview Daily Express Prince Harry Breaks Silence on the Reasons He Moved His Family Back to the U.K. People.com Fox News Entertainment newsletter: Harry risks 'lobbing a grenade' at William; Kate brings back Diana's tiara Fox News Exclusive | How 'frustrated' Prince William will respond to Prince Harry's public plea for reconciliation Page Six Prince Harry opens up about returning to England, whether he wants to reconcile with Prince William, King Charles III ABC News - Breaking News, Latest News and Videos</description>
 </item>
 <item>
 <title>Brazilian election: Lula seeks Bolsonaro's disqualification over alleged Meta interference - BBC</title>
@@ -2124,15 +2133,6 @@
 <media:content url="https://i.guim.co.uk/img/media/b7d8666cb5d61b59fe5ddc01f05316099e80a806/458_0_4585_3667/master/4585.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=99d09e5c72dc94b29dac15282c8b6567" medium="image"/>
 </item>
 <item>
-<title>I left my 8-year-old son behind 28 years ago to walk around the world. Now I’m about to finish — but will he forgive me? - New York Post</title>
-<link>https://news.google.com/rss/articles/CBMirwFBVV95cUxNbnpJeGFKUWs2Wklod0I4TERGSDZUZlREcGdSdzJNanN1NFFrQi1BbUJRMUhFcTFyUElkRjBBUmg2UjU4c2xUU1l5MHpkY2lFREQtTVNnTm81VkFwNGRic3dwNmFsVVl6MG1YYU9LWGR2X2FMdmxvVnVMSjU2dnR4cTVUb0tRZmJzSWVVUVA3YWNNUzVVVDR1Q0UyNTZtV25oTExvaEZVNnJkSHBJUEVV?oc=5</link>
-<guid isPermaLink="false">ede792da4d7cb8a2095638f1451a20c6c99aa4fe9c9f9c7e884c86afbfffdbf2</guid>
-<source>Google News World</source>
-<category>world</category>
-<pubDate>Thu, 22 Oct 2026 14:53:00 +0000</pubDate>
-<description>I left my 8-year-old son behind 28 years ago to walk around the world. Now I’m about to finish — but will he forgive me? New York Post See more headlines &amp; perspectives on Google News</description>
-</item>
-<item>
 <title>Shark nicknamed 'Bukangi' foils rescue attempts, returns to South Korean canal - Reuters</title>
 <link>https://news.google.com/rss/articles/CBMixgFBVV95cUxNYk5SM3F0V19jU1E3aTNUbnNDekdBN3ZhMHJDemdUUUd0R1hrRVc5N2VUeHNDdVZtelZCMk8wOW12N3FQWE82ekxKemU3dExCc0stTURFMnllZ1NiakxsNVZjZU9TRTJKaUVTWnZiLUF1LVFPbHdKOTNJaHpyQ0tkUmszekt2dC15M2l1MUlwY1lDaWg4cUFEbkZaY2lBZFFxZmxnMTc4Q1llRHp3M0lIUEljQVZlWVVrelREN0ZaR3ZkUFN4OXc?oc=5</link>
 <guid isPermaLink="false">6d7a8b21881c0d613b61ddc448f9ab305fbf31edc041d9dd68385c9dfc3bd559</guid>
@@ -2157,7 +2157,7 @@
 <source>Google News World</source>
 <category>world</category>
 <pubDate>Thu, 22 Oct 2026 12:00:05 +0000</pubDate>
-<description>I.U.C.N. Red List Classifies Most Shallow Coral Reefs as Critically Endangered The New York Times Almost all coral reef ecosystems face risk of collapse in 50 years, study warns AP News Red List of Coral Reef Ecosystems International Union for Conservation of Nature Almost all shallow-water coral reefs now face extinction risk, study warns Al Jazeera Earth’s Shallow Coral Reefs May Have Just 50 Years Left Gizmodo</description>
+<description>I.U.C.N. Red List Classifies Most Shallow Coral Reefs as Critically Endangered The New York Times Almost all coral reef ecosystems face risk of collapse in 50 years, study warns AP News Almost every shallow-water coral reef on the planet faces ecosystem collapse by 2075, UN advisors say The Guardian A Dire Warning on World's 'Rainforests of the Sea' Newser Earth’s Shallow Coral Reefs May Have Just 50 Years Left Gizmodo</description>
 </item>
 <item>
 <title>Ukraine: Life near the front line in Sloviansk</title>
@@ -2180,15 +2180,6 @@
 <media:content url="https://i.guim.co.uk/img/media/0b7f7bd7453af5419bbbd7347bca644dc305daa7/180_0_1250_1000/master/1250.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e068ef0e37cee369fe02643119112cb8" medium="image"/>
 </item>
 <item>
-<title>Trump-sanctioned ICC wins EU Parliament’s human rights prize - POLITICO.eu</title>
-<link>https://news.google.com/rss/articles/CBMigAFBVV95cUxON0R4ZmQzNDJlLU5malB5enZPbl9RdlpRRG14eFdJbl9jd2RSQXJoVHFkRV92aDkwR3J3NU40c3ZXRGl1cERkUTlsd0JMV0dRT1NuclI2ZlI0OTQ5QXREYkhoWmM5MHFKb1NWb1FRNGRqX1Z5Z01xdWxHSXg3dmxTUQ?oc=5</link>
-<guid isPermaLink="false">1ef38cb6e59f802d54d9d5a83ff37c956b85f14b53eb3b53a1a28f0edac87f77</guid>
-<source>Google News World</source>
-<category>world</category>
-<pubDate>Thu, 22 Oct 2026 10:23:00 +0000</pubDate>
-<description>Trump-sanctioned ICC wins EU Parliament’s human rights prize POLITICO.eu International Criminal Court Wins E.U.’s Top Human Rights Prize The New York Times US-sanctioned ICC wins Sakharov Prize, EU’s top human rights award Al Jazeera EU Parliament awards Sakharov Prize to ICC in rebuke of US sanctions Euronews.com International Criminal Court wins EU's 2026 Sakharov prize Reuters</description>
-</item>
-<item>
 <title>A genocidal militia was coming for his city. He was one of the last doctors left - The Economist</title>
 <link>https://news.google.com/rss/articles/CBMizgFBVV95cUxQM3NDM0JKNUVnM0NkSFpVbEVieUVjdkxGaWkyM0ZJX1lJUDVYT0JEWGJzS1lQU1ExYmRuazBtVzQ5NEJPeHp5bURzbmhiYVpFazBuOVRfN0xrM2t2Um9FNHVEd1p1RHVOVTloWmo3Y09MZHBmcXdVYmQ2a0JfVlNSaXdESzRiTDhOSkJjazBIVEpGaTBFVXpUUTVKbHZLYm40dmRPTDRscUpzWWh4aWppWHF1MXBuN1dveWh6TmdHdGZBWjVYLTcwdUNUYTRuZw?oc=5</link>
 <guid isPermaLink="false">d1eb422f998d30d35c4c791c664b226752923d4d4e165065fd3d28bb12364377</guid>
@@ -2196,15 +2187,6 @@
 <category>world</category>
 <pubDate>Thu, 22 Oct 2026 09:45:09 +0000</pubDate>
 <description>A genocidal militia was coming for his city. He was one of the last doctors left The Economist 'Everybody is terrorised': El-Fasher population drops to just seven percent of last year's high, Amnesty says Middle East Eye El Fasher’s dark anniversary, a worsening siege in Yemen, and protests in Paris: The Cheat Sheet The New Humanitarian UN says 90% of women's organizations report unsafe conditions, distress among displaced from Sudan's El Fasher Anadolu Ajansı Sudan: El Fasher civilians suffer unlawful killings, detention and torture one year after city’s capture by the RSF Amnesty International Canada</description>
-</item>
-<item>
-<title>Pope urges Catholic schools to help young people find new way to live in world - Vatican News</title>
-<link>https://news.google.com/rss/articles/CBMitAFBVV95cUxPbWJrM2ZFUHE5QUNMTEp2d0V2Z0FVZHpoeHhiYjVSblU2U2V6LU9fN0hlWmNlVnJSSmlXWGZSOXoyT0NXamdhVGgyVnpIU3BWWEJsVXcyUmFGV3NHX1pkdW9tcldyeEJYUnh4Y2dyTDVKSHF6c1JQX3RMQWlXWVItTUJ6TFJRdHF4NnBxY0F0RE8zcjVidUtUdDhuLVJPaG1VeHAyTWk2NEhHWTlQNWxXeUVBQkI?oc=5</link>
-<guid isPermaLink="false">0e0c6c494c17ee52baa7fca6af03270fe6e984013f5437da51884026ccd04be9</guid>
-<source>Google News World</source>
-<category>world</category>
-<pubDate>Thu, 22 Oct 2026 09:38:25 +0000</pubDate>
-<description>Pope urges Catholic schools to help young people find new way to live in world Vatican News Pope Leo urges Catholic schools to be aware of ‘digital loneliness’ and ‘misguided meritocracy’ OSV News Pope urges educators to help young people encounter Christ amid ‘merciless’ treatment by culture EWTN News The words of Pope Leo XIV that everyone working in school and university ministry should read ZENIT - English Pope Leo XIV and the Pressure to Be Perfect: “Many Give Up Before Even Trying” Rome Reports</description>
 </item>
 <item>
 <title>Can Germany revive its economy before the AfD gains ground?</title>
