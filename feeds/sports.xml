@@ -4,6 +4,61 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Off The Ball with Tam &amp; Stuart - listen live</title>
+<link>https://www.bbc.co.uk/sounds/play/live:bbc_radio_scotland_fm?at_medium=RSS&amp;at_campaign=rss</link>
+<guid isPermaLink="false">de851c45da54f2914688d9227927930d4efe441b080710529ae91c473a939498</guid>
+<source>BBC Football</source>
+<category>sports</category>
+<pubDate>Sat, 24 Oct 2026 13:00:00 +0000</pubDate>
+<description>The most petty and ill-informed football show on radio.</description>
+<enclosure url="https://ichef.bbci.co.uk/images/ic/240x135/p0d5ff0c.jpg" type="image/jpeg"/>
+<media:content url="https://ichef.bbci.co.uk/images/ic/240x135/p0d5ff0c.jpg" medium="image"/>
+</item>
+<item>
+<title>WSL: Tottenham vs Arsenal LIVE!</title>
+<link>https://www.skysports.com/football/tottenham-hotspur-women-vs-arsenal-women/live/575803</link>
+<guid isPermaLink="false">757f2ac566c6c47a378c3c36c209d0b686a5b04c60c80cbc0f25e9d9b6c7e3b6</guid>
+<source>Sky Sports Football</source>
+<category>sports</category>
+<pubDate>Sat, 24 Oct 2026 12:20:00 +0000</pubDate>
+<description></description>
+<enclosure url="https://e1.365dm.com/26/10/1920x1080/skysports-wsl-womens-super-league_7378851.jpg?20261017141342" type="image/jpeg"/>
+<media:content url="https://e1.365dm.com/26/10/1920x1080/skysports-wsl-womens-super-league_7378851.jpg?20261017141342" medium="image"/>
+</item>
+<item>
+<title>Sunderland latest: Le Bris impressed by Leeds' start</title>
+<link>https://www.skysports.com/football/live-blog/12040/13375102/sunderland-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts</link>
+<guid isPermaLink="false">97951f139e3899bae929db9453e383347b4aad5b848e444ba0f75f189e5413ca</guid>
+<source>Sky Sports Football</source>
+<category>sports</category>
+<pubDate>Sat, 24 Oct 2026 12:00:00 +0000</pubDate>
+<description></description>
+<enclosure url="https://e2.365dm.com/26/08/1920x1080/skysports-sunderland-club-blog_7326707.jpg?20260820165538" type="image/jpeg"/>
+<media:content url="https://e2.365dm.com/26/08/1920x1080/skysports-sunderland-club-blog_7326707.jpg?20260820165538" medium="image"/>
+</item>
+<item>
+<title>Fury vows to fight on but says AJ having 'final payday'</title>
+<link>https://www.skysports.com/boxing/news/12040/13602988/tyson-fury-vows-to-fight-on-but-says-anthony-joshua-is-having-his-final-payday-in-their-december-11-stadium-showdown</link>
+<guid isPermaLink="false">e99ea4a159e62d25d66a35773862c4d3bc0c9a1c6d141c2d2be9ad81831ad6a5</guid>
+<source>Sky Sports Football</source>
+<category>sports</category>
+<pubDate>Sat, 24 Oct 2026 12:00:00 +0000</pubDate>
+<description>Tyson Fury insists Anthony Joshua is getting a "final payday" when they box on December 11, while he intends to continue his career after the contest.</description>
+<enclosure url="https://e0.365dm.com/26/09/1920x1080/skysports-tyson-fury-boxing_7365204.jpg?20260930193605" type="image/jpeg"/>
+<media:content url="https://e0.365dm.com/26/09/1920x1080/skysports-tyson-fury-boxing_7365204.jpg?20260930193605" medium="image"/>
+</item>
+<item>
+<title>What do England need to avoid historic early World Cup exit?</title>
+<link>https://www.skysports.com/rugby-league/news/12040/13602986/rugby-league-world-cup-how-can-england-still-qualify-for-the-semi-finals-scenarios-to-avoid-historic-group-stage-exit</link>
+<guid isPermaLink="false">f33d1e3c90dd102f53dbf8fa2cb6317e5d8bd79d300a73fadfb5cbc58507b9b5</guid>
+<source>Sky Sports Football</source>
+<category>sports</category>
+<pubDate>Sat, 24 Oct 2026 12:00:00 +0000</pubDate>
+<description>England kept their slim Rugby League World Cup hopes alive with victory over France, but what do Brian McDermott’s side still need to reach the semi-finals?</description>
+<enclosure url="https://e2.365dm.com/26/10/1920x1080/skysports-victor-radley-england_7385422.jpg?20261024120343" type="image/jpeg"/>
+<media:content url="https://e2.365dm.com/26/10/1920x1080/skysports-victor-radley-england_7385422.jpg?20261024120343" medium="image"/>
+</item>
+<item>
 <title>European Championship Darts LIVE! Price, Bunting and Van Veen headline this afternoon</title>
 <link>https://www.skysports.com/darts/live-blog/12040/13602923/european-championship-darts-game-by-game-updates-scores-analysis-with-luke-littler-and-gerwyn-price-in-action</link>
 <guid isPermaLink="false">7fe71f9764b3b4bbd50d709edc1d31852d34e86f6499b4834369786eb4814bc2</guid>
@@ -15,7 +70,85 @@
 <media:content url="https://e2.365dm.com/25/03/1920x1080/skysports-bunting-price-darts_6855377.jpg?20250313193637" medium="image"/>
 </item>
 <item>
-<title>Aston Villa vs Man City teams as Manzambi starts and Foden is benched LIVE!</title>
+<title>Boulter loses to Siniakova in Japan Open semis</title>
+<link>https://www.skysports.com/tennis/news/12040/13603005/katie-boulter-loses-to-katerina-siniakova-in-straight-sets-in-semi-finals-of-japan-open</link>
+<guid isPermaLink="false">ebbc2c4cf4661b4a7a7555b4a6a1b59b0acd150533f47f31bd03545bce16e14e</guid>
+<source>Sky Sports Football</source>
+<category>sports</category>
+<pubDate>Sat, 24 Oct 2026 11:25:00 +0000</pubDate>
+<description>Katie Boulter lost to Katerina Siniakova in the semi-finals of the Japan Open on Saturday.</description>
+<enclosure url="https://e0.365dm.com/26/10/1920x1080/skysports-katie-boulter-karolina-muchova_7385396.jpg?20261024111518" type="image/jpeg"/>
+<media:content url="https://e0.365dm.com/26/10/1920x1080/skysports-katie-boulter-karolina-muchova_7385396.jpg?20261024111518" medium="image"/>
+</item>
+<item>
+<title>Game Day is Here! Football vs. Pitt - Miami Hurricanes</title>
+<link>https://news.google.com/rss/articles/CBMidkFVX3lxTE04ZDFBLWdycERyajNEdFBGRTBmU0kxOGxuV2xpZ2xaWW93cXdPVGI1dTdLS0d4SVNGdi1Oenp3WmlqckwxaUstci0zU2JFdDJyRlZ1Zl94QkpxVEJyNkQ4elJlMndGMGFqS1JVNEhWLUJyeXlSY2c?oc=5</link>
+<guid isPermaLink="false">7087cca3ae3720675e0985d0c24ceac6a48a6076dc5a70c9b26b8c55444e4b9e</guid>
+<source>Google News Football</source>
+<category>sports</category>
+<pubDate>Sat, 24 Oct 2026 11:17:25 +0000</pubDate>
+<description>Game Day is Here! Football vs. Pitt Miami Hurricanes</description>
+</item>
+<item>
+<title>3 NFL Draft prospects of interest for the Bengals in College Football Week 8 - Yahoo Sports</title>
+<link>https://news.google.com/rss/articles/CBMihgFBVV95cUxPT0JPWFppMXdaT0x2NjBjU0N5NVM4QV9HbXhqam9aUmZTbHBUWGt6NmgxWXZLNFc2UXFGbDd5bkNvWWNVTjNzUjEzRXkwdnJKXzRaWFdiUjJBUVRQWDUzdFRaNFdObzd1cVZ2ZVB1ZFFfdFZkSUJQTVNQMjMzUDdXZW9KYjdhdw?oc=5</link>
+<guid isPermaLink="false">46f22fd9f04596a4403c8458d8ec0a685122bfef49c21ab3fb00bb5a2bc5c906</guid>
+<source>Google News Football</source>
+<category>sports</category>
+<pubDate>Sat, 24 Oct 2026 11:15:00 +0000</pubDate>
+<description>3 NFL Draft prospects of interest for the Bengals in College Football Week 8 Yahoo Sports</description>
+</item>
+<item>
+<title>Ferguson's first game as Glentoran boss postponed</title>
+<link>https://www.bbc.co.uk/sport/articles/cmy4x7zvv28ko?at_medium=RSS&amp;at_campaign=rss</link>
+<guid isPermaLink="false">2b795b1406c3b42cac45ddd9e755e3ce4cb2d1100296b90e857600e3108e4c44</guid>
+<source>BBC Football</source>
+<category>sports</category>
+<pubDate>Sat, 24 Oct 2026 11:14:04 +0000</pubDate>
+<description>Duncan Ferguson's first game as Glentoran manager against Ballymena United is off because of a waterlogged pitch.</description>
+<enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8f31/live/663e1af0-cf9c-11f1-99e0-bfcc419a6039.jpg" type="image/jpeg"/>
+<media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8f31/live/663e1af0-cf9c-11f1-99e0-bfcc419a6039.jpg" medium="image"/>
+</item>
+<item>
+<title>Why These Top 25 College Football Teams Are in Real Danger Today - Sports Illustrated</title>
+<link>https://news.google.com/rss/articles/CBMilwFBVV95cUxQcFhJdWdsM3hiUDJBMk11ZWlRSTJJU08xSnRuQ0lIclRqNVVKbUxyVFNzeVpSc2NhclZjallHSS0wdkM2M0NQc3RmNTR3U2ZjRHdNMVppUnNYRGE4NkJzVXU3Q3ltRXAxQlozR1FxTXkzSmswc2Yxb082RVhkajhFMDNCVFVWa3RuX3FadDlxRnV5NzlrbUlJ?oc=5</link>
+<guid isPermaLink="false">9d0a3203c5f864e3d06ff5037adc9777b60bdbf008b6429813dac4971b59317d</guid>
+<source>Google News Football</source>
+<category>sports</category>
+<pubDate>Sat, 24 Oct 2026 11:13:22 +0000</pubDate>
+<description>Why These Top 25 College Football Teams Are in Real Danger Today Sports Illustrated</description>
+</item>
+<item>
+<title>England suffer 15-try defeat against rampant Australia</title>
+<link>https://www.skysports.com/rugby-league/australia-vs-england/report/64300</link>
+<guid isPermaLink="false">edbd9c1cfe692727ac19c3fe382959dc152910d4f40841c24b557d54445a701f</guid>
+<source>Sky Sports Football</source>
+<category>sports</category>
+<pubDate>Sat, 24 Oct 2026 11:09:00 +0000</pubDate>
+<description>England were outclassed in a 78-0 defeat to defending champions Australia but remain in with a chance of reaching the Rugby League World Cup semi-finals.</description>
+<enclosure url="https://e0.365dm.com/26/10/1920x1080/skysports-rugby-league-australia_7385401.jpg?20261024112551" type="image/jpeg"/>
+<media:content url="https://e0.365dm.com/26/10/1920x1080/skysports-rugby-league-australia_7385401.jpg?20261024112551" medium="image"/>
+</item>
+<item>
+<title>Pennsylvania High School Football Coach Dies After Medical Emergency During Game - Sports Illustrated</title>
+<link>https://news.google.com/rss/articles/CBMi0wFBVV95cUxQNE9naEQ5dklqS3lkb00tZV82SFgxdEplaDh5VUNaRkFEd0tyNy1JZXBhdDV3NzlJWHNXRi1ZYVhQbzI3NjBmOHZiV0doMEpwTWx4bWpWWjFIbjN5WF9GOHBJT3ZrdWVQWDNkdzlEcVZzQTMwV3NpaThVSGpjU1J0Z0Nkc1dlcEpNZlVhR1VwX0xKdEw0OUo0Z0dKdGk1NzF4SWprSGxjaHROZDhFeHU3MXdXQTJEbDR2dko1RFFuNlNvTzdreERqY0hMcEc0cnBWLWRz?oc=5</link>
+<guid isPermaLink="false">74e4ca08d2264ec3b78875bf5580691e48693df994fb177f3a8415012243916d</guid>
+<source>Google News Football</source>
+<category>sports</category>
+<pubDate>Sat, 24 Oct 2026 11:03:52 +0000</pubDate>
+<description>Pennsylvania High School Football Coach Dies After Medical Emergency During Game Sports Illustrated</description>
+</item>
+<item>
+<title>Fantasy football waiver wire lookahead: 5 players to stash now - USA Today</title>
+<link>https://news.google.com/rss/articles/CBMiywFBVV95cUxOX2pCbE5ZVk9rT0ZyN1EyU0pDU2F1T3F2Zm9NNFdvV0x6UFJWazhET1Q4TVQzWG9oMDA3cnJkOGMtWnR5bzRTYmFtM1NvQWhFVktXY1l1alFFbzlsZFlpdktzVmdMQWFCMDAwN0pqZ05KUlBQNEpLdFZkT1p0c3huYXV2dXBMcnlQLVQzUTRQX1FfS216U1lNT0pGMjRhSm9waWdwcXFLVjVGTHYtSnVlR25nakI4c082Rjd5ZVJ1Y1BFaUtHMDd2Nm5DVQ?oc=5</link>
+<guid isPermaLink="false">efb9e97854bfe80ba9f0967630c3abcca12e28642ede83ec795d382c490b4da2</guid>
+<source>Google News Football</source>
+<category>sports</category>
+<pubDate>Sat, 24 Oct 2026 11:03:00 +0000</pubDate>
+<description>Fantasy football waiver wire lookahead: 5 players to stash now USA Today</description>
+</item>
+<item>
+<title>Villa vs Man City: Can Premier League leaders maintain winning start? LIVE!</title>
 <link>https://www.skysports.com/football/aston-villa-vs-manchester-city/live/559515</link>
 <guid isPermaLink="false">bfac199c9adf9e91e342e3e7f4464ce512a40e4627bb5e63632b417c54ad2832</guid>
 <source>Sky Sports Football</source>
@@ -26,13 +159,13 @@
 <media:content url="https://e0.365dm.com/26/10/1920x1080/skysports-erling-haaland-premier-league_7379099.jpg?20261017163959" medium="image"/>
 </item>
 <item>
-<title>2026 WIAA state football playoffs, Level 1 scoreboard - Wausau Pilot &amp; Review</title>
-<link>https://news.google.com/rss/articles/CBMingFBVV95cUxPa1BlLUoyc0dheERvUzJ0QldWX1JWeHJnSHZ3T2tVNjBrUVpQdHNWQmdfVXVmTE12T2NKUnN4YWJVeUtrNDhEZjR4a0ZUQ2dtX1pxVlJHRDlDTjhtWTZpYklDalktbFFTdEl2bHZtUFRoRHRPWDRZOHl3bzNDQ05VejZKT29LMEhYdWRadkIyVFdueFRwdXlERlgxZndpZw?oc=5</link>
-<guid isPermaLink="false">8d731bcbde825beba31578bb021c1e5a8ffce9cd6ffcf5cc7369db9f3aff5c47</guid>
+<title>Central Texas Week 9 football scores: District races begin to take shape in Austin area - Yahoo Sports</title>
+<link>https://news.google.com/rss/articles/CBMihAFBVV95cUxQLWhTREhwVWpMejU3bWRMQTBLMkZkMmlGS2tuQWtFQk9LMlBPZnhwZlJfcFJJUXJ2Y0hlNFJ4WUwtT2Jpc3BOVHMtMHhMTUZCTDhKWHdpVVhPQl9kMDBfekpUb3pQeXRiNVN6XzctUGx1VzlSYVlrOTJWN05YbzNzRDVYbFY?oc=5</link>
+<guid isPermaLink="false">95446493a09466f5558a06b5e04cf61f0f8163846ee3607a1dd073d1db1ae7c7</guid>
 <source>Google News Football</source>
 <category>sports</category>
-<pubDate>Sat, 24 Oct 2026 10:52:00 +0000</pubDate>
-<description>2026 WIAA state football playoffs, Level 1 scoreboard Wausau Pilot &amp; Review</description>
+<pubDate>Sat, 24 Oct 2026 10:50:00 +0000</pubDate>
+<description>Central Texas Week 9 football scores: District races begin to take shape in Austin area Yahoo Sports</description>
 </item>
 <item>
 <title>Ole Miss vs. Texas: How to watch tonight's NCAA college football game, where to stream and more - Yahoo Sports</title>
@@ -53,31 +186,13 @@
 <description>Football stays alive with 24-6 victory over Mt. Lebanon North Allegheny Sports Network</description>
 </item>
 <item>
-<title>Cornell football coach Ed Dawson dies after collapsing during a game Friday night - Pittsburgh Post-Gazette</title>
-<link>https://news.google.com/rss/articles/CBMiugFBVV95cUxNZjhZOXcycVRPa1ZhMWlrczJZamRtZklzb2ZwUXFZekdZRjA5dXE5dlpjcll2N0J5Qy1ObVVISUpMbkJVeVd6cU5yaEpaVXdVbTJrMmJfSHFPQTh2WE5vMGtCbDhXcFZLcXlOZzB6R002YmRkc21feGxIMi15a00zX3pHVERVVlRSSUJpZFBKNDNiMkhYVnNWUXlNbWlPU3R0SVhiclN5RGZFZmJQcFNST0poRG54QlMwR0E?oc=5</link>
-<guid isPermaLink="false">58909b45c68317699152069646ffb8cc55bf27a853a2f77acb196a7c11b5ccdc</guid>
+<title>Here is every Michigan high school football team in the 2026 state playoffs - MLive.com</title>
+<link>https://news.google.com/rss/articles/CBMixgFBVV95cUxNX05fWklyazBJM2dSVm0wMFB3a2VjbTZoSzdURDkyWGhsMWdzX0NjbXJuemhKN1AyRFZPVEFFY3pkVm1oaGtyYVdqYnJxN25yVy1jZi1VMVhxLTRLSUhUUHgybGxxOThOYjFrVnBEQXlhMEYxeDFZTEY5aGtXZ3ZDZ05FSlNUa3pSbWJWckVKQUk0TUt2Zzh2VHFRcEd6bVpITjZ3NXpQTnM2X0VYMVZBcV9sX2hKamtBRHltWG5aeHlTQkYtZ3c?oc=5</link>
+<guid isPermaLink="false">02122d3418f4bf1de9867c3f9436b357e63ee538d9c46bf4b61515c9044e429b</guid>
 <source>Google News Football</source>
 <category>sports</category>
-<pubDate>Sat, 24 Oct 2026 10:34:27 +0000</pubDate>
-<description>Cornell football coach Ed Dawson dies after collapsing during a game Friday night Pittsburgh Post-Gazette</description>
-</item>
-<item>
-<title>Gianni Infantino says ‘vast majority’ of football back him, but talks with UEFA needed - The New York Times</title>
-<link>https://news.google.com/rss/articles/CBMingFBVV95cUxNbDZST0N4c3IwQnNVWW9UVmlCUFBvZUltLWVXVy1NSTIwVjlnbXAyUENyc211aE0zeXR2VUdTZ2FzVlVjWkdmSkpPRWNsNlpKWGtOVkJxdkx6akQ5QldYaWxTVnp2QXhZRzJkc2F5X3RBU1F0OTZSd3pkejlRbnhXLTJKeE9NdkxQR2VIa2NzSm82aGszSFpRaEs3eWNvZw?oc=5</link>
-<guid isPermaLink="false">b499eb8b3b287220d9ab6ad8c8f86bd0a346dc6a34e4715e4478eb76c977fbba</guid>
-<source>Google News Football</source>
-<category>sports</category>
-<pubDate>Sat, 24 Oct 2026 10:30:01 +0000</pubDate>
-<description>Gianni Infantino says ‘vast majority’ of football back him, but talks with UEFA needed The New York Times</description>
-</item>
-<item>
-<title>When Does Baylor Football Play Kansas? Time, Channel, Bold Prediction - Sports Illustrated</title>
-<link>https://news.google.com/rss/articles/CBMivgFBVV95cUxPT1U5ZTVDOUJ1NGl6bDBYY0x2aWd2cFdTa3hhWFl6Um11T1YzRmRoRmNZTkF4U2JSMmdwNFFqckdlal84cU9DSGlua0hTeVRPRmNYd1RyUUdBWE5vc19MbkRCX2hlR2ExM1J2NGhzYnNZaVNlbTNUSmFyd0FwRXZIZVJHOVJiWFo5MDJCWlpsYlpNQVBpWmwxTVNPV21HOWNBZF92OXM0a2ZtYzNtMkZiREVEam9qRzZoMVd4NXhn?oc=5</link>
-<guid isPermaLink="false">b60f22989a1a128f2d37ea28771c3ff12a65b1f64367bc505e0b613e785fb840</guid>
-<source>Google News Football</source>
-<category>sports</category>
-<pubDate>Sat, 24 Oct 2026 10:30:00 +0000</pubDate>
-<description>When Does Baylor Football Play Kansas? Time, Channel, Bold Prediction Sports Illustrated</description>
+<pubDate>Sat, 24 Oct 2026 10:28:00 +0000</pubDate>
+<description>Here is every Michigan high school football team in the 2026 state playoffs MLive.com</description>
 </item>
 <item>
 <title>Indiana vs. Michigan: How to watch today's NCAA college football game, where to stream and more - Yahoo Sports</title>
@@ -87,51 +202,6 @@
 <category>sports</category>
 <pubDate>Sat, 24 Oct 2026 10:10:00 +0000</pubDate>
 <description>Indiana vs. Michigan: How to watch today's NCAA college football game, where to stream and more Yahoo Sports</description>
-</item>
-<item>
-<title>What channel is Vanderbilt football vs Kentucky on today? Time, TV schedule - Yahoo Sports</title>
-<link>https://news.google.com/rss/articles/CBMikgFBVV95cUxQVzB0TWRPVWlGZFVaaTVJQVZieWoySElENGJQV3hxelpLVmdmN0tnSGhzYkFWeUM4N05obGRiVTJnOE9KTjBZekluS1RDc2RRTWZheUsxazlQbk5rdWhIMlBWOWhNXzZWc2ZLeXE5aDRyZFVwUFdaM0FMUUpzd2Fjc055QzZELWZhbG52OUpyQVozdw?oc=5</link>
-<guid isPermaLink="false">af04028642b6a0de18139d1a293cac8b52f2b1513074976fed045cb809f8a867</guid>
-<source>Google News Football</source>
-<category>sports</category>
-<pubDate>Sat, 24 Oct 2026 10:05:24 +0000</pubDate>
-<description>What channel is Vanderbilt football vs Kentucky on today? Time, TV schedule Yahoo Sports</description>
-</item>
-<item>
-<title>What channel is Ole Miss football vs Texas on today? Time, TV schedule - The Clarion-Ledger</title>
-<link>https://news.google.com/rss/articles/CBMiyAFBVV95cUxNdGptTGhmU0lOb2pqb3hud21MVm4xT2RnVmhKeDhXem5xLXJvOWxTREVIb0RaRmdZLUxQaHRmb29PTGFRQ2VGSy0yOWluQ1lSams5VU9GUXNMRlBMQVZCQW41UHRKekNNdldBSzFhZWM0QWdfdzh3cG9Ga0lnU2Fhd0tuWU9hUzhYbUpxMTBaY3phV2FsZUFWajdWSExsVzQ1TUZRYjVyX1R5SmVZT1lld2cwRUVmcUZMaWU2Ml9UWkhSX0oxZU5EQw?oc=5</link>
-<guid isPermaLink="false">b901614e9698a007f56160d22f87bd95536d947f019f54d7f64047a4e5cb9fe1</guid>
-<source>Google News Football</source>
-<category>sports</category>
-<pubDate>Sat, 24 Oct 2026 10:05:00 +0000</pubDate>
-<description>What channel is Ole Miss football vs Texas on today? Time, TV schedule The Clarion-Ledger</description>
-</item>
-<item>
-<title>Green Bay Notre Dame cheers West football team on the way to game - Green Bay Press-Gazette</title>
-<link>https://news.google.com/rss/articles/CBMi-gFBVV95cUxOZm5PRjhkbEJQcFUxa3ZWQTUtUWpGWDZjLU5HdGlXY2RyS1BFY09qZ2hUaTRUekdSejYzbWdFOWhrTjdzeU1xN2l2X0hVVHBXNTJ5amlyM3NLY2hIcUV6NFg2c3JJck9hbDhmN2NidGlYZFZOVEZSYjJDZlJsOVdZQjlIdnlMVzItTDRweEVRUnBBcU5FaUVFWThrY1lfZVlpMDBqNjlDOVl1UjUzc3BGNUp4eDRHUC1RaExucnQ5ekJ5UVJyUkJfdzRxYUk4Y2N5TmkxdE4xUUx3M3F4NGFOeWRPZ0FwZlpreEJyV2JBLVRnNmNqVWFqemxB?oc=5</link>
-<guid isPermaLink="false">4feb832715119d4a639160d369b5b227bb917c93a0949a34126060763a7b57a0</guid>
-<source>Google News Football</source>
-<category>sports</category>
-<pubDate>Sat, 24 Oct 2026 10:05:00 +0000</pubDate>
-<description>Green Bay Notre Dame cheers West football team on the way to game Green Bay Press-Gazette</description>
-</item>
-<item>
-<title>Does Georgia football play a game today? - Yahoo Sports</title>
-<link>https://news.google.com/rss/articles/CBMihwFBVV95cUxQbGJuaU5hTzNNUHVIMmtRVUFUNl9oSzRXMU41VkxNVzlaS3hsMkdiSjRaMzVCSlB2Q2RFbkQtLVVzdUlqcFhtbnhmVFBseXlwWWJvejNQZ3VnbkJIVkcxZnNRYUNzLTBwWnpWOGZTNUpPbXFxVkxsdEcwNXhCM1Joa2dxOGVPcUU?oc=5</link>
-<guid isPermaLink="false">ed8b9164afe9147525a7db3f9efecc43ee8f0bed4f9d9d3a05532b28b4fe18c1</guid>
-<source>Google News Football</source>
-<category>sports</category>
-<pubDate>Sat, 24 Oct 2026 10:02:35 +0000</pubDate>
-<description>Does Georgia football play a game today? Yahoo Sports</description>
-</item>
-<item>
-<title>Does Florida play today? Football schedule for next game after bye - Yahoo Sports</title>
-<link>https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRFY3ZWNuU1l2THBEZW9zcTg3Y21wdWhoVGlyRnFXWnJtV3J2bFJWS0JjMnJ5SW9rTlEzM1FUVUZPRFRfMFNFdE0wSEVxeFdxTTRncGMyeUx4bXFPcVB3VW1BNWltNUJFX0FrSURjeWN0bE4wS25FTTc3Wml1RDJyNXAwREctb0xR?oc=5</link>
-<guid isPermaLink="false">b534b53ad08bb33efe78bb8c0e8aef5a816db28608c6cfd5b61a8b87e911b7ef</guid>
-<source>Google News Football</source>
-<category>sports</category>
-<pubDate>Sat, 24 Oct 2026 10:01:20 +0000</pubDate>
-<description>Does Florida play today? Football schedule for next game after bye Yahoo Sports</description>
 </item>
 <item>
 <title>Houston rolls out an old-school, candy-red Cadillac. It’s college football pageantry done right - The New York Times</title>
@@ -197,6 +267,24 @@
 <description>WSU Hall of Fame: 1981 Football Video/Speech | 10/22/26 Washington State University Athletics</description>
 </item>
 <item>
+<title>LSU football vs Auburn time, TV channel, score, live updates - Yahoo Sports</title>
+<link>https://news.google.com/rss/articles/CBMiggFBVV95cUxONWpHQU10STZNWk5HMmJXanhreUJvR3h1X2daYXZ0SWN5YnZ0R3hjMEhob1hNbWJFV0xIM1E2Z3ZwVkdTWlhEYVlzVlR0anNTN1lBVzlHblNfQ05qTXFLanl3WWpzTkI3dV9xSWhHb29iVWxKSVljZHREaVVkRG5EODdB?oc=5</link>
+<guid isPermaLink="false">aca442893f192a4feca6c492825fd0b57ba1fb51080697cdad7477ef7b3c81f6</guid>
+<source>Google News Football</source>
+<category>sports</category>
+<pubDate>Sat, 24 Oct 2026 09:01:27 +0000</pubDate>
+<description>LSU football vs Auburn time, TV channel, score, live updates Yahoo Sports</description>
+</item>
+<item>
+<title>Biggest Surprises Of The 2026 College Football Season Through Week 7 - Yahoo Sports</title>
+<link>https://news.google.com/rss/articles/CBMikgFBVV95cUxOeDJvRnBIZUVxRFEzeExVc2NXZzJqTnk4dWhoREJ5OGhPTDZ6cGg4THVTQ0w4cExaN0lIWDN0bEMzcU54a2loX1k5M0RtLTZhX19XNTFlTzU3Yl96Wm9TUnNLd0NfR3BsX2h3ZzFnRVdZWDdMX210dWNGa3ZKWnlBVFJUQnJZQ0c0TFZIMXc2M2wwdw?oc=5</link>
+<guid isPermaLink="false">6643982175cf98d8676b9082dd373c95b854bad01d9ba7f5613d3e5896e7dcac</guid>
+<source>Google News Football</source>
+<category>sports</category>
+<pubDate>Sat, 24 Oct 2026 09:00:48 +0000</pubDate>
+<description>Biggest Surprises Of The 2026 College Football Season Through Week 7 Yahoo Sports</description>
+</item>
+<item>
 <title>Lammens: We're united and behind Carrick</title>
 <link>https://www.skysports.com/football/news/12040/13602864/senne-lammens-manchester-united-players-are-united-and-behind-under-pressure-boss-michael-carrick</link>
 <guid isPermaLink="false">9fbd00c7f1d315816d1f37ad0c3b0ea36af7ec0cf17f6d2248348c825ca16d93</guid>
@@ -215,15 +303,6 @@
 <category>sports</category>
 <pubDate>Sat, 24 Oct 2026 09:00:00 +0000</pubDate>
 <description>Beloved football coach lies down and dies during high school game: ‘He wasn’t moving’ AL.com</description>
-</item>
-<item>
-<title>UConn football team rolls past UMass under the lights at Rentschler Field Friday night - CT Insider</title>
-<link>https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSTFHNW1jSTBKdUFPZ1Nwa1hjaThZZGhzeG1LV3pBb0hGYlMwSVgwRF9mLUVnQlMzWFlNSlY0eUF3a3VDMmF6SjFVRVI5YnBicng5WG1aUnlpQVZ1dHYxUTVkZ3BuYlVHRG9ObXJkY2c1ZDk1b09reHBWam5JQXRMbTlTSkxRSkllVV8wN1o1X3NFYU8taXRPX2diLXQ5dkNFZG1BUE9DZUM?oc=5</link>
-<guid isPermaLink="false">7b6a49099897995da72b683e72af3a6b73362216eaa2d915d4b4f12d79449565</guid>
-<source>Google News Football</source>
-<category>sports</category>
-<pubDate>Sat, 24 Oct 2026 08:37:30 +0000</pubDate>
-<description>UConn football team rolls past UMass under the lights at Rentschler Field Friday night CT Insider</description>
 </item>
 <item>
 <title>Tracking undefeated FBS college football teams in the 2026 season - NCAA.com</title>
@@ -273,6 +352,15 @@
 <description>VIDEO: Cabrillo vs. Dominguez, Football The562.org</description>
 </item>
 <item>
+<title>HBCU Football Week 8: Southern vs. Texas Southern Live Score, Updates and Highlights - Sports Illustrated</title>
+<link>https://news.google.com/rss/articles/CBMipwFBVV95cUxQSHVPZ1Z4MU02MGgxSktOLWZzTmxxaHl4dk94NmhrV0t2VFpzWGtvZUM3RWp4S2lUQXd1UnNpeFNvNzJrRllDdW1MZFF3dlJja08tRi1abkdUaHJJb01jN2xYZGdsOXZXTVFmR3MzLXFhQWdDbUNWZVVtSVVwemtRUWVEbE44TmVKMjZIcUwwV2lnME5UQ0Q4M2RhVFdyaTlXSmZPUzZoUQ?oc=5</link>
+<guid isPermaLink="false">c135b9eb312fcfc1d992a66b0b7ef5fdd13349a00a1dea6659b8154b99577a9f</guid>
+<source>Google News Football</source>
+<category>sports</category>
+<pubDate>Sat, 24 Oct 2026 08:07:09 +0000</pubDate>
+<description>HBCU Football Week 8: Southern vs. Texas Southern Live Score, Updates and Highlights Sports Illustrated</description>
+</item>
+<item>
 <title>What channel is Kansas State vs Arizona State on today? Time, TV schedule for Week 8 - The Topeka Capital-Journal</title>
 <link>https://news.google.com/rss/articles/CBMi0AFBVV95cUxNUl9VREJTb0F6bHlLbU1pUVl2Q3NoRzN4WFRaRFg1Wko4OEpSa09EeGlkaGRDamdDLWVxUWlIeGtiYnFtOU9jODlZR0ZyYm1zXzVFdFBkZDNJUXpLLUQ3VEF2bUwxeGQzc3VwSm1hZ0F0cEY1elBHZHIzVXQwWndqNG9LZW5vMXVQVWRJU3VZYm9VdjhBaFkyRnJQSjdRREp2NlM0aW5ZVWV1R0d5aE4xNG9QdGcwV09sWkJtSm9aMEZVY3E5ekI5MnZockdGMF93?oc=5</link>
 <guid isPermaLink="false">100bd11864c5c774e879671fa1fe2326a25cd3b831c1963ee1734af2ded8008a</guid>
@@ -280,15 +368,6 @@
 <category>sports</category>
 <pubDate>Sat, 24 Oct 2026 08:01:00 +0000</pubDate>
 <description>What channel is Kansas State vs Arizona State on today? Time, TV schedule for Week 8 The Topeka Capital-Journal</description>
-</item>
-<item>
-<title>Does Missouri football play today? Week 8 college football schedule - Yahoo Sports</title>
-<link>https://news.google.com/rss/articles/CBMiigFBVV95cUxOZjEzSmk1NUYtU0VOMkE0VHFVbjZ5Y041cUtKU2UzR1lQS3VWa2dzWFNOTzRfNi1LcFNTdV9YcUROeWhvTHVGT2kwRnpEWFRob3BQN3VFT1FLRUIyNVpNSnY4Z1h5MFJmaDF5TDdJRWNpOHJLbm9JOTJQOEpqRGdnckV5LUJTb0x6TlE?oc=5</link>
-<guid isPermaLink="false">efab38d5c7076b9742f8816f9639f4694164fb08359458e5c0d970a38ff41aa7</guid>
-<source>Google News Football</source>
-<category>sports</category>
-<pubDate>Sat, 24 Oct 2026 08:00:44 +0000</pubDate>
-<description>Does Missouri football play today? Week 8 college football schedule Yahoo Sports</description>
 </item>
 <item>
 <title>Latte Lath's journey from street games and Carrick to new start in Germany</title>
@@ -384,28 +463,6 @@
 <media:content url="https://e1.365dm.com/26/05/1920x1080/skysports-dubois-boxing_7244126.jpg?20260510000405" medium="image"/>
 </item>
 <item>
-<title>Australia inflicting heavy defeat on England LIVE!</title>
-<link>https://www.skysports.com/rugby-league/live-blog/12040/13602944/rugby-league-world-cup-live-latest-scores-updates-as-england-face-france-before-england-women-play-hosts-australia</link>
-<guid isPermaLink="false">5899ec4a725d9d2fc1e0f41118df715ee9442997c67ba728182a3affe5239336</guid>
-<source>Sky Sports Football</source>
-<category>sports</category>
-<pubDate>Sat, 24 Oct 2026 07:00:00 +0000</pubDate>
-<description></description>
-<enclosure url="https://e0.365dm.com/26/10/1920x1080/skysports-rugby-league-australia_7385401.jpg?20261024112551" type="image/jpeg"/>
-<media:content url="https://e0.365dm.com/26/10/1920x1080/skysports-rugby-league-australia_7385401.jpg?20261024112551" medium="image"/>
-</item>
-<item>
-<title>He transformed Mahomes' Chiefs - now Walker faces team that let him go</title>
-<link>https://www.skysports.com/nfl/news/12040/13602243/kenneth-walker-iii-returns-to-haunt-seattle-seahawks-j-j-mccarthy-time-in-new-york-and-los-angeles-rams-pressure-nfl-gameday-guide</link>
-<guid isPermaLink="false">4553fc70717490d43c06c505c2c381e0fc1cb47e1a169a50812b7b9a8ec2e362</guid>
-<source>Sky Sports Football</source>
-<category>sports</category>
-<pubDate>Sat, 24 Oct 2026 07:00:00 +0000</pubDate>
-<description>The one that got away. The perfect match they let walk out the door. The ex that found a worldie new partner. Did they make a mistake? Did they take him for granted? And yes, we are still talking about football.</description>
-<enclosure url="https://e0.365dm.com/26/10/1920x1080/skysports-kenneth-walker-seattle-seahawks_7384194.jpg?20261022231228" type="image/jpeg"/>
-<media:content url="https://e0.365dm.com/26/10/1920x1080/skysports-kenneth-walker-seattle-seahawks_7384194.jpg?20261022231228" medium="image"/>
-</item>
-<item>
 <title>High School Football Scores: USA TODAY Super 25 Week 10 results - USA Today</title>
 <link>https://news.google.com/rss/articles/CBMixgFBVV95cUxNanhsS1VaY0xtb2FLTnA3N2RKS0RrVGstb0tUY1lrN2FtNE1mdWJqd0hDMnNRYjktQmtRc2lGcUxzSnkxTjFrcGxORmIzQ2dwc3VxdHA5SmlVNVEtQUIwN1pxUmpOLXJhTzB4MHcxOXhWS21yaW1MMTFyY2Q3WnIxVTRhYnZlYmdua09zclhFZlIxblFncjlvbHRjYmktbWFacVpLVkMzNGY5ZDlnNlJQamRlNVB4ZDV2Y3EwVFRMWWRlajMtT3c?oc=5</link>
 <guid isPermaLink="false">a3a38cf978877073c405b739513d1999ad2ad737b00ae800fb4c76b2d12f452e</guid>
@@ -415,13 +472,13 @@
 <description>High School Football Scores: USA TODAY Super 25 Week 10 results USA Today</description>
 </item>
 <item>
-<title>MaxPreps Top 25 high school football scores: No. 19 Mater Dei wins on pick-6 against Orange Lutheran 52-38 - MaxPreps</title>
-<link>https://news.google.com/rss/articles/CBMi8wFBVV95cUxQVDZmQUNRa3pNTThwd1FLSy1lUXFFcTVQc0RrbE5Zb0YwZWVmVG5BSkZ3U01mVEZBc211VUdPRENfXzUwdnVYUGF1S1B4OFVlZ2tITWJ0OVNkTlk0UlRwMnFmRHowcUd0UzZWLXhMcl9QdU5leWNOQ19SaXNuN3piNy1KcVd0MlNQYTJza0g1UWw0NmhiNklrcFFWZmJlRTl3azN5ck9Tbl8xa0VubEFOZS1sY3hYR2RKQi05WG9laHR1SkdOX2pGTnhldjBobVB1QV9MMEJscXhWYzlTSGNtTTB3MHo0LVFHWEdrRkJRVW1yckk?oc=5</link>
-<guid isPermaLink="false">961a5be91bd603ba35457a373cece2d6caf81c41de5ca6a668967bc3bef2cfc4</guid>
+<title>Washington High School Football Final Scores - October 23 - Yahoo Sports</title>
+<link>https://news.google.com/rss/articles/CBMijwFBVV95cUxPY1hObWtQS1RnbjlBQ0M5YmhTdlV4ZlJBd3F4Szc3cTBDSzd1MXFidWsxb0tncDI5NEc0X0t2clZ4d1A0LUtxVzlUeWVRUkJ6eThVMk4zLXZTaW0tV2hDVTJodThpVGI2OVBqNHRSUmEzQzhLRFdHcGd4Wm1MYXdGQ3UzZTRJbzB3X1k0blFFUQ?oc=5</link>
+<guid isPermaLink="false">1b95ea506d55aa844f6b19a93a96b603d2a65a41e5f90ac56ad431d147fba1c7</guid>
 <source>Google News Football</source>
 <category>sports</category>
-<pubDate>Sat, 24 Oct 2026 06:23:45 +0000</pubDate>
-<description>MaxPreps Top 25 high school football scores: No. 19 Mater Dei wins on pick-6 against Orange Lutheran 52-38 MaxPreps</description>
+<pubDate>Sat, 24 Oct 2026 06:14:00 +0000</pubDate>
+<description>Washington High School Football Final Scores - October 23 Yahoo Sports</description>
 </item>
 <item>
 <title>Bethune vs. Prairie: Colorado High School Football, Oct. 24, 2026 - CHSAA</title>
@@ -534,6 +591,15 @@
 <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/131f/live/f29e9740-cd30-11f1-bc2e-018d645d8d21.jpg" medium="image"/>
 </item>
 <item>
+<title>Colorado High School Football Rankings - 2A - CHSAA</title>
+<link>https://news.google.com/rss/articles/CBMiXEFVX3lxTE9TNVN0eVZSTWd3TmxfUnZMV1p4R2RfVmxVRXJyUk9ONmxTRzh6RFNnTHRtZ19jN2ZHTFpmX2VSb3NOTEVjbHF6WkF2WVVkempubEFOa3lGNHJsSEJn?oc=5</link>
+<guid isPermaLink="false">b413c16f1c0bd5dce6a4d367e4e618949bbe5c4175d6444097be7700493c3b0b</guid>
+<source>Google News Football</source>
+<category>sports</category>
+<pubDate>Sat, 24 Oct 2026 06:01:08 +0000</pubDate>
+<description>Colorado High School Football Rankings - 2A CHSAA</description>
+</item>
+<item>
 <title>Person seriously injured during ‘altercation’ at East Liverpool High School football game - WKBN.com</title>
 <link>https://news.google.com/rss/articles/CBMi3gFBVV95cUxNVTVOMXViazNlS0pWVVIxOFl1SFBfZXVnMWRiN2ZGTDJ0MkRHaTRwYnVXR0dtcWxXdks2YW9jLWdOc2swUkdPa25TSmV2S3lBRWJ3Wm5iOG1HU19keVVGa1NaWjFlMGE0a1c5czdIUFV1LUJTbkhFR0ZXV2wxb0h5THVYNXBYdDBYbU9YX2E2WFhRdks4OU5QenYxMTBsNkQ4TzZhZlRfeDU3NWhXaG9BOC1zSkthcy1Ecl9DRWZhOTQ2b09aTUdBRVo2Um1FRE9rcm1VeDFVbzlaVEhSV1HSAeMBQVVfeXFMUEFkTlpON1I0SGVBT1dpRmFzV0NTMDBvUmFqZm85QWQyd3NhOW0wZ0c2dU8weGotckJvS3pnWEF3dmhROEVBaWY2WjhaSUZZbm1Wc1FzTmRPTm94dl95aDBkWkw5cDRyTVpFUERlLVp0cjdMWGZxZ1VXYV83dWg1bnhQYWVMNlpYTlVpVnZVM0hIYmkwQkxuU2F0dnFLUG5BNDBpS0RZdUFidUlhbWJXYkNNZlBRVVdNUmphTjBZYWZzYkJMZWxwXzNDSjN1RGtYUFpobVVhc04tNVJEY1UxWTJkdVE?oc=5</link>
 <guid isPermaLink="false">129e194b85070947e412ed6745d565e326a57243cc2c0f2fbd3a924576b5830e</guid>
@@ -554,15 +620,6 @@
 <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fbf/live/38bd3c70-bda7-11f1-bc2e-018d645d8d21.png" medium="image"/>
 </item>
 <item>
-<title>How the top 25 high school football teams in the Southland fared this week - Los Angeles Times</title>
-<link>https://news.google.com/rss/articles/CBMisgFBVV95cUxPQUVuVmRUY0I3eXV6Q1B6R19GV2p2c0hmS2pwUkxMN2RjUlBWTExFSnFZSjhIWm5fNkhxUVZRLXF6SHhLQl9oSVRLdmRqNkx6LUVuX29NUlZWOG9GRjR4Q1JKVG01ZXN1OU9HaTNPaG10RkY3VFJDYjBmb192ejN4Tnc2dEVYT2xyUTAyTkN4MHo5RDJIWmVKS05RYjh4VHFtYnVpbmNZMHktcVptSDZDSkh3?oc=5</link>
-<guid isPermaLink="false">34e362d74e3dc6e53fb6c8d695e7360b57a5e2d494d085d392d48368bc1c42c7</guid>
-<source>Google News Football</source>
-<category>sports</category>
-<pubDate>Sat, 24 Oct 2026 05:14:00 +0000</pubDate>
-<description>How the top 25 high school football teams in the Southland fared this week Los Angeles Times</description>
-</item>
-<item>
 <title>Cornell High School football coach dies after medical emergency at game - WTAE</title>
 <link>https://news.google.com/rss/articles/CBMigwFBVV95cUxQZE4tYkNWT1c0ZGp1ckdWUmpUMlNZOVpZODFLSTU3UnpqQm5oMzNKXzNRd0puTTdfNUZuMHJfRTdZNjRySG9URGc3elJqMkJRWkQ2Y3dQTWU3Y3ltNjlxR29RV1lHVk5OSGp1NmIwRktxdHJiUHlkNWM3Nk9WYUtQc1hKdw?oc=5</link>
 <guid isPermaLink="false">b8fe71c97abaabee9abfffff3fac77ce9063698094c546595c8a0a57336f01bf</guid>
@@ -572,12 +629,21 @@
 <description>Cornell High School football coach dies after medical emergency at game WTAE</description>
 </item>
 <item>
+<title>Does Georgia play today? Schedule, time, channel for next UGA Bulldogs football game - Yahoo Sports</title>
+<link>https://news.google.com/rss/articles/CBMiiAFBVV95cUxNanBqYXFtYjFkdHZPMWp5anZrUVVlQjdoNnVuZmtYclRYR2NFSVdPRmgyVFhCd0JnWTJrejhyNUhibWxDMk5KNUF1aWNDQ2wxUmhDQ2hUSng0R09fbVdCTDhVdFhBV2FHeFZfdVhwQU83a0NSZk1uUm5DVXN2RUw0WFpLaG1QNUtV?oc=5</link>
+<guid isPermaLink="false">e4b4ec176f4a5bc21c098f04f243b1111aa4ad69f7a4754dc00e6e348210dfb6</guid>
+<source>Google News Football</source>
+<category>sports</category>
+<pubDate>Sat, 24 Oct 2026 05:00:00 +0000</pubDate>
+<description>Does Georgia play today? Schedule, time, channel for next UGA Bulldogs football game Yahoo Sports</description>
+</item>
+<item>
 <title>Watch Replay: Football Friday 2026 - Week 10 - HighSchoolOT</title>
 <link>https://news.google.com/rss/articles/CBMihAFBVV95cUxQYkh5ajZTLXg0UW83X2dHWmJ3QWNhTzZpeVQtREJySkhWN2ZMZkhRQmZxbFl6UGJMYVUtdnhMSXl2OVNwTTNiRGtyZlFSakh1c29RRjA1c2d4aDF3RjE4Mm0xTUZLS080SUl4bzlvQzBtcHpRSEZmWU95ckp4RHVKam02MkE?oc=5</link>
 <guid isPermaLink="false">69ef558e97d264c70bb2b1ebe807aa6fe8fd3f28f56a9ea0d2e4dad1dae04a40</guid>
 <source>Google News Football</source>
 <category>sports</category>
-<pubDate>Sat, 24 Oct 2026 05:07:27 +0000</pubDate>
+<pubDate>Sat, 24 Oct 2026 04:58:54 +0000</pubDate>
 <description>Watch Replay: Football Friday 2026 - Week 10 HighSchoolOT</description>
 </item>
 <item>
@@ -635,15 +701,6 @@
 <description>Thierry Henry, Kylian Mbappe, Zlatan Ibrahimovic and the rise of fake football quotes The New York Times</description>
 </item>
 <item>
-<title>Iowa high school football: Final scores from Week 9 games - KCCI</title>
-<link>https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVENTTDZUai1HcTlMYkN2Z1pGV0tjZENydWtvT3hpWWt3amFxVHkwX2FEYnBtYXBHNy1zc0swc2UwcUNUOTF0UFlQRmtYc2pRZXZtTG9Rc1Z6MFExT0hJU21ZRXV5MU9xd1k2WGdWaENGTWFfS2hVTkdvVGhnU2czbGFqR1FqbTRHS21GLUhTczZmU3pITUkzbk9TTWM2bTAyNnB1Umd2M3M?oc=5</link>
-<guid isPermaLink="false">b4f4569f71cefa84decb7f891212deb426f3f8a87ea65852969f50ec6cec9c00</guid>
-<source>Google News Football</source>
-<category>sports</category>
-<pubDate>Sat, 24 Oct 2026 04:10:00 +0000</pubDate>
-<description>Iowa high school football: Final scores from Week 9 games KCCI</description>
-</item>
-<item>
 <title>Iowa high school football: 2026 playoff qualifiers released by IHSAA - KCCI</title>
 <link>https://news.google.com/rss/articles/CBMipAFBVV95cUxOOVVEaElBR3ViZmU1SU1SNnhNb3h0YmRHNkNrOVZROV9DTmZROVpLWk8zakkySnpNNWpXNk1peDFsUDhfLU1LSGdHNHZ0dENXaGp2Nk93M0RybnBIcHBOLUNOQWUyNnB5Tms1dERCRXp1RlpMRVVCV1A1alNaQjdVdjZpRmNINUt1dlpLX0xiVHVfeXdteWthdTFBbHlZeThNNVViTw?oc=5</link>
 <guid isPermaLink="false">5a3294b248d7b33f40dc2095571fcaee86e786960f66ea82d5b744514c5fe388</guid>
@@ -651,6 +708,15 @@
 <category>sports</category>
 <pubDate>Sat, 24 Oct 2026 04:10:00 +0000</pubDate>
 <description>Iowa high school football: 2026 playoff qualifiers released by IHSAA KCCI</description>
+</item>
+<item>
+<title>Iowa high school football: Final scores from Week 9 games - KCCI</title>
+<link>https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVENTTDZUai1HcTlMYkN2Z1pGV0tjZENydWtvT3hpWWt3amFxVHkwX2FEYnBtYXBHNy1zc0swc2UwcUNUOTF0UFlQRmtYc2pRZXZtTG9Rc1Z6MFExT0hJU21ZRXV5MU9xd1k2WGdWaENGTWFfS2hVTkdvVGhnU2czbGFqR1FqbTRHS21GLUhTczZmU3pITUkzbk9TTWM2bTAyNnB1Umd2M3M?oc=5</link>
+<guid isPermaLink="false">b4f4569f71cefa84decb7f891212deb426f3f8a87ea65852969f50ec6cec9c00</guid>
+<source>Google News Football</source>
+<category>sports</category>
+<pubDate>Sat, 24 Oct 2026 04:10:00 +0000</pubDate>
+<description>Iowa high school football: Final scores from Week 9 games KCCI</description>
 </item>
 <item>
 <title>Final scores for Week 8 of Arkansas high school football - thv11.com</title>
@@ -662,33 +728,6 @@
 <description>Final scores for Week 8 of Arkansas high school football thv11.com</description>
 </item>
 <item>
-<title>Bigger than Football: A piece of history from the Palmyra-Monroe City rivalry - WGEM</title>
-<link>https://news.google.com/rss/articles/CBMimwFBVV95cUxOTXV6ZkhnUkt3WWVqMVV2Ull6RFFHRURSWEYteTl2S3NKZV9pLUEzRVlJUVdPRnFvcXJvM19rTnZreWNxWnpLR25CNXI0SmI1eHFyeE9jWDRDRWFoUHEzclNLLUhfUWZrS195WV9ySXRubTRhQ3hvNktXVjZZSFk4WjdaMmtsUC1qN3ltdkt4Z3VHd2MxUmVKa3p0TdIBrwFBVV95cUxNRmtVNTA0ei1nZVR6UTE5cVhCRVl0U0FOZ3lqZzhXT2RuM3FUOEw0MlRQRnd2NEJIVmFSR3lqU19Dd3o3RkFEY0ZrWjFkYlhMNXcwSl9HWi0wUDZNLWtmTlNsRUlxY3RQeWhDSFpyVDc5amxndnYwMDBoaTBvNnNRZ1VEd05VR2pDbjFCUEtIQV9yMEliZE1yVUlEWVZMbjB1dDlncUYwbzV6a2tYNk1v?oc=5</link>
-<guid isPermaLink="false">a82f8a23015534ebbac457b16a3ebf21b55f93dac7bbbdad0f46e90e900e21e0</guid>
-<source>Google News Football</source>
-<category>sports</category>
-<pubDate>Sat, 24 Oct 2026 04:05:00 +0000</pubDate>
-<description>Bigger than Football: A piece of history from the Palmyra-Monroe City rivalry WGEM</description>
-</item>
-<item>
-<title>Cardinals triumph over Vikings in ENC high school football GOTW - WITN</title>
-<link>https://news.google.com/rss/articles/CBMimAFBVV95cUxQMS11ZkZIT3phbF9aZzlTb3RvaVMtOWMxU1BLR25wTnR6RWhxTG9lRjRtTFd4N0lzTUR3enZHQkdSdVhRcDMzQWo4SlJMbWxveFBBUGVMWUp5RmZDa1VKbVpSVzFMcGVLbWw0alZNSVNzOHNuZDRKUl9WRzZqLW1ITGhIQk5VVHNkZHFVdlA3Y0d6cDdrdElyXw?oc=5</link>
-<guid isPermaLink="false">5fa8a673c49ee6bb7ea12893a5ec24c8d8787657ff85c3ae5e0091c9c594c419</guid>
-<source>Google News Football</source>
-<category>sports</category>
-<pubDate>Sat, 24 Oct 2026 04:01:00 +0000</pubDate>
-<description>Cardinals triumph over Vikings in ENC high school football GOTW WITN</description>
-</item>
-<item>
-<title>Wisconsin football playoffs live updates, scores, highlights - Milwaukee Journal Sentinel</title>
-<link>https://news.google.com/rss/articles/CBMixgFBVV95cUxNLVE0MXJRZmVER0xNRHNzYmhFSnNPUUcyenNNb3A5TVRueVhBc1VXWlh3bmFNbVlaaDRaS090RW1lU3phTklBc1pCb25qTEhZYWRNRzI1UC1NLVBXVzFOZUlKUkVLWGZESVhDWjhuc0ZRMGZIdnlnQVNrVkdIRjk5MHR2aWowcXp4NGQtX3Y0SE1KYVRLN2dEV00wSVJvSi12YkFGclZQUEtnS1dlakNvZUs0ejlaNVlkZVB6OG5WbHpUNzEtbkE?oc=5</link>
-<guid isPermaLink="false">7c66dfa9850252957a09c8d2190ce2ccaaadaea4800df7d246ede916cc8937e7</guid>
-<source>Google News Football</source>
-<category>sports</category>
-<pubDate>Sat, 24 Oct 2026 03:47:00 +0000</pubDate>
-<description>Wisconsin football playoffs live updates, scores, highlights Milwaukee Journal Sentinel</description>
-</item>
-<item>
 <title>Nebraska high school football scores, highlights for week 9 - KETV</title>
 <link>https://news.google.com/rss/articles/CBMilwFBVV95cUxOUjZhRkxRSVk3c2FHZFVfYTR5bXBYaGtzRmgtUk5RUUx1RFFqS0ZTZ3VHcjBCbUpMNVpZUzAxY2JDQTA1Z2RkSnpPUTNOcFFKQ1hnU1FyTTI1d0swVzcyLWxuU1hBcmxudF95NlFRSi1NQ0prOG13ZHVSU0FveXlkV01qb2hWNUhvLTFNR2ZQem52VmZzQ0x3?oc=5</link>
 <guid isPermaLink="false">b0a23272ee43d67afc4d9cddc101be1c9182917725de9d3f852ab21bf672e3f3</guid>
@@ -696,6 +735,15 @@
 <category>sports</category>
 <pubDate>Sat, 24 Oct 2026 03:45:00 +0000</pubDate>
 <description>Nebraska high school football scores, highlights for week 9 KETV</description>
+</item>
+<item>
+<title>End Zone: High School Football Final Scores from Friday, Oct. 23 - KCBD</title>
+<link>https://news.google.com/rss/articles/CBMikwFBVV95cUxPcnpLbTJWcmRZcGhTYlc4YUxpM2hKWGI3OUl0azM1eDZ2dHFPUEltdDQwdTNtVHVTck16UUJkNlc5MzVuOFhiTkljWjZEbGpJWlo2dERuX0ZyQm9IYWVHZ21Dd0pZOE1UbElvajRCem9WVzZMUUJpUE5ZdXVxV0ZOSDEyQk9SUDBydkpRVFZUU0FfZnPSAacBQVVfeXFMT0VvOWh5TkhUVjZ5aGFMU3N2a3Q3d2VnRXdCcHh0eDMxaVpDZjFkUUZIOEFtQ3VDUThXNVc1UnpCcmNQUWJYWXZsblZQaWgtQ05FNjBwem1aNmtWUTVhT0FHVks3XzVaQm1sSWVpSm1vQkcyTFB1SDJ2UExRcHAxQ0tjZno1b2lodDBqYV9OZmZjTzZFanRfTWExQmNndS10ZkhIS1duVjQ?oc=5</link>
+<guid isPermaLink="false">bc4d262146899aed6702567b9491c26e00669dddc74d98245c0a59e0ad5572a3</guid>
+<source>Google News Football</source>
+<category>sports</category>
+<pubDate>Sat, 24 Oct 2026 03:43:00 +0000</pubDate>
+<description>End Zone: High School Football Final Scores from Friday, Oct. 23 KCBD</description>
 </item>
 <item>
 <title>Tennessee high school football scores for Week 10 of TSSAA football 2026 season - The Tennessean</title>
@@ -707,15 +755,6 @@
 <description>Tennessee high school football scores for Week 10 of TSSAA football 2026 season The Tennessean</description>
 </item>
 <item>
-<title>Follow LIVE SW Indiana high school football sectional opener scores, updates - Courier &amp; Press</title>
-<link>https://news.google.com/rss/articles/CBMi4AFBVV95cUxNQXg3V2VmWmFuM2w4MDNVU1lZOUk1TFZRcVEzSWlYdGtYdWVGV3lDSGVUbENfQVI4Nl9zdTFqM291dnJiS0FPZ2JFbVdrQlZVQndvbVUxWjJqRFV1X0wxZklxQmRVRThxWDhJNm1lNjVqNGVlLUR4c25YZ25YbEszN1pha2xMeTBsNm9MWlllREpIeW9CN09LRTE3TmJIVHZnODl1ZkVQelJxMFljQzFGM1NKNnhteHladW4xcWFKR2RZMlVkOHRoNVJmaXl1bWtLV1ZHOC1lTkdkVXhjZXFtbw?oc=5</link>
-<guid isPermaLink="false">8e3eacbb1c9e8dd32de2ae4f6eeebb04e017f42d91fa0930f7794b56df7e7beb</guid>
-<source>Google News Football</source>
-<category>sports</category>
-<pubDate>Sat, 24 Oct 2026 03:40:00 +0000</pubDate>
-<description>Follow LIVE SW Indiana high school football sectional opener scores, updates Courier &amp; Press</description>
-</item>
-<item>
 <title>High school football scores &amp; highlights from around the Upstate and South Carolina - WYFF</title>
 <link>https://news.google.com/rss/articles/CBMiogFBVV95cUxPMTFpdENCQXRlcGFBeldUdTV1VGZfeXBiaUpwYnpfZ0J6YnlzX2stNG1weUpFYXQ1OE9YODd3WGg4bXlnTmxwVkZHaGJLZUFkcktWQWI2X0FwbWxjMUtxaXhMbnkzWTYtYWRzejR1Tnc1bWJaNjFVRXI0Mk5KR0dPZjhrbFJWTVcyc1hXTkdKZVNvanhaLWxBT2ZvcEgzYml0amc?oc=5</link>
 <guid isPermaLink="false">2d6963b3bf36a44a9ac0194e15f2b964a34171fa67002eb859e2a9e09469fd4b</guid>
@@ -723,15 +762,6 @@
 <category>sports</category>
 <pubDate>Sat, 24 Oct 2026 03:39:00 +0000</pubDate>
 <description>High school football scores &amp; highlights from around the Upstate and South Carolina WYFF</description>
-</item>
-<item>
-<title>Friday Night Football: Week 10 - WECT</title>
-<link>https://news.google.com/rss/articles/CBMib0FVX3lxTE5MaDJObG5wcFZESmVzSmNzM2VGZDJqeGhsSDdoN2VaTmZnb1JzdzRhelc0SmpiOENkNW1BRENfZkZvOEVsNjZpenNORGNucWVHbjNIU3lkeG5ieXg1WkRWQkxoU0EybWxpNmtmbXVkRdIBgwFBVV95cUxPOExBUmpMTG51S3J4R0hCTV9UVVR4OFpZVlpBbllmUE13VC04X3JqQTVjNzJmaHRSbFlnU0w0aXJ3WmJyeUZibU80NldmOEN1QW1QM3I4QjR0b1hadmRScmFCajBXYk8zQzNiM1NVSjU5VUdpQ2c1b2JhZl8xMWlnbU9nYw?oc=5</link>
-<guid isPermaLink="false">fb89287aa00680bce7c4d9136cebedb4eb3891ca9f5b10d2933578ef2014e9b9</guid>
-<source>Google News Football</source>
-<category>sports</category>
-<pubDate>Sat, 24 Oct 2026 03:24:00 +0000</pubDate>
-<description>Friday Night Football: Week 10 WECT</description>
 </item>
 <item>
 <title>Ed Dawson, high school football coach in Pennsylvania, dies after suffering medical emergency during game - CBS News</title>
@@ -833,13 +863,13 @@
 <description>Friday Football Frenzy: Scores and highlights for Oct. 23, 2026 WLOS</description>
 </item>
 <item>
-<title>High school football scores across ENC - WITN</title>
-<link>https://news.google.com/rss/articles/CBMie0FVX3lxTE1kR0Y3aW40Ums5bzdmTGJFellJQS1pMmFhOEpBbmJ2UTZ6VnpkNzBVWVhaRTZEcHgtcERyUEZsQU0tQmZvQ0t1Rjc0ek5CcHNyZVhHdDE3Rm00Vml2MzhacTI4LW03ZUwxNUVzb19Fb3hqNTJ2N3k2SXFEc9IBjwFBVV95cUxPUGZmZVhpd3NvTUhVekxzNzc1YmUySnY4aWFVaGYwRmdlZW8tbndSblo3MElwYTRVbkI4TGlTNkJ2NFN5ZDBNVk80Ni13QWs4UDdFbElYdl9WSUtTNHBqX2FkNDl4c3A0SlU3djIyU3Q1VTB6enB5UWZxNmpnSzdPMVBIOTd6ZVI0RWh1cVRmMA?oc=5</link>
-<guid isPermaLink="false">40c5f32163c7f64a90e8d10a28e111f5e5916589574153dbf89fd5d1eaddc675</guid>
+<title>Michigan high school football final scores of Week 9 games - Detroit Free Press</title>
+<link>https://news.google.com/rss/articles/CBMivAFBVV95cUxNNXFocUFIcjJvRWtIelBBaC0ySGQ2Z1pUV29SVUFaRFlLN2JpM3hTUUp5bW5QN0xJdDVLdnBXdGZjSFZtLTN0SVR0dDJoRnRZWDBtTngzNjltTERNbWYyLXRqRUdOYUJ2djk3ZkY4VG9GaGpFajBLQkJmTl9KT3hHczVtWnlUR2ZmTGxVcDlzTHA3S3lYdTNhSkphYngxVmlEa2xQSDVtSE1LSlpPMkZYUUhFTmllWWgyZVNadg?oc=5</link>
+<guid isPermaLink="false">e1a52c91c032784a3f0ed22ae39b15cc3606966dce8ddc73e804902a6cadaae6</guid>
 <source>Google News Football</source>
 <category>sports</category>
-<pubDate>Sat, 24 Oct 2026 02:17:00 +0000</pubDate>
-<description>High school football scores across ENC WITN</description>
+<pubDate>Sat, 24 Oct 2026 02:24:21 +0000</pubDate>
+<description>Michigan high school football final scores of Week 9 games Detroit Free Press</description>
 </item>
 <item>
 <title>Friday Football Fever: Week 8 scores and highlights - KSN-TV</title>
@@ -885,15 +915,6 @@
 <category>sports</category>
 <pubDate>Sat, 24 Oct 2026 01:37:54 +0000</pubDate>
 <description>Football Friday Night 2026 | Week 10 Scores &amp; Highlights WJBF</description>
-</item>
-<item>
-<title>IU football game day: Indiana at Michigan primer and prediction - The Daily Hoosier</title>
-<link>https://news.google.com/rss/articles/CBMingFBVV95cUxPWGg5SWZ2cVpYX3c5Vm1CcDNrd3Y0TXRZQ3F0NlV1Ri1keThydnlFY0ZGanRqZXBaMnZpc2hDSG9yYWwyenY4Tnk1WGg0WDFpOFh2VFo1dUdDRVlXYXdVdWRGODRaVjRUbnh3TllDOFhfS0pXRWV4TWFRR3N2eGF0SXVzMmFQbWlQSjFSV0ZxcTdRRWFxNnV0aDRlUFZqdw?oc=5</link>
-<guid isPermaLink="false">14e0c9597df910c297fb182861d74cbf5a7d7971dace1830751b7801626ebee6</guid>
-<source>Google News Football</source>
-<category>sports</category>
-<pubDate>Sat, 24 Oct 2026 01:36:53 +0000</pubDate>
-<description>IU football game day: Indiana at Michigan primer and prediction The Daily Hoosier</description>
 </item>
 <item>
 <title>Football Friday Night: Oct. 23 scoreboard and full replay - WCTV</title>
@@ -983,15 +1004,6 @@
 <description>First &amp; 10: Central Ohio high school football scores | Week 10 10TV</description>
 </item>
 <item>
-<title>High School Football Live Scoreboard — Week 9 - Altoona Mirror</title>
-<link>https://news.google.com/rss/articles/CBMikwFBVV95cUxQcVN3dWZYY3FrUUl6czJIZHdyV1hueUJBWndnME9CMlFxMU1pZ1Z1OXpWVFY5SFgzSERhRjdJZEhTTzRJV1BqeDZJRkVkVUJyT05zYXZOb2xqRXZMWmo0azRZMFhMNVkyS1FEUzFsNHZva0psV1l4RlU4UEdmWWdqYlV3ZG4wQjZFTmNpeW5YazY1c0E?oc=5</link>
-<guid isPermaLink="false">e7abfab37de09684f40d6366d4b0ca47a3c27ec4dd207d097bc11472ca82ccac</guid>
-<source>Google News Football</source>
-<category>sports</category>
-<pubDate>Fri, 23 Oct 2026 23:00:46 +0000</pubDate>
-<description>High School Football Live Scoreboard — Week 9 Altoona Mirror</description>
-</item>
-<item>
 <title>Leclerc warns Ferrari to ‘be careful’ after setting early US GP pace</title>
 <link>https://www.skysports.com/f1/news/12040/13602756/united-states-gp-charles-leclerc-edges-kimi-antonelli-in-practice-two-to-complete-friday-double-for-ferrari</link>
 <guid isPermaLink="false">9dc8dd7712bb9242aea5b6fb334a9cde07d7e4321921ce5d01ef12fa813c9285</guid>
@@ -1056,17 +1068,6 @@
 <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ac3/live/c1c66a40-cf2d-11f1-93e1-3b657b665bcf.jpg" medium="image"/>
 </item>
 <item>
-<title>Lankshear at the double as Middlesbrough thump Bolton to go top</title>
-<link>https://www.skysports.com/football/bolton-wanderers-vs-middlesbrough/report/560631</link>
-<guid isPermaLink="false">cc7f99f8c9da48adfacbc49af0133334bcabc6aa8949a21fb5a93fc3668fc037</guid>
-<source>Sky Sports Football</source>
-<category>sports</category>
-<pubDate>Fri, 23 Oct 2026 22:00:00 +0000</pubDate>
-<description>Middlesbrough moved to the Sky Bet Championship summit in emphatic fashion by thumping Bolton 5-1 at the Toughsheet Community Stadium.</description>
-<enclosure url="https://e1.365dm.com/26/10/1920x1080/skysports-will-lankshear-middlesbrough_7385015.jpg?20261023203902" type="image/jpeg"/>
-<media:content url="https://e1.365dm.com/26/10/1920x1080/skysports-will-lankshear-middlesbrough_7385015.jpg?20261023203902" medium="image"/>
-</item>
-<item>
 <title>Forest left frustrated as winless run goes on after draw at Ipswich</title>
 <link>https://www.bbc.co.uk/sport/football/videos/c9ly0dgy2r2eo?at_medium=RSS&amp;at_campaign=rss</link>
 <guid isPermaLink="false">f6397c18c969588e974dc84e29698a622734978ba110cf293ebfafd42492f7da</guid>
@@ -1076,6 +1077,15 @@
 <description>Nottingham Forest ended a run of three successive league defeats but endured another night of missed chances as they drew 1-1 at Ipswich Town in the Premier League, but the result does move the away side out of the relegation zone on goal difference.</description>
 <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2ad5/live/def54220-cf29-11f1-a701-fddedf244c16.jpg" type="image/jpeg"/>
 <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2ad5/live/def54220-cf29-11f1-a701-fddedf244c16.jpg" medium="image"/>
+</item>
+<item>
+<title>Fantasy Football Bold Predictions for Week 7 - Yahoo Sports</title>
+<link>https://news.google.com/rss/articles/CBMiogFBVV95cUxPX0kyQVJyeHM0VXk5RkVGS1lwc18tZHV1ZFR5SHZ3VFlvMTR4RGhSUlJEOTlybUVzU2t1MkJXUC1GUUk2Rmw0LTd0ZkFNcGo0TE1CRUs1REplSnJEYnNlMWJYeVFJakl2QktqdzFqWEFMeHhLQXVhMUxaRTJnV09zU25lbVR1Mk82NldmcUVMSkpPNEFEYkwwaTFFMVFOdGowRnc?oc=5</link>
+<guid isPermaLink="false">7c25139a0246305e0078fe9dccd61d9aa6f61996196bbc6a618035eb0b1fc4db</guid>
+<source>Google News Football</source>
+<category>sports</category>
+<pubDate>Fri, 23 Oct 2026 21:53:54 +0000</pubDate>
+<description>Fantasy Football Bold Predictions for Week 7 Yahoo Sports</description>
 </item>
 <item>
 <title>Fantasy football injury report: All eyes on Puka Nacua’s calf injury - The New York Times</title>
@@ -1120,6 +1130,15 @@
 <media:content url="https://e0.365dm.com/26/10/1920x1080/skysports-christian-wade-newcastle-red-bulls_7385109.jpg?20261023220520" medium="image"/>
 </item>
 <item>
+<title>Week 7 Fantasy Football Toolkit: Start/sit advice, rankings, sleepers, more - Yahoo Sports</title>
+<link>https://news.google.com/rss/articles/CBMixAFBVV95cUxPOTZlbV80RzlmNFVjQlpyemstd3B3MHc3X1ROeHNYSjR1ck1kb1FkNWd3d2RUN3h2TDFnaS1ORzZ2ekt1Y1dJLVB4b25FLWE2YkVvXzVwaV93cU5xYnhDYkZINDNHaTV4MEFTNkxrTTZnTmFoeFFEMVl2dXMyVENsa3BPRmprWjRJT1ZQUUZJVzJ0cWQ3ajZ1azlFU1hESHJud3BGZWtJVnBXcVFMV2lEUjhOZnVlOTdPZDdBbk5zWnNOZTZR?oc=5</link>
+<guid isPermaLink="false">c2289c11feb42a2f69578ad270ca72a0d1df9955e1b46ee65cc5317c80f4b8e6</guid>
+<source>Google News Football</source>
+<category>sports</category>
+<pubDate>Fri, 23 Oct 2026 21:14:05 +0000</pubDate>
+<description>Week 7 Fantasy Football Toolkit: Start/sit advice, rankings, sleepers, more Yahoo Sports</description>
+</item>
+<item>
 <title>College football picks: Predictions against the spread, odds, betting lines for top 25 games in Week 8 - CBS Sports</title>
 <link>https://news.google.com/rss/articles/CBMiyAFBVV95cUxQeWhWdUdOZFItdDlMYUl5dXNJUG1EaDNZRzVPMUVhXzVCbEMzVXg3NG1lazdVRGVYYU5tN2JiYk1pLThtWXFxeWQzWUdxYlprZmMxZUhyWTV4S2FNMjBUcmF1YVhQb2dxRjZoSW9vbTAwMVZkeWJrZk5qd2dOQVBQU1ZtQ1QzZVFxcU1zNGpjTFhxUGQ3QlEyLXN0bjdWN2gzSnlaTkhMR2x4aVp3NGFVVU1Jc2p5SlhQVEF0TlZobV9BdjhqRFRpTg?oc=5</link>
 <guid isPermaLink="false">d1faa3fe9ba5f56a3a59fd9efc5f790c15d5a0087b4842dd6078f36fb8bb65b3</guid>
@@ -1140,28 +1159,6 @@
 <media:content url="https://e0.365dm.com/26/10/1920x1080/skysports-elina-svitolina-gael-monfils_7385018.jpg?20261023204111" medium="image"/>
 </item>
 <item>
-<title>Leclerc tops first USA practice as upgraded Ferrari shows early promise</title>
-<link>https://www.skysports.com/f1/news/12040/13602755/united-states-gp-charles-leclerc-fastest-in-upgraded-ferrari-in-first-practice-in-austin-as-mercedes-rivals-introduce-updates</link>
-<guid isPermaLink="false">c4a312d2280f66fa189af1e51cc457411ed0c6af626f7bfe9586164516a10ef1</guid>
-<source>Sky Sports Football</source>
-<category>sports</category>
-<pubDate>Fri, 23 Oct 2026 19:30:00 +0000</pubDate>
-<description>Charles Leclerc showed early promise in an upgraded Ferrari car to pip Red Bull's in-form Max Verstappen to the fastest time of first practice at the United States Grand Prix.</description>
-<enclosure url="https://e1.365dm.com/26/10/1920x1080/skysports-charles-leclerc-ferrari_7384926.jpg?20261023193417" type="image/jpeg"/>
-<media:content url="https://e1.365dm.com/26/10/1920x1080/skysports-charles-leclerc-ferrari_7384926.jpg?20261023193417" medium="image"/>
-</item>
-<item>
-<title>Trump states Paris concerns - 'NFL could have postponed Steelers-Saints'</title>
-<link>https://www.skysports.com/nfl/news/12040/13602814/donald-trump-us-president-says-nfl-paris-game-on-sunday-could-have-been-postponed-amid-civil-unrest</link>
-<guid isPermaLink="false">ec238e834e56a0a2b40aed03a3db59004e0fe66cf750cb98960b043e6be07c24</guid>
-<source>Sky Sports Football</source>
-<category>sports</category>
-<pubDate>Fri, 23 Oct 2026 19:15:00 +0000</pubDate>
-<description>US President Donald Trump has said the NFL "could have probably postponed" Sunday's game in Paris between the Pittsburgh Steelers and New Orleans Saints due to street protests in the city.</description>
-<enclosure url="https://e0.365dm.com/26/10/1920x1080/skysports-donald-trump-usa_7384925.jpg?20261023193334" type="image/jpeg"/>
-<media:content url="https://e0.365dm.com/26/10/1920x1080/skysports-donald-trump-usa_7384925.jpg?20261023193334" medium="image"/>
-</item>
-<item>
 <title>Wisconsin Football: Best Case, Worst Case, and Most Likely Scenarios vs. No. 16 USC - Bucky's 5th Quarter</title>
 <link>https://news.google.com/rss/articles/CBMiggJBVV95cUxNVnB5Y2R5RnFwcDk5MUJrZWZ1TUVYNXlndFBtMHZ2RWdLdmhvb3JIMS13djRPNmh0bXhNaEl4dVJqZlFEbEh2ckdWT3VIbGp1YVBOVkFJNi1jWm5vbWQzUjdFWFp4SWl0c0FlZy1VbHktd2NXMGx6OGlmci1RWjVhQUpoOXR2ZDcwclpiRk8tTEI5cjRhUXp0VGZSOHNUZ3VGcEJrdFJXa3FpTERZVUhKek5pRlZLS05qZHBudkZkcmpiNURLLVF1OXFMRnFZVmlDQm8xV1dJbU9DaTduZjJydjdWWHJMdjFPb0NyWldnNkIySDRsWWxhczFZdkNGVElkWEE?oc=5</link>
 <guid isPermaLink="false">669aa9b9ff4aa2881a7463e7d1e2837e425458dbfd3e75ed786e816cc2324c30</guid>
@@ -1169,6 +1166,24 @@
 <category>sports</category>
 <pubDate>Fri, 23 Oct 2026 18:58:27 +0000</pubDate>
 <description>Wisconsin Football: Best Case, Worst Case, and Most Likely Scenarios vs. No. 16 USC Bucky's 5th Quarter</description>
+</item>
+<item>
+<title>Oregon State standout WR Jesse Legree re-signs with Beavers for '27 - ESPN</title>
+<link>https://news.google.com/rss/articles/CBMitgFBVV95cUxOd00xM3A0SHJkSm1JOXp6cDdsZmRKVnhzVVBMVmVnTjM1emtQOHNiQUZ6ajBFVWp1enhuR3d5LWNYRHM3VFFBNVN3VVFlT0hlMnh2WXp6Ulo5cjNyVk5HV1RlWVFjSV9DMVNoSzhQTTMzLWU4YWVtUGlfekxpTHNUMDVLTDFsb2t3akpaUG1aUWNzeDRXNmFCV1pGRDlNWmNzU0hrZXFjaks4Z2ppVDN1OERMOXNxUQ?oc=5</link>
+<guid isPermaLink="false">02706d4734a616dd89dcb69ddb4d0985e98f96289bbbfd2f8e7ef9130fe02699</guid>
+<source>Google News Football</source>
+<category>sports</category>
+<pubDate>Fri, 23 Oct 2026 18:35:00 +0000</pubDate>
+<description>Oregon State standout WR Jesse Legree re-signs with Beavers for '27 ESPN</description>
+</item>
+<item>
+<title>Fantasy Football Rankings: 5 most polarizing players for Week 7 - Yahoo Sports</title>
+<link>https://news.google.com/rss/articles/CBMiugFBVV95cUxQSHlnT1FTZFg0Z01MSWZJaXJfdkZqZWM1bWZrOXZGX1VxRkNHS3pzWjBNYVZjS3JpX1JoclpGc013eEh3UGo5dllBRkV1STVRa0tHR01TX1RpcGt2V2tOYXRyWVp0Zl9LSmpxUHcxRW5GSDdLLXdKQlItVVNWSTRCbkw3eEl6NTR2bDg4bVJVeGd3NF81bVNVSDg0WVVpUzJ1UHdnQy1uUUJ2cU9MZDdYTk5KTHlOZENPSXc?oc=5</link>
+<guid isPermaLink="false">f105cc3c63f356020e31d17b6c890b30782c59b0c764fc6cf1e3a0c9cd37b7a8</guid>
+<source>Google News Football</source>
+<category>sports</category>
+<pubDate>Fri, 23 Oct 2026 17:50:26 +0000</pubDate>
+<description>Fantasy Football Rankings: 5 most polarizing players for Week 7 Yahoo Sports</description>
 </item>
 <item>
 <title>United States GP: Mercedes believe 'step forward' made with upgrades</title>
@@ -1202,15 +1217,13 @@
 <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3b64/live/3ce164b0-cf00-11f1-accf-3309656ad0bb.jpg" medium="image"/>
 </item>
 <item>
-<title>Cordina: I've been offered Pacquiao fight on AJ-Fury card</title>
-<link>https://www.skysports.com/boxing/news/12040/13602753/joe-cordina-says-hes-been-offered-manny-pacquiao-fight-as-part-of-anthony-joshua-tyson-fury-bill-in-cardiff</link>
-<guid isPermaLink="false">94d71a9f7d4139fe0d54fb6d69de8d54f96cb8f5265cf29e54cfc44f3830aee9</guid>
-<source>Sky Sports Football</source>
+<title>College football schedule 2026: What to watch in Week 8, TV channels, streaming, Saturday kickoff times - CBS Sports</title>
+<link>https://news.google.com/rss/articles/CBMi3gFBVV95cUxPV2tKRzZCNTZ0WXdmUndpdXpSVEpOTGhfYU5YREFuZUhaQkFFSE9ra096QXd1TG84Sm5OT290Y1hkRU5YQVVDUTY2b2tWc3ZJdXZsVTVYNGFneG1DdVZYdENrSHRWci02ZUEwdUxNTGRhNHgzVmw3M2JGbFVVdVg4amNjdG9kYl8tZG9yQ2tBVGtqX3owdzVIQko0RnUyUUdyNzlXbVJZMENzREVuSmQxODNocXZlSjF2WTVVc2xRMXZqT0x6THJKTjZfVlEzYVJadFo4OXM5cmd5ajNqY1E?oc=5</link>
+<guid isPermaLink="false">fd6d8d7696669ac14d44c71ddadf2e7f19890a51d093383627bda25952f6bf56</guid>
+<source>Google News Football</source>
 <category>sports</category>
-<pubDate>Fri, 23 Oct 2026 16:45:00 +0000</pubDate>
-<description>Welsh boxer Joe Cordina has told Sky Sports that he has been offered a fight with Manny Pacquiao as part of the undercard for the blockbuster all-British heavyweight clash between Anthony Joshua and Tyson Fury on December.</description>
-<enclosure url="https://e2.365dm.com/26/10/1920x1080/skysports-joe-cordina-boxing_7381998.jpg?20261020175049" type="image/jpeg"/>
-<media:content url="https://e2.365dm.com/26/10/1920x1080/skysports-joe-cordina-boxing_7381998.jpg?20261020175049" medium="image"/>
+<pubDate>Fri, 23 Oct 2026 16:47:02 +0000</pubDate>
+<description>College football schedule 2026: What to watch in Week 8, TV channels, streaming, Saturday kickoff times CBS Sports</description>
 </item>
 <item>
 <title>Al Michaels’ Thursday Night Football mistake has NFL fans talking - Cleveland.com</title>
@@ -1240,6 +1253,15 @@
 <description>AFC Wimbledon assistant manager Terry Skiverton is scheduled to begin treatment in the coming weeks after being diagnosed with throat cancer.</description>
 <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cdbe/live/88d28250-cef6-11f1-accf-3309656ad0bb.jpg" type="image/jpeg"/>
 <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cdbe/live/88d28250-cef6-11f1-accf-3309656ad0bb.jpg" medium="image"/>
+</item>
+<item>
+<title>Another week, another embarrassing fan-player incident. College football appears to have a problem - Yahoo Sports</title>
+<link>https://news.google.com/rss/articles/CBMi8wFBVV95cUxQalgyNHdvOFFtVXdtX1NrZWhoSHAwTlZaZEFvMXZISzAwTkx3bXRTNm1zNVA3OVpaZ0hLRy1MdFcxeTlwb1ZBNjhkazZXeHdtQUtoZnFDUFhkNWtUMzB4d005M0prQUt6RUZLSWtOcG96M1FSYUFORlZhMEVPeXhjdTdZX2JqdmtRbVlfY2VpUk1ZSF9lV3VTM1NoSDdKbVNMdVd6X1Q1T1VadEFqUEdjcXp1MXZvSGdLNlIxQUFIa3VKM2dRVzlPdHZoNjVwWmUtYmVmQXVkQUxDVWlITUU1djFmcHRZXzhzY3ltOVNaZVlTdGc?oc=5</link>
+<guid isPermaLink="false">fa12a97b80644a71727a09089c7c1175adf364c9611d51b25b2fb9ab30819b0b</guid>
+<source>Google News Football</source>
+<category>sports</category>
+<pubDate>Fri, 23 Oct 2026 15:40:07 +0000</pubDate>
+<description>Another week, another embarrassing fan-player incident. College football appears to have a problem Yahoo Sports</description>
 </item>
 <item>
 <title>Premiership preview: Form strikers in focus and will Rangers respond?</title>
@@ -1284,15 +1306,6 @@
 <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8e74/live/35aca470-cee7-11f1-bdca-23c64447299f.jpg" medium="image"/>
 </item>
 <item>
-<title>College football team draws embarrassingly small crowd for what turns into Thursday night thriller | OutKick - Fox News</title>
-<link>https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTDh3ankwdHM1bGlXaExyR2hYVjRiNV9RWkh6aEFNbmladHFuSThjcEZqVFVFVGx6TVkzLUxQUE5NU3B0cEh1TTIwb3U3M2VZeDAxTXNoWHcyb3VFSlhWdG5DcWtBQ0ZSem92a3R4RFdieEVfQ2tiMFd2bDcwUmQ3c202UHFlLThVdXRVWGhtZEstWFlGc181OEJtZXYycVJMWVMtTFNZa0k4dFpPUGdHTXlqdVdnYmdy?oc=5</link>
-<guid isPermaLink="false">cbf092dbc801b320bfa6b901b13feb17c6adef1cc6b02c9286252054656e3a52</guid>
-<source>Google News Football</source>
-<category>sports</category>
-<pubDate>Fri, 23 Oct 2026 14:14:43 +0000</pubDate>
-<description>College football team draws embarrassingly small crowd for what turns into Thursday night thriller | OutKick Fox News</description>
-</item>
-<item>
 <title>Raskin happy at Rangers but unsure about January</title>
 <link>https://www.bbc.co.uk/sport/football/articles/c6n8dezr0345o?at_medium=RSS&amp;at_campaign=rss</link>
 <guid isPermaLink="false">150a6fc7e420ccea505771bba9c881a964fc5aaf52109a051f0385237ac22648</guid>
@@ -1324,15 +1337,6 @@
 <description>Michael Carrick speaks for five uninterrupted minutes at media briefing to outline what Manchester United means to him, then refuses to rule out dropping Bruno Fernandes.</description>
 <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/73a2/live/6c9e6ab0-cee5-11f1-b441-2b33b063138f.jpg" type="image/jpeg"/>
 <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/73a2/live/6c9e6ab0-cee5-11f1-b441-2b33b063138f.jpg" medium="image"/>
-</item>
-<item>
-<title>Miami's 2001 throwbacks lead best Week 8 uniforms in college football - ESPN</title>
-<link>https://news.google.com/rss/articles/CBMiqgFBVV95cUxNYlFrNVRWeGNJUkxTNmd0SWVqUVpHTDNqZDZCb2NmcFJKZkZPWGNtSlEtdGM5cEliNDBubTlmOEtiU2FEZmJWb3RsWWhCcTh2dnF5Y2lRMUllVHJxMnVzRUd0M09YcUVVcHBuUlpHcF9oUVVBcURmZ283X21RTUZTTzhWUDNJU0plLTN6UUt5OFRmZGJ1XzVIaGNmSlFWbWRHOWZYVWx1VHdIQQ?oc=5</link>
-<guid isPermaLink="false">8736b20ea220d031dffb7da29cecefd6d040315b137adb8630ee0bda10fd0c54</guid>
-<source>Google News Football</source>
-<category>sports</category>
-<pubDate>Fri, 23 Oct 2026 13:09:00 +0000</pubDate>
-<description>Miami's 2001 throwbacks lead best Week 8 uniforms in college football ESPN</description>
 </item>
 <item>
 <title>Penicuik v Clyde in Scottish Cup postponed</title>
@@ -1401,6 +1405,15 @@
 <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3fbc/live/9c83aa70-ced0-11f1-8507-45cb00a1c41c.jpg" medium="image"/>
 </item>
 <item>
+<title>What to know for Week 7: Start Stroud, one WR to trade for and one to trade away - ESPN</title>
+<link>https://news.google.com/rss/articles/CBMiowFBVV95cUxQTFlCSGJtYWFLZHRTTzBJMDZLdTdEcVNRVFluX1lxeGhYZ0Y5cE9vVGJGZFVDUDJ3VFp6RkNMTEM3LUo5eG9ka3U2bl9JOUpyUUxEc1pXZjd5WmJ1bEpla2VKZ1Q5eVlTX1Y2T3Z5Nm5EMVMyTWFXbEFKekVxVkE4OU01NjNpVXVoN0hOcWtuNi1Rb2hDcW9aZTI1UXZHLXJWUkpz?oc=5</link>
+<guid isPermaLink="false">54efe45b342e066016213703f542c70ad86a97d034e68e9b175ef5d069e7169d</guid>
+<source>Google News Football</source>
+<category>sports</category>
+<pubDate>Fri, 23 Oct 2026 10:40:00 +0000</pubDate>
+<description>What to know for Week 7: Start Stroud, one WR to trade for and one to trade away ESPN</description>
+</item>
+<item>
 <title>Ex-Arsenal director of football Edu to advise Northampton</title>
 <link>https://www.bbc.co.uk/sport/football/articles/cqrky7n63l6po?at_medium=RSS&amp;at_campaign=rss</link>
 <guid isPermaLink="false">f9972295967777d8efbd251f8eee1d9f2b062d611b285fcd82c42ef7c4e3ee67</guid>
@@ -1456,17 +1469,6 @@
 <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d571/live/bf51def0-ce08-11f1-a64c-550be9e3c66b.png" medium="image"/>
 </item>
 <item>
-<title>Infantino re-election hopes boosted by Asia support</title>
-<link>https://www.bbc.co.uk/sport/football/articles/c3x2wpyg18j7o?at_medium=RSS&amp;at_campaign=rss</link>
-<guid isPermaLink="false">d20f5a5400dfd8d95b877c38d546132d3032ec7e40f5a8680ec1757e46a392fb</guid>
-<source>BBC Football</source>
-<category>sports</category>
-<pubDate>Fri, 23 Oct 2026 06:48:46 +0000</pubDate>
-<description>Gianni Infantino's hopes of being re-elected Fifa president are enhanced by an endorsement from the Asian Football Confederation.</description>
-<enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8f8d/live/dd0325a0-cea6-11f1-bbfb-357cf921a5e9.jpg" type="image/jpeg"/>
-<media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8f8d/live/dd0325a0-cea6-11f1-bbfb-357cf921a5e9.jpg" medium="image"/>
-</item>
-<item>
 <title>Flat-track bullies Celtic continue descent into European irrelevance</title>
 <link>https://www.bbc.co.uk/sport/football/articles/crp3gde84j4zo?at_medium=RSS&amp;at_campaign=rss</link>
 <guid isPermaLink="false">e30dcd6c54c3ebec69204f603f6bb5346a036002101f4ee55fb21d5d833f168e</guid>
@@ -1500,6 +1502,15 @@
 <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6ebf/live/e0714a50-cea6-11f1-bbfb-357cf921a5e9.jpg" medium="image"/>
 </item>
 <item>
+<title>Bears hang on for win over Patriots on Thursday Night Football with Cairo Santos' clutch kick - Yahoo Sports</title>
+<link>https://news.google.com/rss/articles/CBMi6wFBVV95cUxObGRieG5nVmhvd1IxTUpoa0lYVmNMUk5nSmZoYkVxQktmRFd0WlVyRVZBQVY1c1Z5bm9qenFqdlJGcy1wcEpTTU1HR3lUNHh2Qi1rVHBLMGNJMzJtWC10UHd5UWFCY3FjWWh1NThySFNDT1Q5cmotZ1ExcW8tVTQ3dHhsSHBqYy1LU1FPdVMxZjE2OGx1WTcwSFgyMGcyalJUZlNGc3dkMEh1MFlaZ19sQnlGQ2I0Q0gycnhrTUR6ZHExS0piUndnaVpHMkpxcl9GeGh1XzVac2JfZlRXcFhJUUQ2SkN2NW9NRkdZ?oc=5</link>
+<guid isPermaLink="false">a6f607ec1faa169152768c82695bc3c9256f9b2c2eca211fc9846e13fc8dfb4e</guid>
+<source>Google News Football</source>
+<category>sports</category>
+<pubDate>Fri, 23 Oct 2026 03:38:00 +0000</pubDate>
+<description>Bears hang on for win over Patriots on Thursday Night Football with Cairo Santos' clutch kick Yahoo Sports</description>
+</item>
+<item>
 <title>Patriots-Bears on 'Thursday Night Football': What We Learned from Chicago's 30-24 win - NFL.com</title>
 <link>https://news.google.com/rss/articles/CBMipgFBVV95cUxORkJOQmdYUWhJQVNKckNvR05UdkNvWkR3MzhxNzFYdkJ6a1lDcHRLQzRPdlVhTXlIWGlhcVBud2JjdDFGd2JiSFdFcWFjYTNFY0ZNNjNWNlYzVVEyQlptcjVFTjN6X0JaNjFxcU54dDhjMzc2QkxyWldtRHFBQmRJTnlDR0lQODB2WGtaOF9kalFPQ2xhTms4eENMY21kOE1tVlhqMURR?oc=5</link>
 <guid isPermaLink="false">427f5bb919eb5d1c92d60e184d6ee8412251d220f926433b06fc62e2dab18a02</guid>
@@ -1507,17 +1518,6 @@
 <category>sports</category>
 <pubDate>Fri, 23 Oct 2026 00:23:00 +0000</pubDate>
 <description>Patriots-Bears on 'Thursday Night Football': What We Learned from Chicago's 30-24 win NFL.com</description>
-</item>
-<item>
-<title>O'Neill bemoans marginal moments but are Celtic just not good enough?</title>
-<link>https://www.bbc.co.uk/sport/football/articles/cqx287ekvvvpo?at_medium=RSS&amp;at_campaign=rss</link>
-<guid isPermaLink="false">2f7f830a29a8d2e3cd1c221d943fee67d73c87751775e26d2f52f59f13876d63</guid>
-<source>BBC Football</source>
-<category>sports</category>
-<pubDate>Thu, 22 Oct 2026 22:52:52 +0000</pubDate>
-<description>Martin O'Neill spoke of refereeing decisions and near misses after the Europa League defeat against Celta Vigo. But is the reality more concerning?</description>
-<enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/468f/live/8a28a310-ce5f-11f1-a166-e30097724580.jpg" type="image/jpeg"/>
-<media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/468f/live/8a28a310-ce5f-11f1-a166-e30097724580.jpg" medium="image"/>
 </item>
 <item>
 <title>Dream night for Bournemouth - win over Milan a sign of Premier League power</title>
@@ -1564,17 +1564,6 @@
 <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7a31/live/4e4346b0-ce0b-11f1-9a39-31b474234113.png" medium="image"/>
 </item>
 <item>
-<title>Breaking down Man Utd's tactics after Fernandes' criticism</title>
-<link>https://www.bbc.co.uk/sport/football/articles/cm3elpw7yd25o?at_medium=RSS&amp;at_campaign=rss</link>
-<guid isPermaLink="false">e62e044cce03ff7d14f2094f3e1cc95ea6c5f0ed8c032ccb559f012b7800ad22</guid>
-<source>BBC Football</source>
-<category>sports</category>
-<pubDate>Thu, 22 Oct 2026 12:44:08 +0000</pubDate>
-<description>Was Manchester United captain Bruno Fernandes correct in his analysis of his side's tactics in their 4-1 thrashing by Italian side Como?</description>
-<enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8273/live/7e814ea0-ce13-11f1-9f55-cdc56e9c248c.jpg" type="image/jpeg"/>
-<media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8273/live/7e814ea0-ce13-11f1-9f55-cdc56e9c248c.jpg" medium="image"/>
-</item>
-<item>
 <title>Manager ins and outs - 2026-27</title>
 <link>https://www.bbc.co.uk/sport/football/articles/cd94713djgyo?at_medium=RSS&amp;at_campaign=rss</link>
 <guid isPermaLink="false">3efb359a049e2725cfddda9e148de7f89b8005f30c2cadca70192d5cfecdfb34</guid>
@@ -1606,17 +1595,6 @@
 <description>Why Declan Rice backs his England team-mate Harry Kane to win the Ballon d'Or after Arsenal's draw with Bayern Munich in the Champions League.</description>
 <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e7e3/live/3ae218f0-cda5-11f1-b680-c76e6b70601a.jpg" type="image/jpeg"/>
 <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e7e3/live/3ae218f0-cda5-11f1-b680-c76e6b70601a.jpg" medium="image"/>
-</item>
-<item>
-<title>Ipswich on 'inevitable' path to WSL - Boswell</title>
-<link>https://www.bbc.co.uk/sport/football/articles/cqdjvr3mn0yno?at_medium=RSS&amp;at_campaign=rss</link>
-<guid isPermaLink="false">e960bd57be083fa461f34eeadcd3d5ac71a0a1e3cf67d36976a16c6278db8047</guid>
-<source>BBC Football</source>
-<category>sports</category>
-<pubDate>Wed, 21 Oct 2026 13:18:35 +0000</pubDate>
-<description>Ipswich Town Women are on an "inevitable" trajectory to promotion to the Women's Super League, believes club captain Maria Boswell.</description>
-<enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de83/live/c86f2240-cd45-11f1-8177-0f8bd59b54c4.jpg" type="image/jpeg"/>
-<media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de83/live/c86f2240-cd45-11f1-8177-0f8bd59b54c4.jpg" medium="image"/>
 </item>
 <item>
 <title>The keeper doing 'Premier League' things for EFL's last unbeaten side</title>
