@@ -4,6 +4,17 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>How to extend the battery life of your Apple AirTags</title>
+<link>https://www.engadget.com/2292921/how-to-extend-battery-life-apple-airtags</link>
+<guid isPermaLink="false">a04566332ce6f589ff68868d5ff00055dd48d6d9314f79321658188baec49056</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Sat, 24 Oct 2026 23:45:00 +0000</pubDate>
+<description>An AirTag's battery is easy to replace, but you don't want it to run low at a critical moment.</description>
+<enclosure url="https://www.engadget.com/img/gallery/how-to-extend-the-battery-life-of-your-apple-airtags/l-intro-1792593493.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/how-to-extend-the-battery-life-of-your-apple-airtags/l-intro-1792593493.jpg" medium="image"/>
+</item>
+<item>
 <title>Common mistakes you should avoid when setting up your home network</title>
 <link>https://www.engadget.com/2292817/common-mistakes-avoid-setting-up-home-network</link>
 <guid isPermaLink="false">54fc64bd2be54dd274c0920cf3b3b9ccd31fcc81970a91906865fbbc0f2e0db2</guid>
@@ -15,13 +26,22 @@
 <media:content url="https://www.engadget.com/img/gallery/common-mistakes-you-should-avoid-when-setting-up-your-home-network/l-intro-1792590096.jpg" medium="image"/>
 </item>
 <item>
-<title>Why South Korea’s stock market represents the purest AI trade - Yahoo Finance Singapore</title>
-<link>https://news.google.com/rss/articles/CBMigwFBVV95cUxOcHRvZ2NCVDBaU0s1bDd6R21uTF96SEJzNjlFbXEwRXlIeDFPRjlSRkl0VXE4Xzg4TFNtV1RNbFVOX21jT21TNWFidEVkaG9zR1pWQWJxY3NLS2JyVkNDb2ZLM1Q4Mk9MTnNtSkZzenNpakRicFR0VXRERmh0dEhwemx6MA?oc=5</link>
-<guid isPermaLink="false">b89e0c0f749882c7bf8b7fedb39a44ea8bd13da461c424e7d55154c461fe9644</guid>
-<source>Google News Artificial Intelligence</source>
+<title>Google has officially turned these Nest thermostats back into dumb thermostats</title>
+<link>https://www.makeuseof.com/google-nest-thermostats-unsupported</link>
+<guid isPermaLink="false">e833999ff07c73c711f92953d44fdf572cd48418507fde5d0ac45fea2b175782</guid>
+<source>Hacker News</source>
 <category>technology</category>
-<pubDate>Sat, 24 Oct 2026 23:25:32 +0000</pubDate>
-<description>Why South Korea’s stock market represents the purest AI trade Yahoo Finance Singapore</description>
+<pubDate>Sat, 24 Oct 2026 23:14:30 +0000</pubDate>
+<description>Comments</description>
+</item>
+<item>
+<title>America Has Lost 200k of Jobs in Media, Film and the Arts. How Much Is AI?</title>
+<link>https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class</link>
+<guid isPermaLink="false">1f6056f34e61a5ea93cebbd1931e48b4790b65c6d9008787f20fc73f646688c8</guid>
+<source>Hacker News</source>
+<category>technology</category>
+<pubDate>Sat, 24 Oct 2026 23:11:54 +0000</pubDate>
+<description>Comments</description>
 </item>
 <item>
 <title>Why your EV battery still loses charge while it's parked</title>
@@ -214,6 +234,15 @@
 <description>SpaceX's "Super Intelligence" Segment Just Made the Stock a Must-Own Yahoo Finance</description>
 </item>
 <item>
+<title>Artificial Intelligence for the Verification of Nasogastric Tube Position in Chest Radiographs: A Systematic Review - Cureus</title>
+<link>https://news.google.com/rss/articles/CBMi6AFBVV95cUxPdDgwdmJDZU81bDhySDlpNERRakZWN2tLNFd5cjdRbWxxc1lIcE40V2J1aTV0TXB0eFhmM19XNWNpalNYNExldk54UC03dHFhUDdzUWFNOXhPdm9HS1dkRzVxRXpKRi04WkZGanNta3JUOTNMbmhleEpYa2tSeS16LUQ1OExxaTN6bWpkSU5vM0gtSVdoWWw3amhDOExua0FOMXZFR2VDbF9uQWVkRXBNR0M0QjdyNzFkcUxkelpwQ0Q1cUhsc2ZQb0pMV2txN0lKaUNwNzAzWHQta3J4T2pVWXlGR3Blc0lk?oc=5</link>
+<guid isPermaLink="false">4ff25a47ad1525ea6dcaa3f6b7ac72e3ceea70183412233bbadb08794d43513c</guid>
+<source>Google News Artificial Intelligence</source>
+<category>technology</category>
+<pubDate>Sat, 24 Oct 2026 18:47:21 +0000</pubDate>
+<description>Artificial Intelligence for the Verification of Nasogastric Tube Position in Chest Radiographs: A Systematic Review Cureus</description>
+</item>
+<item>
 <title>Google is quietly linking your phone number to other Android accounts</title>
 <link>https://www.engadget.com/2292018/google-quietly-linking-phone-number-to-android-accounts</link>
 <guid isPermaLink="false">94e31f97065b3309a97349a52b34a1bc3dc01e03e26afe6a1b567c1437a22b31</guid>
@@ -256,15 +285,6 @@
 <media:content url="https://www.engadget.com/img/gallery/why-the-wires-in-your-ethernet-cables-are-twisted/l-intro-1790877005.jpg" medium="image"/>
 </item>
 <item>
-<title>Bbtree: Fastest Ordered Map</title>
-<link>https://bbtree.xiangpeng.systems/post</link>
-<guid isPermaLink="false">8a786d12386a0b8a4bc404c493be0cbe91ecf83dd656af11fa62c261bd0e4031</guid>
-<source>Hacker News</source>
-<category>technology</category>
-<pubDate>Sat, 24 Oct 2026 18:22:14 +0000</pubDate>
-<description>Comments</description>
-</item>
-<item>
 <title>Steam rolls out Personal Calendar feature that constantly updates recommended games</title>
 <link>https://www.engadget.com/2296237/steam-rolls-out-personal-calendar-feature-that-constantly-updates-recommended-games</link>
 <guid isPermaLink="false">72085d2e5a95917680ba8109719ad4e8a94918a56b7e31cce21b0cd104565fb9</guid>
@@ -285,15 +305,6 @@
 <description>Microsoft is reportedly planning to let subscribers build their own Game Pass bundle rather than pay for set tiers.</description>
 <enclosure url="https://www.engadget.com/img/gallery/xbox-game-pass-could-let-you-pick-which-features-you-pay-for/l-intro-1792860193.jpg" type="image/jpeg"/>
 <media:content url="https://www.engadget.com/img/gallery/xbox-game-pass-could-let-you-pick-which-features-you-pay-for/l-intro-1792860193.jpg" medium="image"/>
-</item>
-<item>
-<title>Artificial Intelligence for the Verification of Nasogastric Tube Position in Chest Radiographs: A Systematic Review - Cureus</title>
-<link>https://news.google.com/rss/articles/CBMi6AFBVV95cUxPdDgwdmJDZU81bDhySDlpNERRakZWN2tLNFd5cjdRbWxxc1lIcE40V2J1aTV0TXB0eFhmM19XNWNpalNYNExldk54UC03dHFhUDdzUWFNOXhPdm9HS1dkRzVxRXpKRi04WkZGanNta3JUOTNMbmhleEpYa2tSeS16LUQ1OExxaTN6bWpkSU5vM0gtSVdoWWw3amhDOExua0FOMXZFR2VDbF9uQWVkRXBNR0M0QjdyNzFkcUxkelpwQ0Q1cUhsc2ZQb0pMV2txN0lKaUNwNzAzWHQta3J4T2pVWXlGR3Blc0lk?oc=5</link>
-<guid isPermaLink="false">4ff25a47ad1525ea6dcaa3f6b7ac72e3ceea70183412233bbadb08794d43513c</guid>
-<source>Google News Artificial Intelligence</source>
-<category>technology</category>
-<pubDate>Sat, 24 Oct 2026 17:43:26 +0000</pubDate>
-<description>Artificial Intelligence for the Verification of Nasogastric Tube Position in Chest Radiographs: A Systematic Review Cureus</description>
 </item>
 <item>
 <title>OpenAI Built a Giant Fake Internet for Its Agents to Use and Abuse Safely - Gizmodo</title>
@@ -510,15 +521,6 @@
 <media:content url="https://www.engadget.com/img/gallery/heres-how-to-test-a-cr2032-battery-to-see-if-its-good/l-intro-1792489885.jpg" medium="image"/>
 </item>
 <item>
-<title>WA school AI policies are stuck in the 2010s, not prepping us for tomorrow | Op-Ed - The Seattle Times</title>
-<link>https://news.google.com/rss/articles/CBMimAFBVV95cUxPWGRWMURscHVpM1E5eHM5d0tpN21DTVJJRUlqUlFURy1xSEktbHNUNmZMRWNsT2NCWUdOelhzaW5rNmtiZnlLdkx0VG8yRTdFdVhUdWp4YXhyaEJaX2MwMzZ5d0h6ZU0yRXBhLUU1X2tfQzZtazl1YXhUNUxtS0lORks1MEhEaWxlZ2lrNm5jdW80LUV3Y29Uag?oc=5</link>
-<guid isPermaLink="false">852a4685d7ffc39f0ec90468156e829cdbda6ff1692620a6c3c39d5845dd8423</guid>
-<source>Google News Artificial Intelligence</source>
-<category>technology</category>
-<pubDate>Sat, 24 Oct 2026 15:00:00 +0000</pubDate>
-<description>WA school AI policies are stuck in the 2010s, not prepping us for tomorrow | Op-Ed The Seattle Times</description>
-</item>
-<item>
 <title>NOAA Moves Weather Data to Cloud as Agencies Scale AI - GovCIO Media &amp; Research</title>
 <link>https://news.google.com/rss/articles/CBMihAFBVV95cUxQaHQ4dktHRndBOWJUYm4xZXVGbHpsOWNPUWVtLXNWVzFUYjJ5MTlkTkJsSmNadGVqZUZhZ0cybUpKUHoybHVQNkJUS1V5LTRWMjJmY2tOcjZkQXA1Ty1VVG52aU5wMGVnN0ZtdHRxNmU1ZG5xc3gtMEhNTWxsUjVPczhSMGk?oc=5</link>
 <guid isPermaLink="false">b809ba3964f1cd3835e57d6a21d708f9dc9050e9eaf101b5e4dabd46eaeee85d</guid>
@@ -526,15 +528,6 @@
 <category>technology</category>
 <pubDate>Sat, 24 Oct 2026 14:55:29 +0000</pubDate>
 <description>NOAA Moves Weather Data to Cloud as Agencies Scale AI GovCIO Media &amp; Research</description>
-</item>
-<item>
-<title>AI in the middle market: High satisfaction, limited enterprise adoption - RSM US LLP</title>
-<link>https://news.google.com/rss/articles/CBMilAFBVV95cUxPZGRUa2hEa2NMdjFRVllHNkh3bXExbk9mNm56UWV6dGdaNkQ4SDRab3VKNU9FNnZQSThZM1F3VDVXUEl2Qmdqb0xFS2pLUVI2UWFwV0VHQkJLYTQzdWwyUXFZY3ptN2RCS2piaXAtb3lOZ1lWQ1lLZGo0UHZRTnhhMVJ1LTRMc0MxSXJsS3l5X3dQa0Rw?oc=5</link>
-<guid isPermaLink="false">c1383e3213a8e67f1628ee03502a04066e69d4b36671ddc4d588bf9fd2566096</guid>
-<source>Google News Artificial Intelligence</source>
-<category>technology</category>
-<pubDate>Sat, 24 Oct 2026 14:38:37 +0000</pubDate>
-<description>AI in the middle market: High satisfaction, limited enterprise adoption RSM US LLP</description>
 </item>
 <item>
 <title>Why your Ring camera is still useful without a subscription</title>
@@ -608,6 +601,15 @@
 <description>The AI data center boom has a ghost problem Business Insider</description>
 </item>
 <item>
+<title>Banks Preparing for Aftermath of Unprecedented Catastrophe Caused by AI - Futurism</title>
+<link>https://news.google.com/rss/articles/CBMijgFBVV95cUxNUjk2WmZDUGFsRTdKUW1sVThMQWszb29NeFNiMjZ1dC00ZGFxQXlLSjduUjVyUkQtVnJYUHNhbmZJZVAycDdsdnRKcXlCaDVJTzlBd21ITzJ1ZXJQemdxYnJ6WnpyZU1vLTlOa0JVU1F0Q2FEaVFlX1FlelVtX05KZVd1Y2d1RnJsRXIxTGl3?oc=5</link>
+<guid isPermaLink="false">75c413aa14a639243840c77ecb1181fd915bef349fd591cb589ce8608305d241</guid>
+<source>Google News Artificial Intelligence</source>
+<category>technology</category>
+<pubDate>Sat, 24 Oct 2026 13:55:00 +0000</pubDate>
+<description>Banks Preparing for Aftermath of Unprecedented Catastrophe Caused by AI Futurism</description>
+</item>
+<item>
 <title>How to get better iPhone battery life without closing any apps</title>
 <link>https://www.engadget.com/2290702/get-better-iphone-battery-life-without-closing-apps</link>
 <guid isPermaLink="false">a8d822ccfb4a103314b3bac68c6b3e0d1fa38255e069b0a0817ba158aedff85f</guid>
@@ -628,17 +630,6 @@
 <description>Anker's PowerIQ technology helps identify and charge your devices more efficiently.</description>
 <enclosure url="https://www.engadget.com/img/gallery/the-beneficial-purpose-of-iq-on-your-anker-chargers/l-intro-1792432015.jpg" type="image/jpeg"/>
 <media:content url="https://www.engadget.com/img/gallery/the-beneficial-purpose-of-iq-on-your-anker-chargers/l-intro-1792432015.jpg" medium="image"/>
-</item>
-<item>
-<title>Which services can you safely disable to improve PC gaming?</title>
-<link>https://www.engadget.com/2290638/which-windows-background-services-safely-disable-improve-pc-gaming</link>
-<guid isPermaLink="false">807710c89a971b08c0cf40d5ff8277d60e18b5049c69d5d40047e0fac3a8b261</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Sat, 24 Oct 2026 13:00:00 +0000</pubDate>
-<description>A lot of what Windows does out of the box isn't essential, and can waste your computer's power when you're trying to game.</description>
-<enclosure url="https://www.engadget.com/img/gallery/which-services-can-you-safely-disable-to-improve-pc-gaming/l-intro-1792431811.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/which-services-can-you-safely-disable-to-improve-pc-gaming/l-intro-1792431811.jpg" medium="image"/>
 </item>
 <item>
 <title>We Investigated Character.AI and Found a Horror Show. Now It’s Bankrupt. - Futurism</title>
@@ -988,15 +979,6 @@
 <description>Experts at CU are tracking how artificial intelligence will play major role in elections 9News</description>
 </item>
 <item>
-<title>How close can pure functional programming get to C?</title>
-<link>https://rtfeldman.com/fp-vs-c</link>
-<guid isPermaLink="false">332b8a0f3c708eb7e8baac3818f0978aefb408bda579f46f34ab3285bb0f8915</guid>
-<source>Hacker News</source>
-<category>technology</category>
-<pubDate>Sat, 24 Oct 2026 03:43:54 +0000</pubDate>
-<description>Comments</description>
-</item>
-<item>
 <title>Asheville drag queen says attack ad that falsely links her to Jamie Ager was made with AI - WLOS</title>
 <link>https://news.google.com/rss/articles/CBMijwJBVV95cUxNRWtlZmVuaUJZaW4wZFMwMXJnbmF2ZGczb1VkaFRrS3BWREo1dE4tMk1xTlZ2YTNWNDY2VXRkbzdlYTF3SE51SEpKWnNxTVpHYVRkVGs1WmwxckZxaXVaRHkxTTNXY1BKOTA5TTc5aXFNb0F6cERoS091dE54V3RsTl9ndVE0N2dxYlJPVTZNeWp2UXZESi1LOHdpc0hHUjU2YUNDbVJUal83MHNjZkEwc0Y0Q0hPWXZQdUdZV19SQ3pIY3UxRU54RzNlVXRWUUwyMVBYY29iVHlVX2tTb3gyQjdrVzZfQ3hacmQxS3RvNzJ5QmhXcU1NaUV6emJXZUZnbHdsUlhrR1E1c20yb1Zr?oc=5</link>
 <guid isPermaLink="false">5b3f6ace5c84541f62482cbd8e877d4364cba1047dc9e8a93b648c2d24cd6530</guid>
@@ -1196,15 +1178,6 @@
 <category>technology</category>
 <pubDate>Fri, 23 Oct 2026 19:06:23 +0000</pubDate>
 <description>Hosted by TechCrunch in partnership with Fidelity Private Shares, the full-day event goes beyond fundraising and AI to explore the realities of finding customers, building teams, sharpening a pitch, developing founder leadership, and scaling companies both inside and outside traditional startup hubs.</description>
-</item>
-<item>
-<title>Sam Altman: ‘I No Longer Think We’re Gonna Be Able to Just Patch All the Bugs’ - Gizmodo</title>
-<link>https://news.google.com/rss/articles/CBMiqAFBVV95cUxObkp5NEdMM3dXdnRJQjRFZEFmbW9KbkJFNUxRZ0dxaHJOV1dHS2VQNG9vTFcxeVYwNzFITXptRGszUkxDM1FtMUdLZ29CVkhqazZ4U0ZBWEdIWkJ5WkZEa1Yxa0pXM0g5dmRCbWNUSGZiZnRPdHNORC1tR18zQ1h6VXhVdU1UWDJwbUplZ0QtNXROU3ZodGEtcEIwZHlyZk5jaG1ucjNTNG8?oc=5</link>
-<guid isPermaLink="false">c9780eb1f9d0dc46d965cd0b571b89909d7a8336ac2a7b6f8913055470f83954</guid>
-<source>Google News Artificial Intelligence</source>
-<category>technology</category>
-<pubDate>Fri, 23 Oct 2026 18:40:48 +0000</pubDate>
-<description>Sam Altman: ‘I No Longer Think We’re Gonna Be Able to Just Patch All the Bugs’ Gizmodo</description>
 </item>
 <item>
 <title>State artificial intelligence laws create a complicated picture for psychologists - American Psychological Association (APA)</title>
@@ -2418,6 +2391,24 @@
 <description>Human–artificial intelligence collaboration for comanaging epilepsy in real time Nature</description>
 </item>
 <item>
+<title>New study suggests brain function reduced by LLM use - IAI TV</title>
+<link>https://news.google.com/rss/articles/CBMijwFBVV95cUxPdkI5VG11Rl8yU1R5S1YtNnJCenppTVRwVi1ZYUwtUHptQ1M4T2ctV1NYZThxNHI1SlB0Nng4MEQ5UG5vMGc3angwWFpMZ0N2ejhRbHc2aEo3NXVnc0xYLUhLZkdkZENHU19nTlhpbEZYb21sWGNtLVZOMGw2bDRzcTVJb1B2SGh0RVQ0ZG5CYw?oc=5</link>
+<guid isPermaLink="false">1158f3f5e3a38886e4aefab62364a5b877eaf8c1f0d81e7cb78f0192df303170</guid>
+<source>Google News Artificial Intelligence</source>
+<category>technology</category>
+<pubDate>Wed, 07 Oct 2026 07:00:00 +0000</pubDate>
+<description>New study suggests brain function reduced by LLM use IAI TV</description>
+</item>
+<item>
+<title>What is Super Intelligence? - NASA (.gov)</title>
+<link>https://news.google.com/rss/articles/CBMiXEFVX3lxTFBYV1RFejMzMzkxQmpESE1mOVVnRHJ1QUt6bi1WbFVISENxTkM4MTgxZEJfNGIwY09KNmF1ckh1ZEVuSjFXbWtUY0ZpMGEtSjZ1QWFrbDFnY0V3bEll?oc=5</link>
+<guid isPermaLink="false">be84a2cbb71a9af8cb931b2a838dc38c8f493dd4f3fa583603bcda6f8b17c0a6</guid>
+<source>Google News Artificial Intelligence</source>
+<category>technology</category>
+<pubDate>Tue, 06 Oct 2026 16:15:19 +0000</pubDate>
+<description>What is Super Intelligence? NASA (.gov)</description>
+</item>
+<item>
 <title>AI helps chemists consider more options when it comes to picking the best reactants for an experiment - Chemistry World</title>
 <link>https://news.google.com/rss/articles/CBMi6AFBVV95cUxQVERWNE5yOURXcGJ2aE0tcGt2WkVHS0ZHdGxIWVRBYzFGRnZ5TkdVSVpIZDNYdXdMR2ZWY1JDUWk5OXlINndyTUNmTzNTdXpDME40OEtJSzF1THlLS3lkTXhUNUVTWUVYUVQzTmFnQjN2TnpjV3M4ckw0bmhJczRrMlU4MzVad251UElJU2hjZ21hT0JWaDR6ZHpScFhTNm5hcWYyZVAtSUZGSTZKTmdJYkFuZjdqSWpPR3hwY2FmZmRGYW1hU1Y0UFU3em5PTHlMQ0ItS2JGQ3FVNE5WOGZPQ211dHBOcnhY?oc=5</link>
 <guid isPermaLink="false">9ad9481dbf268ed7f2c299221d428a1c30666ba2b6a5b6fd5d623dae1d477573</guid>
@@ -2452,5 +2443,14 @@
 <category>technology</category>
 <pubDate>Wed, 30 Sep 2026 07:00:00 +0000</pubDate>
 <description>AI makes its first meaningful breakthrough in theoretical physics Big Think</description>
+</item>
+<item>
+<title>Roles and Responsibilities Framework for Artificial Intelligence in Critical Infrastructure - Homeland Security (.gov)</title>
+<link>https://news.google.com/rss/articles/CBMitwFBVV95cUxPZVlyZHB2VldMejhmZ243ay1ibUJSa19Ucm13d2l1cFVjNkdhbnhTTEZTOUQyck5kcGZIZVlxaFZOMnBxTlR2bnp0WFAxRjluX0ZQSnk1bEpka3lKbTFoLVR0OXVVWERxbmo3aDZ6VFZ3OFJPUVpWMkVTQmNPakwzVzVnN3djcjZwWXp4eHFLWGlJZjVaeVlRcFNHNjZWa1RsVGdEcFVLeWdIMjZURzE2VXpIME1UelU?oc=5</link>
+<guid isPermaLink="false">aaf44ff702cfd3afae99c284d4774455bb171dd53c0338cf00808ba891b97165</guid>
+<source>Google News Artificial Intelligence</source>
+<category>technology</category>
+<pubDate>Tue, 29 Sep 2026 07:00:00 +0000</pubDate>
+<description>Roles and Responsibilities Framework for Artificial Intelligence in Critical Infrastructure Homeland Security (.gov)</description>
 </item>
 </channel></rss>
