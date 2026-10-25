@@ -4,6 +4,53 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>iFixit&amp;#8217;s look inside the iPhone Duo may explain those broken screens and hinges</title>
+<link>https://www.theverge.com/tech/1018233/ifixit-iphone-duo-teardown-repairability-hinge</link>
+<guid isPermaLink="false">28d9af70d6cc841d98a6a48b537ce837503951aff6a538450e925e75cc192d05</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Sun, 25 Oct 2026 21:40:27 +0000</pubDate>
+<description>As is tradition, iFixit has torn open the latest iPhone and laid its parts bare on a table. It found some interesting details about how Apple might be hiding the crease on the Duo's folding screen and gave it a 5/10 repairability score. That might not seem particularly high, but it's the best score the […]</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/iPhone-Duo-layout01.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/iPhone-Duo-layout01.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Grok releases the first seven minutes of its AI-generated ‘Odyssey’</title>
+<link>https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey</link>
+<guid isPermaLink="false">912d0050e8fe565d6512b3679ce1e61a885fe3e66ba9af20345a0a97eab362a1</guid>
+<source>TechCrunch</source>
+<category>technology</category>
+<pubDate>Sun, 25 Oct 2026 21:31:16 +0000</pubDate>
+<description>The footage looks okay, as long as you're not seeking artistry, inspiration, or human interest.</description>
+</item>
+<item>
+<title>Jay-Z tells fans to question online criticism of his performances amid rise of AI - TheGrio</title>
+<link>https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRG50MEtKMUIzRGVjWVdXanloOTV3ZENIdHFGUzRSZkxQMHNQVHl6WWQ4dFhYN3FCRWI1eFpHMHRZN25PTkdxcThia3BrdEhwekJ4ME1qazZvQXdqSWg5ck1jdGZTNEtDVFY5bVJPck9RX2RPbnZLUlp5ZlpscWNfM012TU5SdlA1?oc=5</link>
+<guid isPermaLink="false">0ec4dd0dc9f8943b885da86415b97a084ac70ba12893612996725b1c2eb4aab6</guid>
+<source>Google News Artificial Intelligence</source>
+<category>technology</category>
+<pubDate>Sun, 25 Oct 2026 21:19:41 +0000</pubDate>
+<description>Jay-Z tells fans to question online criticism of his performances amid rise of AI TheGrio</description>
+</item>
+<item>
+<title>OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?</title>
+<link>https://minimaxir.com/2026/10/cheap-llms</link>
+<guid isPermaLink="false">240888442444abd5f79d447ab21f8fbe74a9c32d321d84d1461d6d99bfa07a97</guid>
+<source>Hacker News</source>
+<category>technology</category>
+<pubDate>Sun, 25 Oct 2026 21:11:31 +0000</pubDate>
+<description>Comments</description>
+</item>
+<item>
+<title>Serbia's Vucic concedes election defeat in historic win for student movement</title>
+<link>https://www.reuters.com/world/europe/serbia-votes-students-seek-unseat-vucic-snap-election-2026-10-25</link>
+<guid isPermaLink="false">062549172a9c6fbcedc2b5326aa9d710a4e858ac48eb1880167d5f4a40f1b77e</guid>
+<source>Hacker News</source>
+<category>technology</category>
+<pubDate>Sun, 25 Oct 2026 21:08:28 +0000</pubDate>
+<description>Comments</description>
+</item>
+<item>
 <title>Scott Walker’s The Drift will get under your skin</title>
 <link>https://www.theverge.com/entertainment/1018300/scott-walker-the-drift-music-album-review</link>
 <guid isPermaLink="false">7f1ad14a2206536a7aca5b5ee3b451512d2d1002bd2ab82f2210e279a89ac27a</guid>
@@ -42,6 +89,15 @@
 <description>Virginia governor orders new cybersecurity plan to address artificial intelligence risks SC Media</description>
 </item>
 <item>
+<title>The State of Context Engineering</title>
+<link>https://www.dbreunig.com/2026/10/24/the-state-of-context-engineering.html</link>
+<guid isPermaLink="false">8e02db679d8855027096d7f5e10773a8a13be911880246e55036e87de69b4dec</guid>
+<source>Hacker News</source>
+<category>technology</category>
+<pubDate>Sun, 25 Oct 2026 20:32:31 +0000</pubDate>
+<description>Comments</description>
+</item>
+<item>
 <title>What goes into making an animated film?</title>
 <link>https://www.disneyanimation.com/process</link>
 <guid isPermaLink="false">859f7d7e497e5aead39bc1332e9637679b6eaade3a5abe5345b5553a94a77622</guid>
@@ -51,13 +107,22 @@
 <description>Comments</description>
 </item>
 <item>
-<title>‘Cyberselfish’ author takes aim at Silicon Valley libertarians as her book returns from the dead</title>
+<title>‘Cyberselfish’ author takes aim at techno-libertarianism as her book returns from the dead</title>
 <link>https://techcrunch.com/2026/10/25/cyberselfish-author-takes-aim-at-techno-libertarianism-as-her-book-returns-from-the-dead</link>
 <guid isPermaLink="false">01c663ba9353d101432971a4384c70b6b98a3f9f39e9f0fb4c8d82ec5148f4ac</guid>
 <source>TechCrunch</source>
 <category>technology</category>
 <pubDate>Sun, 25 Oct 2026 20:20:08 +0000</pubDate>
 <description>"That's a 12-year-old view of the world."</description>
+</item>
+<item>
+<title>Focused Company Operating Principles</title>
+<link>https://focused.io/operating-principles</link>
+<guid isPermaLink="false">777e473a504b8e9b701b9a62538277bac46ac13f10c868386645e3c54cd0419c</guid>
+<source>Hacker News</source>
+<category>technology</category>
+<pubDate>Sun, 25 Oct 2026 20:16:51 +0000</pubDate>
+<description>Comments</description>
 </item>
 <item>
 <title>A YouTuber dissected an iPhone Duo and thinks he found the cause of crackgate</title>
@@ -98,13 +163,13 @@
 <description>AI has a language gap. That could be a problem for some voters. Politico</description>
 </item>
 <item>
-<title>Nearly half of Canadians have either gone online or used artificial intelligence to self-diagnose: report - Yahoo News Canada</title>
-<link>https://news.google.com/rss/articles/CBMif0FVX3lxTFA4WTE5RE5fV3JMV2lSQ0o0b0ljYzBFZW03S3VsT09wczYweWpMSHh1cy0wZ1RmX0NwMThSSjI5b29GaHRmWVM3dkpCdG1oUEd1bW5XVnlMblZZdGZyZU1ZVWtfMWRlNjlyeTVXbXZQMGZadG9fZ0hROV9ialNoTjA?oc=5</link>
-<guid isPermaLink="false">43c3ad521da17bd944cc5d4bb10288d2cd1ff41e4935e4eed5ef8768e9b24c7b</guid>
+<title>Elvis Presley rights holder sues Anthropic, says Claude trained on unauthorized songs - Los Angeles Times</title>
+<link>https://news.google.com/rss/articles/CBMiwgFBVV95cUxOQ2xhUk9UN09Xa21neEc2TVN2RjVMREhVekVyVmVuQlZZYVhHa3RwSUpncFFFUWNBNzg5bU11YjdyZk1odFItM213Y2dwX3NtQzBvVWF1Y3JkTVVHRnF4a3ZyRVczU1RzLXZPNjNVRlZRcm0wNjR1cTgwNEN6bWItWWw5RXI2dm9DMHRVX0M2ZDNleER3MVNUblRnSm5aUUt6elh4WVI5Z0cwOGxEcDVtMDltRC1vZmpGamZwbGg3MzFKQQ?oc=5</link>
+<guid isPermaLink="false">878163498cb079367ffb61ae0014eca69d711bb93e00594010912f84602e2f09</guid>
 <source>Google News Artificial Intelligence</source>
 <category>technology</category>
-<pubDate>Sun, 25 Oct 2026 19:48:40 +0000</pubDate>
-<description>Nearly half of Canadians have either gone online or used artificial intelligence to self-diagnose: report Yahoo News Canada</description>
+<pubDate>Sun, 25 Oct 2026 19:42:08 +0000</pubDate>
+<description>Elvis Presley rights holder sues Anthropic, says Claude trained on unauthorized songs Los Angeles Times</description>
 </item>
 <item>
 <title>Eunice is almost here</title>
@@ -221,6 +286,15 @@
 <description>Comments</description>
 </item>
 <item>
+<title>Intel vs. SK Hynix: Revenue Trends to Help Investors Weigh Which Artificial Intelligence Stock to Buy - The Motley Fool</title>
+<link>https://news.google.com/rss/articles/CBMi4gFBVV95cUxPajBZNEdYSUc4Sm1LQ1Rtekljd0hOdDRIN2k3R2J1ejJPZVE5S2dWTTZWV0dDaHg3ZWFLMzhmUmRsNWdyX19qRmYyM09lbWVDVHdxVmg0S0h2LUp3WFlxN1BDS20wU3ByMjNpSzNiNnhzZEt4UC1SeXNoeFZZMmtldFhYdlhvMFltWkY5dTJjSHZSdmlubnNmWkU3S3NOaFY1OWM1S3p6XzlKdzZpdkh5ZnM2V1hCLWJYVUJCaEc2SDdHNDVlUEFfRlZkVGpSRDZZbFhUSlpEZlF4Wkd3bV9DTkp3?oc=5</link>
+<guid isPermaLink="false">e7b042d7fa0c4ee135944a9b8025cd7f09ed8174b473673de8130d49e81dd9cd</guid>
+<source>Google News Artificial Intelligence</source>
+<category>technology</category>
+<pubDate>Sun, 25 Oct 2026 18:05:00 +0000</pubDate>
+<description>Intel vs. SK Hynix: Revenue Trends to Help Investors Weigh Which Artificial Intelligence Stock to Buy The Motley Fool</description>
+</item>
+<item>
 <title>Oregon Police Are Charging a Local News Outlet $2.5M for Records About One Cop</title>
 <link>https://theintercept.com/2026/10/01/oregon-police-misconduct-public-records-cost-fee</link>
 <guid isPermaLink="false">a09be98aff5a2dbde594b6ead00f11226785cda28b4d69b85b844e4a5030e0e5</guid>
@@ -268,13 +342,13 @@
 <description>Comments</description>
 </item>
 <item>
-<title>Scientists rediscover how to make ancient Roman colour-changing glass</title>
-<link>https://www.theguardian.com/science/2026/oct/25/scientists-rediscover-ancient-roman-colour-changing-glass</link>
-<guid isPermaLink="false">3931d62b4da17dbeced1689a7612d45a5f75db8d430212570c24ddc1f6cce70a</guid>
-<source>Hacker News</source>
+<title>Intel vs. SK Hynix: Revenue Trends to Help Investors Weigh Which Artificial Intelligence Stock to Buy - The Globe and Mail</title>
+<link>https://news.google.com/rss/articles/CBMikgJBVV95cUxQaGNUbVVBU2RFcTEwM2JHWmhxRDZSd2lTakVXWV9ZajNsUEgxaWdSRmNZWE00MXFmTlhxR1ppUVBkQ2t6dTZCS3NNUkJVYnhSQTFHUFRnbHU3R0I1YmFXUmtWOFJvSTdManE0M3ZEQXpVcmlCU3pWNTNqNTlaNHVUZ0gwVlgzcjdYM043LVppalVqdzlOTFZNSnFIZmNlLUR2T09NNnEtQk1GZV90djdxMTFGZlZSWXJaNXhlOFBTOEVvelVpM0YzRFk3VFJYNHV4XzlmU3oyYnFpYkVUZkRKQ0d1eEFLOGNPbFl4SmVOaUNTaXRObEdmZkZjcjdjZlJaYXlONDZGekZoQmw5Uk5WUHp3?oc=5</link>
+<guid isPermaLink="false">c04c428814530daf462f1ed1bcc8a866fd09480dbfa7866245b58212abb2929a</guid>
+<source>Google News Artificial Intelligence</source>
 <category>technology</category>
-<pubDate>Sun, 25 Oct 2026 17:20:22 +0000</pubDate>
-<description>Comments</description>
+<pubDate>Sun, 25 Oct 2026 17:25:00 +0000</pubDate>
+<description>Intel vs. SK Hynix: Revenue Trends to Help Investors Weigh Which Artificial Intelligence Stock to Buy The Globe and Mail</description>
 </item>
 <item>
 <title>PHP2Shell Exploitation Hits Government Entity Amid Global Scanning and Signs of AI-Assisted Hacking - The Hacker News</title>
@@ -293,24 +367,6 @@
 <category>technology</category>
 <pubDate>Sun, 25 Oct 2026 17:15:38 +0000</pubDate>
 <description>Comments</description>
-</item>
-<item>
-<title>Sabre Wulf Remastered</title>
-<link>https://gp-64.com/swr</link>
-<guid isPermaLink="false">d03ffdd599af5cda7242a6b5c39d30f36832d529b52aad8034af946134c8bfa8</guid>
-<source>Hacker News</source>
-<category>technology</category>
-<pubDate>Sun, 25 Oct 2026 17:15:16 +0000</pubDate>
-<description>Comments</description>
-</item>
-<item>
-<title>Intel vs. SK Hynix: Revenue Trends to Help Investors Weigh Which Artificial Intelligence Stock to Buy - The Motley Fool</title>
-<link>https://news.google.com/rss/articles/CBMi4gFBVV95cUxPajBZNEdYSUc4Sm1LQ1Rtekljd0hOdDRIN2k3R2J1ejJPZVE5S2dWTTZWV0dDaHg3ZWFLMzhmUmRsNWdyX19qRmYyM09lbWVDVHdxVmg0S0h2LUp3WFlxN1BDS20wU3ByMjNpSzNiNnhzZEt4UC1SeXNoeFZZMmtldFhYdlhvMFltWkY5dTJjSHZSdmlubnNmWkU3S3NOaFY1OWM1S3p6XzlKdzZpdkh5ZnM2V1hCLWJYVUJCaEc2SDdHNDVlUEFfRlZkVGpSRDZZbFhUSlpEZlF4Wkd3bV9DTkp3?oc=5</link>
-<guid isPermaLink="false">e7b042d7fa0c4ee135944a9b8025cd7f09ed8174b473673de8130d49e81dd9cd</guid>
-<source>Google News Artificial Intelligence</source>
-<category>technology</category>
-<pubDate>Sun, 25 Oct 2026 17:10:55 +0000</pubDate>
-<description>Intel vs. SK Hynix: Revenue Trends to Help Investors Weigh Which Artificial Intelligence Stock to Buy The Motley Fool</description>
 </item>
 <item>
 <title>This Switch 2 sequel accessory was a few millimeters away from being good</title>
@@ -340,15 +396,6 @@
 <category>technology</category>
 <pubDate>Sun, 25 Oct 2026 16:57:32 +0000</pubDate>
 <description>AI delivers ‘zero financial payoff’ to most companies, Apollo economist says TechCrunch</description>
-</item>
-<item>
-<title>Stroke: how much does DNA really influence the risk? Artificial Intelligence will tell us - Il Sole 24 ORE</title>
-<link>https://news.google.com/rss/articles/CBMisgFBVV95cUxNOFk2TG4xZ3NaOGVaTkpvWXhkZ1VHUEpQRTZCekxpZXNsYld6NWZLVlJRdjY5Q09pZS01aDBxVUdjem9mVTZWREhaaHg3a3BTcjZPZWpNcjFaX2FFWTRDdjRvYzRUbDJaZkJTU1lkNmZCSmRQZGxMU1BGZk95c05obnJESVZiQTJXVmlobEdJUW9hbmFPTzdXVW9zTkowaU5TZGdxUzU0N1A5X3NvbVBlbFB3?oc=5</link>
-<guid isPermaLink="false">84f8b8b8c39fdc62421cac791d8f275ccaae782081c47473c6523d3927a48553</guid>
-<source>Google News Artificial Intelligence</source>
-<category>technology</category>
-<pubDate>Sun, 25 Oct 2026 16:54:45 +0000</pubDate>
-<description>Stroke: how much does DNA really influence the risk? Artificial Intelligence will tell us Il Sole 24 ORE</description>
 </item>
 <item>
 <title>What features do you lose if you use Apple AirPods with a Samsung Galaxy phone?</title>
@@ -440,6 +487,15 @@
 <description>Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.</description>
 </item>
 <item>
+<title>OpenAI resumes training AI, but without Internet - Taipei Times</title>
+<link>https://news.google.com/rss/articles/CBMidkFVX3lxTFBHNkd0UmcxeUJJZ1Ywb0paNTFJY3JacHpvZFcxbVVfTmkzWGRWUWpCSXhDSmpjaWp4UlZjN0dSQUl3T2drWjI2cTk0dHh1WXBRaGptTVozclQtdmEtMl9DWXhRSHN6bXFxXzlJZEVpX1dhck5XeHc?oc=5</link>
+<guid isPermaLink="false">443185f90c4a1d3c9d70798453dce59805720f6e8d01ce386e0eb7020f8b91d2</guid>
+<source>Google News Artificial Intelligence</source>
+<category>technology</category>
+<pubDate>Sun, 25 Oct 2026 16:00:00 +0000</pubDate>
+<description>OpenAI resumes training AI, but without Internet Taipei Times</description>
+</item>
+<item>
 <title>MODA working on better social media AI disclosure - Taipei Times</title>
 <link>https://news.google.com/rss/articles/CBMiekFVX3lxTFBYSDh3UnVNV0NWd3NqMUMwYUZoa1c2M3hWU1FMSmlrWFAydVF5RkNPTXFFZ2VMTjJaNnI2UGZNRjZVMlpVdjNqRC13Y0NDSDFuWEtfenFhV3RCbXVBNXlSZ3FjQXFjTjlSNlhvNWhvWnExWm5QOWN1Y1Jn?oc=5</link>
 <guid isPermaLink="false">40ada84aaf0692886746e107c49172caf494f8599587dcf6121067e536f7d992</guid>
@@ -478,6 +534,15 @@
 <media:content url="https://www.engadget.com/img/gallery/heres-how-much-playstation-plus-cost-in-2010-vs-2026/l-intro-1792603440.jpg" medium="image"/>
 </item>
 <item>
+<title>Artificial Intelligence-Supported Learning and Its Effect on Knowledge Acquisition and Practical Performance Among Nursing Students: A Systematic Review and Meta-Analysis - Cureus</title>
+<link>https://news.google.com/rss/articles/CBMisgJBVV95cUxPWGRxTmZ2akZrZXB6TjhyQWdLeHoyTUdnV2ZHSFdVVnkydHVEYS1Ndkk4TWxBN3FobElBX1dDTFc4alZmVjcyd1pVTVZ6RzhQVE1vel9iVmM2VENDNk12dzR1WEVWUVROdHNwLVJzRWN1ZEJFRlRHa0VLQ0pzS2I3enNDQmRKSFdNc3BaZUo2TXlDT0F6dmpSWmM0dUg4WHBmRDVyQ1VFQ28wd1lWY2JLZkhmdmZsQkhJeTVqRUFKMnNzTVZkeHpSVE1qalNxZHpJeDF4djJ2d25lbFJiZFVwRWsxb3NwRWRPbU9nTTBJbnlUdWM4QWtrVmZUZHZRbFVWTi1sTTVMQnJkbEhuSWNfZ1FaTjE5Z2p6MzBfY2xubHVmZ0QwMHZkemt2aVFqZWVuekE?oc=5</link>
+<guid isPermaLink="false">374ea109839b1eb0bc2923b90c3aecaaad7ee1fdea4c958959b15d4a57898941</guid>
+<source>Google News Artificial Intelligence</source>
+<category>technology</category>
+<pubDate>Sun, 25 Oct 2026 15:38:11 +0000</pubDate>
+<description>Artificial Intelligence-Supported Learning and Its Effect on Knowledge Acquisition and Practical Performance Among Nursing Students: A Systematic Review and Meta-Analysis Cureus</description>
+</item>
+<item>
 <title>Big Tech is cashing in on AI while the rest of corporate America sees no financial returns — report outlines how rising token costs threaten to squeeze corporate profit margins - Tom's Hardware</title>
 <link>https://news.google.com/rss/articles/CBMi3gJBVV95cUxPblhPVzNFZ0J5bkExRUg4WTBBWlFfRGNHVmpfR0NOWF9DR2tObW5ZeEg3cVhhMFcta2hZN1R4ZGFEbGEyQnNTUXdkUzNqRzNyaGlsZUE3ZTJta1ZRNU91UURHQmo3SW8zcE1hZnJwcWFIWXh3ZkdXWGJVZElfRllLUTZXYTR3d1pVS1FYblZvbzkxa1BQVEQyWEk5a28xVFVQUXNIamhRZlhQeHJGbjU3dlhkVjRWZUN5dF9QQ0xvTWxKOTRnX0ZvZUVJa1IwbTVWSVZhTmxrUjd3SG92UU45OTR0NmM2UjhTdks0STFyb2M3TUpWV2o3QzdZbFpNNzZDRk9lZVd4bHZZZFF0cmNfX05VSzVsbFdOZXM2RWxlVGczRURVeGNBLXlxZnExLTdkd3ZZTzJQeUtSQmRJYWJCaEpXU2R3M3RJRU5QLVFXbllvRWFUQ3FJREliYUc0QQ?oc=5</link>
 <guid isPermaLink="false">e8b96403a3a3f4433f6c83c89cf697682e280539b795df2ca206b4f5dbc79541</guid>
@@ -505,15 +570,6 @@
 <description>Ray-Ban Meta smart glasses have rightly been criticized for the many ways they can violate people's privacy.</description>
 <enclosure url="https://www.engadget.com/img/gallery/4-ray-ban-meta-privacy-settings-you-should-change-before-wearing-them/l-intro-1792599800.jpg" type="image/jpeg"/>
 <media:content url="https://www.engadget.com/img/gallery/4-ray-ban-meta-privacy-settings-you-should-change-before-wearing-them/l-intro-1792599800.jpg" medium="image"/>
-</item>
-<item>
-<title>Show HN: I put employees inside S&amp;P 500 market-cap bubbles</title>
-<link>https://bigwhalehunting.com/workforce</link>
-<guid isPermaLink="false">c2478135e0d014d02b209cdee85bf2ec97d264790ebe169fcad675b5187ac01c</guid>
-<source>Hacker News</source>
-<category>technology</category>
-<pubDate>Sun, 25 Oct 2026 15:05:39 +0000</pubDate>
-<description>Comments</description>
 </item>
 <item>
 <title>Get the ultimate security for your MacBook by changing these privacy settings</title>
@@ -667,15 +723,6 @@
 <description>Old speakers often get set aside alongside the device they were used with, but you may still be able to use them with your current tech.</description>
 <enclosure url="https://www.engadget.com/img/gallery/dont-throw-away-your-old-speakers-use-them-for-your-tv-instead/l-intro-1792506662.jpg" type="image/jpeg"/>
 <media:content url="https://www.engadget.com/img/gallery/dont-throw-away-your-old-speakers-use-them-for-your-tv-instead/l-intro-1792506662.jpg" medium="image"/>
-</item>
-<item>
-<title>Police using AI risks making discrimination worse, researchers warn - BBC</title>
-<link>https://news.google.com/rss/articles/CBMiW0FVX3lxTE9KM3Z1WDJnenRMMkJ6VloxYXNfR2lEbVVkUUlVdGpzWEx1Y2RnRGVGS2xxUHV6R19wd0x3a2tlVFE4RUhRVTBwcmw3TUlwNGtwSzg4T3JJRk0wS1E?oc=5</link>
-<guid isPermaLink="false">77a71a1a7c086b44c202c5cbf0e151b23b6ce5a0aed068405ec5481411656a32</guid>
-<source>Google News Artificial Intelligence</source>
-<category>technology</category>
-<pubDate>Sun, 25 Oct 2026 12:18:56 +0000</pubDate>
-<description>Police using AI risks making discrimination worse, researchers warn BBC</description>
 </item>
 <item>
 <title>Smart bulbs are easy to install, but this smart home upgrade is more inclusive</title>
@@ -1023,15 +1070,6 @@
 <description>The moment you realize the internet is "held together by glue and dreams."</description>
 </item>
 <item>
-<title>SpeedCrunch 1.1</title>
-<link>https://www.speedcrunch.org</link>
-<guid isPermaLink="false">8daaf5bcf499f9285bd8dd453ffab839c8fd00a1868147d11923d656b3f9a665</guid>
-<source>Hacker News</source>
-<category>technology</category>
-<pubDate>Sat, 24 Oct 2026 19:19:43 +0000</pubDate>
-<description>Comments</description>
-</item>
-<item>
 <title>The Goose Programming Language</title>
 <link>https://aardappel.github.io/goose</link>
 <guid isPermaLink="false">0d165f484c2636ca4e217c107bca5f7c51765fa4b2736ae5e155148a4eb9b617</guid>
@@ -1131,17 +1169,6 @@
 <category>technology</category>
 <pubDate>Sat, 24 Oct 2026 15:00:00 +0000</pubDate>
 <description>A new study found Grok's AI overwhelmingly recommends Republican candidates while OpenAI's GPT favors Democrats, with the two AI models disagreeing in more than 90% of nearly 500 election races.</description>
-</item>
-<item>
-<title>Fielded is obsessed with scammers and unhinged Japanese cyberpunk</title>
-<link>https://www.theverge.com/entertainment/1017460/fielded-some-kind-of-animal-interview</link>
-<guid isPermaLink="false">e802392f2f096dfec92dfd41a5bc380f9e84c81755be1bd2f765cb03be3949d6</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Sat, 24 Oct 2026 15:00:00 +0000</pubDate>
-<description>Lindsay Powell, who releases records under the name Fielded, has spent most of her career subverting expectations and genre conventions. According to their Bandcamp page, Fielded started as an experimental noise project before growing into something closer to R&amp;B. But from moment one, her take on the genre was restless, relentlessly playing with what R&amp;B […]</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/fielded_pressphoto_6-Fielded.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/fielded_pressphoto_6-Fielded.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
 <title>The Boox Palma 2 Pro finally got me to stop reading on my phone</title>
@@ -1277,17 +1304,6 @@
 <media:content url="https://media.wired.com/photos/6ada00b2fb70c7875ccb3ecc/master/pass/Watches%20Under%20400.jpg" medium="image"/>
 </item>
 <item>
-<title>Best Laptops (2026): My Top Recommendations After Testing Hundreds</title>
-<link>https://www.wired.com/story/best-laptops</link>
-<guid isPermaLink="false">00b2efe45a9000eaa6c380325355fd85b03ffe53246a1f3e5968a67952ccefc8</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Sat, 24 Oct 2026 10:00:00 +0000</pubDate>
-<description>I’ve tested laptops for more than a decade, and here’s my advice for finding the right laptop for you.</description>
-<enclosure url="https://media.wired.com/photos/6adb93924c15513ff5ac298b/master/pass/Update%20Best%20Laptops%20102026%20top%20art%20SOURCE%20Best%20Buy-Walmart.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/6adb93924c15513ff5ac298b/master/pass/Update%20Best%20Laptops%20102026%20top%20art%20SOURCE%20Best%20Buy-Walmart.jpg" medium="image"/>
-</item>
-<item>
 <title>The Qubitunes Soundstage Toy Is a Great Gift for Kids</title>
 <link>https://www.wired.com/story/qubitunes-starter-kit-october-2026</link>
 <guid isPermaLink="false">60cd5f40e384a8f9bcee55af82d76cc7702d926d16781209854afd4bc7bb99bf</guid>
@@ -1297,6 +1313,17 @@
 <description>This screen-free soundstage starter kit opens a world of audio fun for kids aged 3 years and up.</description>
 <enclosure url="https://media.wired.com/photos/6adb9462163ba15a9a5f5353/master/pass/Deals%20Post%20Qubitunes%20102026%20top%20art%20SOURCE%20Amazon.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/6adb9462163ba15a9a5f5353/master/pass/Deals%20Post%20Qubitunes%20102026%20top%20art%20SOURCE%20Amazon.jpg" medium="image"/>
+</item>
+<item>
+<title>Best Laptops (2026): My Top Recommendations After Testing Hundreds</title>
+<link>https://www.wired.com/story/best-laptops</link>
+<guid isPermaLink="false">00b2efe45a9000eaa6c380325355fd85b03ffe53246a1f3e5968a67952ccefc8</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Sat, 24 Oct 2026 10:00:00 +0000</pubDate>
+<description>I’ve tested laptops for more than a decade, and here’s my advice for finding the right laptop for you.</description>
+<enclosure url="https://media.wired.com/photos/6adb93924c15513ff5ac298b/master/pass/Update%20Best%20Laptops%20102026%20top%20art%20SOURCE%20Best%20Buy-Walmart.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6adb93924c15513ff5ac298b/master/pass/Update%20Best%20Laptops%20102026%20top%20art%20SOURCE%20Best%20Buy-Walmart.jpg" medium="image"/>
 </item>
 <item>
 <title>Ray-Ban Meta Audio Review: The Best Smart Glasses</title>
@@ -1500,15 +1527,6 @@
 <description>Space Force considering options: public-private, federal installation, state land.</description>
 <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/gallery-gallery_ng-2-ascent-2-1152x648.jpg" type="image/jpeg"/>
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/gallery-gallery_ng-2-ascent-2-1152x648.jpg" medium="image"/>
-</item>
-<item>
-<title>Carta and NewView partner, hoping to entice more startups to let employees sell shares early</title>
-<link>https://techcrunch.com/2026/10/23/carta-and-newview-partner-hoping-to-entice-more-startups-to-let-employees-sell-shares-early</link>
-<guid isPermaLink="false">1ef66d48b49773e151766ea179f4acae2b82ebe583ba764f2c38ee62c7300067</guid>
-<source>TechCrunch</source>
-<category>technology</category>
-<pubDate>Fri, 23 Oct 2026 19:25:13 +0000</pubDate>
-<description>A new program wants to encourage more startups to allow workers to cash out early by making it easier to transact tender offers.</description>
 </item>
 <item>
 <title>Spotify ramps up policy enforcement on family plans</title>
@@ -2202,15 +2220,6 @@
 <media:content url="https://media.wired.com/photos/6ada5ebcd90d47bccee2186e/master/pass/Science_HuggingFacesPowerfulNewDNAModelIsSmallEnou-ezgif.com-video-to-gif-converter%20(1).gif" medium="image"/>
 </item>
 <item>
-<title>Nvidia Has 80% of Its Portfolio Invested in 2 Artificial Intelligence (AI) Stocks - The Motley Fool</title>
-<link>https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZHpMSlN2SjNMczQ0MDVlQmhKWVV4dFoxcHQwS2tfakxSaHJLMUdPdFRQcmdSZFBtMURPSWVMeHMtVUh0V2MxdFlTN2Z0M3lvdk9CVTJzdHoyWUp4LTRna0o1Qi1RdDFmUkNSTjlsN3czc2hyTTRjUTZFX2tPUkxsYlFuNlhpRTJDNllr?oc=5</link>
-<guid isPermaLink="false">3ef732e1040a74f6d5e9e2212e1352708f86dc2011d4b4b5d38620aed1cd006e</guid>
-<source>Google News Artificial Intelligence</source>
-<category>technology</category>
-<pubDate>Thu, 22 Oct 2026 09:53:00 +0000</pubDate>
-<description>Nvidia Has 80% of Its Portfolio Invested in 2 Artificial Intelligence (AI) Stocks The Motley Fool</description>
-</item>
-<item>
 <title>Here’s How UMKC is Embracing Artificial Intelligence - University of Missouri-Kansas City</title>
 <link>https://news.google.com/rss/articles/CBMiowFBVV95cUxPdHJlWEdVZUV6NzFsWkw0T3RycmNidzVTNWpNU3VaeUhIXzc0RDhsYjBVQW9NblVsZVBVM1RIV1pOS0xTYk9QdWdDODVPNldqZ2MxVTg5M0xINlZ5bnFMVFp0ZW5tNzQ0d0c4ZWpoajFMSEw1ZFZ6TWlmeTdyaTdyNTFURWY3TDlhUS1mTms0UDdJaWc2cWx6RXY4SGpSbGFNbktj?oc=5</link>
 <guid isPermaLink="false">58d343dd0f0d0fde4f8966aaa2c937eb7bd0673f4e6ad85113903ed49cfff1d7</guid>
@@ -2380,15 +2389,6 @@
 <category>technology</category>
 <pubDate>Wed, 07 Oct 2026 07:00:00 +0000</pubDate>
 <description>New study suggests brain function reduced by LLM use IAI TV</description>
-</item>
-<item>
-<title>Can Artificial Intelligence Learn the Art of Surgery? - The New York Times</title>
-<link>https://news.google.com/rss/articles/CBMilgFBVV95cUxOZ0VmNlQ5UmFXQVB2b0pOYTZNV0RuaFZLVWZHR2dsTDV0OGZjUWVwV3ozTEhpWVE3M3d3ZDJTNmh5QUgtM2JTdldya0ZnUXZxekFPVzRYaVItMDM5dldDN0ZfQXlpYzQwbkFEeEZubHJ3WmhZeGVUQld1VVg2a0tBWUIzWHRzemJOSnM4WER5M1hwNlNSQVE?oc=5</link>
-<guid isPermaLink="false">74551404787090567f860f14e70eaaa8d36e92429ab0cb2467669e2c61976b88</guid>
-<source>Google News Artificial Intelligence</source>
-<category>technology</category>
-<pubDate>Wed, 07 Oct 2026 07:00:00 +0000</pubDate>
-<description>Can Artificial Intelligence Learn the Art of Surgery? The New York Times</description>
 </item>
 <item>
 <title>AI helps chemists consider more options when it comes to picking the best reactants for an experiment - Chemistry World</title>
