@@ -4,6 +4,15 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Pico CSS is no longer maintained</title>
+<link>https://github.com/picocss/pico/discussions/754</link>
+<guid isPermaLink="false">620df3f62834c5229b70e4ffb23b82136aef8037967f8ecfb4fd9ae58e6db65f</guid>
+<source>Hacker News</source>
+<category>technology</category>
+<pubDate>Fri, 30 Oct 2026 01:58:44 +0000</pubDate>
+<description>Comments</description>
+</item>
+<item>
 <title>From writing to millions: A writer completes 370 books in 20 months with the help of artificial intelligence - صوت الإمارات</title>
 <link>https://news.google.com/rss/articles/CBMi9wFBVV95cUxNamxHb2Q2SGtRdzFVcERXc3ZaS0hBdmN2MGF5Mnh2Y3VqRHJjNi1vVDRaemI1UGhYaVRhRmU3M0lCbG1mdnViZGZFV2Z5REp3dnM2UmdKTF9lSVJpc2V2QzJXaTB2NTVaaUFBZUJVTUNxWXdUUWpEdFNYTTA2VmRvWGlneWFhcnE1TlE2TlJmV2E1bTVtVmMzS3VEUnFsaVdrUzUxNDE5aU1EVVYyWjRMOGROdEtINjBOTG40Y2dTdWxqOXZoSEZqek82NEplTlFTdm9PV29lUC1tOGZxcVJ3eVFfSjRQTnNhcDAzakJsdVQ1RmtzMExr?oc=5</link>
 <guid isPermaLink="false">6f2a2aaa7f2c1adc84d9ac85ab4fa80d221980999c12fb3d2b54ee1013364c2c</guid>
@@ -22,13 +31,22 @@
 <description>David Durman, a University of Kentucky administrator, recently earned a religious exemption from using AI in the workplace.</description>
 </item>
 <item>
-<title>Artificial Intelligence Helps Businesses Identify and Prioritize Time-Sensitive Customer Inquiries - EIN News</title>
-<link>https://news.google.com/rss/articles/CBMi1wFBVV95cUxNUzdGWDM3ajdDbmFWV1ZONzktQzIxS2RXMEtxSlF3bWZTZlJfSkdRVzR0T3BjTzIyN040ejNJcXRSVVpBdzFpWFdOblQzSG00X0NWOERSR3VLZm0zcHl5UDBWSkwxOFJSRlA3WmJQa3lCSk93YWEzSm5rWFF1LW9tVEZNY2hORjJQNGtkRGNQbGpNSTdFa1R6T2pFWkhzMnU5Sm9UalJMOUlHM0FuOFM3d2lHQ05YQlh3RW11NDAwSERGV0pHMEtELUJTcVMtbUFUYzBEMUJGdw?oc=5</link>
-<guid isPermaLink="false">19d33222ab168d20a6b65f5db3b289490713fb88b891a6f1cbadaf8de3ec1ecd</guid>
+<title>Artificial Intelligence Helps Businesses Identify and Prioritize Time-Sensitive Customer Inquiries - EIN Presswire</title>
+<link>https://news.google.com/rss/articles/CBMi3gFBVV95cUxNSFd3OVI2ZXdfY0k2cl92azJCNTJsM29UcXV6dGFhMWdCekNucU1pdmkyZlNqQmZmMHE4bXEtU0xqcGI0cUZnTS1rSVNmbFI2Y0lFd1dpWjV2UVhVLWg1Wk5CRXVzUEpfR0lHRGdZcG03Zk9ELTVPQW80V3NZSUNQS0N3YmI4Q1J0UFlJc2tNdHNjdU1EeEhMcVV1RURyUmJnTHVNQ2RRX2lKSFRHcUxqUjVKRElHWldqMmpaa0E3Ukh3cXNzc3loT0t1cUx3RGtoTWpqT0s3ck9hZ2szNXc?oc=5</link>
+<guid isPermaLink="false">be02faf23cba9299da011c6b3cd56861c6c31139507dfc50a2d7cd7741cf4674</guid>
 <source>Google News Artificial Intelligence</source>
 <category>technology</category>
 <pubDate>Fri, 30 Oct 2026 00:44:00 +0000</pubDate>
-<description>Artificial Intelligence Helps Businesses Identify and Prioritize Time-Sensitive Customer Inquiries EIN News</description>
+<description>Artificial Intelligence Helps Businesses Identify and Prioritize Time-Sensitive Customer Inquiries EIN Presswire</description>
+</item>
+<item>
+<title>Herdr has released native app</title>
+<link>https://github.com/herdrdev/herdr-app</link>
+<guid isPermaLink="false">8dff2cf2a45820630b3e3cf6494d748bafb27742722042f8b72dc9a71c582564</guid>
+<source>Hacker News</source>
+<category>technology</category>
+<pubDate>Fri, 30 Oct 2026 00:42:41 +0000</pubDate>
+<description>Comments</description>
 </item>
 <item>
 <title>Cormac McCarthy's Library</title>
@@ -445,7 +463,7 @@
 <media:content url="https://media.wired.com/photos/6ae3aab21b78b1068035e643/master/pass/PRC%20Space%20Plane_Vantor.jpg" medium="image"/>
 </item>
 <item>
-<title>Fan-fiction site Archive of Our Own could be offline for up to 4 weeks</title>
+<title>Fan-fiction site Archive of Our Own (AO3) could be offline for up to 4 weeks after security incident</title>
 <link>https://techcrunch.com/2026/10/29/fan-fiction-site-archive-of-our-own-could-be-offline-for-up-to-4-weeks</link>
 <guid isPermaLink="false">80872e49b54e34ac7991dd2febad08a80c9392a02e9a4860b426ae9ab2f79108</guid>
 <source>TechCrunch</source>
@@ -492,6 +510,15 @@
 <category>technology</category>
 <pubDate>Thu, 29 Oct 2026 20:26:24 +0000</pubDate>
 <description>Dartmouth provost resigns following accusations he used artificial intelligence for writing CT Insider</description>
+</item>
+<item>
+<title>Dartmouth provost resigns following accusations he used artificial intelligence for writing - The Seattle Times</title>
+<link>https://news.google.com/rss/articles/CBMi2AFBVV95cUxQa1ZLeGZXWW1LRzMtb3FIMHN2dVRyVDUwSmtBeENWRkFFQ2tJdzI1VkplOGJ2UUk3aG1NcW96bDRVdkxwd1h1YTJXR2F5RjZQQUJzeVk0NGVHTTJackgwcExfNjdaWWZCaE4tdHFmQ0lsNERacEJFSDJPbkFJTVZvSHBISE5MakNRVS1jNnFfYXRmYXNJSE1oQldWTkNCWXZqNHlWZW1FVkZWZE04MlFHMEZ1dE5xN3c3Sl9NMGZVWFU3QkpxbGdyZzJSd3lqd1AyNjRid3FWSFc?oc=5</link>
+<guid isPermaLink="false">a40ad8c8b7e482ba598c093fe4af4240c239610ea319f12ea098531a7f9d270c</guid>
+<source>Google News Artificial Intelligence</source>
+<category>technology</category>
+<pubDate>Thu, 29 Oct 2026 20:19:08 +0000</pubDate>
+<description>Dartmouth provost resigns following accusations he used artificial intelligence for writing The Seattle Times</description>
 </item>
 <item>
 <title>Microsoft fixes a Windows 11 annoyance as PC revenue declines</title>
@@ -563,6 +590,15 @@
 <description>Inspector general rejected request from Democratic and Republican senators.</description>
 <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/starlink-ukraine-1152x648-1792605015.jpg" type="image/jpeg"/>
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/starlink-ukraine-1152x648-1792605015.jpg" medium="image"/>
+</item>
+<item>
+<title>AI hardware can be hacked so chatbots provide dangerous answers, research shows - Scripps News</title>
+<link>https://news.google.com/rss/articles/CBMi4AFBVV95cUxPY0FOZmUyakdrZ1lMdy0weGJjVzRvMG1aVjgxZnk0T2FZdDlzMncyZTVBUFUyaDlRYld0YmhjUzRXVm5GbFd5UExvMUpJYVRXd3UwOVlTZURDRmgtRE9QOXZsZk9YZ1hDbTRWaE52Rk5ILTB1VEJzam1qM19XRkp0ZEZ3OUNiTThJbjF5YzhkS1VFOWdGYmFOTXR3R2oyN09ObWdndThFaUVCbjhsM0FzSldPdEZ3UF9qRnFrWThmekJ2SWpmYTc3eDFHUUxranpqbDRValI5RmZ4d1hTM3lxQQ?oc=5</link>
+<guid isPermaLink="false">9490cf35eab461804b79532435824bbc191a6ad617049a0dd138d772a2b7ccef</guid>
+<source>Google News Artificial Intelligence</source>
+<category>technology</category>
+<pubDate>Thu, 29 Oct 2026 20:07:42 +0000</pubDate>
+<description>AI hardware can be hacked so chatbots provide dangerous answers, research shows Scripps News</description>
 </item>
 <item>
 <title>Reddit will force everyone to log in</title>
@@ -914,15 +950,6 @@
 <description>Uno reverse! After Wispr added meeting notes to its dictation app, Granola is adding dictation to its meeting notetaker. The voice AI wars are getting interesting.</description>
 </item>
 <item>
-<title>Show HN: Overtone – Transcribe, correct and cut captions for any screen shape</title>
-<link>https://github.com/lonthq/overtone-captions</link>
-<guid isPermaLink="false">56f0750699d50935fbb34d767572d14953927c647e78a14b165ab7cf280efafc</guid>
-<source>Hacker News</source>
-<category>technology</category>
-<pubDate>Thu, 29 Oct 2026 17:48:17 +0000</pubDate>
-<description>Comments</description>
-</item>
-<item>
 <title>Apple’s new laptop supports one of the coolest features for color pros</title>
 <link>https://www.theverge.com/1022347/apple-macbook-supports-new-cmf</link>
 <guid isPermaLink="false">3b28feea08f4b9fe7fc366a7e3012a62743dea1bf8b120767dfb719a32565f51</guid>
@@ -941,15 +968,6 @@
 <category>technology</category>
 <pubDate>Thu, 29 Oct 2026 17:45:44 +0000</pubDate>
 <description>Man Who Identifies as a ‘Humanist’ Gets Religious Exemption From Using AI at Work Gizmodo</description>
-</item>
-<item>
-<title>Alleged Chinese spy had 'close relationship' with Nvidia boss Jensen Huang</title>
-<link>https://nypost.com/2026/10/29/business/alleged-chinese-spy-had-close-relationship-with-nvidia-boss-jensen-huang-report</link>
-<guid isPermaLink="false">e0b45e4a3fafe6bfea48a711bdc2a84b4f206eba44d4e3a4c6376bef59aceb05</guid>
-<source>Hacker News</source>
-<category>technology</category>
-<pubDate>Thu, 29 Oct 2026 17:43:48 +0000</pubDate>
-<description>Comments</description>
 </item>
 <item>
 <title>Go Minimal—the Ridge Wallet is 20 Percent Off Right Now</title>
@@ -1122,15 +1140,6 @@
 <description>Comments</description>
 </item>
 <item>
-<title>Grace Blackwell needs a new scheduler: 27% more usable GPUs from the same racks</title>
-<link>https://skypilot.ai/blog/grace-blackwell-needs-a-new-scheduler</link>
-<guid isPermaLink="false">4890bdcdc5181b9ee648c0c0c55e271ea5e9a940bb85ecd7de01391173e628dd</guid>
-<source>Hacker News</source>
-<category>technology</category>
-<pubDate>Thu, 29 Oct 2026 15:45:05 +0000</pubDate>
-<description>Comments</description>
-</item>
-<item>
 <title>CDS to launch undergraduate degree in artificial intelligence, pending admin approval - The Daily Free Press</title>
 <link>https://news.google.com/rss/articles/CBMixwFBVV95cUxNTzJwbm5YV09sdWEyX1dpcFpuMHZLZGpjQ1JncW5hLTZNdVM1RTVRR0o3ekxoWEZDeEhwSjNZLV95LVA1V1g1V0UwWEszR1pRek1tdXBGTW43Ukd5bzRLNFNjRnhSaVhuSng2ZW1xSXVmZ0NjWjkwRVoxQURudHJCXzV6NjhOVXNIdFU4bGc4bUpsUnhMLU5vN2VaTEcxaEpManlsTGZRNmF1RXFHUE9IUzdXajU0YXZwTkVXUFFCQnVnWnBFVEpB?oc=5</link>
 <guid isPermaLink="false">c4ceef24585f6d5057218ffa1046bf4078d735938eb2571ff75380d6c446fa73</guid>
@@ -1156,15 +1165,6 @@
 <category>technology</category>
 <pubDate>Thu, 29 Oct 2026 15:34:11 +0000</pubDate>
 <description>Inside the AI Revolution: Together AI’s CEO on Where Artificial Intelligence Goes Next Cheddar</description>
-</item>
-<item>
-<title>Financial Literacy Month - Understanding your finances in the era of artificial intelligence and finfluencers - PR Newswire Canada</title>
-<link>https://news.google.com/rss/articles/CBMi8gFBVV95cUxQX21EVEoteGhBTkRZX1VvVWVzSjk3UWEyS2d2V28zTXZrTUFOSEtpMy1Yclk5SUxNUjdia1pZb3JCT1A0YXZUQVdqT3dvWUdkMlpSTzVETVBRWTFvYWpKS1dXaDJRODdqTG9SVGZUWkJHbG16RG1Na21neDJpZ3VvaG1PTXVBX2NOTF9IaGxBanN1M25MbHpJNVRMN2w3ZjRVWWVHN1QxYTJHMi1mUDZtdERpUm9JYy11QklrbG9GcmZtZ1RJbGVpdU43MXVFdkNYY1ZmdU9la3hOSFE3dzIxeEdaSmhmUEFrNWZtLWVkTFBYQQ?oc=5</link>
-<guid isPermaLink="false">5282f0bfde875f9295b28a80895b12071cda25b089da4a0133cd0f15f3c3795c</guid>
-<source>Google News Artificial Intelligence</source>
-<category>technology</category>
-<pubDate>Thu, 29 Oct 2026 15:31:00 +0000</pubDate>
-<description>Financial Literacy Month - Understanding your finances in the era of artificial intelligence and finfluencers PR Newswire Canada</description>
 </item>
 <item>
 <title>Zombie stats: Where the numbers AI quotes come from</title>
@@ -1232,6 +1232,15 @@
 <category>technology</category>
 <pubDate>Thu, 29 Oct 2026 14:57:55 +0000</pubDate>
 <description>Comments</description>
+</item>
+<item>
+<title>Suffolk Deepens Its Commitment to Artificial Intelligence, Innovation and Emerging Technologies With 100MAG Facility - Morningstar</title>
+<link>https://news.google.com/rss/articles/CBMiiAJBVV95cUxQaWNVdE9zbG5XVTN6bzEtT0pGc1VPcWRONEliWTJQLUlUeGJiWERSbjBINE1nelpvN1NvMjAxM2syUXJISU9id0U5RVFkVWNXUGtvOVR1MWl5TUUzTTNxT0ZEdzhnSnpSTG5LakRZOEJBSlNYWHVpemZZR1pGdVZvR040QVRmTDZrdEQ1WkhjS1l4cnN1dUF1RkFIR0JINHMtdjRsaXZ3c2JnWWNJM25zaVA5Qm9YNDd6LW15b1VMMmNwU0dBVW4tOFpyYWZfcE80MEt1NmhRSU9CSklDdGhLaTA3dmcwZUNnX1JMQVlIYVl5T2VSWnpzZWVKWFNiSVVwVllFb2g5RWY?oc=5</link>
+<guid isPermaLink="false">a3376fc37821a6d1145b21a2ec136d39cec0b47ca40939f72645a46adb63a38d</guid>
+<source>Google News Artificial Intelligence</source>
+<category>technology</category>
+<pubDate>Thu, 29 Oct 2026 14:50:00 +0000</pubDate>
+<description>Suffolk Deepens Its Commitment to Artificial Intelligence, Innovation and Emerging Technologies With 100MAG Facility Morningstar</description>
 </item>
 <item>
 <title>UNESCO Santiago commemorated the 25th anniversary of the Information - UNESCO</title>
@@ -1408,6 +1417,15 @@
 <media:content url="https://media.wired.com/photos/6ae246c98025c0ad4677ba62/master/pass/Update%20Best%20Kindle%20Accessories%20102026%20top%20art%20SOURCE%20Amazon-Bondi.jpg" medium="image"/>
 </item>
 <item>
+<title>You’ll Only Realize You Miss Those Cold Emails After AI Kills Them Off - Bloomberg</title>
+<link>https://news.google.com/rss/articles/CBMimAFBVV95cUxPQ096bk1NQVdjR2xlR1MzbnRPWXdMd0NLWllod3p5RW9RVHVvX3AxRzZiNzdGYXEwWDZSU2ExUFVxb0ZlMzM0WjZaeUtmcS1PSzFCQmZuTy05Y1hxVXdBMkphbnktUkhZb0NlbW93MTRRaDJFQVpEYXZuWTIzbEV1Yk9rWG9ocWVGUUJKY2NtMGRwaHBpaEEtMw?oc=5</link>
+<guid isPermaLink="false">a8e81eda27864ab40b77f4b7ce2ebe81c0d323670b4e60ac510e34fd0da4d52b</guid>
+<source>Google News Artificial Intelligence</source>
+<category>technology</category>
+<pubDate>Thu, 29 Oct 2026 11:00:17 +0000</pubDate>
+<description>You’ll Only Realize You Miss Those Cold Emails After AI Kills Them Off Bloomberg</description>
+</item>
+<item>
 <title>SpaceX no longer needs NASA, and that's a problem for America's space agency</title>
 <link>https://arstechnica.com/space/2026/10/spacex-no-longer-needs-nasa-and-thats-a-problem-for-americas-space-agency</link>
 <guid isPermaLink="false">79ed3fc0032bcaa4bf88524cbff31f631df70f537e5d816d1037ce6090069373</guid>
@@ -1499,6 +1517,15 @@
 <description>Tendam appoints former Orange executive Mónica Sala to lead its artificial intelligence strategy FashionNetwork - The World's Fashion Business News</description>
 </item>
 <item>
+<title>Elon Musk's One-Word Response to Sundar Pichai's Post On New AI Model - NDTV</title>
+<link>https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVXBFbE9GaXAwVktrbzlXY0ZfaUtjd1V4aEx1NjNaN29wWHduN2tsQk5UYXRZc01hLWhWVm5NNlpzZER0Zm5VTENQQU9FblBDSGJFSTZ3ZDNjd0J1TUtpSS1fNTNEYW0xMVhRaFdsMWhPbzFSb3JXdHdCaHFLU2JwYm0wYVpTeTBVWVU4aWYxM25aN1pqMEFJOU1MMXotV2hlY1REb210LUlDc3Bqem10NjMtVnpTOS010gHAAUFVX3lxTE9lLW0wN3hhdkhhb2wyQVhxb1hoVmJEWlVkZXpUMmh2ZjR3NG8yOGNKV1JyRmRvT1dPMUphTE9QakdCMmxMel9rTG0yQkNQVWFIUU04bktBQXBlV1ZoU1AwQWVwUGxPQThrWG5oY2JoVmtNZVZleGxFV0U5MkF6eTNvcnVIcjBhejlsd1R5MDBVbi1WTTRFemNwOHpXZENqNXZRbE1OcUhPbVljOHpnVzVLWnNlMFJ6LUp5RjJXTkc5dg?oc=5</link>
+<guid isPermaLink="false">ff33ea486f6b51078f6eb845fedb7a9019f4136915e90b8d5fe9ec8f2cb412c3</guid>
+<source>Google News Artificial Intelligence</source>
+<category>technology</category>
+<pubDate>Thu, 29 Oct 2026 10:19:14 +0000</pubDate>
+<description>Elon Musk's One-Word Response to Sundar Pichai's Post On New AI Model NDTV</description>
+</item>
+<item>
 <title>I Did Push-Ups With Snap’s Chunky AR Glasses</title>
 <link>https://www.wired.com/story/i-did-push-ups-with-snaps-chunky-ar-glasses</link>
 <guid isPermaLink="false">eaf59681171967dd5830c2adb44dba05066031df8387842a31bf4906b534213e</guid>
@@ -1510,17 +1537,6 @@
 <media:content url="https://media.wired.com/photos/6ae21f8d86313c19910c81e0/master/pass/Snap%20Specs%20SOURCE%20Boone%20Ashworth.jpg" medium="image"/>
 </item>
 <item>
-<title>Reencle Essential Review: Same Scraps, Lower Price</title>
-<link>https://www.wired.com/review/reencle-essential-electric-composter</link>
-<guid isPermaLink="false">50e7c6620ce69b892ea7090add776789bb3df6f00dcefb04b54a9ae8f5033f5d</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Thu, 29 Oct 2026 10:00:00 +0000</pubDate>
-<description>Reencle has made your favorite kitchen composter cheaper—with a few compromises.</description>
-<enclosure url="https://media.wired.com/photos/6ae254611851ee1df8759d45/master/pass/Review%20Reencle%20Essential%20Electric%20Composter%20102026%20top%20art%20SOURCE%20Amazon.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/6ae254611851ee1df8759d45/master/pass/Review%20Reencle%20Essential%20Electric%20Composter%20102026%20top%20art%20SOURCE%20Amazon.jpg" medium="image"/>
-</item>
-<item>
 <title>I Gave My Blood to the AI Death Clock</title>
 <link>https://www.wired.com/story/i-gave-an-ai-death-clock-my-blood</link>
 <guid isPermaLink="false">7bfdd9bb1af858e7dbfbda94ee6e6f17e6e7e6657b3fba2cde0047b0b2403ef6</guid>
@@ -1530,6 +1546,17 @@
 <description>Death Clock promises to predict when you’re going to die and help you extend your time on Earth. After a month, I felt like it was sucking the life out of me.</description>
 <enclosure url="https://media.wired.com/photos/6adbec3437abe86dfce58fe9/master/pass/WIRED-Ghost-Stories-Death-Clock.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/6adbec3437abe86dfce58fe9/master/pass/WIRED-Ghost-Stories-Death-Clock.jpg" medium="image"/>
+</item>
+<item>
+<title>Reencle Essential Review: Same Scraps, Lower Price</title>
+<link>https://www.wired.com/review/reencle-essential-electric-composter</link>
+<guid isPermaLink="false">50e7c6620ce69b892ea7090add776789bb3df6f00dcefb04b54a9ae8f5033f5d</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Thu, 29 Oct 2026 10:00:00 +0000</pubDate>
+<description>Reencle has made your favorite kitchen composter cheaper—with a few compromises.</description>
+<enclosure url="https://media.wired.com/photos/6ae254611851ee1df8759d45/master/pass/Review%20Reencle%20Essential%20Electric%20Composter%20102026%20top%20art%20SOURCE%20Amazon.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6ae254611851ee1df8759d45/master/pass/Review%20Reencle%20Essential%20Electric%20Composter%20102026%20top%20art%20SOURCE%20Amazon.jpg" medium="image"/>
 </item>
 <item>
 <title>AI Tried to Buy the Midterms — Then the Lobby Learned Everyone Hates AI - The Intercept</title>
@@ -1789,15 +1816,6 @@
 <description>Pakistan’s Artificial Intelligence Warfare The Diplomat – Asia-Pacific Current Affairs Magazine</description>
 </item>
 <item>
-<title>The Fed Holds Interest Rates in a 10–2 Vote. Here's What This Means for Artificial Intelligence (AI) Stocks. - The Motley Fool</title>
-<link>https://news.google.com/rss/articles/CBMi3gFBVV95cUxOUmVkYVY4SGUtTDNnQmtDTXVmZ3J6cl9XVS1BZEJxNlRPb2FxVjlSTVRXM2o1VHNHdU9vVy1qX3V1VDFzaW1aYmRhZGJUVVhHWFRqTzRpeVBza0VvVUpvMjNlNzdvNWdtWkZHd05fV2hBbVFmTTNjSzV4YURVMDl3UGp3d1lrR3JEdFVvTFhrdVRlTU9vU0I3anFXdG1FajdrVGkzZldjS2xOSENpanNSQWNKUWJPZmt4SHh6czRjTWNsWHZhcUg0SW1NeFJsUGRzaTNXQlRmQ0pHSVlpUGc?oc=5</link>
-<guid isPermaLink="false">15973077886af84b2bb0caf2366683f6b70abb58d1cc8a74466c13c306609f03</guid>
-<source>Google News Artificial Intelligence</source>
-<category>technology</category>
-<pubDate>Thu, 29 Oct 2026 02:16:00 +0000</pubDate>
-<description>The Fed Holds Interest Rates in a 10–2 Vote. Here's What This Means for Artificial Intelligence (AI) Stocks. The Motley Fool</description>
-</item>
-<item>
 <title>2 Warren Buffett Artificial Intelligence (AI) Stocks That Could Soar Even if the Stock Market Crashes in 2027 - Yahoo Finance</title>
 <link>https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSTlyUzdEd1pxNHJTdXpkZTZWVi1LMEVKT3RGd2VuUVNJdFFOaHI5cW1nWGU3eXVXX3VyanV1OERJdDRjdDdZNVd0Ykh0MG9vZTJDUjZQYVNNRGoxT3o0OGlSS3JfbUxSUnBsYlhqUUxwbU9yZ2FHZDVjc3VvTEJ3RXRXTzFuaU4tMkEwSGdXUlRiZDZFWWlNeTVWSFU4TUNpTnVHUEtTcHg?oc=5</link>
 <guid isPermaLink="false">c0e5a0d2664c847626ef903ca92ca28bef7be3389a88da59e9283242d8375c89</guid>
@@ -1909,6 +1927,15 @@
 <media:content url="https://media.wired.com/photos/6ae24abf56ee4dcb93f11815/master/pass/Untitled-5.gif" medium="image"/>
 </item>
 <item>
+<title>Artificial intelligence transforms the workforce, regulations - localnewslive.com</title>
+<link>https://news.google.com/rss/articles/CBMipwFBVV95cUxOdEt2V1RBcEQ5NFFLem94elpMME9tenBDN05RNXM2QnBIYTZKWktSalEtUEJYaDFxOUZoVXdIUlU1Mk80RWx0Nkw2VkNMeWlWeDdvUENzQzJiakRsRVlVcTl3b2FaNlpsZlZqeE1mU1c1Tm50c3VWNDgxVnkyc3F0TjlHWWJtX3FiLWEyejVSVXZMcFpaYWlxYkZEREZWMEZVVFlrSjhqOA?oc=5</link>
+<guid isPermaLink="false">844bbcee8e038cbb1748560d57293c2a5f5ccad75d05d14ca49ae06d0229a5c0</guid>
+<source>Google News Artificial Intelligence</source>
+<category>technology</category>
+<pubDate>Wed, 28 Oct 2026 20:11:00 +0000</pubDate>
+<description>Artificial intelligence transforms the workforce, regulations localnewslive.com</description>
+</item>
+<item>
 <title>Artificial intelligence transforms the workforce, regulations - KALB | News Channel 5</title>
 <link>https://news.google.com/rss/articles/CBMimwFBVV95cUxOX2RrTDhSRlFLNFBsaWNEY1dNZU01eU1tTmp2YV9rQ3MzWm5vT3VONVAtN2xTX0lkUWEwZGFaT0tNdUI4VWlEQU1TemVxd1YwanJVYzhLMnpFZVVTMnJLMlZTZl9lbGVmMkIza3VkU0RJNUI2TWQ3ZGxnUHg4OHIzekJWQ0M0Ql9BbzVfNnFoTG9XNm5yVkZMVTBLTQ?oc=5</link>
 <guid isPermaLink="false">4c069360f10c1b61bdf051909ad2de50dc11ade0cca898ae374f5d684a49d130</guid>
@@ -1918,13 +1945,13 @@
 <description>Artificial intelligence transforms the workforce, regulations KALB | News Channel 5</description>
 </item>
 <item>
-<title>Artificial intelligence transforms the workforce, regulations - Alaska's News Source</title>
-<link>https://news.google.com/rss/articles/CBMirAFBVV95cUxPVVRLT2Z6YzBDcjhvNGo4ajN4dEZMblkxTXQwMTJTUThKekE1M3lNVzhZWGFHQml2ZWtnbnAtT21WYi1jOElPNzhwWjFHVEc4R3VSaU8yQVBKY0o1eWd5QXVjY1I4eWd6S3dSVXdobjhONmFzZldrbGZ5dzU0ajZENGc2cXBmeG9DU19kUDF1d2FnTGVUVTVlOWZXTUxENWpsMmVLT2xlbGpfSzNV?oc=5</link>
-<guid isPermaLink="false">7af44cec190c2d2ca8cf0b8e8e24921ba57c625df4cf754fee697a502e65ba97</guid>
+<title>Artificial intelligence transforms the workforce, regulations - WTAP</title>
+<link>https://news.google.com/rss/articles/CBMimwFBVV95cUxNVjA2UWptcnlYTDBoTExoOF9kOHJ3a2ZCRDV6T1JfbEtobV84ZVU5T3JVZHdUUHdnckhFMlpIOVl5TWhaMnlueWtsU1E1elhFOFNta0Z2UVlrakN6M2RsNEhOUE5YT2d1cUw2c2RWTDQ0V0duSlFuRnlSUmY2c0oxdFFuMHJfNU1pQkZyTWZQR2U5aWJiaDZ1MjZMUQ?oc=5</link>
+<guid isPermaLink="false">2296ea35b6cf405bbf6b24ffab11b6434e70a40d34a5fe54975f43eb0f12d225</guid>
 <source>Google News Artificial Intelligence</source>
 <category>technology</category>
 <pubDate>Wed, 28 Oct 2026 20:11:00 +0000</pubDate>
-<description>Artificial intelligence transforms the workforce, regulations Alaska's News Source</description>
+<description>Artificial intelligence transforms the workforce, regulations WTAP</description>
 </item>
 <item>
 <title>Artificial intelligence transforms the workforce, regulations - KFYR-TV</title>
@@ -1945,13 +1972,13 @@
 <description>Artificial intelligence transforms the workforce, regulations WAGM</description>
 </item>
 <item>
-<title>Artificial intelligence transforms the workforce, regulations - Dakota News Now</title>
-<link>https://news.google.com/rss/articles/CBMipwFBVV95cUxQcFpjOG9BQU0yWUZKcGh4S2pJSXQwVlBVZDRfaTE1a3lyWGRJcmcyT05jQzNHdGpHRmlMZWZpeUVNQmwwdHFzem1ySFJCajFqdUJ0eUluVFdKWWJiemViVTlCZkg0LVgzTGhMVzNxa0lCQ29ra3RtT0s3WUstQ1lZc3pNcU43VkZRNFFIQ0IyUUlmV2JSdDZBOUl2UVRuZUlfQlJYRi1xVQ?oc=5</link>
-<guid isPermaLink="false">ed9b5c0f93cbd16cec823138b5466bab03292cd4e1b28927a3c7fe8a569975ab</guid>
+<title>Artificial intelligence transforms the workforce, regulations - WSAW</title>
+<link>https://news.google.com/rss/articles/CBMimwFBVV95cUxPX1NwbndROHdWN01DX0QzaVctb2ctNEs2WDVBS1VrUTFDSzF5MXlWVUpyeFFUMWdibXc3aHBmY05VMmtsdFJGSHBNcHVOT0J5SGtRbmRmdUpDdFMyNUtNUVRnOVRnZ2hZLWNsZ0tXTDBIVnBadExzYUNoNWxmSmlfSDhIQVh4TGFCUzJFUUU1TUZfQ1AwamtVY1lXaw?oc=5</link>
+<guid isPermaLink="false">e28bb05ca5a90ef1d19ee1cf4cdc287ac2ae00fd4bbf3e837e299d10a4d4996f</guid>
 <source>Google News Artificial Intelligence</source>
 <category>technology</category>
 <pubDate>Wed, 28 Oct 2026 20:11:00 +0000</pubDate>
-<description>Artificial intelligence transforms the workforce, regulations Dakota News Now</description>
+<description>Artificial intelligence transforms the workforce, regulations WSAW</description>
 </item>
 <item>
 <title>Massive Leak Exposes 41,000 Homeland Security Workers—Including Undercover ICE Agents</title>
@@ -2148,6 +2175,15 @@
 <description>The annual Portland Fermentation Festival took place last week in Oregon, at a time when sauerkraut, kimchi, and other funky foods are in the social and political spotlight.</description>
 <enclosure url="https://media.wired.com/photos/6ae0ed29f7e0fe592a7ec463/master/pass/102726-Pickles!.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/6ae0ed29f7e0fe592a7ec463/master/pass/102726-Pickles!.jpg" medium="image"/>
+</item>
+<item>
+<title>Study: Schoolwide phone bans show no significant impact on mental health</title>
+<link>https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2855858</link>
+<guid isPermaLink="false">d3b9e2fc90095c37cd2b453419ba19f2e286aa597c4d4f123238a75ba3a18055</guid>
+<source>Hacker News</source>
+<category>technology</category>
+<pubDate>Wed, 28 Oct 2026 10:49:06 +0000</pubDate>
+<description>Comments</description>
 </item>
 <item>
 <title>Pornhub Stars Want to Teach You How to Make Dinner</title>
@@ -2373,15 +2409,6 @@
 <description>Civil Beat’s Artificial Intelligence Policy Honolulu Civil Beat</description>
 </item>
 <item>
-<title>Here’s How UMKC is Embracing Artificial Intelligence - University of Missouri-Kansas City</title>
-<link>https://news.google.com/rss/articles/CBMiowFBVV95cUxPdHJlWEdVZUV6NzFsWkw0T3RycmNidzVTNWpNU3VaeUhIXzc0RDhsYjBVQW9NblVsZVBVM1RIV1pOS0xTYk9QdWdDODVPNldqZ2MxVTg5M0xINlZ5bnFMVFp0ZW5tNzQ0d0c4ZWpoajFMSEw1ZFZ6TWlmeTdyaTdyNTFURWY3TDlhUS1mTms0UDdJaWc2cWx6RXY4SGpSbGFNbktj?oc=5</link>
-<guid isPermaLink="false">58d343dd0f0d0fde4f8966aaa2c937eb7bd0673f4e6ad85113903ed49cfff1d7</guid>
-<source>Google News Artificial Intelligence</source>
-<category>technology</category>
-<pubDate>Thu, 22 Oct 2026 07:00:00 +0000</pubDate>
-<description>Here’s How UMKC is Embracing Artificial Intelligence University of Missouri-Kansas City</description>
-</item>
-<item>
 <title>The AI doom scenario you've never heard of may be the hardest to stop - CBS News</title>
 <link>https://news.google.com/rss/articles/CBMieEFVX3lxTE5mMmdEVkNzd21XbDlBaTE1YTdQNTU0NjBjYXgwTTFJMWhkQ21ISnhhX24wYkJjaTJnRDRfVHk1djY3T1kwbU5HWDNfS216cEhLRHBhWlFBTnhOUExsSklSUmd0SXYzVGVkTUtlRUp3OG5DRVdpeXcwQQ?oc=5</link>
 <guid isPermaLink="false">2fd8ba15c27631d6c88c35bbe410c9d169d5505f9b43a6337cc7e1587034631d</guid>
@@ -2389,24 +2416,6 @@
 <category>technology</category>
 <pubDate>Tue, 20 Oct 2026 07:00:00 +0000</pubDate>
 <description>The AI doom scenario you've never heard of may be the hardest to stop CBS News</description>
-</item>
-<item>
-<title>Giving AI a “crystal clear” view of the materials world - MIT News</title>
-<link>https://news.google.com/rss/articles/CBMihAFBVV95cUxOYmJPV2RZSlBnUXVGT3o3Tkpmc0E2aDJqa2JHUER4Q2ZXQlQ3U3E0ZG4zclZTOEJ1dUNqTHlwaVFkc243akhLd0RYZHFxWXh1VHU5R18yaDdGZ0dFWDFqZm9zWnVEaHFmdW1UUVRYNDA5X2NaTmM0TG0tal9vd1JxWER0MWQ?oc=5</link>
-<guid isPermaLink="false">34f22138ca0a8860cb14cfb7cf0951771624f0951dc31724ca5cdf667a9e8d3d</guid>
-<source>Google News Artificial Intelligence</source>
-<category>technology</category>
-<pubDate>Sun, 18 Oct 2026 07:00:00 +0000</pubDate>
-<description>Giving AI a “crystal clear” view of the materials world MIT News</description>
-</item>
-<item>
-<title>FSB finalises sound practices for the responsible adoption of artificial intelligence (AI) - Financial Stability Board</title>
-<link>https://news.google.com/rss/articles/CBMiuAFBVV95cUxNYlowZTZteDU0NjQ1YU9jVWhWVi1WS2gzUlFyN1c0T01CTTBNb0tkeUZfdWJEQ09NNnUtV1VyQ0NDcC1pZ0VnUWt6MnB4cWxhMVJZdDc5SGdrR2I3clFHVHJLa1U4cVlYTXg2djVIVnR5ZU5Mb2VGOGI0aFZocWVFeWJyNWpHVnNYaWN2UW1RQzdKYVBZa1lwSWpVN2RocnpjbkVqdlNuakVxMC1yeEJTVUpBS0JZWVBJ?oc=5</link>
-<guid isPermaLink="false">cff7ef1676d7e886395d08df6bb3e08bc4c43d3674af6bf6739253931b9ce0e3</guid>
-<source>Google News Artificial Intelligence</source>
-<category>technology</category>
-<pubDate>Thu, 15 Oct 2026 07:00:00 +0000</pubDate>
-<description>FSB finalises sound practices for the responsible adoption of artificial intelligence (AI) Financial Stability Board</description>
 </item>
 <item>
 <title>Artificial intelligence-enabled clinical phenotyping of human brown fat - Nature</title>
@@ -2434,15 +2443,6 @@
 <category>technology</category>
 <pubDate>Tue, 13 Oct 2026 07:00:00 +0000</pubDate>
 <description>What My Son Is Learning From Artificial Intelligence Greater Good: The Science of a Meaningful Life</description>
-</item>
-<item>
-<title>3 Questions: What is the best path forward for AI in academia? - MIT News</title>
-<link>https://news.google.com/rss/articles/CBMiggFBVV95cUxPY000RXFnYXJsVERueVByTEwwLUYtUGk2dThsWHpsaDl0ZTBONVlqT2NSeS00TmJUdXdUazVlUVFuR3JWWV9JQlVLM1NnLVBEQmsyczlZYjNBM00ySkFFY1d3OEVmU0txdlViRzdVc3F2WlQyNzJrMDlrV0U5dnFXX3Bn?oc=5</link>
-<guid isPermaLink="false">49c3e7028b43eb1834097445af8f13ac030b337be287de0062c442f48571db3f</guid>
-<source>Google News Artificial Intelligence</source>
-<category>technology</category>
-<pubDate>Thu, 08 Oct 2026 07:00:00 +0000</pubDate>
-<description>3 Questions: What is the best path forward for AI in academia? MIT News</description>
 </item>
 <item>
 <title>What is Super Intelligence? - NASA (.gov)</title>
