@@ -4,15 +4,110 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
-<title>Parents of woman who died of seizure after ChaGPT misguidance sue OpenAI</title>
+<title>Watch: Match of the Day</title>
+<link>https://www.bbc.co.uk/iplayer/live/bbcone?at_medium=RSS&amp;at_campaign=rss</link>
+<guid isPermaLink="false">e6a7bec3f02c4cd764e268a9f4dbe2b5b8b564c543a3ece30b74bf50deca268d</guid>
+<source>BBC News</source>
+<category>world</category>
+<pubDate>Sun, 01 Nov 2026 23:12:25 +0000</pubDate>
+<description>Highlights of Sunday’s only Premier League game as Liverpool take on champions Arsenal.</description>
+<enclosure url="https://ichef.bbci.co.uk/images/ic/240x135/p0pkhln5.jpg" type="image/jpeg"/>
+<media:content url="https://ichef.bbci.co.uk/images/ic/240x135/p0pkhln5.jpg" medium="image"/>
+</item>
+<item>
+<title>Antonelli becomes world champion as Verstappen wins in Mexico</title>
+<link>https://www.bbc.co.uk/sport/formula1/articles/cv62y1e6wly6o?at_medium=RSS&amp;at_campaign=rss</link>
+<guid isPermaLink="false">c4b88ae510f63c3d4acabae1f8f406966a9652cb3265fdc10cb3f481dffaa019</guid>
+<source>BBC News</source>
+<category>world</category>
+<pubDate>Sun, 01 Nov 2026 22:57:02 +0000</pubDate>
+<description>Kimi Antonelli becomes the youngest world champion in Formula 1 history as Max Verstappen wins the Mexico City Grand Prix.</description>
+<enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ca5e/live/10960270-d645-11f1-be49-c7d51bdcf05a.jpg" type="image/jpeg"/>
+<media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ca5e/live/10960270-d645-11f1-be49-c7d51bdcf05a.jpg" medium="image"/>
+</item>
+<item>
+<title>'We've got big problems' - Hamilton says Ferrari need 'serious talks'</title>
+<link>https://www.bbc.co.uk/sport/formula1/articles/cmwy7dl879gzo?at_medium=RSS&amp;at_campaign=rss</link>
+<guid isPermaLink="false">88c3147c38565b4d55291b23aa2e9cff210cf2ef8a38c9c3ccdb2b21ab223be4</guid>
+<source>BBC News</source>
+<category>world</category>
+<pubDate>Sun, 01 Nov 2026 22:54:52 +0000</pubDate>
+<description>Lewis Hamilton says Ferrari need "some serious talks behind closed doors" after fighting between their two drivers in Mexico.</description>
+<enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/acfa/live/c64d1030-d646-11f1-93e1-3b657b665bcf.jpg" type="image/jpeg"/>
+<media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/acfa/live/c64d1030-d646-11f1-93e1-3b657b665bcf.jpg" medium="image"/>
+</item>
+<item>
+<title>Tributes to 'inspirational' Olympian Ciara Mageean after death at 34</title>
+<link>https://www.bbc.co.uk/news/articles/cj3vqy1g3eygo?at_medium=RSS&amp;at_campaign=rss</link>
+<guid isPermaLink="false">066da0116e2f8f1de32adcb79116c274446921911317a16a3113c4a38a4e3667</guid>
+<source>BBC News</source>
+<category>world</category>
+<pubDate>Sun, 01 Nov 2026 22:44:47 +0000</pubDate>
+<description>The former European 1500m champion had bowel cancer and died just three weeks after marrying her partner.</description>
+<enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0552/live/19da7760-d633-11f1-9ca7-b72124134595.jpg" type="image/jpeg"/>
+<media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0552/live/19da7760-d633-11f1-9ca7-b72124134595.jpg" medium="image"/>
+</item>
+<item>
+<title>Ukraine air raid app apparently hacked as users receive false radiation threat, Air Force says</title>
+<link>https://www.bbc.co.uk/news/articles/c51kdy1ew7zvo?at_medium=RSS&amp;at_campaign=rss</link>
+<guid isPermaLink="false">105dd427b029f799d5c52ca6f0909cc6cb0ba0568ad61cad8a60594c6546d7f1</guid>
+<source>BBC News</source>
+<category>world</category>
+<pubDate>Sun, 01 Nov 2026 22:38:24 +0000</pubDate>
+<description>Authorities say there is no threat and have advised the public to stay calm and follow official channels for information.</description>
+<enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3608/live/1d2513e0-d646-11f1-b441-2b33b063138f.jpg" type="image/jpeg"/>
+<media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3608/live/1d2513e0-d646-11f1-b441-2b33b063138f.jpg" medium="image"/>
+</item>
+<item>
+<title>Parents of woman who died of seizure after ChatGPT misguidance sue OpenAI</title>
 <link>https://www.theguardian.com/us-news/2026/nov/01/chatgpt-woman-seizure-lawsuit-openai</link>
 <guid isPermaLink="false">be41816f66c3e52b2456b3676b7cd2ad1ad59a0fc3507e1b302c5cbc8ce2b31f</guid>
 <source>The Guardian World</source>
 <category>world</category>
-<pubDate>Sun, 01 Nov 2026 22:02:17 +0000</pubDate>
+<pubDate>Sun, 01 Nov 2026 22:37:36 +0000</pubDate>
 <description>Bowen Wan was on anti-seizure medication, and chatbot provided her with a tapering schedule to reduce dosage A woman’s death from an epileptic seizure after she received dangerous advice from a chatbot has prompted her parents to sue OpenAI earlier this week. The legal action is the latest lawsuit that in which plaintiffs allege that a bot provided counsel to a user that ultimately led to their death . Continue reading...</description>
 <enclosure url="https://i.guim.co.uk/img/media/5f29a23b4906eca2c892cf36972781c592c782ad/378_0_4649_3720/master/4649.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d29f49a82db3c227b60c6c1f1166b827" type="image/jpeg"/>
 <media:content url="https://i.guim.co.uk/img/media/5f29a23b4906eca2c892cf36972781c592c782ad/378_0_4649_3720/master/4649.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d29f49a82db3c227b60c6c1f1166b827" medium="image"/>
+</item>
+<item>
+<title>High-ranking US Democratic senator suffers stroke</title>
+<link>https://www.aljazeera.com/news/2026/11/1/high-ranking-us-democratic-senator-suffers-stroke?traffic_source=rss</link>
+<guid isPermaLink="false">23453b42118a0242f96da47727970da36c1463fe450f5cd4b04131a352af178c</guid>
+<source>Al Jazeera</source>
+<category>world</category>
+<pubDate>Sun, 01 Nov 2026 22:32:54 +0000</pubDate>
+<description>Senator Chris Murphy, a fierce Trump critic who is not up for re-election in the midterms, is 'alert' after a stroke.</description>
+</item>
+<item>
+<title>Ukraine air raid app apparently hacked as users receive false radiation threat, Air Force says - BBC</title>
+<link>https://news.google.com/rss/articles/CBMiW0FVX3lxTE1URnRWSXh1UnA2ckptNEdJd2VGVVU4N2FKYUxjanpWWVpsRDRUVWNpYXFtV3JFSWdlLUdwUVdWVXgzd09UTjRuQ2ljcnIySF9lWjhEbVFpSks1MHM?oc=5</link>
+<guid isPermaLink="false">ee97a952ca30c2837a601cfe44c89e21ec69bbcb4797689e731292cb71a25d6d</guid>
+<source>Google News World</source>
+<category>world</category>
+<pubDate>Sun, 01 Nov 2026 22:28:04 +0000</pubDate>
+<description>Ukraine air raid app apparently hacked as users receive false radiation threat, Air Force says BBC See more headlines &amp; perspectives on Google News</description>
+</item>
+<item>
+<title>UK was ‘vehement’ slavery reparations should not be on Commonwealth summit agenda</title>
+<link>https://www.theguardian.com/world/2026/nov/01/uk-was-vehement-slavery-reparations-should-not-be-on-commonwealth-summit-agenda</link>
+<guid isPermaLink="false">f8aa221527d8f25c7979a41ac8b76d1863dcee28f40f860950cfb84b97ba8d06</guid>
+<source>The Guardian World</source>
+<category>world</category>
+<pubDate>Sun, 01 Nov 2026 22:26:11 +0000</pubDate>
+<description>British prime minister has now agreed to structured dialogue on reparatory justice but issue remains off formal Chogm agenda British officials reportedly insisted that discussions of reparations for slavery should not be on the agenda of the Commonwealth leaders’ summit in Antigua and Barbuda – and even warned that Andy Burnham would not attend the meeting if the subject was formally included, according to a leading Caribbean political figure. Ralph Gonsalves, a former prime minister of St Vincent and the Grenadines and a senior figure in the reparatory justice movement Repair Campaign, welcomed Britain’s decision to enter structured dialogue on reparations, but said the UK had come “kicking and screaming” to the conversation. Continue reading...</description>
+<enclosure url="https://i.guim.co.uk/img/media/3aa8217e3ba513aa013ca78934624c405592db3a/825_27_4852_3884/master/4852.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=15987da48c5c1fcf175bb20b07717adc" type="image/jpeg"/>
+<media:content url="https://i.guim.co.uk/img/media/3aa8217e3ba513aa013ca78934624c405592db3a/825_27_4852_3884/master/4852.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=15987da48c5c1fcf175bb20b07717adc" medium="image"/>
+</item>
+<item>
+<title>Antonelli - the boy 'born in a garage' who became world champion</title>
+<link>https://www.bbc.co.uk/sport/formula1/articles/c0rdvxdwwwwo?at_medium=RSS&amp;at_campaign=rss</link>
+<guid isPermaLink="false">16dea733e54cd3f9915cf92217374d2b35ed3345d18c0bb2d093469b981f7c93</guid>
+<source>BBC News</source>
+<category>world</category>
+<pubDate>Sun, 01 Nov 2026 22:25:01 +0000</pubDate>
+<description>Kimi Antonelli was a natural driver at the age of three, according to his dad. Here's how he developed to become the F1 champion at the age of 20.</description>
+<enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2c15/live/b16a1f00-94a6-11f1-afe9-fb1a837ec5d9.jpg" type="image/jpeg"/>
+<media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2c15/live/b16a1f00-94a6-11f1-afe9-fb1a837ec5d9.jpg" medium="image"/>
 </item>
 <item>
 <title>Nine killed in 'horrific' Florida jet crash</title>
@@ -20,10 +115,19 @@
 <guid isPermaLink="false">e3b756138fe24336cdf137a35dec10c46b7dea3b6579d47d8fe0ccf687576db1</guid>
 <source>BBC News</source>
 <category>world</category>
-<pubDate>Sun, 01 Nov 2026 21:59:40 +0000</pubDate>
-<description>Transport Secretary Sean Duffy describes the crash, which happened nine miles from President Trump's Mar-a-Lago resort, as a "horrific tragedy"</description>
-<enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d55d/live/79dfd4d0-d63c-11f1-8675-51d7bbc7c8d5.jpg" type="image/jpeg"/>
-<media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d55d/live/79dfd4d0-d63c-11f1-8675-51d7bbc7c8d5.jpg" medium="image"/>
+<pubDate>Sun, 01 Nov 2026 22:19:19 +0000</pubDate>
+<description>Transport Secretary Sean Duffy described the crash, which happened nine miles from President Trump's Mar-a-Lago resort, as a "horrific tragedy".</description>
+<enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9fb5/live/43875670-d640-11f1-be6d-936c6c4b19c2.jpg" type="image/jpeg"/>
+<media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9fb5/live/43875670-d640-11f1-be6d-936c6c4b19c2.jpg" medium="image"/>
+</item>
+<item>
+<title>Kherson braces for return of war as localised Russia-Ukraine truce ends</title>
+<link>https://www.aljazeera.com/news/2026/11/1/ukraine-evacuates-civilians-in-kherson-region-as-localised-ceasefire-ends?traffic_source=rss</link>
+<guid isPermaLink="false">75b0ce0ef3ca08fe9ef2f73576ee9effcadcc84b6ac0d3aaf51d728e1fbefdde</guid>
+<source>Al Jazeera</source>
+<category>world</category>
+<pubDate>Sun, 01 Nov 2026 22:15:14 +0000</pubDate>
+<description>Moscow and Kyiv continue strikes elsewhere, but no reported violations in Kherson region during the six-day ceasefire.</description>
 </item>
 <item>
 <title>Russian strikes cut power to thousands in Ukraine as Kherson ceasefire ends</title>
@@ -66,6 +170,17 @@
 <description>Almost 5,000 people have been displaced as a result of Israel’s military siege on the city of Hebron in the West Bank.</description>
 </item>
 <item>
+<title>Nationals leader Matt Canavan to run for lower house seat in possible showdown with One Nation’s James Ashby</title>
+<link>https://www.theguardian.com/australia-news/2026/nov/02/nationals-leader-matt-canavan-one-nation-james-ashby-capricornia-election-ntwnfb</link>
+<guid isPermaLink="false">5dc7665166dcca373853b8a3f8548eeef162ac6fe1f877367ac408413d8ab5ed</guid>
+<source>The Guardian World</source>
+<category>world</category>
+<pubDate>Sun, 01 Nov 2026 21:25:18 +0000</pubDate>
+<description>Tilt comes after Michelle Landry announced she will not recontest her Queensland seat of Capricornia Get our daily political email , free app or daily news podcast The Nationals leader, Matt Canavan, will run in a lower house Queensland seat at the next federal election, in a move that may see him face off with Pauline Hanson’s chief of staff. The announcement follows the retirement of the Capricornia MP Michelle Landry, and could result in a contest against James Ashby in a major battle for regional seats. Continue reading...</description>
+<enclosure url="https://i.guim.co.uk/img/media/3468fb281bb71900d7f19ac825f84190e284cb06/0_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2dd4b3a5f80e63abcf5263351e91c002" type="image/jpeg"/>
+<media:content url="https://i.guim.co.uk/img/media/3468fb281bb71900d7f19ac825f84190e284cb06/0_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2dd4b3a5f80e63abcf5263351e91c002" medium="image"/>
+</item>
+<item>
 <title>King to address slavery in Antigua as PM says he is open to possible UK apology</title>
 <link>https://www.bbc.co.uk/news/articles/cq398y0zj9rpo?at_medium=RSS&amp;at_campaign=rss</link>
 <guid isPermaLink="false">1def0bee8a3dc0a51b4764efbbcb4a27f9bbcbbe02147f296b9fd5f9bddc6229</guid>
@@ -88,13 +203,13 @@
 <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6ea1/live/d9896430-d625-11f1-93e1-3b657b665bcf.jpg" medium="image"/>
 </item>
 <item>
-<title>Business jet carrying nine people crashes in Florida neighborhood</title>
+<title>All nine people aboard business jet that crashed in Florida have died</title>
 <link>https://www.theguardian.com/us-news/2026/nov/01/business-jet-crash-florida</link>
 <guid isPermaLink="false">c0c78270002cbe49b3d5b6d24919a6659c02a6a98bd28b5602dc9e8924e7935c</guid>
 <source>The Guardian World</source>
 <category>world</category>
 <pubDate>Sun, 01 Nov 2026 21:13:23 +0000</pubDate>
-<description>It is unclear if anyone on the ground was hurt and no details yet on whether anyone onboard survived A business jet carrying nine people crashed in a Florida neighborhood on Sunday, erupting in a massive fireball. The Learjet 60 crashed in a residential area in Florida’s Palm Beach county, federal officials said. Continue reading...</description>
+<description>Aircraft had departed Austin-Bergstrom international airport and was headed to the Bahamas when it crashed All nine people have died who were aboard a business jet that crashed in a Florida neighborhood on Sunday, Sean Duffy, the US transportation secretary, said. The aircraft erupted in a massive fireball that appeared to just miss homes before crashing near a busy roadway. Duffy posted on X on Sunday that the Learjet 60 crashed in Palm Beach county at 12.50pm and called it a “horrific tragedy”. The Federal Aviation Administration is sending a team to support the National Transportation Safety Board’s investigation into the cause, he said. Continue reading...</description>
 <enclosure url="https://i.guim.co.uk/img/media/6b98eb6ba8db5d985571296e8bcfa0fd6065e89d/250_0_2500_2000/master/2500.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=7feadce8816993de0f8c0d7715fb5274" type="image/jpeg"/>
 <media:content url="https://i.guim.co.uk/img/media/6b98eb6ba8db5d985571296e8bcfa0fd6065e89d/250_0_2500_2000/master/2500.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=7feadce8816993de0f8c0d7715fb5274" medium="image"/>
 </item>
@@ -163,7 +278,7 @@
 <source>Google News World</source>
 <category>world</category>
 <pubDate>Sun, 01 Nov 2026 20:40:00 +0000</pubDate>
-<description>Iran’s top diplomat hopes US shows ‘rationality,’ and other Mideast news AP News Iran war live: US response awaited on new proposal to reopen Hormuz: Tehran Al Jazeera Iran, Qatari mediators hold third day of talks to end US-Iran war Reuters Qataris hold marathon talks in Tehran in bid for U.S.-Iran deal before midterms Axios US-Iran talks progress, but nuclear disputes remain The Jerusalem Post</description>
+<description>Iran’s top diplomat hopes US shows ‘rationality,’ and other Mideast news AP News Iran war live: US response awaited on new proposal to reopen Hormuz: Tehran Al Jazeera Gulf leaders meet in Qatar in effort to stave off new escalation in U.S and Iran war NPR Iran, Qatari mediators hold third day of talks to end US-Iran war Reuters US-Iran talks progress, but nuclear disputes remain The Jerusalem Post</description>
 </item>
 <item>
 <title>UN’s peacekeeping mission in disputed Western Sahara ends after 35 years</title>
@@ -197,17 +312,6 @@
 <description>Russia is nearing completion of what experts think is a giant radar complex in Kaliningrad, capable of monitoring much of Europe. Experts warn the project could intensify the military standoff between Moscow and NATO.</description>
 </item>
 <item>
-<title>Tributes to 'inspirational' Olympian Ciara Mageean after death at 34</title>
-<link>https://www.bbc.co.uk/news/articles/cj3vqy1g3eygo?at_medium=RSS&amp;at_campaign=rss</link>
-<guid isPermaLink="false">066da0116e2f8f1de32adcb79116c274446921911317a16a3113c4a38a4e3667</guid>
-<source>BBC News</source>
-<category>world</category>
-<pubDate>Sun, 01 Nov 2026 20:33:11 +0000</pubDate>
-<description>The former European 1500m champion had bowel cancer and died just three weeks after marrying her partner.</description>
-<enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0552/live/19da7760-d633-11f1-9ca7-b72124134595.jpg" type="image/jpeg"/>
-<media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0552/live/19da7760-d633-11f1-9ca7-b72124134595.jpg" medium="image"/>
-</item>
-<item>
 <title>Democrat Haley Stevens endorses Abdul El-Sayed’s Republican rival Mike Rogers</title>
 <link>https://www.theguardian.com/us-news/2026/nov/01/abdul-el-sayed-haley-stevens-michigan-senate</link>
 <guid isPermaLink="false">3c055ae03fcdc13ba59b922b48f85716b7b07e9ca5730488b719a08d2975d08c</guid>
@@ -219,13 +323,13 @@
 <media:content url="https://i.guim.co.uk/img/media/b74ef59dc193fbb01caa37d843c2625eeb29b433/111_0_2177_1741/master/2177.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=cbf9e604b50c2516b75ee1714194ef1f" medium="image"/>
 </item>
 <item>
-<title>Trump Goon Chickens Out of Crucial TV Interview Days Before Election - The Daily Beast</title>
+<title>Trump Goon Cancels Crucial TV Interview Days Before Election - The Daily Beast</title>
 <link>https://news.google.com/rss/articles/CBMikgFBVV95cUxOdnMxeWlLQUJmaTdGTXBSclQ4RFNJNXFYaTNIUUtMRERMT2xiRDVDNUVod29VUHVaM29oNUhFOS0tQXdMdzNvdjhoUjVUdnRIZ2pqWkd3VmxLSkdlMzZ5YVBuWHc5NXNmWXcxZDZLUGwxT3RkRlctOHBTYjRZNUlRTlBnM05pdlVxUlZmeUNfYWJvQQ?oc=5</link>
 <guid isPermaLink="false">59cd5f9f92242ea76fe4c35bc701a24e19108981b00d7d288c6e202d8b8703fb</guid>
 <source>Google News World</source>
 <category>world</category>
 <pubDate>Sun, 01 Nov 2026 20:31:18 +0000</pubDate>
-<description>Trump Goon Chickens Out of Crucial TV Interview Days Before Election The Daily Beast</description>
+<description>Trump Goon Cancels Crucial TV Interview Days Before Election The Daily Beast</description>
 </item>
 <item>
 <title>Police clash with housing crisis protesters in Portugal</title>
@@ -257,17 +361,6 @@
 <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fbd8/live/473d6620-d62b-11f1-b085-b9e65bc8bfff.jpg" medium="image"/>
 </item>
 <item>
-<title>Boy, 14, hands himself in to police over Bradley Lowery video</title>
-<link>https://www.bbc.co.uk/sport/football/articles/c6z7x52w0r0zo?at_medium=RSS&amp;at_campaign=rss</link>
-<guid isPermaLink="false">b99067a4c39049cc6f1c4332065a53be26239cc193303f2de6a4e4ef2bf266bd</guid>
-<source>BBC News</source>
-<category>world</category>
-<pubDate>Sun, 01 Nov 2026 20:15:52 +0000</pubDate>
-<description>A 14-year-old has handed himself into West Midlands Police after Coventry City said they were investigating a video appearing to show a fan taunting Sunderland supporters with a picture of Bradley Lowery.</description>
-<enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9407/live/2d7783d0-d624-11f1-8c22-ab38856653ce.jpg" type="image/jpeg"/>
-<media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9407/live/2d7783d0-d624-11f1-8c22-ab38856653ce.jpg" medium="image"/>
-</item>
-<item>
 <title>Judge dismisses Trump attempt to block Alaska Senate race results if Republican loses</title>
 <link>https://www.theguardian.com/us-news/2026/nov/01/alaska-senate-race-republican-dan-sullivan</link>
 <guid isPermaLink="false">a148f1e82896a9d50811e34f9e0e1eaea4b887b9d7f6100528d9763ce360462f</guid>
@@ -290,24 +383,13 @@
 <media:content url="https://i.guim.co.uk/img/media/5af2175986fa47f1b85895400bafbb5cd19c208c/217_0_7920_6336/master/7920.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=01c67ba829cb52b823fe1740118585e8" medium="image"/>
 </item>
 <item>
-<title>Arsenal move clear at the top with a rare win at Liverpool</title>
-<link>https://www.bbc.co.uk/sport/football/videos/cmly09yv9xl6o?at_medium=RSS&amp;at_campaign=rss</link>
-<guid isPermaLink="false">ba11de03dff85db6c61cef1ecc8f5480fc2e6f212f16179c433f6cc2d24a6f09</guid>
-<source>BBC News</source>
-<category>world</category>
-<pubDate>Sun, 01 Nov 2026 20:00:18 +0000</pubDate>
-<description>Arsenal win at Anfield for the first time since 2012 to earn a three-point lead at the top of the Premier League table following an end-to-end match that leaves Liverpool frustrated to have taken nothing.</description>
-<enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/035d/live/adb0c650-d62a-11f1-a701-fddedf244c16.jpg" type="image/jpeg"/>
-<media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/035d/live/adb0c650-d62a-11f1-a701-fddedf244c16.jpg" medium="image"/>
-</item>
-<item>
 <title>King to address slavery in Antigua as PM says he is open to possible UK apology - BBC</title>
 <link>https://news.google.com/rss/articles/CBMiW0FVX3lxTE1fdHdybEcyVUp1Mkhoa2FDdndrNDNhXzhRNU9DaXdaalBfbVljanZQREMyYkNEY2E2SmEyNGlhQVJKS2tlT21FZjRHXzQ2RU9rMkNGeXgxVm1IYkE?oc=5</link>
 <guid isPermaLink="false">f4a61f389c832a8cbe84eb844e5e14e5cae547d546e9379bbe7aacb432a0d7af</guid>
 <source>Google News World</source>
 <category>world</category>
 <pubDate>Sun, 01 Nov 2026 19:58:20 +0000</pubDate>
-<description>King to address slavery in Antigua as PM says he is open to possible UK apology BBC British people can’t be made to pay for the wrongs of slavery – but we must confront our complicated history The Guardian U.K. PM Andy Burnham open to apologizing for slave trade but rules out financial reparations NBC News King Charles must gently rebuff the slave reparations claimants The Times Burnham tries to avoid a slavery reparations ‘disaster’ POLITICO.eu</description>
+<description>King to address slavery in Antigua as PM says he is open to possible UK apology BBC British people can’t be made to pay for the wrongs of slavery – but we must confront our complicated history The Guardian U.K. PM Andy Burnham open to apologizing for slave trade but rules out financial reparations NBC News King Charles must gently rebuff the slave reparations claimants The Times Burnham open to slavery payouts The Telegraph</description>
 </item>
 <item>
 <title>Video captures house collapsing due to Ecuador floods</title>
@@ -317,17 +399,6 @@
 <category>world</category>
 <pubDate>Sun, 01 Nov 2026 19:56:47 +0000</pubDate>
 <description>Residents filmed as a house collapsed into a swollen river in Ecuador, where torrential rains and floods linked to El N</description>
-</item>
-<item>
-<title>UK was ‘vehement’ slavery reparations should not be on Commonwealth summit agenda</title>
-<link>https://www.theguardian.com/world/2026/nov/01/uk-was-vehement-slavery-reparations-should-not-be-on-commonwealth-summit-agenda</link>
-<guid isPermaLink="false">f8aa221527d8f25c7979a41ac8b76d1863dcee28f40f860950cfb84b97ba8d06</guid>
-<source>The Guardian World</source>
-<category>world</category>
-<pubDate>Sun, 01 Nov 2026 19:50:39 +0000</pubDate>
-<description>British prime minister has now agreed to structured dialogue on reparatory justice but issue remains off formal Chogm agenda British officials initially insisted that discussions of reparations for slavery should not be on the agenda of the Commonwealth leaders’ summit in Antigua and Barbuda – and even warned that Andy Burnham would not attend the meeting if the subject was formally included, according to a leading Caribbean political figure. Ralph Gonsalves, a former prime minister of St Vincent and the Grenadines and a senior figure in the reparatory justice movement Repair Campaign, welcomed Britain’s decision to enter structured dialogue on reparations, but said the UK had come “kicking and screaming” to the conversation. Continue reading...</description>
-<enclosure url="https://i.guim.co.uk/img/media/3aa8217e3ba513aa013ca78934624c405592db3a/825_27_4852_3884/master/4852.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=15987da48c5c1fcf175bb20b07717adc" type="image/jpeg"/>
-<media:content url="https://i.guim.co.uk/img/media/3aa8217e3ba513aa013ca78934624c405592db3a/825_27_4852_3884/master/4852.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=15987da48c5c1fcf175bb20b07717adc" medium="image"/>
 </item>
 <item>
 <title>Home secretary to make some migrants wait 10 years or more for right to settle in UK</title>
@@ -456,7 +527,7 @@
 <source>Google News World</source>
 <category>world</category>
 <pubDate>Sun, 01 Nov 2026 18:08:00 +0000</pubDate>
-<description>Investors pull billions in funds from Binance after record $6.3bn hack The Guardian North Korea responsible for $6 billion Binance cryptocurrency hack, FBI says Fox Business FBI Links Record $6.3 Billion Binance Crypto Heist to North Korea www.inc.com Binance sees spike in withdrawals as exchange returns online after $6.3 billion heist Reuters Behind the Scenes of Crypto’s Biggest Nightmare: a Record-Breaking Cyber Heist WSJ</description>
+<description>Investors pull billions in funds from Binance after record $6.3bn hack The Guardian North Korea responsible for $6 billion Binance cryptocurrency hack, FBI says Fox Business Binance Restarts Withdrawals After Record Hack Bloomberg Behind the Scenes of Crypto’s Biggest Nightmare: a Record-Breaking Cyber Heist WSJ Notorious hacker says stolen crypto is like ‘holding a hot potato’ CNN</description>
 </item>
 <item>
 <title>'Fascinating' rare beetle found in Wales again after 60 years - BBC</title>
@@ -474,7 +545,7 @@
 <source>Google News World</source>
 <category>world</category>
 <pubDate>Sun, 01 Nov 2026 18:02:52 +0000</pubDate>
-<description>Gulf braced for escalation of war between US-Israel alliance and Iran Financial Times See more headlines &amp; perspectives on Google News</description>
+<description>Gulf braced for escalation of war between US-Israel alliance and Iran Financial Times Gulf States Fear Fiercer Iran Retaliation If US Strikes Again Bloomberg FirstFT: Gulf braced for renewed war between US and Iran Financial Times Mideast leaders call for calm as fears mount of a renewed war in the region, and other Mideast news The Boston Globe Egypt fears escalation in Iran war would be more destructive, foreign minister says Reuters</description>
 </item>
 <item>
 <title>Armed police start patrols in Sydney after Bondi Beach attack</title>
@@ -543,15 +614,6 @@
 <media:content url="https://s.france24.com/media/display/3cbb2c10-d61b-11f1-a32b-bf1914cabd52/w:1024/p:16x9/EN-20261101-170121-170312-CS.jpg" medium="image"/>
 </item>
 <item>
-<title>Ukraine defies Trump to resume attacks on Russian oil refineries - The Guardian</title>
-<link>https://news.google.com/rss/articles/CBMimgFBVV95cUxOZ19rWVE2TGotNE9jeVFKZnFoaEpZaDRlTHVjZVhPcks0am5ieVl2ck9MaTYxR25CQXVvcDNfZ1FibEo3QjRIRWRjcno1eXRGVTlkT0FmVmZLYkNYYm12akswdFBHNGRMOXdiTEQyb01rLW5NWFZJMGU5QjRMV3p4MjE0aC01Skx6UXAzWTktVVl3UC1VZXA0SGFn?oc=5</link>
-<guid isPermaLink="false">151460d24a46b85a99e79c9ad410188f7c3097aa8e3cf3a9b02ad65ae985ef4b</guid>
-<source>Google News World</source>
-<category>world</category>
-<pubDate>Sun, 01 Nov 2026 17:45:00 +0000</pubDate>
-<description>Ukraine defies Trump to resume attacks on Russian oil refineries The Guardian Another Russian refinery is aflame despite Trump’s warning to Kyiv The Washington Post Russia opens terrorism case over Ukraine oil refinery attack ABC News &amp; Headlines – Australian Broadcasting Corporation Exclusive | Ukraine Pauses Strikes on Russian Refineries After Pressure From U.S. WSJ Russia says 'massive' drone attack targeted 'industrial enterprise' amid reports oil refinery hit Euronews.com</description>
-</item>
-<item>
 <title>Oleshky: Evacuations during first humanitarian truce of war end</title>
 <link>https://www.france24.com/en/oleshky-evacuations-during-first-humanitarian-truce-of-war-end</link>
 <guid isPermaLink="false">c204296a777ffd8313e94f563357d8f99aeaee5935b0a4a8524dda6084d14e11</guid>
@@ -561,28 +623,6 @@
 <description>A successful evacuation. Residents of the city of Oleshky who had requested to be evacuated were reunited with their loved ones in Ukraine on Saturday, October 31. The city, located on the front line and under Russian occupation, is facing a humanitarian crisis, with civilians lacking even the most basic necessities. A localised ceasefire has been in place since Tuesday. France 24 correspondent Emmanuelle Chaze shares the latest.</description>
 <enclosure url="https://s.france24.com/media/display/41a1e774-d606-11f1-9ff5-a575454bc579/w:1024/p:16x9/EN-20261101-150645-150857-CS.jpg" type="image/jpeg"/>
 <media:content url="https://s.france24.com/media/display/41a1e774-d606-11f1-9ff5-a575454bc579/w:1024/p:16x9/EN-20261101-150645-150857-CS.jpg" medium="image"/>
-</item>
-<item>
-<title>Man dead and boy injured after being approached by police</title>
-<link>https://news.sky.com/story/man-dead-and-boy-injured-after-being-approached-by-police-13606759</link>
-<guid isPermaLink="false">146e82a06aedd7924bd4e14f4f3bb591a7dfb4586bec6446a55eb05dcf395533</guid>
-<source>Sky News</source>
-<category>world</category>
-<pubDate>Sun, 01 Nov 2026 17:39:00 +0000</pubDate>
-<description>An 18-year-old man has died and a boy was injured in a collision following an approach from patrolling police officers.</description>
-<enclosure url="https://e3.365dm.com/26/11/1920x1080/skynews-sheerness-kent_7394075.png?20261101175032" type="image/jpeg"/>
-<media:content url="https://e3.365dm.com/26/11/1920x1080/skynews-sheerness-kent_7394075.png?20261101175032" medium="image"/>
-</item>
-<item>
-<title>Are Celtic club in regression amid run of six defeats in 10?</title>
-<link>https://www.bbc.co.uk/sport/football/articles/cmvg7d1xl8epo?at_medium=RSS&amp;at_campaign=rss</link>
-<guid isPermaLink="false">d5d1f55c079894142b70f922d831f2d813fc07067be4029f704cc51fe53ac121</guid>
-<source>BBC News</source>
-<category>world</category>
-<pubDate>Sun, 01 Nov 2026 17:34:12 +0000</pubDate>
-<description>Chris Sutton and Ian McCall weigh in on Celtic after a second league defeat of the season, but manager Martin O'Neill is defiant.</description>
-<enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1f85/live/92559140-d613-11f1-90fb-b3468681b3ba.jpg" type="image/jpeg"/>
-<media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1f85/live/92559140-d613-11f1-90fb-b3468681b3ba.jpg" medium="image"/>
 </item>
 <item>
 <title>Exit polls suggest that Yotova wins runoff to become Bulgaria’s first elected female president - AP News</title>
@@ -682,7 +722,7 @@
 <source>Google News World</source>
 <category>world</category>
 <pubDate>Sun, 01 Nov 2026 17:06:32 +0000</pubDate>
-<description>Israeli strikes in Gaza kill eight including child, hospitals say BBC At least eight Palestinians killed in Israeli attacks across Gaza Al Jazeera Israeli strikes kill eight people in Gaza - medics say Reuters Report: Child Among Nine Killed in Israeli Strikes in Gaza Haaretz Iran's top diplomat hopes US shows 'rationality,' and other Mideast news Star Beacon</description>
+<description>Israeli strikes in Gaza kill eight including child, hospitals say BBC At least eight Palestinians killed in Israeli attacks across Gaza Al Jazeera Israeli strikes kill eight people in Gaza - medics say Reuters Report: Child Among Nine Killed in Israeli Strikes in Gaza Haaretz Iran's top diplomat hopes US shows 'rationality,' and other Mideast news WPLG Local 10</description>
 </item>
 <item>
 <title>University of Cambridge scientist among those who died in Spanish train crash</title>
@@ -736,15 +776,6 @@
 <description>Dozens of garment workers in Bangladesh clashed with police in the capital Dhaka.</description>
 </item>
 <item>
-<title>India’s Congress Party Holds Mass Protest in New Delhi - The New York Times</title>
-<link>https://news.google.com/rss/articles/CBMikgFBVV95cUxPUUxyZDlDU1ZkMVd1bDREUFVvWkFzZlJwN2dLNUxmWG1FRVJNeEhoaHlzTHBJRFFLRWRyZk5zRTYwb3FzMmZXbXZVS0FxRVBNRFpMMjZXTzIwTHFlX2VtSjBraEJvZmkwc2l1aUJRV0R6ZXZsSDM2NHYtSXN5QjZUNEsyc2JkMlZFdkFISWxYMjJ5Zw?oc=5</link>
-<guid isPermaLink="false">d023e86b97e883f5f083aeb3d4996844c8db63adf40da7b0c2b9b3e2e8741738</guid>
-<source>Google News World</source>
-<category>world</category>
-<pubDate>Sun, 01 Nov 2026 16:51:00 +0000</pubDate>
-<description>India’s Congress Party Holds Mass Protest in New Delhi The New York Times Rahul Gandhi: India's opposition rallies against voter roll revision exercise BBC Tens of thousands protest against Narendra Modi regime in Delhi The Guardian Thousands rally in New Delhi to demand India’s election chief resign Al Jazeera India's opposition parties stage new protest against the country's election chief ABC News - Breaking News, Latest News and Videos</description>
-</item>
-<item>
 <title>India protesters march with 1km banner of deleted voters’ names</title>
 <link>https://www.aljazeera.com/video/newsfeed/2026/11/1/india-protesters-march-with-1km-banner-of-deleted-voters-names?traffic_source=rss</link>
 <guid isPermaLink="false">5954541ac1d0a54e0167d79f81d8c71dd6754e71abe295590a4e647a718fda76</guid>
@@ -780,7 +811,7 @@
 <source>Google News World</source>
 <category>world</category>
 <pubDate>Sun, 01 Nov 2026 16:24:19 +0000</pubDate>
-<description>German ministers vow tough response to Frankfurt riots and looting Reuters Protests spread to Germany as hundreds of thousands march again in France CNN German rioters loot shops as 'Gen Z' demos turn ugly RFI Rioters smash, loot storefronts amid cost of living protests in Germany CBS News Germany news: Gen Z group calls for new protests DW.com</description>
+<description>German ministers vow tough response to Frankfurt riots and looting Reuters Protests spread to Germany as hundreds of thousands march again in France CNN Rioters loot stores in Frankfurt as European youths protest living costs and military service NBC News Rioters smash, loot storefronts amid cost of living protests in Germany CBS News Germany news: Gen Z group calls for new protests DW.com</description>
 </item>
 <item>
 <title>Russia detains minor over alleged Moscow attack plot after US warning</title>
@@ -798,7 +829,7 @@
 <source>Google News World</source>
 <category>world</category>
 <pubDate>Sun, 01 Nov 2026 16:21:00 +0000</pubDate>
-<description>Russia suffers ‘deadliest month of war’ as Kyiv hits missile plant and oil refinery The Independent Russia suffers record 54400 casualties in October, Ukraine says — and 2.1M since war began New York Post Zelensky: Ukrainian forces liberated more territory in October than Russian invaders seized Ukrinform "Enough to fill 200 Moscow Metro carriages": Zelenskyy reports record Russian losses in October Українська правда Total russian combat losses in Ukraine as of November 1, 2026 Міністерство оборони України</description>
+<description>Russia suffers ‘deadliest month of war’ as Kyiv hits missile plant and oil refinery The Independent Russia suffers record 54,400 casualties in October, Ukraine says — and 2.1M since war began New York Post Zelensky: Ukrainian forces liberated more territory in October than Russian invaders seized Ukrinform "Enough to fill 200 Moscow Metro carriages": Zelenskyy reports record Russian losses in October Українська правда Total russian combat losses in Ukraine as of November 1, 2026 Міністерство оборони України</description>
 </item>
 <item>
 <title>Trump rallies in Iowa, Kansas to maintain Republican control of US Senate</title>
@@ -825,7 +856,7 @@
 <source>Google News World</source>
 <category>world</category>
 <pubDate>Sun, 01 Nov 2026 16:12:16 +0000</pubDate>
-<description>Inside the leaderless movement set to govern Serbia Financial Times Serbia after Vucic: The winners are losing patience DW.com Serbia’s Gen Z Students Toppled a Strongman. Now Comes the Hard Part. WSJ Student-backed election winners demand sweeping resignations in Serbia BBC Serbia's victorious students call for key state officials to resign, graft probes Reuters</description>
+<description>Inside the leaderless movement set to govern Serbia Financial Times Serbia after Vucic: The winners are losing patience DW.com Serbia's victorious students call for key state officials to resign, graft probes Reuters Serbia’s students found a new way to topple a strongman The Economist Student-backed election winners demand sweeping resignations in Serbia BBC</description>
 </item>
 <item>
 <title>Tens of thousands protest against Narendra Modi regime in Delhi</title>
@@ -837,17 +868,6 @@
 <description>Led by Congress party, India’s opposition alliance channels anger over removal of 130 million names from voter roll Thousands of opposition supporters have gathered in Delhi as protests against the Narendra Modi government continue to gather momentum. Led by the Congress party, India’s opposition alliance has brought together supporters from across the country, amid growing anger over a large-scale revision of the country’s voter roll that has seen 130 million names erased. Continue reading...</description>
 <enclosure url="https://i.guim.co.uk/img/media/85ebfc268b05d8953c7e260e77d281e7aeb8c85e/0_0_3588_2871/master/3588.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b19e5e8c00516e63199f4a94c903727a" type="image/jpeg"/>
 <media:content url="https://i.guim.co.uk/img/media/85ebfc268b05d8953c7e260e77d281e7aeb8c85e/0_0_3588_2871/master/3588.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b19e5e8c00516e63199f4a94c903727a" medium="image"/>
-</item>
-<item>
-<title>How Dart revived career with help of Wimbledon champion</title>
-<link>https://www.bbc.co.uk/sport/tennis/articles/cmrlyw2y0gxzo?at_medium=RSS&amp;at_campaign=rss</link>
-<guid isPermaLink="false">2efd7707d195c1fb09376937200b07123104733b935559b580acb46575c7a9a9</guid>
-<source>BBC News</source>
-<category>world</category>
-<pubDate>Sun, 01 Nov 2026 15:55:46 +0000</pubDate>
-<description>Britain's Harriet Dart knows people doubted whether she would ever win a WTA title, but says the belief of her coach Marion Bartoli helped achieve the best week of her career.</description>
-<enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fc98/live/7e9cac50-d60a-11f1-a701-fddedf244c16.jpg" type="image/jpeg"/>
-<media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fc98/live/7e9cac50-d60a-11f1-a701-fddedf244c16.jpg" medium="image"/>
 </item>
 <item>
 <title>Green Party at a "crossroads", says former co-leader Adrian Ramsay - BBC</title>
@@ -879,13 +899,13 @@
 <media:content url="https://s.france24.com/media/display/c12466ee-d605-11f1-83e3-695cb59fade5/w:1024/p:16x9/EN-20261101-150107-150436-CS.jpg" medium="image"/>
 </item>
 <item>
-<title>Five teenage boys stabbed by 'unknown group' during Eastleigh Halloween party - The Independent</title>
+<title>Five teenage boys stabbed by 'unknown group' during Halloween party - The Independent</title>
 <link>https://news.google.com/rss/articles/CBMipgFBVV95cUxNdlg3eUdjN0FQMWQ2Z0dPSlplYWY1RC1XVkt0VTk3WnI3cTdzZ0Z1TGZVNklHbWtwMnlIa3hEN0Y3bER5NDZ4Y240WjRuZWd2Wjh4RW5mZFZ3bklLUTFZNTlvaWJycmFtRVAwalVFcXFqcloyMU9TdXF5Y3hORzBsTGlTalZ3WkFEVTZ3bmFMS3pqT1pRQ3Rzd0k3YWllMXU0X2RIb1l3?oc=5</link>
 <guid isPermaLink="false">e39067d9666e8d8d6202257b349a5cefad4a7483d5f38fcc8490d90cef49a713</guid>
 <source>Google News World</source>
 <category>world</category>
 <pubDate>Sun, 01 Nov 2026 15:46:00 +0000</pubDate>
-<description>Five teenage boys stabbed by 'unknown group' during Eastleigh Halloween party The Independent See more headlines &amp; perspectives on Google News</description>
+<description>Five teenage boys stabbed by 'unknown group' during Halloween party The Independent Five teenagers stabbed at Halloween party in Chandler's Ford BBC Five teenagers hurt in stabbing at Halloween party in Hampshire The Guardian Five teenage boys seriously injured in Halloween house party stabbings The Times Five boys stabbed at Hallowe’en party invaded by ‘unknown group’ The Telegraph</description>
 </item>
 <item>
 <title>Tusk defends overhaul of Poland’s constitutional court despite protests</title>
@@ -897,24 +917,6 @@
 <description>Prime minister says shake-up is vital to restore tribunal crippled by years of political disputes Poland’s prime minister, Donald Tusk, has vowed to see through a contested overhaul of the country’s constitutional court, declaring that “in certain matters, there can be no compromise”. In a prime-time television address on Saturday night , Tusk was defiant, despite overnight protests that saw riot police drafted to protect the court’s building, saying the shake-up was vital to restore a tribunal crippled by years of political disputes. Continue reading...</description>
 <enclosure url="https://i.guim.co.uk/img/media/3b129224829f45ad8165dd6ba27eac4f0f3868d3/1836_207_4200_3362/master/4200.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=9ffeb99469f8508997a196e3e6a685fc" type="image/jpeg"/>
 <media:content url="https://i.guim.co.uk/img/media/3b129224829f45ad8165dd6ba27eac4f0f3868d3/1836_207_4200_3362/master/4200.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=9ffeb99469f8508997a196e3e6a685fc" medium="image"/>
-</item>
-<item>
-<title>Dramatic helicopter rescue saves climbers stranded on Italian cliff</title>
-<link>https://www.aljazeera.com/video/newsfeed/2026/11/1/dramatic-helicopter-rescue-saves-climbers-stranded-on-italian-cliff?traffic_source=rss</link>
-<guid isPermaLink="false">03e625172fea294969dfa388099ae6ee3557d3cb0512ccdf61aaf5ac9f02d223</guid>
-<source>Al Jazeera</source>
-<category>world</category>
-<pubDate>Sun, 01 Nov 2026 15:40:58 +0000</pubDate>
-<description>Dramatic helicopter rescue saves climbers stranded on Italian cliff</description>
-</item>
-<item>
-<title>JERUSALEM DAILY: Israel continues siege and arrests in Hebron</title>
-<link>https://www.aljazeera.com/video/newsfeed/2026/11/1/jerusalem-daily-israel-continues-siege-and-arrests-in-hebron?traffic_source=rss</link>
-<guid isPermaLink="false">428e71a156c35708207159d4470a95d54a6136f1541bc48ec1b3eef8319cb051</guid>
-<source>Al Jazeera</source>
-<category>world</category>
-<pubDate>Sun, 01 Nov 2026 15:38:12 +0000</pubDate>
-<description>Israel’s siege on Hebron is on its 10th day and its attacks on Gaza continue.</description>
 </item>
 <item>
 <title>Data centres on the ballot: could the AI infrastructure shape US midterms?</title>
@@ -965,7 +967,7 @@
 <source>Google News World</source>
 <category>world</category>
 <pubDate>Sun, 01 Nov 2026 14:48:21 +0000</pubDate>
-<description>Pakistan LNG Cargo Attacked Near Hormuz Had Iranian Approval Bloomberg Qatar LNG carrier struck by ‘unidentified objects’ in Gulf Al Jazeera HE GCCSG Condemns the Treacherous Attack on the Qatari Gas Tanker "Al Mayeda", Underscoring That the Security of Navigation in the Arabian Gulf is a Pillar for the Stability of the Region and the Global Economy الأمانة العامة لمجلس التعاون لدول الخليج العربية Bahrain, Yemen join condemnation of Qatar tanker attack Breakingthenews.net Saudi Arabia Strongly Condemns Targeting of Qatar Gas Transport Company's LNG Carrier Al Mayeda ASHARQ AL-AWSAT English</description>
+<description>Pakistan LNG Cargo Attacked Near Hormuz Had Iranian Approval Bloomberg Qatar LNG carrier struck by ‘unidentified objects’ in Gulf Al Jazeera HE GCCSG Condemns the Treacherous Attack on the Qatari Gas Tanker "Al Mayeda", Underscoring That the Security of Navigation in the Arabian Gulf is a Pillar for the Stability of the Region and the Global Economy الأمانة العامة لمجلس التعاون لدول الخليج العربية Bahrain, Yemen join condemnation of Qatar tanker attack Breakingthenews.net Palestinian Presidency Condemns Targeting of Qatari LNG Carrier Fana News -</description>
 </item>
 <item>
 <title>Russian strikes leave thousands without power in Ukraine, says Zelenskyy - POLITICO.eu</title>
@@ -974,7 +976,7 @@
 <source>Google News World</source>
 <category>world</category>
 <pubDate>Sun, 01 Nov 2026 14:48:00 +0000</pubDate>
-<description>Russian strikes leave thousands without power in Ukraine, says Zelenskyy POLITICO.eu Russian strikes cut power to thousands in Ukraine as Kherson ceasefire ends BBC Russian strikes cut power to thousands in Ukraine as drones damage Russian facility Reuters Ukraine news: Russian attacks leave tens of thousands without power as Kherson ceasefire set to end DW.com Russian strikes cut power to thousands in Ukraine, despite Trump’s energy ceasefire push NBC News</description>
+<description>Russian strikes leave thousands without power in Ukraine, says Zelenskyy POLITICO.eu See more headlines &amp; perspectives on Google News</description>
 </item>
 <item>
 <title>French high school blockades to restart on Monday, student unions say</title>
@@ -994,7 +996,7 @@
 <source>Google News World</source>
 <category>world</category>
 <pubDate>Sun, 01 Nov 2026 14:31:49 +0000</pubDate>
-<description>French high school blockades to restart on Monday, student unions say France 24 Inside France’s Fiery Protests: ‘We Feel Completely Lost’ Rolling Stone Europe’s Gen Z is outnumbered by elders. Youth protests are a plea to be heard AP News Four lessons the US can learn from the youth protests in France The Guardian Gen Z's frustrations rightly boil over in French protests | Opinion USA Today</description>
+<description>French high school blockades to restart on Monday, student unions say France 24 Inside France’s Fiery Protests: ‘We Feel Completely Lost’ Rolling Stone Europe’s Gen Z is outnumbered by elders. Youth protests are a plea to be heard AP News Gen Z's frustrations rightly boil over in French protests | Opinion USA Today France on the Brink Dissent Magazine</description>
 </item>
 <item>
 <title>Why is Morocco celebrating the defeat of a UN resolution on Western Sahara? - Al Jazeera</title>
@@ -1003,7 +1005,16 @@
 <source>Google News World</source>
 <category>world</category>
 <pubDate>Sun, 01 Nov 2026 14:29:51 +0000</pubDate>
-<description>Why is Morocco celebrating the defeat of a UN resolution on Western Sahara? Al Jazeera Statement on a U.S.-Drafted UN Security Council Resolution on the Western Sahara Vetoed by the Russian Federation United States Mission to the United Nations (.gov) UN peacekeeping mission in Western Sahara ends after 35 years, UN chief says Reuters Rival US and Russia resolutions on disputed Western Sahara are defeated in UN Security Council AP News UN peacekeeping mission in Western Sahara to expire amid US, Russia vetoes DW.com</description>
+<description>Why is Morocco celebrating the defeat of a UN resolution on Western Sahara? Al Jazeera UN’s peacekeeping mission in Western Sahara ends after 35 years following US-Russia standoff AP News Competing US, Russia resolutions on Western Sahara defeated in UN Security Council Reuters US and Russia clash at UN Security Council, leaving North Africa peacekeeping mission on brink of total shutdown Business Insider Africa Statement on a U.S.-Drafted UN Security Council Resolution on the Western Sahara Vetoed by the Russian Federation United States Mission to the United Nations (.gov)</description>
+</item>
+<item>
+<title>2 dead, 2 injured after suspected electrical leak in hotel swimming pool - New York Post</title>
+<link>https://news.google.com/rss/articles/CBMiswFBVV95cUxOOXhyMHJUNkx6WVY3R1pNLXdsWDNxUXNlSG02RDZxRmxYMDN4T1V5ekZWc3hiQ3FCZXNscFpBdTBNdHVndmRqUlhGNFlNc0FUMldERS03UkZfTUExQm83TFRyR0w4cFpJZm84TzBkNWRpN3JuS0dxV2ZFZUt1OHNfMWJwTTl4bkJ1MVpYOVcydjM3NV9pNzh0X01kdGNaaGptTTN0a290RmdyZVA4V19tTjhhYw?oc=5</link>
+<guid isPermaLink="false">82a517a14d6c21191680b34eb13109ca2e08905e9f1f53953767768ed77302e2</guid>
+<source>Google News World</source>
+<category>world</category>
+<pubDate>Sun, 01 Nov 2026 14:16:00 +0000</pubDate>
+<description>2 dead, 2 injured after suspected electrical leak in hotel swimming pool New York Post Lufthansa Crew Member Dies Of Electrocution In Hotel Swimming Pool During Layover Simple Flying German, Slovak nationals die in 5-star Bengaluru hotel pool; US guest, pool attendant injured while trying to rescue them The Times of India Underwater pool lighting under scanner after 2 foreigners die at 5-star Conrad Hotel in B'luru | The victims were aged 45 and 52 | Inshorts Inshorts 'Cause Not Established': Bengaluru 5-Star Hotel's 1st Statement On Pool Deaths NDTV</description>
 </item>
 <item>
 <title>Ukraine news: Oleshky ceasefire ends as Russian attacks leave tens of thousands without power</title>
@@ -1178,7 +1189,7 @@
 <source>Google News World</source>
 <category>world</category>
 <pubDate>Sun, 01 Nov 2026 12:10:53 +0000</pubDate>
-<description>Ushakov: Putin Would Answer Phone Call From Zelensky Kyiv Post Trump says Russia-Ukraine deal could be near ahead of December’s G20 summit Anadolu Ajansı Trump Says Meeting With Zelenskyy and Putin Will Be Set Up Soon Bloomberg.com Zelenskyy must travel to Moscow if he wants to meet with Putin Prensa Latina - Latin American News Agency Zelensky ready to meet Putin in Turkey Breakingthenews.net</description>
+<description>Ushakov: Putin Would Answer Phone Call From Zelensky Kyiv Post Trump says Russia-Ukraine deal could be near ahead of December’s G20 summit Anadolu Ajansı Trump Says Meeting With Zelenskyy and Putin Will Be Set Up Soon Bloomberg.com Zelenskyy says he is ready to meet Putin in Türkiye Türkiye Today Zelenskyy must travel to Moscow if he wants to meet with Putin Prensa Latina - Latin American News Agency</description>
 </item>
 <item>
 <title>Iran warns of 'geographically unrestricted response' if US attacks - Euronews.com</title>
@@ -1187,7 +1198,7 @@
 <source>Google News World</source>
 <category>world</category>
 <pubDate>Sun, 01 Nov 2026 12:10:19 +0000</pubDate>
-<description>Iran warns of 'geographically unrestricted response' if US attacks Euronews.com Iran's leader says response to attack would have no 'geographic limits,' and other Mideast news AP News American Bombs And Iranian Civilian Casualties Forbes Iran Threatens Wider US Strikes Even as Talks Make Progress Bloomberg Iran warns new war could last longer after Trump threatens strikes France 24</description>
+<description>Iran warns of 'geographically unrestricted response' if US attacks Euronews.com Iran's leader says response to attack would have no 'geographic limits,' and other Mideast news AP News Iran vows response beyond Mideast and target financial assets; oil markets fear generational damage Fortune Iran Threatens Wider US Strikes Even as Talks Make Progress Bloomberg Iran warns new war could last longer after Trump threatens strikes France 24</description>
 </item>
 <item>
 <title>Suspected far-right activists from Britain 'with tear gas bombs' detained in France</title>
@@ -1251,7 +1262,7 @@
 <source>Google News World</source>
 <category>world</category>
 <pubDate>Sun, 01 Nov 2026 11:32:34 +0000</pubDate>
-<description>Clashes broke out in Portugal as police stormed housing protest camps in Lisbon and Porto DW.com Police clear new Lisbon housing protest camp after thousands rally Reuters 13 arrested as Portuguese police clash with protesters RTE.ie Europe protests - as they happened: Police clear Lisbon camp; looting damage in Germany; 500 arrests in France Sky News Portuguese police clash with housing protesters, arrest 13 Yahoo</description>
+<description>Clashes broke out in Portugal as police stormed housing protest camps in Lisbon and Porto DW.com Europe protests - as they happened: Police clear Lisbon camp; looting damage in Germany; 500 arrests in France Sky News 13 arrested as Portuguese police clash with protesters RTE.ie Police clear new Lisbon housing protest camp after thousands rally Reuters Portuguese police clash with housing protesters, arrest 13 Yahoo</description>
 </item>
 <item>
 <title>Are the Houthis attacking Mecca and Medina? Saudi claims ignite battle over Islam's holiest cities - Ynetnews</title>
@@ -1334,13 +1345,13 @@
 <description>Thousands are expected to take part in the Indian opposition's planned mega march in New Delhi over a controversial revision of electoral rolls.</description>
 </item>
 <item>
-<title>Why Did russia Use Mostly Conventional Shahed Drones in Its Latest Attack on Ukraine? - Defense Express</title>
-<link>https://news.google.com/rss/articles/CBMixAFBVV95cUxOQm55cWg0VldlaXQtc3ZkdzdzcnpfYVE1MnIzTUJuUFhteUhzUmJod1NRMi0zdVhzMURvUmJ0WndiV0ZlbHZYN0x3R2kzeWRBeVViQmVmSXRaXzBSYnkxRnZYbklWWm5xR0JuLXlYTGpOaFpWRGlfU2ItWTVsSFVrXzZRQ2NZY0NLTVFzS3hycUxGR2VsSWN0bGxRQTR3Q3ZfeXQ4VUhROFByMlRZa1Bhb09acVc2SUxCbHJNemRvR1ZxWmpq?oc=5</link>
-<guid isPermaLink="false">c59d54bea8c3693643c5a35ecfc2fe498e05e20fb4911b74111517db4874c62c</guid>
+<title>South Korea had the world’s lowest birth rate. How cash and childcare helped it rebound - NBC News</title>
+<link>https://news.google.com/rss/articles/CBMisgFBVV95cUxPejVDaVUwcTdEZkU2OTdEX3d3bllQSkVjQ3RGMjRWRks4c0ZzYnExeGhhVVJqQWpueWJ6aG9GVkpSa3c4UzhIcGU0YTVxTENBUTh2TXF2emxWdGxLZ19TOVJyYklHVlY5RkEtNkYyNmJDUno1WXRSUEVhSlhWREJDdWdBTEEyX0ZZNy11bFVZLVFlQU8wSldxQnBDQ2tySnZRR1JKSDdVLXFlcFRfcjdKWE53?oc=5</link>
+<guid isPermaLink="false">df926a622038cd9c1a74ea00e936ec98f4c60de69fcc37c92b356832cbf83069</guid>
 <source>Google News World</source>
 <category>world</category>
-<pubDate>Sun, 01 Nov 2026 10:17:03 +0000</pubDate>
-<description>Why Did russia Use Mostly Conventional Shahed Drones in Its Latest Attack on Ukraine? Defense Express Ukraine's air defence downed 274 attack drones and all six Bandеrol cruise missiles on Sunday, Air Force says Українська правда Ukraine sends drones towards Moscow, Russia strikes Kharkiv, officials say Reuters Ukraine’s air defenses down 274 Russian drones, six Banderols on Sunday Ukrinform Russia Downs Record Total of Ukrainian Drones Amid Summit Bloomberg</description>
+<pubDate>Sun, 01 Nov 2026 10:19:49 +0000</pubDate>
+<description>South Korea had the world’s lowest birth rate. How cash and childcare helped it rebound NBC News South Korea is fighting its baby bust and could be a model for battling population decline Yahoo Korean family groups demand overhaul of national population plan The Korea Times Capital Region Concentrates Over Half of South Korea's Births 조선일보 How South Korea’s Birth Rate Dropped Below Japan’s Nippon.com</description>
 </item>
 <item>
 <title>How a Little-Known Company Dominated the Persian Gulf Oil Trade - The New York Times</title>
@@ -1369,7 +1380,7 @@
 <source>Google News World</source>
 <category>world</category>
 <pubDate>Sun, 01 Nov 2026 09:53:23 +0000</pubDate>
-<description>Why Europe’s kids are revolting The system won’t save them UnHerd Youths Protest in Europe JW.ORG Donatella della Porta, political scientist: 'Footage of France's youth protests is so powerful that it has an impact across Europe' Le Monde.fr Opinion | Europe Is Aflame, and It’s Not Going to Stop The New York Times NEWSLETTER: What’s driving the Gen Z protests? Reuters</description>
+<description>Why Europe’s kids are revolting The system won’t save them UnHerd Youths Protest in Europe JW.ORG Donatella della Porta, political scientist: 'Footage of France's youth protests is so powerful that it has an impact across Europe' Le Monde.fr CNA Explains: Why are violent Gen Z protests breaking out across Europe? CNA Opinion | Europe Is Aflame, and It’s Not Going to Stop The New York Times</description>
 </item>
 <item>
 <title>Youth Olympic Games kick off in Dakar</title>
@@ -1524,7 +1535,7 @@
 <source>Google News World</source>
 <category>world</category>
 <pubDate>Sun, 01 Nov 2026 07:56:35 +0000</pubDate>
-<description>Senior Arab MK says Joint List ready to back anti-Netanyahu government from outside The Times of Israel Where Do Israel’s Arab Parties Stand? The New York Times Arab Joint List chairman says party will not join government The Jerusalem Post Netanyahu’s main rival opens door to coalition with Arab parties The Telegraph Golan speaks with Joint List party chiefs amid efforts to form government The Times of Israel</description>
+<description>Senior Arab MK says Joint List ready to back anti-Netanyahu government from outside The Times of Israel Where Do Israel’s Arab Parties Stand? The New York Times Arab Joint List chairman says party will not join government The Jerusalem Post Israel’s Arabs are now kingmakers and they’re ready to oust Netanyahu The Telegraph Golan speaks with Joint List party chiefs amid efforts to form government The Times of Israel</description>
 </item>
 <item>
 <title>Israel’s war on homes: From Hebron to Gaza and southern Lebanon - Al Jazeera</title>
@@ -1533,7 +1544,7 @@
 <source>Google News World</source>
 <category>world</category>
 <pubDate>Sun, 01 Nov 2026 07:45:38 +0000</pubDate>
-<description>Israel’s war on homes: From Hebron to Gaza and southern Lebanon Al Jazeera Israel demolishes gunmen's homes in West Bank operation that has displaced thousands Reuters IDF releases recordings of terrorist house demolition Israel National News IDF may scale back Hebron presence by weekend after evacuating thousands of Palestinians The Jerusalem Post Israel Palestinians West Bank chronicleonline.com</description>
+<description>Israel’s war on homes: From Hebron to Gaza and southern Lebanon Al Jazeera Israel demolishes gunmen's homes in West Bank operation that has displaced thousands Reuters Israeli forces raid Hebron shops, assault Palestinians amid siege Middle East Eye IDF releases recordings of terrorist house demolition Israel National News Israel Palestinians West Bank chronicleonline.com</description>
 </item>
 <item>
 <title>FBI says North Korea behind $6 billion Binance crypto theft</title>
@@ -1543,6 +1554,15 @@
 <category>world</category>
 <pubDate>Sun, 01 Nov 2026 07:33:00 +0000</pubDate>
 <description>The FBI said the theft was tied to "malicious cyber activity" by an entity known as TraderTraitor, the same actors behind a $1.5 billion Bybit hack last year.</description>
+</item>
+<item>
+<title>Russia says 'massive' drone attack targeted 'industrial enterprise' amid reports oil refinery hit - Euronews.com</title>
+<link>https://news.google.com/rss/articles/CBMixAFBVV95cUxPcHMzMXk4dHkwMkpoWXI3NUg4ek44akMwX3BHcDRTOXpKcTNJN0htcnp3al9VV1VVLThKdlFya0NnMlNIdnpoMGtMVEVvMzA5RlBiTFNubjVZRmpUMlJNdDhETTBsOS0waEQwNkljYjFrV0Fiam84QkJIZG9XT3VQYVBjTnNnS2JIVng5OWhud1VUODdNREk0X01xeTZBWmZ2WmNJeDFKR0JiRkZJSG1CcExTSEFNTVY2UG5XWGsyNzkzc2xi?oc=5</link>
+<guid isPermaLink="false">9d1e299ed9d2542bd49853c26e943dec7d423619b1d281f156b5ee37d8ca84e2</guid>
+<source>Google News World</source>
+<category>world</category>
+<pubDate>Sun, 01 Nov 2026 07:13:00 +0000</pubDate>
+<description>Russia says 'massive' drone attack targeted 'industrial enterprise' amid reports oil refinery hit Euronews.com Ukraine defies Trump to resume attacks on Russian oil refineries The Guardian Another Russian refinery is aflame despite Trump’s warning to Kyiv The Washington Post Exclusive | Ukraine Pauses Strikes on Russian Refineries After Pressure From U.S. WSJ Ukraine Hits 10% of Russia’s Oil Refining Capacity in Just 72 Hours UNITED24 Media</description>
 </item>
 <item>
 <title>Monster cabbage gift helps feed hungry animals at Devon sanctuary - BBC</title>
@@ -1572,17 +1592,6 @@
 <category>world</category>
 <pubDate>Sun, 01 Nov 2026 07:00:00 +0000</pubDate>
 <description>Incumbent President Iliana Yotova appears set to win Bulgaria's presidential election runoff. Exit polls put the more Russia-friendly candidate who favors dialogue with Moscow on just over 50% of the vote.</description>
-</item>
-<item>
-<title>Jacinda Ardern in Sydney Opera House talk advises politicians to ‘rebuild trust by building financial security’</title>
-<link>https://www.theguardian.com/world/2026/nov/01/jacinda-ardern-sydney-opera-house-talk-advises-politicians-to-rebuild-trust</link>
-<guid isPermaLink="false">7fb3d4ee97552534c1da6e232d4cdb9c0ca6d368701c660390e352c0083f46c8</guid>
-<source>The Guardian World</source>
-<category>world</category>
-<pubDate>Sun, 01 Nov 2026 06:53:22 +0000</pubDate>
-<description>‘We’re making it worse, not better,’ former New Zealand prime minister warns leaders Jacinda Ardern, who now calls Sydney home, has delivered a message to Australian politicians from the stage of the city’s Opera House. The former New Zealand prime minister turned academic told the audience on Sunday that politicians were exacerbating the problem of polarisation within society and needed to be better. Continue reading...</description>
-<enclosure url="https://i.guim.co.uk/img/media/f0c615e32c317677dca58c74b3ce23f555f342a3/0_0_6731_5385/master/6731.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=90e956cd88c18a496a6276f624ac91de" type="image/jpeg"/>
-<media:content url="https://i.guim.co.uk/img/media/f0c615e32c317677dca58c74b3ce23f555f342a3/0_0_6731_5385/master/6731.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=90e956cd88c18a496a6276f624ac91de" medium="image"/>
 </item>
 <item>
 <title>No homosexual offence disregards since law introduced in Northern Ireland - BBC</title>
@@ -1661,6 +1670,15 @@
 <description>He’s the Top Snake Catcher, and Business Is Booming. There’s Just One Problem. The New York Times</description>
 </item>
 <item>
+<title>Large Crowds Protest in New Delhi Over Modi and Voter Roll Changes - The New York Times</title>
+<link>https://news.google.com/rss/articles/CBMikgFBVV95cUxPUUxyZDlDU1ZkMVd1bDREUFVvWkFzZlJwN2dLNUxmWG1FRVJNeEhoaHlzTHBJRFFLRWRyZk5zRTYwb3FzMmZXbXZVS0FxRVBNRFpMMjZXTzIwTHFlX2VtSjBraEJvZmkwc2l1aUJRV0R6ZXZsSDM2NHYtSXN5QjZUNEsyc2JkMlZFdkFISWxYMjJ5Zw?oc=5</link>
+<guid isPermaLink="false">d023e86b97e883f5f083aeb3d4996844c8db63adf40da7b0c2b9b3e2e8741738</guid>
+<source>Google News World</source>
+<category>world</category>
+<pubDate>Sun, 01 Nov 2026 03:47:42 +0000</pubDate>
+<description>Large Crowds Protest in New Delhi Over Modi and Voter Roll Changes The New York Times Rahul Gandhi: India's opposition rallies against voter roll revision exercise BBC Tens of thousands protest against Narendra Modi regime in Delhi The Guardian Thousands rally in New Delhi to demand India’s election chief resign Al Jazeera India's opposition parties stage new protest against the country's election chief ABC News - Breaking News, Latest News and Videos</description>
+</item>
+<item>
 <title>Trump grants visa to mother of Ghanaian boy killed in NYC — Mamdani</title>
 <link>https://www.dw.com/en/trump-grants-visa-to-mother-of-ghanaian-boy-killed-in-nyc-mamdani/a-79820019?maca=en-rss-en-all-1573-rdf</link>
 <guid isPermaLink="false">7d6361ef276ddb7ae423c0fe3877cec827b43ab7596afb21aa967e7b4c1311b3</guid>
@@ -1668,15 +1686,6 @@
 <category>world</category>
 <pubDate>Sun, 01 Nov 2026 03:12:00 +0000</pubDate>
 <description>Javits Frimpong was on his way to school when he was shot in a neighborhood in the Bronx. He was 15 years old.</description>
-</item>
-<item>
-<title>Bangladesh sets up wage board as garment workers' unrest shuts factories - Reuters</title>
-<link>https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTjhSamRicmVUSnUzRXhIZmkzVC1pVlhFWk1MRGFiM0VpOW9WTHRUQmd0a3BobkV3cUwxeHpzSkNLQWVmUWowb1BTTjE4MUlvaThta2YtaWZDUHpSdkxHZUtXNFhFQjlZMTNCM050QXJrc2FIV2JOVjNkWTFHZGE1bjMxek9PX1dEeWJiNDZNcWlhNDVOd1hoZ01DYXByQThDTEZqckVCeWVWQVIzVVNiV0lSNHhFVTdNdmh3TmtGT2c?oc=5</link>
-<guid isPermaLink="false">6fb20334725c7517df28017834d1a5677467a065cb30259cbc0e323510d48842</guid>
-<source>Google News World</source>
-<category>world</category>
-<pubDate>Sun, 01 Nov 2026 02:58:00 +0000</pubDate>
-<description>Bangladesh sets up wage board as garment workers' unrest shuts factories Reuters Bangladesh forms wage board as garment workers protest Al Jazeera PM asks all to stay alert to ensure factory operations, public safety Dhaka Tribune Sabotage plot under guise of labour protest in Mirpur, 29 detained Prothom Alo English Over 100 Gazipur factories declare holiday amid wage protests Jagonews24</description>
 </item>
 <item>
 <title>Netanyahu or not, the next move on Iran may be Trump's - Iran International</title>
@@ -1816,15 +1825,6 @@
 <media:content url="https://ichef.bbci.co.uk/images/ic/240x135/p0l7jnbt.jpg" medium="image"/>
 </item>
 <item>
-<title>Two men die after suspected electrocution at hotel pool as rescue effort injures others - Fox News</title>
-<link>https://news.google.com/rss/articles/CBMisgFBVV95cUxPTmo5LUFSdFJOdWF4N0ZyZnYyMzBnQ29TZXFNY24ybkc4UnozMWd6MXl5NmNPSTNSbzhOa3o2S1d4cS1OVmdENVlDNmVNNDc0dlV5N2kxWDc2TUdHbmlFSDFUTW5QV1BYWEhCcnVsVFRKMXFldEhiWXRud3NCdHFzdTdRQ0xHR2NRRFY2d0k4R3R5MFp5cHkzRVcyQ1RSY1hjUzNoUTNWQU8ySWh3cGlXN0130gG3AUFVX3lxTE56bHdPS2pFZlVmVWE3NHNrWlM1M2ZWaFkxN212dDRZZHhuSzhLVEtJeGJDbXFabG8yS3VGdHdJbVNIRXBkMU9Canlaeml0S210UkRFbnFaQUtCYUNwSElQMnJOdW1xUFNSX1dSZWdsVWdZNjVrMDM3YnR3M2dOSXpsZklSRlJxLWQteEd5ZktKRUhNODlnaEpPUnlzY2RaMDc2WkU4OUdaU2ZlbnMxUGRfRVJGVXMwVQ?oc=5</link>
-<guid isPermaLink="false">6923a3ce1e0637a9552751b2530d4611f5824616be80ee63dd566f847f1a8224</guid>
-<source>Google News World</source>
-<category>world</category>
-<pubDate>Sat, 31 Oct 2026 23:50:10 +0000</pubDate>
-<description>Two men die after suspected electrocution at hotel pool as rescue effort injures others Fox News Lufthansa Crew Member Dies Of Electrocution In Hotel Swimming Pool During Layover Simple Flying German, Slovak nationals die in 5-star Bengaluru hotel pool; US guest, pool attendant injured while trying to rescue them The Times of India Lufthansa crew member among two dead after suspected electrocution in five-star hotel pool The Independent 'Cause Not Established': Bengaluru 5-Star Hotel's 1st Statement On Pool Deaths NDTV</description>
-</item>
-<item>
 <title>US plans to deport Afghans back to their home country through Pakistan, documents show - AP News</title>
 <link>https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZWpSODVTb3dmenRTb2tRX25LbTJITWlLM0l4bHFEQjVBMldXUGx1NFNyb2ZibFJaTk5ndnJfbmhEOEVOOXRvd1k3cTVKSDQtak9QVVA0SHpNY1dWUmtKWVV3dGFSbjd6WWd3Mzk3dkVIXy1vbVBRSnNfSncweWxpeVpGVldsYTRaQzRrQklSeEFGVVdPakxXUlNfOUcxODNveG9hRUY2dmVmZw?oc=5</link>
 <guid isPermaLink="false">3b49c5172f82707aec75bd84f685fef3a1d8c7419431b534a963db96d69fad2a</guid>
@@ -1887,7 +1887,7 @@
 <source>Google News World</source>
 <category>world</category>
 <pubDate>Sat, 31 Oct 2026 21:36:00 +0000</pubDate>
-<description>American Psychological Association rejects House report on antisemitism New York Post American Psychological Association brushed off antisemitism complaints — US House report The Times of Israel Opinion | Psychology’s Missing Debate WSJ House Committee Accuses APA of Fostering Antisemitism Inside Higher Ed ‘Heartbreaking’ findings in House report on Jew-hatred within American Psychological Association, psychologists say JNS.org</description>
+<description>American Psychological Association rejects House report on antisemitism New York Post Opinion | Psychology’s Missing Debate WSJ American Psychological Association brushed off antisemitism complaints — US House report The Times of Israel US House committee claims systemic antisemitism within psychological association The Jerusalem Post Judgment Day for the American Psychological Association Do No Harm</description>
 </item>
 <item>
 <title>Thousands demonstrate in Paris as protests spread across Europe</title>
@@ -1947,7 +1947,7 @@
 <source>Google News World</source>
 <category>world</category>
 <pubDate>Sat, 31 Oct 2026 17:36:03 +0000</pubDate>
-<description>Hundreds of thousands of protesters march across France for third week in a row POLITICO.eu Massive protests sweep Europe over cost of living and strained public services NBC News Attempted murder probe after petrol bomb thrown at French riot police The Guardian Clashes Erupt Again in France, After Festive Start to Day of Protest The New York Times Europe’s youth return to the streets for another weekend of protests, in photos AP News</description>
+<description>Hundreds of thousands of protesters march across France for third week in a row POLITICO.eu Massive protests sweep Europe over cost of living and strained public services NBC News Police clash with protesters across Europe as unrest spreads Fox News Attempted murder probe after petrol bomb thrown at French riot police The Guardian Clashes Erupt Again in France, After Festive Start to Day of Protest The New York Times</description>
 </item>
 <item>
 <title>Death in custody of UN Human Rights staff member in Yemen devastating –Türk demands investigation - ohchr</title>
@@ -1999,13 +1999,22 @@
 <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5071/live/dc9ee270-d531-11f1-866a-b522399149a0.jpg" medium="image"/>
 </item>
 <item>
+<title>Rare Iron Age Celtic helmet discovered in northeastern Poland far from its homeland - Phys.org</title>
+<link>https://news.google.com/rss/articles/CBMib0FVX3lxTE1aSEFSaVkwb2FkbjB0UkUxdXhadkZYTXBMV1czVU5OQzItMXRJbE9nWmpnR1VleVpDd0E2dFRXMmhnck1qM2czc05SNDJlOWpYbGU1dGszS3FpdnVJRGRxcFVOcUpLSVZkVmY1bGEyVQ?oc=5</link>
+<guid isPermaLink="false">62856d086f5899bb02edc33a2fc9e4c149625a4610420cea9f1470cd42d1557d</guid>
+<source>Google News World</source>
+<category>world</category>
+<pubDate>Sat, 31 Oct 2026 15:00:06 +0000</pubDate>
+<description>Rare Iron Age Celtic helmet discovered in northeastern Poland far from its homeland Phys.org</description>
+</item>
+<item>
 <title>Finland’s Stubb Rebuts Report on Putin Slavic History Lecture - Kyiv Post</title>
 <link>https://news.google.com/rss/articles/CBMiS0FVX3lxTE4tb1RXUDFVNzA3eUFtN2diTFpmSFZ5V05pRm9QU3BHbm0zajlqc3loMkJ6NHFDRElmdVM1MVVXczVoMVlSd3A2aXNKSQ?oc=5</link>
 <guid isPermaLink="false">7fff9081144245c13788646a603ce357538ababca3390be3153a430bedf400d8</guid>
 <source>Google News World</source>
 <category>world</category>
 <pubDate>Sat, 31 Oct 2026 14:57:04 +0000</pubDate>
-<description>Finland’s Stubb Rebuts Report on Putin Slavic History Lecture Kyiv Post Ukraine war latest: Oleshky evacuee fears what 'mad neighbour' will do next Sky News Russian Offensive Campaign Assessment, October 27, 2026 Institute for the Study of War Finnish president says he conveyed two messages from Zelenskyy to Putin Українська правда European Leaders Split Over Phone Call to Putin The New York Times</description>
+<description>Finland’s Stubb Rebuts Report on Putin Slavic History Lecture Kyiv Post Ukraine war latest: Oleshky evacuee fears what 'mad neighbour' will do next- as ceasefire ends Sky News Russian Offensive Campaign Assessment, October 27, 2026 Institute for the Study of War Finnish president says he conveyed two messages from Zelenskyy to Putin Українська правда ​Pragmatic or pointless? Europe’s rift over whether to pick up the phone to Putin The Guardian</description>
 </item>
 <item>
 <title>Iran Targeted US Air Defenses Then Hit Aircraft and Buildings on Mideast Bases, AP Analysis Finds - Military.com</title>
@@ -2111,6 +2120,15 @@
 <description>A wave of shootings and extortion threats has rattled India's film industry. This time, those claiming responsibility are very different from the Mumbai underworld that had Bollywood in its grip back in the 1990s.</description>
 </item>
 <item>
+<title>On board a Spanish high-speed train in the aftermath of the system’s latest catastrophe - AP News</title>
+<link>https://news.google.com/rss/articles/CBMiowFBVV95cUxOZEJsblJGUTdaeGRsNURNelB1YlhQdXZHY3FCUVpJcGFCeUlEYXRHWTlMc1htVERXdUR2dGRnMm1CUW5ZVi1hT1NNMnhGZndsb1l4SXAzb2VYaDhiNWFYNjlONno3NVowQVd5VHBQZkJBdkM0NU9LaWk5b0xqdWRlTy1GaVh4V3M2Q0VJOVdDZUUydHB5MW4wMUx0LUJ2THEyZFdz?oc=5</link>
+<guid isPermaLink="false">1c9098e4814bbf882c246a2cb1726a484d8f85b16cb498b395f2608285583fdc</guid>
+<source>Google News World</source>
+<category>world</category>
+<pubDate>Sat, 31 Oct 2026 06:06:00 +0000</pubDate>
+<description>On board a Spanish high-speed train in the aftermath of the system’s latest catastrophe AP News Why Does Spain Keep Having Deadly Rail Accidents? WSJ Sánchez Rethinks Reelection Plan After Spain’s Rail Disaster Bloomberg Traffic Control Errors Caused Spain’s Deadly Train Crash, Official Says The New York Times Did one person cause the Spain train crash? It shouldn’t be possible The Times</description>
+</item>
+<item>
 <title>Spain train disaster clouds Sánchez chances of re-election</title>
 <link>https://www.bbc.co.uk/news/articles/cmeweppr990qo?at_medium=RSS&amp;at_campaign=rss</link>
 <guid isPermaLink="false">0783a78dc33abe0d4e991a1b0d5c8b5f3878f8eb71949bc110379faa05c349fb</guid>
@@ -2129,15 +2147,6 @@
 <category>world</category>
 <pubDate>Sat, 31 Oct 2026 05:27:00 +0000</pubDate>
 <description>What happens when your name evokes laughter or ridicule? Research points to negative life outcomes, but some people learn to embrace unfortunate names.</description>
-</item>
-<item>
-<title>On board a Spanish high-speed train in the aftermath of the system’s latest catastrophe - AP News</title>
-<link>https://news.google.com/rss/articles/CBMiowFBVV95cUxOZEJsblJGUTdaeGRsNURNelB1YlhQdXZHY3FCUVpJcGFCeUlEYXRHWTlMc1htVERXdUR2dGRnMm1CUW5ZVi1hT1NNMnhGZndsb1l4SXAzb2VYaDhiNWFYNjlONno3NVowQVd5VHBQZkJBdkM0NU9LaWk5b0xqdWRlTy1GaVh4V3M2Q0VJOVdDZUUydHB5MW4wMUx0LUJ2THEyZFdz?oc=5</link>
-<guid isPermaLink="false">1c9098e4814bbf882c246a2cb1726a484d8f85b16cb498b395f2608285583fdc</guid>
-<source>Google News World</source>
-<category>world</category>
-<pubDate>Sat, 31 Oct 2026 05:06:00 +0000</pubDate>
-<description>On board a Spanish high-speed train in the aftermath of the system’s latest catastrophe AP News Why Does Spain Keep Having Deadly Rail Accidents? WSJ Sánchez Rethinks Reelection Plan After Spain’s Rail Disaster Bloomberg Traffic Control Errors Caused Spain’s Deadly Train Crash, Official Says The New York Times Did one person cause the Spain train crash? It shouldn’t be possible The Times</description>
 </item>
 <item>
 <title>Apple Warns iPhone Users in 99 Countries of Sophisticated Mercenary Spyware Attacks - CyberSecurityNews</title>
@@ -2166,7 +2175,7 @@
 <source>Google News World</source>
 <category>world</category>
 <pubDate>Sat, 31 Oct 2026 01:38:04 +0000</pubDate>
-<description>Explosions in Hormuz as Trump says Iran ‘wants to talk’ Ynetnews Live - UKMTO reports vessel hit in Hormuz as IRGC claims two tankers struck mines Iran International Iran's IRGC Navy says two tankers 'exploded' after hitting mines in Hormuz Reuters Oman Evacuates Tanker Crew as Iran Claims Spate of New Attacks The Maritime Executive Two oil tankers explode after hitting mine in Hormuz Strait, IRGC spokesperson says The Jerusalem Post</description>
+<description>Explosions in Hormuz as Trump says Iran ‘wants to talk’ Ynetnews Live - UKMTO reports vessel hit in Hormuz as IRGC claims two tankers struck mines Iran International Iran's IRGC Navy says two tankers 'exploded' after hitting mines in Hormuz Reuters Oman Evacuates Tanker Crew as Iran Claims Spate of New Attacks The Maritime Executive Shipping Strikes In Hormuz Leave Both Sides With Economic Pain gCaptain</description>
 </item>
 <item>
 <title>Global nature talks reach deal but money remains an issue</title>
@@ -2206,16 +2215,7 @@
 <source>Google News World</source>
 <category>world</category>
 <pubDate>Sat, 31 Oct 2026 01:00:09 +0000</pubDate>
-<description>Are the latest party promotions a sign of a new political trend in China? South China Morning Post China Confirms Expulsion of 33 Officials, as Xi’s Purge Deepens The New York Times China Communist Party Urges Tougher Action on Crypto Corruption Bloomberg China's biggest purge in 50 years puts Mao's playbook back in focus ABC News &amp; Headlines – Australian Broadcasting Corporation It can be lonely at the top. And that’s just how China’s leader likes it CNN</description>
-</item>
-<item>
-<title>Europe Is Now Seriously Rethinking Its Oil Refinery Phase Down - Crude Oil Prices Today | OilPrice.com</title>
-<link>https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVU1tWFdialI2NHJJc0pJX0dhQ2ZkQ1MyMnVGN3IySmdzTllJT05Cejk3bC1WMHp0RUpZazdqZUZKMk5XcEFvUjE3UzdNNFZDTlFkUW9EV1l1T2IzQ19nQjUycE5hNkg0SzFzeTZ5c09BLWdFTEcxWVQyRnVjYWxoZ2V0Z0ZHVkM3MmlJdjlGZmV0UG05WGc5c2pSSXZGa2dfeHl6TjM1b27SAa4BQVVfeXFMTkU5RnQwLVNVVjZjaW1aSDRLeFNIQTVhOExEVmdrVXRLbXNUUjJOMUtlOG14WHN0djJxTHoxaXY0V0lwY3ZoeFpyVUVrbWlrb3dmenlqVXRoVmxCTFhKNnczXy00NXFLQ3FoYUI3U3ZNRENYeGw3NFBnaENRMTVCTHJXTV9talF1TVBnU2JYak90N3B6M2hlejEyRWswNmphWjV2UDFzbWZQNnpLNXl3?oc=5</link>
-<guid isPermaLink="false">5b77d893a8a9d6badf687de005f27d081df268127a5bbeb0339d21b51171e4d7</guid>
-<source>Google News World</source>
-<category>world</category>
-<pubDate>Fri, 30 Oct 2026 23:00:00 +0000</pubDate>
-<description>Europe Is Now Seriously Rethinking Its Oil Refinery Phase Down Crude Oil Prices Today | OilPrice.com Europe needs more oil refineries to weather energy shocks, EU warns Euronews.com Europe’s Diesel Prices Rise as Refining Capacity and Supplies Tighten TOKENPOST Brussels softens energy stance eKathimerini.com Jørgensen: Winter to be difficult for EU citizens, economy Balkan Green Energy News</description>
+<description>Are the latest party promotions a sign of a new political trend in China? South China Morning Post China Confirms Expulsion of 33 Officials, as Xi’s Purge Deepens The New York Times China Communist Party Urges Tougher Action on Crypto Corruption Bloomberg It can be lonely at the top. And that’s just how China’s leader likes it CNN Full text: Explanation of the CPC resolution on strict self-governance CGTN</description>
 </item>
 <item>
 <title>U.S. approves $2.1 billion sale of Patriot interceptors to Ukraine - NBC News</title>
