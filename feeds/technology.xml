@@ -4,6 +4,57 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Flock keeps ignoring requests to cancel its contracts</title>
+<link>https://www.theverge.com/tech/1024232/flock-ignoring-cancel-contracts</link>
+<guid isPermaLink="false">4c7805da92c2787a7faa415ad27d3395071ff6e754fd24921002fc95d95dc11b</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Sun, 01 Nov 2026 19:58:02 +0000</pubDate>
+<description>While more cities are canceling their contracts with Flock Safety, just as many are discovering how difficult that can be in some instances. Plymouth, Minnesota's city council voted to terminate its contract with Flock in September, but failed to respond to the city's request. For over a month, the cameras remained up, and the city […]</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268713_Americans_seem_to_agree_that_destroy_Flock_cameras_is_good_CVirginia.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268713_Americans_seem_to_agree_that_destroy_Flock_cameras_is_good_CVirginia.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Instinct's WhatsApp replies fail, AI agent blames billing - TheStreet</title>
+<link>https://news.google.com/rss/articles/CBMisgFBVV95cUxPNkNBbkZNMlB6TGtlZlhiQjdZaDZtWm04YzNqelVqWVhOVzdxeVoxOGdlbjVrUTZpM21VaDRhWUZLdjB3Q1hHT21FOXE4YTFNSTk1UmxqX2ZMQV9zOTF4RlMycFJpR19rN3hPZ1VGZXJMaGI5OVB0bjltSGhGbnIzX0NQRjRONFJoWEhnSVV6ZGFzdk84a0czTFRyYWpzb3Q1RUs0OXBKRFVYZVBJWGJkU01R?oc=5</link>
+<guid isPermaLink="false">1f2d11a219aa89e5bac998c43c64e5221d2ad4a8943e93599198b07ce1432afc</guid>
+<source>Google News Artificial Intelligence</source>
+<category>technology</category>
+<pubDate>Sun, 01 Nov 2026 19:47:39 +0000</pubDate>
+<description>Instinct's WhatsApp replies fail, AI agent blames billing TheStreet</description>
+</item>
+<item>
+<title>5 ways to get Amazon Prime for free (or way cheaper)</title>
+<link>https://www.engadget.com/2301057/ways-get-amazon-prime-free-cheaper</link>
+<guid isPermaLink="false">5fb8f62824ba0fd5d1da560fa2b1b14d17a86301a21237e32d22dc36463eeb75</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Sun, 01 Nov 2026 19:45:00 +0000</pubDate>
+<description>Don't pay full price; you might already qualify for cheaper Prime or have another benefit that covers the membership fee</description>
+<enclosure url="https://www.engadget.com/img/gallery/5-ways-to-get-amazon-prime-for-free-or-way-cheaper/l-intro-1793243550.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/5-ways-to-get-amazon-prime-for-free-or-way-cheaper/l-intro-1793243550.jpg" medium="image"/>
+</item>
+<item>
+<title>Ask HN: Which TV do you recommend for privacy?</title>
+<link>https://news.ycombinator.com/item?id=50328896</link>
+<guid isPermaLink="false">17faad728dfb8f84cd1eec89eee1e5748431b8c807a7af3580fc17d288e12b79</guid>
+<source>Hacker News</source>
+<category>technology</category>
+<pubDate>Sun, 01 Nov 2026 19:35:27 +0000</pubDate>
+<description>Comments</description>
+</item>
+<item>
+<title>How to turn on the flashlight on your Android phone without unlocking it</title>
+<link>https://www.engadget.com/2300305/how-to-turn-on-andoird-phone-flashlight-without-unlocking</link>
+<guid isPermaLink="false">7a04c214164796c07aae596d4cb624c35152479b24b9c5ef1423e45c6f1c53fd</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Sun, 01 Nov 2026 19:30:00 +0000</pubDate>
+<description>You can easily access your flashlight on Samsung Galaxy and Google Pixel devices - here's how.</description>
+<enclosure url="https://www.engadget.com/img/gallery/how-to-turn-on-the-flashlight-on-your-android-phone-without-unlocking-it/l-intro-1792959825.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/how-to-turn-on-the-flashlight-on-your-android-phone-without-unlocking-it/l-intro-1792959825.jpg" medium="image"/>
+</item>
+<item>
 <title>Judge says xAI must face NAACP lawsuit on data center pollution</title>
 <link>https://www.engadget.com/2303462/judge-says-xai-must-face-naacp-lawsuit-on-data-center-pollution</link>
 <guid isPermaLink="false">170fecee8f048681f1c25aa8020fd73fe147b0956641dd29cfc1f28943366b50</guid>
@@ -26,6 +77,15 @@
 <media:content url="https://www.engadget.com/img/gallery/this-hidden-windows-11-menu-can-save-you-valuable-time-when-troubleshooting/l-intro-1792876075.jpg" medium="image"/>
 </item>
 <item>
+<title>It wasn't AI that flipped Proton's charge</title>
+<link>https://blog.raed.dev/posts/proton-loser-thinking</link>
+<guid isPermaLink="false">1d387a7e4fac349000710b6212af56f8fa48369a03a1e31c4b14e4cf3dfbc61b</guid>
+<source>Hacker News</source>
+<category>technology</category>
+<pubDate>Sun, 01 Nov 2026 18:53:55 +0000</pubDate>
+<description>Comments</description>
+</item>
+<item>
 <title>Nurses Sound Alarm as 'Uber for Nursing' Apps Push to Deregulate Healthcare</title>
 <link>https://nurse.org/news/uber-for-nursing-gig-apps-report</link>
 <guid isPermaLink="false">e6eb40c77e744518dc5209f8dad47ebdd75a3bddaaee110a6af08aa8294afdb3</guid>
@@ -42,6 +102,15 @@
 <category>technology</category>
 <pubDate>Sun, 01 Nov 2026 18:51:29 +0000</pubDate>
 <description>Comments</description>
+</item>
+<item>
+<title>Wall Street's Black October: Why the worst may still be ahead - Ynetnews</title>
+<link>https://news.google.com/rss/articles/CBMiYkFVX3lxTFB5SVhxOUVISjR6bkhBZHlxalhJODNOSjlCRlhRb1U3SmVtb0ZBQkVTeUNIVjloUjE3X09XeGtXS3g1TEd2OG5INTRnek0tNGJBcVBzVjlsc1MyZ0lQU090dWt3?oc=5</link>
+<guid isPermaLink="false">5aac02ad4fa3ba7efa61f8fd246871c32f787c16fdd840555c2fc21c2fefa32f</guid>
+<source>Google News Artificial Intelligence</source>
+<category>technology</category>
+<pubDate>Sun, 01 Nov 2026 18:37:41 +0000</pubDate>
+<description>Wall Street's Black October: Why the worst may still be ahead Ynetnews</description>
 </item>
 <item>
 <title>The biggest problem with trying to directly power EVs with solar roofs</title>
@@ -429,15 +498,6 @@
 <media:content url="https://www.engadget.com/img/gallery/your-old-ipod-could-get-spotify-and-usb-c-support-heres-how/l-intro-1793116115.jpg" medium="image"/>
 </item>
 <item>
-<title>Landline phones will switch off across Britland in 100 days, no extensions</title>
-<link>https://www.theregister.com/networks/2026/11/01/landline-phones-will-switch-off-across-britland-in-100-days-no-extensions-openreach/5306673</link>
-<guid isPermaLink="false">139a849f227a2e9eb62832d576cf4d80ddf1ba63b1ee1b9ab762cd0bbf2b3fd5</guid>
-<source>Hacker News</source>
-<category>technology</category>
-<pubDate>Sun, 01 Nov 2026 15:33:49 +0000</pubDate>
-<description>Comments</description>
-</item>
-<item>
 <title>AI software clones are coming for big-name companies like Adobe</title>
 <link>https://www.engadget.com/2302459/ai-software-clones-coming-for-big-name-companies-adobe</link>
 <guid isPermaLink="false">995c7971a2e05dc67399ee8c53bf58020b340072ee01cb79401095afc1cbf576</guid>
@@ -476,17 +536,6 @@
 <description>Debate intensifies over AI liability theinsurer.com</description>
 </item>
 <item>
-<title>The simple reason hardware accelerated GPU scheduling isn't the best fit for cheap GPUs</title>
-<link>https://www.engadget.com/2300281/hardware-accelerated-gpu-scheduling-not-best-fit-cheap-gpu-reason</link>
-<guid isPermaLink="false">66aca35d8fd7f4ca37c7d124368c0b009c551dab36735ded48f9c9ef2001a212</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Sun, 01 Nov 2026 15:15:00 +0000</pubDate>
-<description>Hardware accelerated GPU scheduling is one of those features many of us don't really think about, but it could cause problems for your old GPU.</description>
-<enclosure url="https://www.engadget.com/img/gallery/the-simple-reason-hardware-accelerated-gpu-scheduling-isnt-the-best-fit-for-cheap-gpus/l-intro-1793082690.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/the-simple-reason-hardware-accelerated-gpu-scheduling-isnt-the-best-fit-for-cheap-gpus/l-intro-1793082690.jpg" medium="image"/>
-</item>
-<item>
 <title>Congress members demand that Trump preserve correspondence with artificial intelligence for a future investigation - Politico - Українські Національні Новини (УНН)</title>
 <link>https://news.google.com/rss/articles/CBMi3wFBVV95cUxPX2U4QXRCaXZseHZjWnhjQnhkQ1VPODZwSnI5bDVqek5TWk9mbGo3WHh5S1lQejloTzhZVURMWWRXUEExZjM2b2s2djYzLVlFSkN0TnN0TzVGM3BQalZfMlpSejh5SkRGSFUtZGxXV3AycDJBVlo4QWxtcHQ5MzlxUU03RWhqenV1UHgySTVJb0ZWeEppRTRMeHZCN1dEQ0tDaTluR2RraXNXOVY0bVVJay1NS2UtYnF6YURBOW44UG9LMmt6SldpMk9LaEhwQ0hleU5SanRTQ0pWek12UmRB0gHeAUFVX3lxTE9jYkN3TVE5U3ZTTExQQ053SndhanpnVHRFMl9Nb0RtUF9SVzMxRGRKSTZUS3B0QVppT1FyYzNYblc4V1pUa2lrSFkyOU9PS01sbnpDMVpEUkpxOGprbmJELVVMTTVQSGttOFVoblVkMUpxV3RhUTdFOEgwck94OUJUQkttZXd1V25vVDdxU1hlVlVXaWRMZVlUeERWQnh6cE1rcURZcFVXZE5BZEE1bjJvTklyeHd4U1FoUjlaTHZGejNvWkVmQl9OTWprakdib216cnBQZGJBZ2c5SHJSUQ?oc=5</link>
 <guid isPermaLink="false">e0bac7775797d8aab645413acede617a475f134f1f52e0bd6eb27ef6ddef697d</guid>
@@ -512,17 +561,6 @@
 <category>technology</category>
 <pubDate>Sun, 01 Nov 2026 15:00:00 +0000</pubDate>
 <description>Google made a sturdy phone, but there is increasing competition in the foldable world.</description>
-</item>
-<item>
-<title>5 Spotify settings you'll wish you changed sooner</title>
-<link>https://www.engadget.com/2302442/spotify-settings-worth-changing</link>
-<guid isPermaLink="false">3d849982d2c9842ee31decfb91322349c027f574716e5cdc981c07803da67134</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Sun, 01 Nov 2026 15:00:00 +0000</pubDate>
-<description>Improve your audio quality, keep kids music out of your algorithm and more.</description>
-<enclosure url="https://www.engadget.com/img/gallery/5-spotify-settings-youll-wish-you-changed-sooner/l-intro-1793297764.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/5-spotify-settings-youll-wish-you-changed-sooner/l-intro-1793297764.jpg" medium="image"/>
 </item>
 <item>
 <title>Police chief unplugs Flock cameras after company ignores contract cancellation</title>
@@ -722,15 +760,6 @@
 <category>technology</category>
 <pubDate>Sun, 01 Nov 2026 12:00:53 +0000</pubDate>
 <description>How CPAs are putting AI to work in audits Journal of Accountancy</description>
-</item>
-<item>
-<title>AI raises the stakes for auditor judgment - Journal of Accountancy</title>
-<link>https://news.google.com/rss/articles/CBMimwFBVV95cUxOdHN3em1DNEhKazhpQjZnWDBNMXdPcVk2cUFXeHdqODRMNjd6QzZ0VjNPZDU1dE96cW4zbklyWlNMcThHdDZVS2RaUHhpNFJ3S1ZkcjNodGlqSE9vVkFPbGM4N0t5QUo2YURQMHdjLXB4V2hhRHlROFp6ZVpZRWItNlhoTnRiZDB3eTVnVDdKRUZ3c3JRN29QWWw2QQ?oc=5</link>
-<guid isPermaLink="false">fa8a0d2d0a846a61dab8da7f6b4723214aaf6d24aadf933f71c01eb625874ef5</guid>
-<source>Google News Artificial Intelligence</source>
-<category>technology</category>
-<pubDate>Sun, 01 Nov 2026 12:00:53 +0000</pubDate>
-<description>AI raises the stakes for auditor judgment Journal of Accountancy</description>
 </item>
 <item>
 <title>There’s a Free Video Editor Inside Google Drive That Anyone Can Use</title>
@@ -958,15 +987,6 @@
 <description>Comments</description>
 </item>
 <item>
-<title>Leaking Secrets from Air-Gap Computers by Spelling Radio Signals from RAM (2024)</title>
-<link>https://arxiv.org/abs/2409.02292</link>
-<guid isPermaLink="false">39ee96f3b35f3b96f1c52dc3069f46ce398bb382958670ad152f9ce8974b4a83</guid>
-<source>Hacker News</source>
-<category>technology</category>
-<pubDate>Sun, 01 Nov 2026 01:46:29 +0000</pubDate>
-<description>Comments</description>
-</item>
-<item>
 <title>Sanford Health surgeon weighs in on AI in surgery - KFYR-TV</title>
 <link>https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMWh5RXpyWkRJdjVOdGxvQnQwTGtEcWZjNURPOUlBbXVXcWU5VTNidlRvcHlmTjktTUZ1RmZpNHowUEkwcWRkNjVaWEViZExZR2E4UmRJWHN0QmtHYlhZUy05TW03UzVQak5pWGxpTFZvVW1IS2FyWlJ2enhDNnB6aW05czJCUl9J?oc=5</link>
 <guid isPermaLink="false">ae1aa1855a295047966008a95006aa3bbbfdb844ae9ba09b495b8dfa648c599a</guid>
@@ -1041,15 +1061,6 @@
 <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/bloody-youtube-logo.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
-<title>Mark Cuban AI Bootcamp gives Fort Wayne high schoolers hands-on tech experience - WPTA | 21Alive | Fort Wayne, IN</title>
-<link>https://news.google.com/rss/articles/CBMiuwFBVV95cUxNT01nUlhwTjlqZ0cxWmtDZndhbFl4cVlBT1h4Q3R3QVZyX2tSZFRVbldQNmlpZjlnc1pBQUppVUdHTzFWUDdPUjlDd0tHRVQtTS1teHlaVGk5VS11RDFTUmFLS3NaS3B0S1dmU1ZWWmw0YnJhb1RmS0dOQlJiNE0tb3B0SzJySDVXWlJkQzltaDNSVjJ1enFDWTNXMkRGYUZ6bEVPbTQwdDY3ZlFQQy1YRHM1VFYxREs1UDNv0gHPAUFVX3lxTE1tOU9wUnBMSXd5ZTFfRjhaanZPRUx6ME5EQjR4RWpnYVhiOUpaN2U4d1B5eVlEREJjQjNxUXBBSW5UdnJMbmJCd3prdXk3N1hXOUhSanNQdzB1OFY1R205N3hhcE92dnVWdmtGQUY2NWI1YW51eFg1VkswN0ZmYzl3azRpS1BTNE1nc29VaHJHanRkaWxXWG5ISmFBZ1JFclk2VEluM1V1ZjhCdl94VjUxWVp2T0ZfdDgtVjZHOGVXcUs2TUFrMV93d21wMXF6dw?oc=5</link>
-<guid isPermaLink="false">0f3558558a3feae2f5a138d5e4f495624d70318a7bd7a22f873d9f965a3b6769</guid>
-<source>Google News Artificial Intelligence</source>
-<category>technology</category>
-<pubDate>Sat, 31 Oct 2026 20:51:00 +0000</pubDate>
-<description>Mark Cuban AI Bootcamp gives Fort Wayne high schoolers hands-on tech experience WPTA | 21Alive | Fort Wayne, IN</description>
-</item>
-<item>
 <title>Bidirectional charging during grid outages</title>
 <link>https://www.jefftk.com/p/bidirectional-charging-during-grid-outages</link>
 <guid isPermaLink="false">9c77cc80538842efc544df7b2b4031c1d625acfc35764bca42490581890f75e3</guid>
@@ -1115,17 +1126,6 @@
 <category>technology</category>
 <pubDate>Sat, 31 Oct 2026 18:00:00 +0000</pubDate>
 <description>Trump’s AI push collides with data center backlash Politico</description>
-</item>
-<item>
-<title>Happy Pikmin Day Eve</title>
-<link>https://www.theverge.com/games/1024085/happy-pikmin-day-eve</link>
-<guid isPermaLink="false">74a96efb8296e74574c069b5287d668c9919eb1a91a0e80368154e8523f91b37</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Sat, 31 Oct 2026 17:50:12 +0000</pubDate>
-<description>This morning, Nintendo announced that tomorrow, November 1st, would be the first annual Pikmin Day. As part of the short Pikmin Day Direct, Shigeru Miyamoto shared new info about Pikmin 4 for the Switch 2, as well as an update for the mobile app Pikmin Bloom, and announced the Hello! Pikmin series of shorts. Players […]</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/7-1lQh551UY-HD.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/7-1lQh551UY-HD.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
 <title>Best Artificial Intelligence Speakers 2027 | Scott Steinberg - https://www.futuristsspeakers.com/</title>
@@ -1793,15 +1793,6 @@
 <description>Meet the Underrated Artificial Intelligence (AI) Stock That Could Soar 255% in a Year, According to Wall Street The Motley Fool</description>
 </item>
 <item>
-<title>Google value plummets by $500 billion as artificial intelligence searches impact ad revenue. - Arizona Daily Star</title>
-<link>https://news.google.com/rss/articles/CBMimwFBVV95cUxPbzhZNGtORjA4MGtPbFBGdjRZaXJETzNzTXp4VllqMG5GWnk4YnI5VVVVRWM4MWJOMmJxZU54RktIUFBvU0VVYTNScjVrZnVrT0Z1SEdiRnhxNmdzUl9oclBZSDFnQ0VnTmRGYWxrYmdaSldoLU1QbzBrbVFNYk52TV8tVFc0M203WTR4MmlhSU5Ea1poQ1o4SXE3WQ?oc=5</link>
-<guid isPermaLink="false">c911228a80115ededfdc78a33857c44afcc3a9213fa3cb857be91d1f28c93e24</guid>
-<source>Google News Artificial Intelligence</source>
-<category>technology</category>
-<pubDate>Fri, 30 Oct 2026 14:42:36 +0000</pubDate>
-<description>Google value plummets by $500 billion as artificial intelligence searches impact ad revenue. Arizona Daily Star</description>
-</item>
-<item>
 <title>Dartmouth Survey Reveals What Students Think About AI - Dartmouth</title>
 <link>https://news.google.com/rss/articles/CBMimAFBVV95cUxOa1VQQlRHYk0yWGIzT0lyMTg2NF9PQnl1anBnc09lWm4xb1NZel9IbXNGMGZYdml5UHB2dFZkZkFrLWhRb1U5SmFIRW5TS2E1cGlHUm1TLXBOZnJuMVI2VDBINjV3bUVBQlNNVmJ5emZMdFVZMTdRd2tTYWd5b2JRUlJubXR5OGx3ZTc3RXhpYlI1VG9feUVzeA?oc=5</link>
 <guid isPermaLink="false">69a63d09ec6615fb76bdfbf992b07b02374c4895b128f9ed4e12a02d4ed0c143</guid>
@@ -1818,6 +1809,15 @@
 <category>technology</category>
 <pubDate>Fri, 30 Oct 2026 13:58:42 +0000</pubDate>
 <description>Comments</description>
+</item>
+<item>
+<title>Watch live: Stock market reacts amid concerns about artificial intelligence spending - NBC News</title>
+<link>https://news.google.com/rss/articles/CBMixAFBVV95cUxOdTM3TmZacWdPWmppcV9qZnFRV00yaGpnNmk1NFhKczFQMk5oX1FPa1NWRnlFcW5pVURlVGxRaDRheWR1RUZ3bnVFOEk4d0JLRDR1eF95ZWZMd1Uya2UtQmdBNWJRdW92emtYTFZ2VmZpX1VkMXczdFQ3SmNWMEFmN0YtYTFYcnBKN2tnSExQMXR6ZHVwbzcxeDg2UDZqLUVGWEZvVHRDc21LcG9SanJOQUF4Rm5ITHFVYjdNVDRLNW9XTXpP?oc=5</link>
+<guid isPermaLink="false">28a8dcd4028bed42dcc094a2e6f7165fab2d4ed34f8f0b550cf104e386888f35</guid>
+<source>Google News Artificial Intelligence</source>
+<category>technology</category>
+<pubDate>Fri, 30 Oct 2026 13:57:58 +0000</pubDate>
+<description>Watch live: Stock market reacts amid concerns about artificial intelligence spending NBC News</description>
 </item>
 <item>
 <title>GM to pay $220 million after selling customer Smart Driver data</title>
@@ -2237,15 +2237,6 @@
 <media:content url="https://media.wired.com/photos/6ae2968f0262809bad6615e8/master/pass/Untitled-6.gif" medium="image"/>
 </item>
 <item>
-<title>SS27 Color Stats</title>
-<link>https://sarahconstantin.substack.com/p/ss27-color-stats</link>
-<guid isPermaLink="false">1d54a7d2aa5eb58e63a6d904982c9560e078ec57109a220d4b57a9ba2f327a4d</guid>
-<source>Hacker News</source>
-<category>technology</category>
-<pubDate>Thu, 29 Oct 2026 14:40:05 +0000</pubDate>
-<description>Comments</description>
-</item>
-<item>
 <title>Mistral Says Its AI Model ‘Le Chonk’ Has Leapfrogged China in the Open-Weight Race</title>
 <link>https://www.wired.com/story/mistral-says-le-chonk-surpasses-chinese-models-cybersecurity</link>
 <guid isPermaLink="false">7a2ff422d91cef5c48f97e9de17ba0c692f188cf495573d6e8ab02be6fb1f297</guid>
@@ -2316,6 +2307,15 @@
 <source>Hacker News</source>
 <category>technology</category>
 <pubDate>Wed, 28 Oct 2026 20:06:27 +0000</pubDate>
+<description>Comments</description>
+</item>
+<item>
+<title>Tips for more effective fuzz testing with AFL++</title>
+<link>https://nullprogram.com/blog/2025/02/05</link>
+<guid isPermaLink="false">ce8e0bdc663dff054b72a2419078d3920a455fb3e9b779e98e9ebfa47c99cbf2</guid>
+<source>Hacker News</source>
+<category>technology</category>
+<pubDate>Wed, 28 Oct 2026 09:46:12 +0000</pubDate>
 <description>Comments</description>
 </item>
 <item>
