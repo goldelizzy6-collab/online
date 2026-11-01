@@ -4,6 +4,48 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Amazon made the AUX input on older Alexa devices less useful</title>
+<link>https://www.engadget.com/2300219/amazon-made-alexa-devices-aux-port-less-useful</link>
+<guid isPermaLink="false">daacba87a78c8cb44315f21152127e74356f4f5f1c236298ed22325700c21325</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+<description>Amazon has made a quiet change to older Echo speakers that will leave owners rethinking how they use their devices and manage their home audio setups.</description>
+<enclosure url="https://www.engadget.com/img/gallery/amazon-made-the-aux-input-on-older-alexa-devices-less-useful/l-intro-1793052674.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/amazon-made-the-aux-input-on-older-alexa-devices-less-useful/l-intro-1793052674.jpg" medium="image"/>
+</item>
+<item>
+<title>How big and powerful is SpaceX's Starship rocket?</title>
+<link>https://www.engadget.com/2300227/how-big-powerful-spacex-starship-rocket</link>
+<guid isPermaLink="false">7a195a1cd997eeebcb0a47193b4d3efd48a0b19f661b9b92841ef95586cb3aa9</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Sat, 31 Oct 2026 23:45:00 +0000</pubDate>
+<description>SpaceX's Starship has a big role to play in NASA's plans to land astronauts on the Moon. Here's how big this rocket is and how its two stages work together.</description>
+<enclosure url="https://www.engadget.com/img/gallery/how-big-and-powerful-is-spacexs-starship-rocket/l-intro-1793113657.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/how-big-and-powerful-is-spacexs-starship-rocket/l-intro-1793113657.jpg" medium="image"/>
+</item>
+<item>
+<title>How AI can use health data to improve patient care - InSight+</title>
+<link>https://news.google.com/rss/articles/CBMioAFBVV95cUxPQ3BuLVhtZ3Z2T3RVeFV3cVBpaVU5dDFmMW54LTNvQ3FtTEdyeHZmM2gzaHlMbmNkNkVBZkxjcXFzT21BdU04V3FsQ3pqanl6Rk9NWXJIVGpzamlyYjBFdW1CR1QtVmRhVVphZlI2RTQ2MnNpWjVvWVFQMENqMnR2cjRIUjhMZ1lXS3ZBQXZTV284VVN3RVl4UkpGWV9oWVJU?oc=5</link>
+<guid isPermaLink="false">e24b9b8ed56000cdd69430dac9ff24306d516e436bdc3badfaa3a2de0bb990b9</guid>
+<source>Google News Artificial Intelligence</source>
+<category>technology</category>
+<pubDate>Sat, 31 Oct 2026 23:42:31 +0000</pubDate>
+<description>How AI can use health data to improve patient care InSight+</description>
+</item>
+<item>
+<title>Why your Apple AirPods' battery drains so fast and how to make it last longer</title>
+<link>https://www.engadget.com/2300231/why-airpods-battery-drains-fast-how-to-fix</link>
+<guid isPermaLink="false">6f600df26c3227dbaf3fb513b3e8bf36b0ced4d4c0c2d06e42cf45164adfc1c3</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Sat, 31 Oct 2026 23:30:00 +0000</pubDate>
+<description>It's annoying when your Apple AirPods run out of juice, but the culprit might not be what you think. Here's what's going on and what you can do about it.</description>
+<enclosure url="https://www.engadget.com/img/gallery/why-your-apple-airpods-battery-drains-so-fast-and-how-to-make-it-last-longer/l-intro-1793108793.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/why-your-apple-airpods-battery-drains-so-fast-and-how-to-make-it-last-longer/l-intro-1793108793.jpg" medium="image"/>
+</item>
+<item>
 <title>When Electric Cars Were for Women</title>
 <link>https://spectrum.ieee.org/early-electric-vehicles</link>
 <guid isPermaLink="false">d7bd184b6cae6d4d7d33543ea9f13ea8e9c6da688e357eb628291f0ed253f391</guid>
@@ -24,6 +66,15 @@
 <media:content url="https://www.engadget.com/img/gallery/the-slate-vs-ford-fathom-debate-might-be-settled-by-this-one-key-tech-feature/l-intro-1793026890.jpg" medium="image"/>
 </item>
 <item>
+<title>Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard</title>
+<link>https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve</link>
+<guid isPermaLink="false">6725a773cbcfd0fd913bcc42e2d1cf2c1b91429bf355a36026b1dd0e6b8052b0</guid>
+<source>Hacker News</source>
+<category>technology</category>
+<pubDate>Sat, 31 Oct 2026 22:46:12 +0000</pubDate>
+<description>Comments</description>
+</item>
+<item>
 <title>4 important features you should know if you use Microsoft Teams</title>
 <link>https://www.engadget.com/2300242/important-features-should-know-microsoft-teams</link>
 <guid isPermaLink="false">589407a8278ef62f5b8037a50a75d9602b7b19189cf9dc1f1e431ce5bdad10e3</guid>
@@ -35,7 +86,7 @@
 <media:content url="https://www.engadget.com/img/gallery/4-important-features-you-should-know-if-you-use-microsoft-teams/l-intro-1792773541.jpg" medium="image"/>
 </item>
 <item>
-<title>An Italian Farmer Found Some Unknown Seeds in His Attic and Planted Them</title>
+<title>An Italian farmer found some unknown seeds in his attic and planted them</title>
 <link>https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644</link>
 <guid isPermaLink="false">2a6e580066fc66e3fe649257c7321589e8029990e96a66d6a01f3941a6f7cea5</guid>
 <source>Hacker News</source>
@@ -82,15 +133,6 @@
 <category>technology</category>
 <pubDate>Sat, 31 Oct 2026 21:41:00 +0000</pubDate>
 <description>Apple's new CEO defended the company's current position in the AI landscape.</description>
-</item>
-<item>
-<title>Spooky C++</title>
-<link>https://www.nablag.com/spooky_cpp</link>
-<guid isPermaLink="false">d1cab37b3dfe861750eedab512d2f8fc4702e04e197236ae40ec2ed738735094</guid>
-<source>Hacker News</source>
-<category>technology</category>
-<pubDate>Sat, 31 Oct 2026 21:40:18 +0000</pubDate>
-<description>Comments</description>
 </item>
 <item>
 <title>4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale</title>
@@ -265,15 +307,6 @@
 <media:content url="https://www.engadget.com/img/gallery/the-best-roku-streaming-stick-depends-on-your-picture-quality-needs/l-intro-1793294370.jpg" medium="image"/>
 </item>
 <item>
-<title>GPT-5.6 Sol can beat Factorio on peaceful mode</title>
-<link>https://ryanmadden.net/gpt-56-beats-factorio</link>
-<guid isPermaLink="false">f4160ff23c480239731cf2c75f1f0468efb3cf811231ec62814310aaf51851b3</guid>
-<source>Hacker News</source>
-<category>technology</category>
-<pubDate>Sat, 31 Oct 2026 18:50:34 +0000</pubDate>
-<description>Comments</description>
-</item>
-<item>
 <title>Why your AirPods keep disconnecting without warning: These settings can fix it</title>
 <link>https://www.engadget.com/2298547/why-mac-keeps-disconnecting-airpods</link>
 <guid isPermaLink="false">fc9284d73c46f442883b7dec4b2868a70862a7be562fbbf1766bd6a3990a902d</guid>
@@ -314,6 +347,15 @@
 <description>For now, you'll need to first join a waitlist.</description>
 <enclosure url="https://www.engadget.com/img/gallery/how-to-use-claude-duet-when-it-rolls-out-to-you/l-intro-1792786501.jpg" type="image/jpeg"/>
 <media:content url="https://www.engadget.com/img/gallery/how-to-use-claude-duet-when-it-rolls-out-to-you/l-intro-1792786501.jpg" medium="image"/>
+</item>
+<item>
+<title>I post trained a model on Demoscenes</title>
+<link>https://datavorous.com/writing/demoscener</link>
+<guid isPermaLink="false">53736324889bfc4d3e637b703fb374e4bf1f32455fcaaf7aedddf8741e0b1262</guid>
+<source>Hacker News</source>
+<category>technology</category>
+<pubDate>Sat, 31 Oct 2026 18:08:24 +0000</pubDate>
+<description>Comments</description>
 </item>
 <item>
 <title>4 drawbacks you should know before buying a PlayStation 5</title>
@@ -438,15 +480,6 @@
 <media:content url="https://www.engadget.com/img/gallery/why-your-spotify-might-be-using-so-much-storage/l-intro-1793029233.jpg" medium="image"/>
 </item>
 <item>
-<title>Israeli AI founders bring Jigso team to Placer.ai in push beyond traditional analytics - Ynetnews</title>
-<link>https://news.google.com/rss/articles/CBMiYkFVX3lxTFAzYkpuSWJhcDBPTlFaM3BrZkd5Nm9LZW41ZGYtdHBzVlBtdEphZjVZanBwb1FlX1VsUXp4a2lSS2ljN2E3a1N3Wk16OTNvZnRSbXI0QU5PNHVNVTNHeG1odDJR?oc=5</link>
-<guid isPermaLink="false">d677c996fe67ed99bc2c45005c96677ceae6ee0a997e7e3b72193d164aab1112</guid>
-<source>Google News Artificial Intelligence</source>
-<category>technology</category>
-<pubDate>Sat, 31 Oct 2026 16:21:07 +0000</pubDate>
-<description>Israeli AI founders bring Jigso team to Placer.ai in push beyond traditional analytics Ynetnews</description>
-</item>
-<item>
 <title>How long is too long for a USB cable?</title>
 <link>https://www.engadget.com/2301242/how-long-should-usb-cable-be-maximum-length</link>
 <guid isPermaLink="false">71234ceec4f08634c661d2060e8c11b90fd5a18ad479180a304fdc9e6121ae82</guid>
@@ -498,37 +531,6 @@
 <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/verge-sean-hollister-muse-gadget-331A2564-01-3.jpg?quality=90&amp;strip=all&amp;crop=4,0,96,94.899920311255" medium="image"/>
 </item>
 <item>
-<title>Casio Watches of the 1980s</title>
-<link>https://www.casio.com/us/watches/50th/Heritage/1980s</link>
-<guid isPermaLink="false">a6a07ad6c0204eb6ef5b87abd207bbbef8d9f1d128e156fdb9fd50777f98be10</guid>
-<source>Hacker News</source>
-<category>technology</category>
-<pubDate>Sat, 31 Oct 2026 16:00:48 +0000</pubDate>
-<description>Comments</description>
-</item>
-<item>
-<title>GNSS Vs GPS: What's the difference?</title>
-<link>https://www.engadget.com/2300262/gnss-vs-gps-differences</link>
-<guid isPermaLink="false">70feba209fcaaa8ae7cb400e78232cc3a816e7063fb7cd3812b1fad879c9044f</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Sat, 31 Oct 2026 16:00:00 +0000</pubDate>
-<description>GNSS and GPS are common terms in the world of satellite navigation. They may be similar, but there are some key differences between the two technologies.</description>
-<enclosure url="https://www.engadget.com/img/gallery/gnss-vs-gps-whats-the-difference/l-intro-1793018949.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/gnss-vs-gps-whats-the-difference/l-intro-1793018949.jpg" medium="image"/>
-</item>
-<item>
-<title>Traveling with electronics? These 5 items could raise TSA red flags</title>
-<link>https://www.engadget.com/2301241/tsa-electronics-red-flags</link>
-<guid isPermaLink="false">36606af7024a69d081cfbb332731e534a4b88a7b8136a537ac2b37f25526f870</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Sat, 31 Oct 2026 15:45:00 +0000</pubDate>
-<description>Travel is stressful enough. Here's what you should know about TSA rules on traveling with tech.</description>
-<enclosure url="https://www.engadget.com/img/gallery/traveling-with-electronics-these-5-items-could-raise-tsa-red-flags/l-intro-1793277794.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/traveling-with-electronics-these-5-items-could-raise-tsa-red-flags/l-intro-1793277794.jpg" medium="image"/>
-</item>
-<item>
 <title>From restaurant guides to payments, here’s how TikTok is building a super app</title>
 <link>https://techcrunch.com/2026/10/31/tiktoks-road-to-becoming-a-super-app</link>
 <guid isPermaLink="false">52a9c38092ffeea109be6120570b48d25c1bac0dcb89ab0dfe86f63f66a99ee7</guid>
@@ -536,35 +538,6 @@
 <category>technology</category>
 <pubDate>Sat, 31 Oct 2026 15:41:57 +0000</pubDate>
 <description>TikTok may be working to become the app that people use for most of their digital activities.</description>
-</item>
-<item>
-<title>How artificial intelligence is changing the meaning of human creativity - AOL.com</title>
-<link>https://news.google.com/rss/articles/CBMilAFBVV95cUxQYk15REM1SzNjUHMwdGw3TFc4Y2R1QWQ3TlVQVlI0c2xQR1JaQ2QwdW1ZNC1yaVJyWnAtOFNkczd3bS10dEVtVzVRdDU1N1VjYWJMRU5SU3VJYzkyc3F6cTJsWElzWDQxV1pjakRiWElERWhrSFgzdEFicjhlNnIwZUVkd2VCU1ZIeHV5VlpiT0x0WUtZ?oc=5</link>
-<guid isPermaLink="false">3ccfb923a850ed53a9fa7776bfe812a4fb092e9f9607fd7eb148e435def3ec8a</guid>
-<source>Google News Artificial Intelligence</source>
-<category>technology</category>
-<pubDate>Sat, 31 Oct 2026 15:37:47 +0000</pubDate>
-<description>How artificial intelligence is changing the meaning of human creativity AOL.com</description>
-</item>
-<item>
-<title>The AI Red Queen Effect: Why Big Tech Can’t Afford to Stop Spending - Yahoo Finance</title>
-<link>https://news.google.com/rss/articles/CBMikAFBVV95cUxNS1RmeG9KOWNLR1lvRl9ydHZHRldyQ3VOV3ZJRHRva3loUXp5bGF1MEtpZjZUTkJqMEVpZ3NnU0VvQk8xSE9YWGxidmVfTTN3eEhLZmpCU0F5aEt1N3VoNzFtVDVNdnNaZnJJOWh5XzJRUVZuTWJOUi1QblVyckVuN1VoeVZtZHVPZEN3NDZkcFE?oc=5</link>
-<guid isPermaLink="false">f40b9e07143454fd4ed763fd8f13f3bb3ac67efeca49835292343127cb9b86dc</guid>
-<source>Google News Artificial Intelligence</source>
-<category>technology</category>
-<pubDate>Sat, 31 Oct 2026 15:30:03 +0000</pubDate>
-<description>The AI Red Queen Effect: Why Big Tech Can’t Afford to Stop Spending Yahoo Finance</description>
-</item>
-<item>
-<title>The Amazon Fire TV Stick setting you should try for better audio</title>
-<link>https://www.engadget.com/2299191/amazon-fire-tv-stick-setting-better-audio</link>
-<guid isPermaLink="false">a875c68d393a361e405b8d5127f3d170475235261ce94f2bd7ef9fe636ade03e</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Sat, 31 Oct 2026 15:30:00 +0000</pubDate>
-<description>Dialogue is an important part of any movie or TV show, but it isn't always as clear as we would like. Amazon's Fire TV Stick has a solution.</description>
-<enclosure url="https://www.engadget.com/img/gallery/the-amazon-fire-tv-stick-setting-you-should-try-for-better-audio/l-intro-1793163251.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/the-amazon-fire-tv-stick-setting-you-should-try-for-better-audio/l-intro-1793163251.jpg" medium="image"/>
 </item>
 <item>
 <title>Windows 11 tries new shortcuts for Xbox gaming mode and search</title>
@@ -598,6 +571,15 @@
 <description>Vic Mensa is one of those people who has done so many things that it's hard to remember where you were first introduced to him. Was it his debut mixtape Innanetape, which finally hit the major streaming services for the first time in September? Or maybe his house-influenced single "Down On My Luck"? Maybe you […]</description>
 <enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/DSCF4167.jpeg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
 <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/DSCF4167.jpeg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>How artificial intelligence is changing the meaning of human creativity - Earth.com</title>
+<link>https://news.google.com/rss/articles/CBMipAFBVV95cUxONnNGY2Fab0o1cGRKMzF4UmJJTjd0MVNBdElET19YazVVdFBiUlVjQWpvZnktWVY0ZkY0TXBPUHlnMHJzUlJYb0J4WHZGbzNDM2xNWmlRanJpTmlJQUtSVDVVamNnM1kzTWdvc0VpVkZ5T3pwVC0zRTh2VGkycGpBVVA1RUI4Ny1TOURTS2tHNzFYQjFocVc2TnNweHRyQ0Zxb3dWcQ?oc=5</link>
+<guid isPermaLink="false">b590e6cfedf72915dd98ad1a5f4f0c71687cc41ea24a4e95affc7ff907755371</guid>
+<source>Google News Artificial Intelligence</source>
+<category>technology</category>
+<pubDate>Sat, 31 Oct 2026 14:40:00 +0000</pubDate>
+<description>How artificial intelligence is changing the meaning of human creativity Earth.com</description>
 </item>
 <item>
 <title>Workshop demystifies artificial intelligence - Eagle-Tribune</title>
@@ -981,6 +963,15 @@
 <description>iFAST Xtrackers Artificial Intelligence &amp; Big Data UCITS Index ETF Overview (XBG) Barron's</description>
 </item>
 <item>
+<title>Will Anthropic Soar After Its IPO? History and SpaceX Offer an Answer That’s Strikingly Clear. - The Motley Fool</title>
+<link>https://news.google.com/rss/articles/CBMi0AFBVV95cUxPVHd1Q2pPclZWR1FnTjdRelM3dnpIQTNCU1hoNkdqemJaRVZ1UmdiTzM2alZBeGF1UUJZYkVJOXpqVTR1TE5xeXJVaVdORFZQNE9wdEJBVTBadV9VclYyY0VVOWVtSmdMYzFBUGtBY3dFVy1kemxXQjlmRmllOU5rM29IT3A5SmN0WXFiY29pczJiZVNsaGdoZmEzSmRJQkxkUXNSM0hPWGZzVW9mX1dTVTV1Q2MwcVkzamhBUjFsdVBoRS1FaVpwSlc1ekFfdUQ0?oc=5</link>
+<guid isPermaLink="false">82350c92a312e6fafc90675b87c7f949645534e73e06669656da4d332a995a39</guid>
+<source>Google News Artificial Intelligence</source>
+<category>technology</category>
+<pubDate>Sat, 31 Oct 2026 08:50:00 +0000</pubDate>
+<description>Will Anthropic Soar After Its IPO? History and SpaceX Offer an Answer That’s Strikingly Clear. The Motley Fool</description>
+</item>
+<item>
 <title>Switch Lowering in GCC</title>
 <link>https://xoranth.net/gcc-switch</link>
 <guid isPermaLink="false">799f9d5f889e9085ab13e9760a3d5c3b1f05c8105dbccc239e33ad64f595daaf</guid>
@@ -1035,6 +1026,15 @@
 <category>technology</category>
 <pubDate>Sat, 31 Oct 2026 04:16:50 +0000</pubDate>
 <description>The money behind the money is thrilled, mostly.</description>
+</item>
+<item>
+<title>First response from the Project Suncatcher prototype satellite</title>
+<link>https://blog.google/innovation-and-ai/models-and-research/google-research/project-suncatcher-satellite-response</link>
+<guid isPermaLink="false">cbcd682a693800b6056a7441d36e624dcb6fdbb69206a9b39fcd9ff6ce00a21a</guid>
+<source>Hacker News</source>
+<category>technology</category>
+<pubDate>Sat, 31 Oct 2026 03:54:00 +0000</pubDate>
+<description>Comments</description>
 </item>
 <item>
 <title>Virtual Influencers, Real Reservations: How Artificial Intelligence Drives Hotel Bookings - Macau Business</title>
@@ -1728,17 +1728,6 @@
 <media:content url="https://media.wired.com/photos/6ae0c75290b99bca949001fd/master/pass/102726-ken-paxton-elon-musk.jpg" medium="image"/>
 </item>
 <item>
-<title>Male Insecurity Over Penis Size Is a Booming Business</title>
-<link>https://www.wired.com/story/male-insecurity-over-penis-size-is-a-booming-business</link>
-<guid isPermaLink="false">2e42b2587ce663c1e81428f5f41016ccef6e1559b9bfee39dbb18e2b2f0b674b</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Fri, 30 Oct 2026 10:30:00 +0000</pubDate>
-<description>Manhood, a new documentary about “girth enhancement,” explores how wellness professionals are encouraging men to undergo increasingly extreme procedures to be sexually desirable.</description>
-<enclosure url="https://media.wired.com/photos/6ae2718a4c18bfda39de27c9/master/pass/MANHOOD_STILL_1.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/6ae2718a4c18bfda39de27c9/master/pass/MANHOOD_STILL_1.jpg" medium="image"/>
-</item>
-<item>
 <title>The Best Handheld Translators for Work and Travel (2026)</title>
 <link>https://www.wired.com/story/why-you-need-a-handheld-translator-for-travel</link>
 <guid isPermaLink="false">a12c716558bbdaab18f755c3bede31192066cbbdfbf3473d479f153b4d016597</guid>
@@ -1748,6 +1737,17 @@
 <description>Your cell phone can handle basic language translation, but dedicated translator devices can offer a much more immersive, versatile experience.</description>
 <enclosure url="https://media.wired.com/photos/69fe53b7692a9d3fda8bda4c/master/pass/AFK%20Portable%20Translators%20Can%20Help%20You%20Speak%20Like%20a%20Local%20When%20Traveling%20Abroad%20top%20art%20052026%20SOURCE%20Amazon-iFlyTek.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/69fe53b7692a9d3fda8bda4c/master/pass/AFK%20Portable%20Translators%20Can%20Help%20You%20Speak%20Like%20a%20Local%20When%20Traveling%20Abroad%20top%20art%20052026%20SOURCE%20Amazon-iFlyTek.jpg" medium="image"/>
+</item>
+<item>
+<title>Male Insecurity Over Penis Size Is a Booming Business</title>
+<link>https://www.wired.com/story/male-insecurity-over-penis-size-is-a-booming-business</link>
+<guid isPermaLink="false">2e42b2587ce663c1e81428f5f41016ccef6e1559b9bfee39dbb18e2b2f0b674b</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Fri, 30 Oct 2026 10:30:00 +0000</pubDate>
+<description>Manhood, a new documentary about “girth enhancement,” explores how wellness professionals are encouraging men to undergo increasingly extreme procedures to be sexually desirable.</description>
+<enclosure url="https://media.wired.com/photos/6ae2718a4c18bfda39de27c9/master/pass/MANHOOD_STILL_1.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6ae2718a4c18bfda39de27c9/master/pass/MANHOOD_STILL_1.jpg" medium="image"/>
 </item>
 <item>
 <title>It Sure Looks Like the Department of Education Is Promoting a Right-Wing ‘Harry Potter’ Meme</title>
