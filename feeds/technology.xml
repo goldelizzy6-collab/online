@@ -4,13 +4,106 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
-<title>Google says there’s no way to use Search without using artificial intelligence - The Guardian</title>
-<link>https://news.google.com/rss/articles/CBMikgFBVV95cUxQejExRlAwVmpXSkJOMFppQ3NXOFRGT2lkOGQ3LURUVS16UjRQa3llY01OY3FxdW1TYWVHZUR4c3NXbTRIT0pUQ2hIZGxlYzRFS2Q1ZG5qRTNNbDV0cnZJMHJaOFRfU1RzTzkzWFF1OVhUaUVhWFh1anhEV0JTb2lSLWJ0UEo5X3pyeWhNTkFSMWMtUQ?oc=5</link>
-<guid isPermaLink="false">392399c987716312836e6c273f178fcca901acca81bfc0a6341a58ac05cf36a7</guid>
-<source>Google News Artificial Intelligence</source>
+<title>Here’s what it’s like to use Audio Intelligence on the Apple Watch</title>
+<link>https://www.theverge.com/tech/1025835/audio-intelligence-live-rewind-siri-recap-apple-watch</link>
+<guid isPermaLink="false">6d687a1c0bed37bc4c400020e596c48d5ac8c01804e97b57ccbfc71cdc7baefa</guid>
+<source>The Verge</source>
 <category>technology</category>
-<pubDate>Tue, 03 Nov 2026 20:31:00 +0000</pubDate>
-<description>Google says there’s no way to use Search without using artificial intelligence The Guardian</description>
+<pubDate>Tue, 03 Nov 2026 21:21:04 +0000</pubDate>
+<description>It's impossible to paint a full picture of what Audio Intelligence on the Apple Watch Series 12 and Ultra 4 will be right now. The watchOS 27.3 developer beta just dropped earlier this afternoon, and these features are meant to be lived with in day-to-day life. We're definitely going to do that over the next […]</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/liverewind.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/liverewind.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Show HN: Kairos – Open-source risk and fraud decisioning platform</title>
+<link>https://github.com/finic-ai/kairos</link>
+<guid isPermaLink="false">f1213d42ab134c325807e7a43b19dd83b204c3bd7164b7f63ecabf23463075d7</guid>
+<source>Hacker News</source>
+<category>technology</category>
+<pubDate>Tue, 03 Nov 2026 21:16:48 +0000</pubDate>
+<description>Comments</description>
+</item>
+<item>
+<title>The Internet’s Conspiracy Theorists Are Desperate for Voter Fraud</title>
+<link>https://www.wired.com/story/the-internets-conspiracy-theorists-are-desperate-for-voter-fraud</link>
+<guid isPermaLink="false">671d1f21648194685ff4bbeae75ff27530c73b903b5b3106bc1f5ecf741731c3</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Tue, 03 Nov 2026 21:11:00 +0000</pubDate>
+<description>Influencers, watchdogs, and MAGA pundits are convinced that election fraud is everywhere today, despite a lack of apparent evidence.</description>
+<enclosure url="https://media.wired.com/photos/6ae50b80941f4f67ee5f2a88/master/pass/GettyImages-2300813713.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6ae50b80941f4f67ee5f2a88/master/pass/GettyImages-2300813713.jpg" medium="image"/>
+</item>
+<item>
+<title>Hiding inside Palantir’s skyrocketing quarter is a foreboding signal</title>
+<link>https://techcrunch.com/2026/11/03/hiding-inside-palantirs-skyrocketing-quarter-is-a-foreboding-signal</link>
+<guid isPermaLink="false">e529e3957e845009c443cd2dc564bc8c1b11d7db620ac7943be9b8186a4d791d</guid>
+<source>TechCrunch</source>
+<category>technology</category>
+<pubDate>Tue, 03 Nov 2026 21:05:55 +0000</pubDate>
+<description>Palantir delivered such a huge third-quarter earnings report on Monday that its press release even bragged that the numbers were “crushing consensus expectations.” Yet, retail investors were lukewarm on the company on Tuesday, with the stock trading slightly down. That’s because Palantir’s enterprise sales, its big growth area, showed signs of slowing. First, the good […]</description>
+</item>
+<item>
+<title>Those Jeff Bezos hair transplant photos are very fake</title>
+<link>https://www.theverge.com/tech/1025745/fake-jeff-bezos-hair-replacement-photos-debunk</link>
+<guid isPermaLink="false">8fdb108aaca7ce7da2d4ca270b86b8875ea34b12cb8a3d2d6c747cfda5e5de7d</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Tue, 03 Nov 2026 21:01:07 +0000</pubDate>
+<description>Amazon founder Jeff Bezos and actor Jason Statham have a distinctive feature in common: They're both famously bald, and that definitely hasn't changed in the last few days. However, there are some images of the two men circulating around X, Threads, and Bluesky in which they both have substantially more hair than their usual shaved […]</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Fake-Jeff-Bezos-Jason-Statham-hair-photo-edits.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Fake-Jeff-Bezos-Jason-Statham-hair-photo-edits.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>What type of battery does the Slate Truck use?</title>
+<link>https://www.engadget.com/2303044/slate-battery-type-different-plans-before-debut</link>
+<guid isPermaLink="false">d9376484de21cef389ed7f1aecbb7a5a05d831caf898274ad9326959e0e16504</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Tue, 03 Nov 2026 21:00:00 +0000</pubDate>
+<description>Slate had made arrangements in 2025 to buy its batteries from a Georgia company, then switched this year to an Illnois firm with a different kind of technology.</description>
+<enclosure url="https://www.engadget.com/img/gallery/what-type-of-battery-does-the-slate-truck-use/l-intro-1793394367.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/what-type-of-battery-does-the-slate-truck-use/l-intro-1793394367.jpg" medium="image"/>
+</item>
+<item>
+<title>Orbital Matter 3D printed the first rigid beam in the vacuum of space</title>
+<link>https://techcrunch.com/2026/11/03/orbital-matter-3d-printed-the-first-rigid-beam-in-the-vacuum-of-space</link>
+<guid isPermaLink="false">9f1daec47d1097c1647cf6e7274b5e06386c77a36e98e6880aeebbe0912ca912</guid>
+<source>TechCrunch</source>
+<category>technology</category>
+<pubDate>Tue, 03 Nov 2026 20:57:17 +0000</pubDate>
+<description>An in-space construction first could be an enabler for the space data centers of the future.</description>
+</item>
+<item>
+<title>Sonos' new voice assistant is launching in early access on November 6</title>
+<link>https://www.engadget.com/2305897/sonos-new-voice-assistant-is-launching-in-early-access-on-november-6</link>
+<guid isPermaLink="false">35ea1fdf6739bf31c5cecfcf0abb5fbc2c0c3126e0673d63a5dbcb9124c196dc</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Tue, 03 Nov 2026 20:48:49 +0000</pubDate>
+<description>The company is hoping to collect feedback on Sonos 27voice to avoid a repeat of its previous app redesign debacle.</description>
+<enclosure url="https://www.engadget.com/img/gallery/sonos-new-voice-assistant-is-launching-in-early-access-on-november-6/l-intro-1793738872.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/sonos-new-voice-assistant-is-launching-in-early-access-on-november-6/l-intro-1793738872.jpg" medium="image"/>
+</item>
+<item>
+<title>Ukraine’s drone strikes spur hasty Russian plans for underground data centers</title>
+<link>https://arstechnica.com/ai/2026/11/russia-looks-to-hide-data-centers-underground-as-ukrainian-drones-strike-back</link>
+<guid isPermaLink="false">24379856c459e00abd662ae2c831372f811c0b1ac4b3abefa72f8991584de080</guid>
+<source>Ars Technica</source>
+<category>technology</category>
+<pubDate>Tue, 03 Nov 2026 20:39:55 +0000</pubDate>
+<description>Russia tries to fix exposed digital infrastructure as data center war backfires.</description>
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/Russia-Borodinsky-coal-mine-1152x648.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/Russia-Borodinsky-coal-mine-1152x648.jpg" medium="image"/>
+</item>
+<item>
+<title>I dumped Apple’s word list</title>
+<link>https://helgesver.re/articles/macos-vulgar-word-flags</link>
+<guid isPermaLink="false">2820fdf330f186897a41b89696534453c4fd21fa2b79ed0a8729d79a7deabb72</guid>
+<source>Hacker News</source>
+<category>technology</category>
+<pubDate>Tue, 03 Nov 2026 20:33:23 +0000</pubDate>
+<description>Comments</description>
 </item>
 <item>
 <title>The Pixel Buds Pro 2 have returned to their lowest price to date</title>
@@ -46,24 +139,6 @@
 <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Siri-AI-Being-invoked-6.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
-<title>Artificial Intelligence (AI)-Powered Intensive Care Unit (ICU) Ventilation Weaning Market Future Trends, Projections - The National Law Review</title>
-<link>https://news.google.com/rss/articles/CBMirwFBVV95cUxNODAtMG9kZHJDTUNyRW1pRWdlclBDT1laMXFUYnNOY0ZnbzdtdWpZY0dHTlZqMHBQSTJqdlRQbE1uSGhtZjhBaDVqcGFDaUhIUnpNc1J6blJzdnhXV1lUOWdCLWxJX1J0al9BeWJoNURNaENHS2VYZHBORlY1ODBYUEVmZVRPc1VnbndkV3h5VGV1cFVMVnhuTVZlUUNWQ2g4SV9DT0ZpT0ZtRzJORVBV?oc=5</link>
-<guid isPermaLink="false">af9449b35bace66301012da51154f99107c3edf2204f200fa654d8aef8d5233b</guid>
-<source>Google News Artificial Intelligence</source>
-<category>technology</category>
-<pubDate>Tue, 03 Nov 2026 20:15:01 +0000</pubDate>
-<description>Artificial Intelligence (AI)-Powered Intensive Care Unit (ICU) Ventilation Weaning Market Future Trends, Projections The National Law Review</description>
-</item>
-<item>
-<title>Doing last-minute research for voting? Be careful with AI chatbots. - The Washington Post</title>
-<link>https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMkwtTDZIdGRBT2wyUzZ6ZkNzX3BPakhRZ2dpeVZMb2tTSFQ5b0dqdmtNLVJaSWVBWWR4RmVwbGw1dld0dXlzX3VkNVV2OWl1dFpBdVhaZzNmbjJNaGtBVjRYbFFhVF9nWmJJeDV0bV9TdlZ5ZmM3aW0xNml2VXNYWDBXQnFpSnBMOHltNlUwQmVWZFlFZGFqNG5xMHJrWU1PUi1Dakw2WEQtODNOR3VJWjduZHp0cUdV?oc=5</link>
-<guid isPermaLink="false">94abe6856c7e54a6a0a2654536da27875f0851df8360130fbd9c406170b337c0</guid>
-<source>Google News Artificial Intelligence</source>
-<category>technology</category>
-<pubDate>Tue, 03 Nov 2026 20:12:19 +0000</pubDate>
-<description>Doing last-minute research for voting? Be careful with AI chatbots. The Washington Post</description>
-</item>
-<item>
 <title>Pratt parsing is a black box</title>
 <link>https://vinipsmaker.github.io/blog/article/pratt-parsing-is-a-black-box</link>
 <guid isPermaLink="false">1cdfbbc556a0a17d2c7b8f1b7150dc2785fd4c07f63afb77e37964a014d4c3ba</guid>
@@ -71,15 +146,6 @@
 <category>technology</category>
 <pubDate>Tue, 03 Nov 2026 20:07:41 +0000</pubDate>
 <description>Comments</description>
-</item>
-<item>
-<title>US tech giants' hidden AI debt swells 90% to $3.2tn in 6 months - Nikkei Asia</title>
-<link>https://news.google.com/rss/articles/CBMixwFBVV95cUxQY2ZaWEJmWkg2SkRXRVB0Y3VReEpxb0FWYlFIT3ZoMllPSWRPNjlpcGdrTjdET19TUjdXXzhIdzZpcnFucXB1dUNmZGpmSlBwYXRxR0dZNXRPMk5XeVlKTTUtb2ZaODlJYUh4WlA3NFp5MmswdEhnanFsRF95dlVYNDBJUWxTOWdWSmp6eWxPNE1tNUJXdU1iZVQxaDRpdEVYMG9XdEpQS1U4aFo3aFdXUHduZjlRMlFJelhwMEJLSTZ0cWx0NGFF?oc=5</link>
-<guid isPermaLink="false">e6462435f0632fc58a22660282eaa1b999001223cd329584d6d9dec44014f929</guid>
-<source>Google News Artificial Intelligence</source>
-<category>technology</category>
-<pubDate>Tue, 03 Nov 2026 20:02:00 +0000</pubDate>
-<description>US tech giants' hidden AI debt swells 90% to $3.2tn in 6 months Nikkei Asia</description>
 </item>
 <item>
 <title>Netflix thinks AI might save you from scrolling aimlessly for something to watch</title>
@@ -91,15 +157,6 @@
 <description>The tab will initially offer suggestions based on a range of AI-generated themes.</description>
 <enclosure url="https://www.engadget.com/img/gallery/netflix-thinks-ai-might-save-you-from-scrolling-aimlessly-for-something-to-watch/l-intro-1793735788.jpg" type="image/jpeg"/>
 <media:content url="https://www.engadget.com/img/gallery/netflix-thinks-ai-might-save-you-from-scrolling-aimlessly-for-something-to-watch/l-intro-1793735788.jpg" medium="image"/>
-</item>
-<item>
-<title>FedRAMP 20x picks up steam with first full ‘Class C’ certification to AI company - FedScoop</title>
-<link>https://news.google.com/rss/articles/CBMigwFBVV95cUxQNFNZZVU2U2hOQTRZYzl6eFVXcUxabWk4eXFjeE1RMUYzWjU2SENTZ0xWU0ZFcFJsandhOHBpM3NXeGh5SjVKYmk4b2RsdVRHbTBBbzZmMUJFTjk3ZUF1c0J3YlJvcWRISEtENjc4dHg5eDVMTGlSVW43SzNBSXhsb2p5NA?oc=5</link>
-<guid isPermaLink="false">732569b921619d60465d5d1577cd614cf08da37ba293a2b13f1083c2ce143659</guid>
-<source>Google News Artificial Intelligence</source>
-<category>technology</category>
-<pubDate>Tue, 03 Nov 2026 19:51:07 +0000</pubDate>
-<description>FedRAMP 20x picks up steam with first full ‘Class C’ certification to AI company FedScoop</description>
 </item>
 <item>
 <title>You can’t hit a wrong note when playing along with songs on Casio’s new keyboard</title>
@@ -133,15 +190,6 @@
 <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2302796388.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
-<title>Artificial Limitation: The Illusion of Intelligence - HackerNoon</title>
-<link>https://news.google.com/rss/articles/CBMifkFVX3lxTE05eGp2M2hGNllrQ28taWlna2FkMjlBVXZiM3VxTUJ1TlBkaTRpSWU1VUxQQ19MdHFTTU5XOU9xZGt3WVlOZ3ZGc2xJWXNocDBocXhjX3VzUm5PYzRsSlQyeW1ROF9TdDN5WTVDSWhuNnN3WnFoeEJITDlwZjN2QQ?oc=5</link>
-<guid isPermaLink="false">5bd9c3f13784ed9d8c34e1941b686f0f65150af0b76609544a7d9425d20fb71f</guid>
-<source>Google News Artificial Intelligence</source>
-<category>technology</category>
-<pubDate>Tue, 03 Nov 2026 19:35:02 +0000</pubDate>
-<description>Artificial Limitation: The Illusion of Intelligence HackerNoon</description>
-</item>
-<item>
 <title>AI inference startup Fal doubles its valuation to $16B as demand surges</title>
 <link>https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges</link>
 <guid isPermaLink="false">64e891378c13ac062e9fbd46fab0f1d32a0bf282bfb9d724ea51b53892587e06</guid>
@@ -171,13 +219,13 @@
 <media:content url="https://www.engadget.com/img/gallery/dont-throw-away-your-laptops-old-ssds-do-this-instead/l-intro-1792960873.jpg" medium="image"/>
 </item>
 <item>
-<title>AI Incident Reporting Moves Toward Center of Governance Debate - PYMNTS.com</title>
-<link>https://news.google.com/rss/articles/CBMivAFBVV95cUxNMzJvdjdxODVqYXRUdWo4by0tZWQyVDlkdThpRlJCLWJwMmxHWkNuUjd3UDVjMUtDSEJYeXFERDF1Z0ZSNkZ6dWJSdE4tSG9Ba2Z2RXBrdUg2Q1VCLWlkdVFhMU1QZmwyRTg2ZlNMRlBIVTVGalVMbzFCd2FVbm1FS0Q1RDdoemxhRzE2RkVMcXdPdDRBM3ZCNTRFVUFKX0FuZ1ZpR0VfSWVqZHhGd1RRZjM0S3l3d1pWVXBYVA?oc=5</link>
-<guid isPermaLink="false">9b6038594180546cc110d6b01705b5130c4a1818a250c420230c1fe0f64b5f85</guid>
-<source>Google News Artificial Intelligence</source>
+<title>macOS 27 does not support CoreStorage volumes</title>
+<link>https://wadetregaskis.com/macos-27-golden-gate-does-not-actually-support-corestorage-or-hfs-volumes</link>
+<guid isPermaLink="false">087a6f37e56082ad4ff053de5d720a824a2814289ca2c7a704034eee6eef66ff</guid>
+<source>Hacker News</source>
 <category>technology</category>
-<pubDate>Tue, 03 Nov 2026 19:30:00 +0000</pubDate>
-<description>AI Incident Reporting Moves Toward Center of Governance Debate PYMNTS.com</description>
+<pubDate>Tue, 03 Nov 2026 19:27:53 +0000</pubDate>
+<description>Comments</description>
 </item>
 <item>
 <title>Itch.io adds a filter for games with gen AI disclosures</title>
@@ -209,51 +257,6 @@
 <description>The new ad placements could help Reddit squeeze more revenue from existing users as Google's AI search changes how people discover its content.</description>
 </item>
 <item>
-<title>Artificial Intelligence (AI)-Powered Diabetes Foot Ulcer Monitori - The National Law Review</title>
-<link>https://news.google.com/rss/articles/CBMisgFBVV95cUxQZjFMWnAwR0FtMGtwd3ZhNktBSEJyWkhfVVZYUGlHdlpXTTlIdG40QmhKVkVmaWVDVWR0LS11Wko3NlFkUFUxQk9NWlVNYmxpbFY3MTZ6dUdTakdNc1N2OGNLQlZWbmtKNVF5TTNoQy1VN1dlNll3a1ZRektoQ1VRZnd0dUpRNnlGOERONVd3U3RrVk1KN19BU3plSm9VdVZsOWQ2MlJuNDlsa204eDhTbllB?oc=5</link>
-<guid isPermaLink="false">21a570237b35ab3391cc2c1be502422578a48bfe4a8d7ff94bb0351cd0687a86</guid>
-<source>Google News Artificial Intelligence</source>
-<category>technology</category>
-<pubDate>Tue, 03 Nov 2026 19:22:51 +0000</pubDate>
-<description>Artificial Intelligence (AI)-Powered Diabetes Foot Ulcer Monitori The National Law Review</description>
-</item>
-<item>
-<title>The Artificial Intelligence (AI)-Powered Virtual Nursing Assistan - The National Law Review</title>
-<link>https://news.google.com/rss/articles/CBMirAFBVV95cUxNaWZQaDEycUd4SnhfblQwdFM4SFdSTE1raDMzY3Q0R2Vka3l2T3hESlZ2MGtJamwteUV2U0x0QVZYdUUySEMtaWF4REtMUFpYYS04d1VQUUtQb1JGVVF5R3c1NnpHeGh2UnhkSHlWMC1iTWVHckdPSE1qSGRvNXVpQmVsVTFJWi1HMlROLTFWcjN0a2JnRXR1Mmk3YkJINDdlSnNkZ2tuYjZRblcy?oc=5</link>
-<guid isPermaLink="false">ac5f4ede025b93954896b9b84dce18935a24474d280a493a5d4ef70345bfe499</guid>
-<source>Google News Artificial Intelligence</source>
-<category>technology</category>
-<pubDate>Tue, 03 Nov 2026 19:16:04 +0000</pubDate>
-<description>The Artificial Intelligence (AI)-Powered Virtual Nursing Assistan The National Law Review</description>
-</item>
-<item>
-<title>Artificial Intelligence (AI)-Enhanced Chronic Obstructive Sleep A - The National Law Review</title>
-<link>https://news.google.com/rss/articles/CBMiswFBVV95cUxOVmMxSzhIWWhPb0xOUGdDMzFKTElieHlFWWZwQzllaV9WVW92VlNJdTBHb0o2N09fVnRMMTVKcWdVVFc3X21UT1JnN0EtbmVmTWpFZDZDZXF6Y1pLSnA5by1MaDhmMnBHNG16M3BCSmc1VC05Umc3TGs4U2dTX2JiekdNMVF6Ym5JWEc2ajZtSHBSQk8za3doSV9oLUlidFlxclZtMTlnZDNDVGVMYWlLWHNaZw?oc=5</link>
-<guid isPermaLink="false">ce8f0ffc496f03e43924144ba4d0a884f22036fb0c48f8ca8ab8d65c2e7c047c</guid>
-<source>Google News Artificial Intelligence</source>
-<category>technology</category>
-<pubDate>Tue, 03 Nov 2026 19:16:04 +0000</pubDate>
-<description>Artificial Intelligence (AI)-Enhanced Chronic Obstructive Sleep A The National Law Review</description>
-</item>
-<item>
-<title>23 AI Pilots and No Results? You've Got a Problem - IndustryWeek</title>
-<link>https://news.google.com/rss/articles/CBMi0wFBVV95cUxOVkJEOVhuQkFsT0I5ZWx0d05mdGtfYmhCbnpaSHdjSGFQVFlvTjg0ZGFBRF9LbWhRNE5JMUFiRG5oUmVOZjdMU0hHQ3lSejg1Vll0UTJiUWxNbldKUjU1QUk4WmQtME05cU56WEpKNFZ4cWtvOENBckhaM3h2UTBxQS1tbFhpem1NQzNSRVZLTmktaTh2ZFR1RDZDeV9ITWZTYzRQSElMTVZEMS1wVDZjZmJDV1BSQmUxeHNRbDZLU21ka3pXdXYwaHVWMWxoTFVHUndN?oc=5</link>
-<guid isPermaLink="false">64b56b86b4684f730f9ae93d920df82794a8c5dfdf05011d2185ed514ea438c8</guid>
-<source>Google News Artificial Intelligence</source>
-<category>technology</category>
-<pubDate>Tue, 03 Nov 2026 19:13:28 +0000</pubDate>
-<description>23 AI Pilots and No Results? You've Got a Problem IndustryWeek</description>
-</item>
-<item>
-<title>Sam Altman Crows That AI Is Now Smarter Than the Brightest Human Scientists - Futurism</title>
-<link>https://news.google.com/rss/articles/CBMivAFBVV95cUxOdEQ1TVJOMlMtODBrbl9hOHpSUDNDSkw0RlBJcVRpemFXSnltMXp2N2V4ZTZ3YXhxODRMLUJyUEJjaFNrRUFteU5aV1pxY29pS2NINUs4aHBDclh2LUxYRjNuckE1SUZIcDdqYUdSU293ckN2VUxvZXZJZ2k5LV94dDFtbFpWdU00YllPZndaQ29hVXNuaF9hTEVOdTdWSU5helA4ZGFQZjVWYlNob01XcTJ3Z2FfOWtFRnRYYQ?oc=5</link>
-<guid isPermaLink="false">9452cb0d9ddf42033f151d7a1c9407572fada421138803ceaa01dd0181bd075f</guid>
-<source>Google News Artificial Intelligence</source>
-<category>technology</category>
-<pubDate>Tue, 03 Nov 2026 19:08:33 +0000</pubDate>
-<description>Sam Altman Crows That AI Is Now Smarter Than the Brightest Human Scientists Futurism</description>
-</item>
-<item>
 <title>Binance Says Hackers Used Well-Known Tricks to Carry Out a $6.34 Billion Heist</title>
 <link>https://www.wired.com/story/binance-says-hackers-used-well-known-tricks-to-carry-out-a-dollar634-billion-heist</link>
 <guid isPermaLink="false">f3779d980da1ebea0151dcbc4eed6eb86470070fbc8d456272a9f68a00bb69c6</guid>
@@ -272,15 +275,6 @@
 <category>technology</category>
 <pubDate>Tue, 03 Nov 2026 19:04:52 +0000</pubDate>
 <description>Hillary Clinton's 2016 political gaffe has become an irony-shrouded rallying cry for jaded young voters who still dare to hope for change.</description>
-</item>
-<item>
-<title>In New Course, Hoyas Wrestle With The Problem of AI - Georgetown University</title>
-<link>https://news.google.com/rss/articles/CBMiYkFVX3lxTE1yZXAyZENNUU1jU0dYY0ozbndEck54N01KOV80SmpLdU5UTHhqNWlMY3k0T1NhYUxnbHBIQUNqMnRFZDQyRGQwUUM0RTdiTGNFcTlIUmJjOTk5Wkg2RXFtQ0JB?oc=5</link>
-<guid isPermaLink="false">5dffccc14921b8675e3f23e797eaff0223b821f9c0b1729e59892b91ba8145d9</guid>
-<source>Google News Artificial Intelligence</source>
-<category>technology</category>
-<pubDate>Tue, 03 Nov 2026 19:02:58 +0000</pubDate>
-<description>In New Course, Hoyas Wrestle With The Problem of AI Georgetown University</description>
 </item>
 <item>
 <title>How to use your phone to find hidden cameras</title>
@@ -303,15 +297,6 @@
 <description>The Luce, Ferrari's first electric car and one of its most polarizing models, is "fully allocated" through 2027, according to CEO Benedetto Vigna.</description>
 </item>
 <item>
-<title>Bradbury Science Museum To Present ‘Night With A Nerd: Neuromorphic Artificial Intelligence’ 6-8 p.m. Wednesday Nov. 4 - Los Alamos Daily Post</title>
-<link>https://news.google.com/rss/articles/CBMikgJBVV95cUxNMmE1OWRObFFlQXdHMnU2WmFUWkpBZEtKcjlSMDZPRkI0cnpSd1RUZlE2VUpURzhPbS0zQ29uUno5TnZYdjV4UXdPNWdaS2xtNVFkUEZaaW95aHY0V2E1Smw1Q2FBTmx4bkFFTnNxMVBxRklzVWV2alVxZzdrZzcydGZpNkFpTHQ1eEZuaktMUXN4NzR3RHdibEJHTzkxckEzZFNKZ1N4SmtKQzZaZTBBeXp6cU9rdmRsbU04bzRCdmFqSWp1YWNXRVlyVGJUNllqdUt6MUE1c2RyZW9QMmZlU2RvSjc1NDFieTl4cERBUkNjWDM1M1pKRVFHakNjejZzeUU5N2V1bGlwcWtTMnFoUEtR?oc=5</link>
-<guid isPermaLink="false">bc3a8468740c95ff89690620f81e107c61a638a6b57a561a98c97312b2cf3f61</guid>
-<source>Google News Artificial Intelligence</source>
-<category>technology</category>
-<pubDate>Tue, 03 Nov 2026 18:44:00 +0000</pubDate>
-<description>Bradbury Science Museum To Present ‘Night With A Nerd: Neuromorphic Artificial Intelligence’ 6-8 p.m. Wednesday Nov. 4 Los Alamos Daily Post</description>
-</item>
-<item>
 <title>Netflix’s new AI Discover tab helps you find something to watch based on your mood</title>
 <link>https://techcrunch.com/2026/11/03/netflixs-new-ai-discover-tab-helps-you-find-something-to-watch-based-on-your-mood</link>
 <guid isPermaLink="false">d05cff2b935d0ed4bfcdad47dfc8e7f4851b49e7ce5cbe7948e8b610faca26df</guid>
@@ -319,33 +304,6 @@
 <category>technology</category>
 <pubDate>Tue, 03 Nov 2026 18:42:16 +0000</pubDate>
 <description>The first experimental feature under the tab will allow users to get recommendations based on what they're currently in the mood for.</description>
-</item>
-<item>
-<title>Artificial Intelligence (AI)-Powered Rare Disease Patient Finder - The National Law Review</title>
-<link>https://news.google.com/rss/articles/CBMitwFBVV95cUxOM0pxVlgtWVA1MVhCUTNnTGxkUDJlbWZXQUVIbG15U3M2NTY3N0R4T1Vaajl4bDZESURVVTFMZXcwLThqMDN5cGY2bGxPWFhKTkZYTkdVMUFadEM4dTB1bklFWk42MDcxN0RXZVFFTm9vOXlkc3NwbGdnMjVHVFg5Yk9RZXBsNDVfelpJaWRveTlxa1FHZlFRVzgzQ1gwUGtGcGI0Y0lCZVVFWm5HdU40ZzRSaXFEdkk?oc=5</link>
-<guid isPermaLink="false">a34b4b3568830eb160a36a9fba9c2351f3a34080e9a00b0b4f0159a7a9a88b81</guid>
-<source>Google News Artificial Intelligence</source>
-<category>technology</category>
-<pubDate>Tue, 03 Nov 2026 18:34:10 +0000</pubDate>
-<description>Artificial Intelligence (AI)-Powered Rare Disease Patient Finder The National Law Review</description>
-</item>
-<item>
-<title>Meta seeks to raise up to $25 billion in debt sale as AI spending jumps - CNBC</title>
-<link>https://news.google.com/rss/articles/CBMib0FVX3lxTE4xMlVlY0MtTHpoVEU4UlM3dk9mTzF4dl9pOUJWLUFuY2tPR3diQ3UzODhyYUN0aWctV3RDUF9Ba2RzR0k3QUw3ZXdLd013NlRSNEpEbl9jSWNMMUhRNEg3UGw1RGpObGxMTEVqenhfUdIBdEFVX3lxTE9jZzllUGdZQ2R0d1pmQ0cwNm9uWU5sZHV1dUx5dW5Oa1Y4TWZPaU9ZT0NQSVhKYWZYN0tJM2otdUh5dEhCMVB4dk9oZGdKUk1MQTVpX3RlZnZNblExaVNRLWpQT2FxX1BhX09NeTRYb0dLOXZk?oc=5</link>
-<guid isPermaLink="false">efa3874f5fad0c37a5bde7e186f6e1ab5b2cab6b6453e0e4777c42aed25ec2ea</guid>
-<source>Google News Artificial Intelligence</source>
-<category>technology</category>
-<pubDate>Tue, 03 Nov 2026 18:33:49 +0000</pubDate>
-<description>Meta seeks to raise up to $25 billion in debt sale as AI spending jumps CNBC</description>
-</item>
-<item>
-<title>A biocomputer that runs on bacteria - EurekAlert!</title>
-<link>https://news.google.com/rss/articles/CBMiXEFVX3lxTFBPZW9CemZjeDV5S1d2ZVJsdXdXcm9fMFJiR1R4SWYwZHdsRUZHUXRBd3p5RS1MQnJlcmx0Nk5FQzhMbDFtN3pIUkVVdzlCelZxWHVxN2NWSW00RmZK?oc=5</link>
-<guid isPermaLink="false">62b556a283067bf8e3d9f2a0c0f84cb75b7fbca2d53d3494c82c4680542d9018</guid>
-<source>Google News Artificial Intelligence</source>
-<category>technology</category>
-<pubDate>Tue, 03 Nov 2026 18:33:45 +0000</pubDate>
-<description>A biocomputer that runs on bacteria EurekAlert!</description>
 </item>
 <item>
 <title>Apple’s latest watchOS beta includes its new always-on Audio Intelligence features</title>
@@ -381,15 +339,6 @@
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/brave-1152x648.jpg" medium="image"/>
 </item>
 <item>
-<title>Revenue from the Artificial Intelligence (AI)-Powered Chronic Pain Coaching Market is Expected to Surpass $4.61 Billion - EIN Presswire</title>
-<link>https://news.google.com/rss/articles/CBMi9gFBVV95cUxOcnNFb3BMTWl6c2pPdG9sRUo0dUZFcjIwc1ZuWmJ2bXhVSURWQ0Zra05YUWRlTVJFakdFLTNjT3BXQlc3aEZZUXQ0OEUxOTd1YW1JQ1ZTcXBaT0xsYjM0azgxdmJWOHlUSWRycUc3WUcwTGxBZl9VdDJIQzUxandHZEwxZFlidXM5WWl4dkpGLUsyLWo2WkhBdWNiaGhtLWtwMnBlXzh0cUU1bzAzVWdLSzhULWFtRUF4RkV1Rm8tcmZIMDZjd1JrRzduVUprM1IxanVjV0dkaWxqUVJlLW5mQ29HdXJxaE8zVkFmalpRNzljSDAxWHc?oc=5</link>
-<guid isPermaLink="false">b317b5e0528f5621d21b43036e1629fdc5551b373e7c991ed110eea86a8dc60b</guid>
-<source>Google News Artificial Intelligence</source>
-<category>technology</category>
-<pubDate>Tue, 03 Nov 2026 18:30:00 +0000</pubDate>
-<description>Revenue from the Artificial Intelligence (AI)-Powered Chronic Pain Coaching Market is Expected to Surpass $4.61 Billion EIN Presswire</description>
-</item>
-<item>
 <title>Razer unveils the Raiju V3 Pro Signature Edition PS5 controller</title>
 <link>https://www.engadget.com/2305576/razer-unveils-the-raiju-v3-pro-signature-edition-ps5-controller</link>
 <guid isPermaLink="false">10eedc772d54ac8fcf135c0dc579469852981da42b9f51b2b43ce19ff856bf48</guid>
@@ -399,24 +348,6 @@
 <description>It sure is pretty and will likely be expensive.</description>
 <enclosure url="https://www.engadget.com/img/gallery/razer-unveils-the-raiju-v3-pro-signature-edition-ps5-controller/l-intro-1793730404.jpg" type="image/jpeg"/>
 <media:content url="https://www.engadget.com/img/gallery/razer-unveils-the-raiju-v3-pro-signature-edition-ps5-controller/l-intro-1793730404.jpg" medium="image"/>
-</item>
-<item>
-<title>Apple Launches Beta Versions of Watch AI Listening Tools, New Health App - Bloomberg.com</title>
-<link>https://news.google.com/rss/articles/CBMiyAFBVV95cUxPNVVBQnczQ0dUZFYwcG5wUjRkU3BpNHQxRk9jNXRLNUcwb1pvWERNLUdKcVhjTjFSeTZ5UUNYeElicHFraUIyV09iSFgtYkJzb2RrdGlIckljN2VZVzVQUEUzQnNZNUFQWUo0NWI1ekdBMGhDemllZldzWFNMZHhQUmRkZkJDQVRRZURHNTlqMUFLWHRjbmE3ZERsVEtxVnREQ0MwVEpyUFczMDk4TjItMzFBaTJVamFjbmI5empyQmFZc09OZEttMw?oc=5</link>
-<guid isPermaLink="false">f4d900ab5cdaef845942c99c4caae0f8c292d9741aef349cee2dcf185488e018</guid>
-<source>Google News Artificial Intelligence</source>
-<category>technology</category>
-<pubDate>Tue, 03 Nov 2026 18:27:38 +0000</pubDate>
-<description>Apple Launches Beta Versions of Watch AI Listening Tools, New Health App Bloomberg.com</description>
-</item>
-<item>
-<title>Amicus Brief in In re OpenAI Copyright Infringement Litigation - The Foundation for American Innovation</title>
-<link>https://news.google.com/rss/articles/CBMilgFBVV95cUxNam1INzlZQzRkd0NpWWJaZ1NkOVJFMnhKdjdfcjUtSnBiWnlfSENOR3lwUnpYcU16UnJQLTBBVFVMUnctbUs4Z3pRUHN5TkNsb1VJLW5Vc25HbUVidkVuVlY0VWNsV0lHYVdPWXAyMkV3VWpoSXBMQl9WTk1vWEU1RHhPaS0wcldoMndnWEpkQTQ5dGIyOWc?oc=5</link>
-<guid isPermaLink="false">1ce28ee342940b66060c1c1b2b2f1389cbfdd0c00ceb97e085f4564d58dfc592</guid>
-<source>Google News Artificial Intelligence</source>
-<category>technology</category>
-<pubDate>Tue, 03 Nov 2026 18:26:46 +0000</pubDate>
-<description>Amicus Brief in In re OpenAI Copyright Infringement Litigation The Foundation for American Innovation</description>
 </item>
 <item>
 <title>Reddit is adding more ads</title>
@@ -441,37 +372,6 @@
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/2027-Nissan-Rogue-Hybrid-05-1152x648.jpg" medium="image"/>
 </item>
 <item>
-<title>Industry Outlook for Artificial Intelligence (AI)-Powered Chronic Heart Failure Digital Coach Market Strengthens - EIN Presswire</title>
-<link>https://news.google.com/rss/articles/CBMi7gFBVV95cUxPdVU0RjJneU1HQ0FTdTgwanJiOFY5VFZlQXp5YzNJcGhIWjFUbXp1cXdxcVhpRXJMcU94ek8xWEUzZDg3WmpoMzVyS1ZVVy1lZUVXWHM5TGVXdTRGZ3dGWE9nc1pkV0NnaEhNS0gzLThTd2JLZGtpY0FHTW5CTHFiQWRpMHRpN0FxdnVsc281ZkIwamd1UkZTbzFZcnNBc1J5ODg2ZUtRSTBBdlZKcXZScldkRTFIbWQxYi1Ka3ozVjJPY3h0dWZrVGtNTFoxeFZCanhSaXQzYnl4V3JuQ3IwWTZ3eG42MUI2T0NtTWtR?oc=5</link>
-<guid isPermaLink="false">c8029d195883766ebeca0002068040526acd36ef97935afc2f2c8457515ecbb8</guid>
-<source>Google News Artificial Intelligence</source>
-<category>technology</category>
-<pubDate>Tue, 03 Nov 2026 18:15:00 +0000</pubDate>
-<description>Industry Outlook for Artificial Intelligence (AI)-Powered Chronic Heart Failure Digital Coach Market Strengthens EIN Presswire</description>
-</item>
-<item>
-<title>Indie games are missing launch dates because Steam is backed up</title>
-<link>https://www.theverge.com/games/1025596/valve-steam-indie-games-missing-launch-dates</link>
-<guid isPermaLink="false">62ed14364f0e88ad623d27f51b4ad0285e03996fc9c803ac80e7e36c48cf6fe0</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Tue, 03 Nov 2026 18:14:50 +0000</pubDate>
-<description>Many indie game developers have recently posted on social media about unexpectedly long approval wait times for their game submissions on Steam, with some of the approvals causing developers to miss their planned launch dates. For example, Studio Daimon, the team behind an upcoming title called Food Devils, had planned to launch the game in […]</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/ss_51fdf31162fecb3570ff97b0248b2706248e3281.1920x1080.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/ss_51fdf31162fecb3570ff97b0248b2706248e3281.1920x1080.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
-<title>Google’s Gemini-powered Home Speaker is already on sale for 20 percent off</title>
-<link>https://www.theverge.com/gadgets/1025498/google-home-smart-speaker-holiday-2026-deal-sale</link>
-<guid isPermaLink="false">8439cee58b45d9645860fe0789d287d893227ddbbcba15b391d9cb714f0ea3ef</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Tue, 03 Nov 2026 18:11:49 +0000</pubDate>
-<description>If you’re looking for a good smart speaker, the Google Home Speaker is down to around $79 ($20 off) in all four colors at Best Buy, Walmart, and Target. That’s the best price we’ve seen for the Gemini-powered speaker, which launched in June and represents Google’s first smart speaker in several years. In her review, […]</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268614_Google_Home_Speaker_JTuohy_0002.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268614_Google_Home_Speaker_JTuohy_0002.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
 <title>Best Air Purifiers for Allergies Are on Sale: Levoit, BlueAir (2026)</title>
 <link>https://www.wired.com/story/air-purifier-sale-october-3-2026</link>
 <guid isPermaLink="false">6047575d3b99d08f127969cd4cfbbb15bb0392c042f2d7b09beb2f94a5daecbf</guid>
@@ -492,24 +392,6 @@
 <description>Your Android phone can last much longer if you take steps to protect and optimize it. Try these tactics to extend your phone's life.</description>
 <enclosure url="https://www.engadget.com/img/gallery/how-to-make-your-older-android-phones-last-longer/l-intro-1793385407.jpg" type="image/jpeg"/>
 <media:content url="https://www.engadget.com/img/gallery/how-to-make-your-older-android-phones-last-longer/l-intro-1793385407.jpg" medium="image"/>
-</item>
-<item>
-<title>Outlook for the Artificial Intelligence (AI)-Generated Personalized Medical Reminder Market to 2030: Size, Growth Rate - EIN Presswire</title>
-<link>https://news.google.com/rss/articles/CBMi8wFBVV95cUxON1hocmFGUVRvRHFaaXBDSjRqTjhZclRvX3ZVbFZSTHZTME10YWRRVVJfZXlIRlBGRF9zSVVMbW9JelFWNXptdk9fdlNtVWRrMTZOWWxUQi1yMDl2Q2c3WmhyMndCLXNwSENlbVo2SDlLVFNNSnRwMkVBNi1yaU12Mm1zMzJKejZuSS1fR0ZtUHRYNjlHbUhNdEU5d2FjeTQzTDNfcVZXaE1aaTVsT2VzdGxza0hMNmcxdEZUc1dqTFhQeFpsNEswSllfUGF1OFFsYTRtNmdZQXJudHRMTEpSOWVzcjdyY1hNc2hKdEhiRGtLajQ?oc=5</link>
-<guid isPermaLink="false">8d3822e559a2707db008a87457e3b098e12d5d7b032e7947bb7e42e46ca6006d</guid>
-<source>Google News Artificial Intelligence</source>
-<category>technology</category>
-<pubDate>Tue, 03 Nov 2026 18:00:00 +0000</pubDate>
-<description>Outlook for the Artificial Intelligence (AI)-Generated Personalized Medical Reminder Market to 2030: Size, Growth Rate EIN Presswire</description>
-</item>
-<item>
-<title>The Global Artificial Intelligence (AI)-Generated Surgical Prep Checklist Market Is Experiencing a Rapid Growth Phase - EIN News</title>
-<link>https://news.google.com/rss/articles/CBMi7gFBVV95cUxPNGl2NS1wSllmaFFFSDF0cEpDVTFGUFloWWNTNWhRdVhMZXdVa213ZkpLR1pCTGlldHVjZXV6VVpDaDRSSjFrSFB0MkJSVENDdEJtekdPUXlodmF2eEMwNWFtWUtiR2ZzUDIyUERiQTROVE1sdlBQWlpZNGZwT0dQb0djZ181ejhJbHJ5dWhuRnNXSUpEVEQxRUhJeVp3MFRwMnN3TWpxZnF6aDAtZkRSeUtweVRJTjA3MjBYc0k4dXd6ZEZ2RXdwNS1vSHU0WTJOMTUwZUxHR280T3hrOUJqeDJLTk00a2NYa096MXZn?oc=5</link>
-<guid isPermaLink="false">84853c73557da94e24529f180109d9a26f17999a0e489a05965bd0f8c338eb8c</guid>
-<source>Google News Artificial Intelligence</source>
-<category>technology</category>
-<pubDate>Tue, 03 Nov 2026 18:00:00 +0000</pubDate>
-<description>The Global Artificial Intelligence (AI)-Generated Surgical Prep Checklist Market Is Experiencing a Rapid Growth Phase EIN News</description>
 </item>
 <item>
 <title>CrowdStrike to shell out nearly $500M for 2 AI security startups as the market for securing agents takes off</title>
@@ -552,15 +434,6 @@
 <media:content url="https://www.engadget.com/img/gallery/dont-throw-away-your-old-airpods-do-this-instead/l-intro-1793046798.jpg" medium="image"/>
 </item>
 <item>
-<title>The Market for Artificial Intelligence (AI)-Driven Personalized Bipolar Management Plans is Projected to Grow Rapidly - EIN Presswire</title>
-<link>https://news.google.com/rss/articles/CBMi9AFBVV95cUxNUGxONmRaUzN6N3JJQTNpeEpqd0FsUlE1NUlEbTR3dzdrTE1TMEwwU2U2MVp3ZmZTNkJ3WmhNOGx5SnZCWURLQTc5ZFpPOU1PNUpXQWZZSmZFd1pIbmNsN3dfa01ON0VmOFNackJ2WDJOZkFScWQ4bUhCRnh3T281ay15Y2Y0Zk5uRnoxRWFRWlJnNFRtRUcxVXNzNWx0cURIQnlDaE04WWFfTmgzdWFaS3lUcllQZkJDSTBlZF9TYTIxLWFGSTN1X19wZ2d0TmRKdGxLX1FGZnJ1OE9QZzIxMlJWNDZKQWMwTkZFMDVUQVlFd2cz?oc=5</link>
-<guid isPermaLink="false">da4fa5b3bc0fe8e7ef84164def2b8e9df4bb83bcc490a5588860b6aa5ed3ec05</guid>
-<source>Google News Artificial Intelligence</source>
-<category>technology</category>
-<pubDate>Tue, 03 Nov 2026 17:45:00 +0000</pubDate>
-<description>The Market for Artificial Intelligence (AI)-Driven Personalized Bipolar Management Plans is Projected to Grow Rapidly EIN Presswire</description>
-</item>
-<item>
 <title>Qwen 3.8 27B on my laptop can interpret model weights, too</title>
 <link>https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights</link>
 <guid isPermaLink="false">b5cba0d011349b3bc50111809ab484ae3a7ae1efda7d7776ece58fac266468bd</guid>
@@ -568,51 +441,6 @@
 <category>technology</category>
 <pubDate>Tue, 03 Nov 2026 17:40:00 +0000</pubDate>
 <description>Comments</description>
-</item>
-<item>
-<title>Meet the AI Expert Helping Guide Colby through a Technological Revolution - Colby News</title>
-<link>https://news.google.com/rss/articles/CBMikgFBVV95cUxNZktKNlBqSVBaeFlhcEpHWVNuWkVYMDRJLWVzcTNkTjMwSjVaNW1BcmxPam1STl9FcndvdTl6UFY4aUkzZExOV3NEYkJlUzhFSFVYbUpJYjVYcDZFaFd4dWhPRU5yd2hrQjkyRzFTT2dKaTFwU0ZwOExZa2xDY2Y2T20zb1FjQ3hIenpMMXZyVERaQQ?oc=5</link>
-<guid isPermaLink="false">642b7ed8c9395d35d0a9925fe6905ebdc7063f00808312cdf1db53014960077f</guid>
-<source>Google News Artificial Intelligence</source>
-<category>technology</category>
-<pubDate>Tue, 03 Nov 2026 17:37:11 +0000</pubDate>
-<description>Meet the AI Expert Helping Guide Colby through a Technological Revolution Colby News</description>
-</item>
-<item>
-<title>A US company argued that lawyers using artificial intelligence should receive lower fees after its trade- - The Times of India</title>
-<link>https://news.google.com/rss/articles/CBMimwNBVV95cUxQNFNKV2ZTRHBsNjBuNHlDbm0zLW9naWRlNHNzb2k0N29UUjNJOWI2bEh6NnZRaVotVXZySHozbTVnc0hLOE44ZVRyNjhEMkVnSDlKOEZvOHdVRHlmLUN3eHpWMW01RzNkX2ZObDRndnlpcjJmUTZaOThlOUkza28tTzhyQ1RrMm9OZUk4OXFlRWdGaU5QaDhZWkt3dkxHUWtUZEdKRUlQODE2M3NZc2RXaGNrd2JVRXhVclJCRjVHbXFOZjlrSjdKTlNyVlFzbDdiWmVhajlPaWdTbGN0WlpnTkhfWXhGRV9GaklnTXZiTXA0YkpoM2FoYkFKMS1IMkQxWXlGRHZpUEQ4SHl0b2Y0V280RVBYbDhtUWxRVVNST1YyNEk4QkRlTkIwWDF6aWs3c1FoelN1TVI0dDhqSWw1bGZBSUFFdmI0cDFDZThna2UxODZaLUhrN0ZMTVBocFZJODg2NkJRdzNGMUxxdDJXOThpRFBrMWk1Uy05b253X0poSnFkNm9yZlBFdy1Ed0xLWDN1M0toMmZJWUXSAaADQVVfeXFMTklSbkFXRl9lWU1aUWRxeFJ6cWt6YkJlWFhRY25wZ1JFVlE2djNQUWF4NnlCUkF2aVctNHVKXzBmc1BqdkFWZEt6cGVyU05lYjdtcDBSd01WaERsVXFFN084aUVMTy1SaDR5eWlfYkFvZWJWbURGRGhPX0hqekR1WkptNzJPT0pSOW5aaXcwX1Q2cTdTS0NvT21yMjJVOWJ2S2FTTnNvcEdJdkY1ZEo3Um43ZzFhSEVlVkVDb0FoUGxKX2tYLXAzV05TMmFGZUZkckZXeWZRQ2N0cDhMdXNEVkFmSVlJTVJJU01PMXBoV2E4a2hmeVVnLVNETFpfQzdvWHdibFVpdExuVkN6VUpKTXB0eW5wZF9wXzJkQUc3NmRyWUp6eUdWamhQNF9jdHJRcGRGNVREYV81RFFkZXp1VWt6bUlBMlF2RW04Z1ptT3hDZTN0d0V5QV9nZTRhblNwTXNvN3lhell0SDBMU3JFbkk0LVBVZHBjZ29XcmpKWC1LYVMxd1pBQ0MzNy1KSmR4OXpsa3NyMXhtTHVIMEdRUkM?oc=5</link>
-<guid isPermaLink="false">4966adc1bc65a5a54ad0c766d0384b468d5de767095b93b2a0157914b3b87648</guid>
-<source>Google News Artificial Intelligence</source>
-<category>technology</category>
-<pubDate>Tue, 03 Nov 2026 17:31:00 +0000</pubDate>
-<description>A US company argued that lawyers using artificial intelligence should receive lower fees after its trade- The Times of India</description>
-</item>
-<item>
-<title>The Global Artificial Intelligence (AI)-Generated Digital Health Coaching Avatar Market is projected to grow - EIN Presswire</title>
-<link>https://news.google.com/rss/articles/CBMi6AFBVV95cUxPNFBKTEZsU2djSmg2dEgxdlkwamhwWGNCcGJvMEFOclhfYmM2bnNMNXN4X1U1cTZGcUJXd1dpU1ltcE8wTDFDSWNPajRkeUhZMGg0WldUUWF4RWhnNVhNV0FGOVdraTg0VDFrTmlKQ2JfVEx1QUtZaTc0M1kyZmtnNVd1ME00blpKOUkzTUZRZDdLVVAtUmotU1Zhbi1fUHlCSUhxOGFILXhpemhTWjQ4YUFFNXNQakVFdUZrMndwN3J6aE5sQXBCZ0p0clMtbTVqdjlJMUxjTXFfcC14U0ZwTWd5bUVYMDYt?oc=5</link>
-<guid isPermaLink="false">c7e0b987c0d55180e1aec634f6cde0be8d488936a7a680e0148c994fca67ecf4</guid>
-<source>Google News Artificial Intelligence</source>
-<category>technology</category>
-<pubDate>Tue, 03 Nov 2026 17:30:00 +0000</pubDate>
-<description>The Global Artificial Intelligence (AI)-Generated Digital Health Coaching Avatar Market is projected to grow EIN Presswire</description>
-</item>
-<item>
-<title>Artificial Intelligence (AI)-Powered Medical Device Vigilance Platform Market Report: Forecasts, Innovations, Insights - The National Law Review</title>
-<link>https://news.google.com/rss/articles/CBMitgFBVV95cUxNdHBSaXlVdTFwM0xpekh4c0pTX2g1Z2VmeHFaZ3pXR2p4a2piZzRFaUNFZndmOWIxUVpTa0ppMlZXbHJiV3c2VmRiMUdWUE9sd1M3dTlWS1hQUWxMNFNCUTVoRGg3SU1HbEl4dUYzQzFmb2h6MjI5aTU4VjZxbFF5OTBmMUdRc2J6cnZLV3o3ckoyOG9yNkg0T3h3RFhpX1VDcnVydU5QYTJlMldMb2pkb2hSalpzQQ?oc=5</link>
-<guid isPermaLink="false">7fddbf9ce72bd06469ed6874832d21e3f8681c299ef42b71b38f828f7b91b6ab</guid>
-<source>Google News Artificial Intelligence</source>
-<category>technology</category>
-<pubDate>Tue, 03 Nov 2026 17:29:13 +0000</pubDate>
-<description>Artificial Intelligence (AI)-Powered Medical Device Vigilance Platform Market Report: Forecasts, Innovations, Insights The National Law Review</description>
-</item>
-<item>
-<title>The Artificial Intelligence(AI)-Powered Gamified Language Therapy - The National Law Review</title>
-<link>https://news.google.com/rss/articles/CBMitwFBVV95cUxNZzFnLU9kWEp1X0JLNFk1Rkh2WUVqZWIzYXlJRi1zSzNzSnVEbVk0Mm5fT2V4NklPZ01yZVNPc3lNYzgwVUlaN284anR4eDJWaWlEMkdrbkJQMnN6VU1fa3JUbEFGTVhSYlBLcWVWblY5RF8tZVR4U2RKWFRNQ1IxSE9vSERRSmVlWUR2bFdXMXZZWFlLcThxdG9iQlphTUYzSlY4MWdsOVpaaFU5aEcxbUhXa1FySnc?oc=5</link>
-<guid isPermaLink="false">0eea4ec0fd5759490137fd3f820408f013cddd8483ff8321dba4d4a156abd02d</guid>
-<source>Google News Artificial Intelligence</source>
-<category>technology</category>
-<pubDate>Tue, 03 Nov 2026 17:29:13 +0000</pubDate>
-<description>The Artificial Intelligence(AI)-Powered Gamified Language Therapy The National Law Review</description>
 </item>
 <item>
 <title>Postman silently auto-installs AI plugins and attempts to share all API data</title>
@@ -630,18 +458,9 @@
 <source>Ars Technica</source>
 <category>technology</category>
 <pubDate>Tue, 03 Nov 2026 17:21:29 +0000</pubDate>
-<description>NY gov. pointed to Kennedy's long-standing anti-vaccine work as spurring outbreaks.</description>
+<description>NY governor pointed to Kennedy's long-standing anti-vaccine work as spurring outbreaks.</description>
 <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2025/02/GettyImages-2053751760-1152x648.jpg" type="image/jpeg"/>
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2025/02/GettyImages-2053751760-1152x648.jpg" medium="image"/>
-</item>
-<item>
-<title>Emerging applications of machine learning and AI for predictive modeling in precision medicine - Nature</title>
-<link>https://news.google.com/rss/articles/CBMiX0FVX3lxTE16NWIxdF9vMHNNVGpKbVl4V1dNc1V6VFFNaDU3czQ0TmFoTVFOTWk5RDhJT1N1WmJhVmpUVnl3M25ZazVndVFpYnNYOW5CVXZuMlI1emF3WW94dHdhUDdF?oc=5</link>
-<guid isPermaLink="false">6b86a29861ea5e7cdaf113bbcdae0c3298e6d3b641887190cc48789624dcf2f9</guid>
-<source>Google News Artificial Intelligence</source>
-<category>technology</category>
-<pubDate>Tue, 03 Nov 2026 17:18:30 +0000</pubDate>
-<description>Emerging applications of machine learning and AI for predictive modeling in precision medicine Nature</description>
 </item>
 <item>
 <title>How to choose the right gaming monitor for you</title>
@@ -653,51 +472,6 @@
 <description>If you're looking for a gaming monitor upgrade (or even your first), here's what you should consider.</description>
 <enclosure url="https://www.engadget.com/img/gallery/how-to-choose-the-right-gaming-monitor-for-you/l-intro-1792664437.jpg" type="image/jpeg"/>
 <media:content url="https://www.engadget.com/img/gallery/how-to-choose-the-right-gaming-monitor-for-you/l-intro-1792664437.jpg" medium="image"/>
-</item>
-<item>
-<title>Market Research Report on Artificial Intelligence (AI)-Driven Clinical Trial Site Feasibility Featuring Analysis - EIN Presswire</title>
-<link>https://news.google.com/rss/articles/CBMi7gFBVV95cUxPMTlVdVVHQ3FmRHRHSDR4cUpWSlpWOFVUb2xiZkYxMVdLczAwUU5sSXh0YkVqMUZwYWg4a0FIN3IzVnVlOXVDdmVYeTY2eXU4WmdSZ1gwSlJjdlNYZS1YQmpDUDBUUG5xQWItNExEbHZHbk1VMjBta1VJY1hJREcwVW1EMXZOMkdma1pXOVFZYVNwb3F3ZjNYYkV5c2txSkc3WUIxeGhucV9kaFhUSExuRkFwLWI0RkRCZGdTWUJVTmxJaFJIVjdGdk1zbXNzRm4zQnM1dmpnQzRtYjBjVElyaDI4US1BQnp6ZjcwbGd3?oc=5</link>
-<guid isPermaLink="false">f6eb78f439a3a946f6df96e9f39be72196c56fe4b91dd150eacc7babaff1534d</guid>
-<source>Google News Artificial Intelligence</source>
-<category>technology</category>
-<pubDate>Tue, 03 Nov 2026 17:15:00 +0000</pubDate>
-<description>Market Research Report on Artificial Intelligence (AI)-Driven Clinical Trial Site Feasibility Featuring Analysis EIN Presswire</description>
-</item>
-<item>
-<title>Artificial Intelligence (AI)-Powered Remote Cardiac Rehabilitation Market Report Segment Analysis and Strategic Insights - EIN Presswire</title>
-<link>https://news.google.com/rss/articles/CBMi-AFBVV95cUxOVVNNS092bUdJQnhnbjFyTDdxcm9XVEpTYWxHVDc0U3ZMaFc4Qm5ieG10TEpKZ0ZjV0s5ZUhxbnB0UUN2V2VWWG1KTTZ5YjNqckdkN3Fwbl9mYW9IOWROUFBMUnJIQktPeGdmRGg4Z3Z4dEh1VkVGMWhYcjBncnZiYnV2Und1NFdLTTlIRWRWMDkxTjB0X0c2TjdPVC1ZUGtRN3NRTTllTThwYWVKRXROU1lGUTRjMlQwVDhOam5kNmtTdG12QkVUUHdMMjIzcG5pNGlxUldHMjlQdmZrdWxVY2lnV2J4clEzbmtocXVpTEFFZ2p0aWVicw?oc=5</link>
-<guid isPermaLink="false">236685eb0477abf89bd4226ad82304ddb990f75ad2f4ff1f8a5e62c38f92447d</guid>
-<source>Google News Artificial Intelligence</source>
-<category>technology</category>
-<pubDate>Tue, 03 Nov 2026 17:15:00 +0000</pubDate>
-<description>Artificial Intelligence (AI)-Powered Remote Cardiac Rehabilitation Market Report Segment Analysis and Strategic Insights EIN Presswire</description>
-</item>
-<item>
-<title>The Artificial Intelligence (AI)-Enhanced Remote Patient Intravenous (IV) Monitoring Market is Projected to Reach - EIN News</title>
-<link>https://news.google.com/rss/articles/CBMi5gFBVV95cUxON0JHak0yeUhzSnJ4Z2J4RmdHQ0t3NlQ4dHJTUi04VXhqQm1kYkJSaEg5OHZBUFdTbk0zbmx3Wk5EalRocnV0S21LWi1NdXZZY3FJRUlGa0lKUUtyWENLczNjSmU2S0szT2k5UFo4d0txR3R0d0R1NjdiVFF0bXlKUkpSYTdXalJlaWlaa2NhS2RtWWpwaGJFclFSdldjcFNHWmFHYlp5WkM1RWhTSDhFQld6SFJDblhtMGIxZGFEOTZRbDFMdGpwVmJPT195cGE3R3BTRGtoeGZ6ZlBXY3ZfVER6QXk3UQ?oc=5</link>
-<guid isPermaLink="false">9abe414752fa9fdd2742b2ad76c187ab72f6c34f0d43a3a3a18ba6ca47dec24c</guid>
-<source>Google News Artificial Intelligence</source>
-<category>technology</category>
-<pubDate>Tue, 03 Nov 2026 17:15:00 +0000</pubDate>
-<description>The Artificial Intelligence (AI)-Enhanced Remote Patient Intravenous (IV) Monitoring Market is Projected to Reach EIN News</description>
-</item>
-<item>
-<title>Artificial Intelligence (AI)-Driven Rare Disease Diagnosis Highlights Significant Growth Prospects Through 2030 - The National Law Review</title>
-<link>https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTG4wUkNycnBBbW1RYjdrcjQ4RGdMZ2NpNkFqV1p6Z3ZMVlBTNlk4a1BSSmpCWUtXRTJGckJiWHUxSVR5NDBHOVF6WS1KdkxFRjJCc3JJdG9mS3JkRmRCemZkQ3d3N2J5R0NZVWxKWGlkYnVqS05jR1pJOHlFNmdUaDBzdXpkUU1Ca0FhbjlqVFR4d0ZsUnU3ZUtrc25HSDY4SEJKcnp1UF9rODQ?oc=5</link>
-<guid isPermaLink="false">e25089d49525457a3d43cec7f9c330e00dcf090167f5570edf7ce89a51b1fbc4</guid>
-<source>Google News Artificial Intelligence</source>
-<category>technology</category>
-<pubDate>Tue, 03 Nov 2026 17:11:08 +0000</pubDate>
-<description>Artificial Intelligence (AI)-Driven Rare Disease Diagnosis Highlights Significant Growth Prospects Through 2030 The National Law Review</description>
-</item>
-<item>
-<title>Elon Drone Day showcases emerging technology, explores future of AI - Elon University</title>
-<link>https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMkFsMzlyWkZTVDFfUWRjN05kT3lpa3hyYW1vaXRzM251ZEY4TXZ6aGRXMWxLc0J4Tld2bFpteHNacTh4Nzl6NzIxdlF6N2gtLUkyYmxoYXR6WmxVdy1kdHY3MjV5aVh0VmoxT3B4UDRwTUREckp5dnZlRGhzbENuVDBfSDZBQUtkQ1g1RnFfSTdiWWItVzZXY3ZVanlQU0U1TXVRYW1Od1BGZw?oc=5</link>
-<guid isPermaLink="false">1f408afbf9d277076d0f41d5f5f4de5469794f36c5c8b96e8bbfafb3d43dd6f7</guid>
-<source>Google News Artificial Intelligence</source>
-<category>technology</category>
-<pubDate>Tue, 03 Nov 2026 17:10:51 +0000</pubDate>
-<description>Elon Drone Day showcases emerging technology, explores future of AI Elon University</description>
 </item>
 <item>
 <title>Google says students in schools that ban AI won't have access to Search</title>
@@ -762,15 +536,6 @@
 <description>Comments</description>
 </item>
 <item>
-<title>There’s a Dark Reason So Many Celebrities Are Subjugating Themselves to AI - Futurism</title>
-<link>https://news.google.com/rss/articles/CBMifEFVX3lxTE5RM0ZRT1FfVTg4QTBvR09YVjJlOTNlb2ZodGtQNjhyc0Qzc0FIaTRGV1BZdWtBMmUzYjV2aC1DUXJhbnpsN2tnZ0hiR3UweElUSkZuR1lMQW14MTA1SVhDekZ1alhTRE1SM3hJa2dfcHpTWXd6T2VxeWlSTzQ?oc=5</link>
-<guid isPermaLink="false">2388fbc71ff17b924cd9a7995ed04fd997b10cbbd9c01847dd3e8004ac928e91</guid>
-<source>Google News Artificial Intelligence</source>
-<category>technology</category>
-<pubDate>Tue, 03 Nov 2026 17:00:03 +0000</pubDate>
-<description>There’s a Dark Reason So Many Celebrities Are Subjugating Themselves to AI Futurism</description>
-</item>
-<item>
 <title>With World of Warcraft: Forever, Blizzard had to reconnect with what made WoW great in the first place</title>
 <link>https://www.engadget.com/2305373/world-of-warcraft-forever-blizzard-had-to-reconnect-with-what-made-wow-great-in-the-first-place</link>
 <guid isPermaLink="false">34d8c141b173c6913a14d435140545485ca04789e56c1e7882ddf76abd293c2f</guid>
@@ -780,24 +545,6 @@
 <description>Making World of Warcraft: Forever was a unique challenge for Blizzard's developers.</description>
 <enclosure url="https://www.engadget.com/img/gallery/before-it-could-make-world-of-warcraft-forever-blizzard-had-to-relearn-what-made-wow-great-in-the-first-place/l-intro-1793723179.jpg" type="image/jpeg"/>
 <media:content url="https://www.engadget.com/img/gallery/before-it-could-make-world-of-warcraft-forever-blizzard-had-to-relearn-what-made-wow-great-in-the-first-place/l-intro-1793723179.jpg" medium="image"/>
-</item>
-<item>
-<title>The Artificial Intelligence (AI)-Powered Clinical Documentation Market Is Projected to Experience Significant Growth - EIN Presswire</title>
-<link>https://news.google.com/rss/articles/CBMi8wFBVV95cUxOTEw5b2ZVQmoxbXAxVGVVN0NPN0FfVk84dW5UMzVYbG9NQTdXYloyeDJ0YnlJMTRtV3I1eGhCa1plQ0c1amh4RjBlZF9NX24tVmxUXzJlT2tVT0F1azAxQUxZZHE5WXBQWDg5Z2RaMXVScGFLUU14TUhkRGIwS3pOZWVKNk04emNlakxWajlEbThrVkZnT0phNk1HZ1FfNDU3RmZnamJFcEJTV2hoOXdrcDhFM0IybTBQM21Bc0tXd05NTGg5TUZaamk2cmxrMVdJNHBFNDQzR1pjMWgzclUxOWJmdU42VzJiSnMwRVQtZ1JXcE0?oc=5</link>
-<guid isPermaLink="false">eb3741c08bb8572f45532f89fb1abe4ecf9f285d530747bf7cf199ab5fa36ea7</guid>
-<source>Google News Artificial Intelligence</source>
-<category>technology</category>
-<pubDate>Tue, 03 Nov 2026 17:00:00 +0000</pubDate>
-<description>The Artificial Intelligence (AI)-Powered Clinical Documentation Market Is Projected to Experience Significant Growth EIN Presswire</description>
-</item>
-<item>
-<title>Trends and Forecast Analysis of the Artificial Intelligence (AI)-Enhanced Remote Neonatal Monitoring Market Indicate - EIN Presswire</title>
-<link>https://news.google.com/rss/articles/CBMi8wFBVV95cUxPQ1hXc2x5V3kyVnJGdW1TcF80MWtnZVN6TFZDTUNIY1lDcXMzZTZJY2JDQS11T3g3TmY0LUJBM1ljZi11YzM5dDlfR2NPVzJQaUZ3NkRUYzlNZi1HNWo2MEx0THUzYUpxQ2RJN3hZTVczNnliR1llcHRud1RsTnNlVmstUDEzeEFobEdYU2VRSHBEVUswdkxDbmtObUdtcU1nZ0JoVGtkYmNtRWQ4SjRpNUZpdXN2MUdFeWptUkxyYlJHSXFaVHpFUTdmM29mdnVlalBQa2VhM1IySjk2UFNtTkVnakNpQXJRUmE5bXl3YWpVNk0?oc=5</link>
-<guid isPermaLink="false">c909ed41f9bfdf4aed4868443c2040f9d0105d549716a575a5e1a2ab69363a30</guid>
-<source>Google News Artificial Intelligence</source>
-<category>technology</category>
-<pubDate>Tue, 03 Nov 2026 17:00:00 +0000</pubDate>
-<description>Trends and Forecast Analysis of the Artificial Intelligence (AI)-Enhanced Remote Neonatal Monitoring Market Indicate EIN Presswire</description>
 </item>
 <item>
 <title>This space company is betting its future on a propellant available everywhere</title>
@@ -811,15 +558,6 @@
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/Argonaut-Transit-to-Moon-16x9-1-1152x648.jpg" medium="image"/>
 </item>
 <item>
-<title>Bring structured and unstructured data together with Amazon Quick - Amazon Web Services (AWS)</title>
-<link>https://news.google.com/rss/articles/CBMisgFBVV95cUxPSWk3X01ZSEFsekQ0UjJ6NXJ5RmF3M090U1R1SE5ET1hyYzZydXExX0FGYlIxVmdXZFRFWjRIRV9CYnFzOFF0bkZzTFRZd1lCSEFRaWNxaWI1NTNTUHdCaTdaVDlEVGpPaEpUUVVBNl8zekJmMENZSnBEVXBfYlFUbGRuSVRNSDhvdk9Wc2I2am9OTm5JcWh0VklMSE1GNTl1b2JWMVBSUmxSa05ucVB0TEtB?oc=5</link>
-<guid isPermaLink="false">fcaa46c7245f235e7e26289a858121ecdd4b267a9bc9552f48723afc9df1abe3</guid>
-<source>Google News Artificial Intelligence</source>
-<category>technology</category>
-<pubDate>Tue, 03 Nov 2026 16:49:29 +0000</pubDate>
-<description>Bring structured and unstructured data together with Amazon Quick Amazon Web Services (AWS)</description>
-</item>
-<item>
 <title>Rivian spinout Also was working on an e-moto project in Kenya — until it walked away</title>
 <link>https://techcrunch.com/2026/11/03/rivian-spinout-also-owns-up-to-mistakes-in-delayed-e-bike-launch</link>
 <guid isPermaLink="false">4f5f5dce01b4491178858f4ab42745b9bf36e6a46cbbb35488dfbcebe1fb9ee2</guid>
@@ -827,15 +565,6 @@
 <category>technology</category>
 <pubDate>Tue, 03 Nov 2026 16:49:09 +0000</pubDate>
 <description>Also co-founder and president Chris Yu told TechCrunch that he wanted to prioritize autonomous vehicles.</description>
-</item>
-<item>
-<title>Artificial intelligence and old age - Cal Coast News</title>
-<link>https://news.google.com/rss/articles/CBMieEFVX3lxTFA2dlBweHhRS0p0V3h4UVM5VkhtejMyTXJLczAzc0VfMkg1dEJQWlFLWFZnNEZON0J0X1RENnVpWG5MbVpEX1hFNGRqM3Rwamg2dmdCMUZMdmxJaHd6YXMyaF9IZUIyUEJBbVM5WVlKYnZFYS1WNDE5Tg?oc=5</link>
-<guid isPermaLink="false">cc453c664aa699ccf0fb20ab23350cfe10f195b7494bdea0f1ccbf36c0ab1d61</guid>
-<source>Google News Artificial Intelligence</source>
-<category>technology</category>
-<pubDate>Tue, 03 Nov 2026 16:47:39 +0000</pubDate>
-<description>Artificial intelligence and old age Cal Coast News</description>
 </item>
 <item>
 <title>Stringman, an $800 open-source room scale gripper robot</title>
@@ -867,33 +596,6 @@
 <media:content url="https://www.engadget.com/img/gallery/go-foldable-or-go-home-all-the-gadgets-you-can-own-that-fold/l-intro-1793028690.jpg" medium="image"/>
 </item>
 <item>
-<title>How Gen Digital built Norton Revamp’s AI-curated News Engine with Amazon Bedrock AgentCore Web Search - Amazon Web Services (AWS)</title>
-<link>https://news.google.com/rss/articles/CBMi4AFBVV95cUxPWU1vUUhzWU5ZMlFiS0JFRVBkcExZOTYyNnNTdWlmMEt4YjlzcXBGeTNfUklIRGNhMVFHTk5faUU3cjRMX0lNVVZtTGJlRllTRGUxTi15ek1yVEpHcXZRYjFZcDRNc1JHLU9tUm82T3BoTUs5S1hmcXFoM0ZaRXZOa1JfS3lib0NWczA5NXlheHRqUldHSVM4YnZqNl9tdkFMQmtGRWNVSTVzQWliZ3d0RHlrcWdzMkNmNnNCWUN0LUxid0c3dEVxakZZU3pLSWNiZXVfQk5JSWRSeU5nZmdsZw?oc=5</link>
-<guid isPermaLink="false">e873f86dd6d6b0a24dd52197ef72951ddcde81dd41491a4d82cfdc0021b5dccd</guid>
-<source>Google News Artificial Intelligence</source>
-<category>technology</category>
-<pubDate>Tue, 03 Nov 2026 16:43:20 +0000</pubDate>
-<description>How Gen Digital built Norton Revamp’s AI-curated News Engine with Amazon Bedrock AgentCore Web Search Amazon Web Services (AWS)</description>
-</item>
-<item>
-<title>Build a semantic layer for agentic AI with EDB Postgres AI and Amazon Bedrock AgentCore - Amazon Web Services (AWS)</title>
-<link>https://news.google.com/rss/articles/CBMizwFBVV95cUxObFpLQ3lpWmc2SXVFejNuOHEwX3p3TkFheVJhY011dVJBNXF5b2ZHNUR4UDFqa2Frdk5ZS25oUkdZR093SWV6WUpKUlZOalpmbTR0TlJxS3ZoQnFKcGhON1pEZ2dTWmxrYjI0WnlwM0FtZUplUmlYS2NDTU15d3lyX1U0S3h2UjM1dnFkU18taF80NnRGaXgyTkFFQlpweDJ2enpFQ05GMUxuM2lKQS1KbXhHY1V3RUZMN2lRMDNnUGFfVW02cXpZNTdTZDIzWnM?oc=5</link>
-<guid isPermaLink="false">08fe807c81e82111b4f9b33a5cf8fdc044b4cec097195d1640dff01340bb7ec5</guid>
-<source>Google News Artificial Intelligence</source>
-<category>technology</category>
-<pubDate>Tue, 03 Nov 2026 16:41:13 +0000</pubDate>
-<description>Build a semantic layer for agentic AI with EDB Postgres AI and Amazon Bedrock AgentCore Amazon Web Services (AWS)</description>
-</item>
-<item>
-<title>Building ultra-low-latency voice AI applications on AWS - Amazon Web Services (AWS)</title>
-<link>https://news.google.com/rss/articles/CBMipAFBVV95cUxNVGhBV0I4eDAwRDltZWxHeEdaV200QTU2am1NX0xyV2tOd2JlMGhnS01MVS01c0E0X0FOdEhKdEZ3c0E4TEVSVGhsMDNrRXBoOHVUNmZIUkVpNk1BV09ZRXNrdGxJVDVYRF9OYjZZT1k5a196UEx2SXh5LWIxWFRWUVotb0xPcl9SXzF6V0lYSEhzMXRjOWNuZl9EZUcwS3BQZUpFTw?oc=5</link>
-<guid isPermaLink="false">1ececb4de269b05dc8c834461fb9a898adbfebd81345fa8c2bc2d8151d46a052</guid>
-<source>Google News Artificial Intelligence</source>
-<category>technology</category>
-<pubDate>Tue, 03 Nov 2026 16:40:54 +0000</pubDate>
-<description>Building ultra-low-latency voice AI applications on AWS Amazon Web Services (AWS)</description>
-</item>
-<item>
 <title>USDB: Scaling Storage for Next-Generation Recommender Systems at ByteDance</title>
 <link>https://arxiv.org/abs/2611.02618</link>
 <guid isPermaLink="false">192a25c270b9b2a8cd1836d6c79496cfb2fe99439c644854b25e0cf8f8416890</guid>
@@ -923,24 +625,6 @@
 <media:content url="https://www.engadget.com/img/gallery/the-easiest-way-to-turn-your-regular-tv-into-a-smart-tv/l-intro-1793632819.jpg" medium="image"/>
 </item>
 <item>
-<title>Artificial Intelligence in Oncology Market Forecast Report with Segment Analysis and Strategic Industry Insights - The National Law Review</title>
-<link>https://news.google.com/rss/articles/CBMitwFBVV95cUxPNGh5dlJjcFFSVmNKR2xhUi1EQ2pzMXk2ei1hdmI1Z0diX1FiM2hRX1FZY3prbU5hR0JmVnZDYVFnR2UtOVA4TTRYUlFVaXR6NExrRWFRa3pwak9QSjZOR0hadDA3WG5yTzNhZHFNOEtUMU5NTjJoc2V1T19RSW9RRHYzTHdzRE0zQWNoOHJVQm1iOHh2czJzNEFkOVdfSG5uZXNIQmpFRjBEQUhmSE5IYUp1a1ZvX1U?oc=5</link>
-<guid isPermaLink="false">cd6389edf4b633dc4efefc5b934e7445a61372334eebcf493e977d27536ae9ab</guid>
-<source>Google News Artificial Intelligence</source>
-<category>technology</category>
-<pubDate>Tue, 03 Nov 2026 16:11:46 +0000</pubDate>
-<description>Artificial Intelligence in Oncology Market Forecast Report with Segment Analysis and Strategic Industry Insights The National Law Review</description>
-</item>
-<item>
-<title>Artificial Intelligence in Medical Imaging Market Including Forecasts, Innovations, and Industry Perspectives - The National Law Review</title>
-<link>https://news.google.com/rss/articles/CBMiqgFBVV95cUxNbmd2MUtEaWJvYzdqeDF6dEpDNWMyUklMeExGT180LUZnb1ZEME44UFFJa3dTa3pNM3M2dFNaeFJ0UEhqX1NxVEw5Q3d5el9zWUFFUGhRUk15VjB0SnFtbmN3VHNPUTA5T2xsUjYtRjBCUldtYzRrejVsT3MxU3pTUllTOXlCTDZvOTNCb01UdUU4S1ZGNWJsZTRCZjlnUzJjcEFEemlmamt0UQ?oc=5</link>
-<guid isPermaLink="false">5ed60e37af9a0cb7b74e2c4523fa976bc18ec9d8d2e5337157d0edd14363d78e</guid>
-<source>Google News Artificial Intelligence</source>
-<category>technology</category>
-<pubDate>Tue, 03 Nov 2026 16:11:45 +0000</pubDate>
-<description>Artificial Intelligence in Medical Imaging Market Including Forecasts, Innovations, and Industry Perspectives The National Law Review</description>
-</item>
-<item>
 <title>New York City’s Mamdani criticizes Madison Square Garden owner over surveillance tech</title>
 <link>https://techcrunch.com/2026/11/03/new-york-citys-mamdani-criticizes-madison-square-garden-owner-over-surveillance-tech</link>
 <guid isPermaLink="false">aa8221639029b9f38d16a42dfed9deedea287d6b7ca15676a0495a7e4fde722e</guid>
@@ -961,15 +645,6 @@
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2020/10/malware-1000x648.jpg" medium="image"/>
 </item>
 <item>
-<title>Stony Brook University study finds AI improves hospital discharge summaries - Long Island Business News</title>
-<link>https://news.google.com/rss/articles/CBMipwFBVV95cUxQQnVXUGJobVZfWm5qUUF1QXd6cHVla2VuUHJhZzNld2hfb0ZDZGxRLTZRLVV3UnNTMVQ2RHFoZktSejBDTlh2dnplbzhWeTQzbFZoeVlsaGFVdmtwcVA2WUZtb1h0ZmxaUTdqTWJxdkxJVzdVUktWSWJyNkZuM3ZKaHA1RmQweHE1SzUxTlFfUXBCUVFFMVBOOWlxNzhSd1BBYk5hdjhjcw?oc=5</link>
-<guid isPermaLink="false">e4664fc483acbba9147c7a21215e3583af2944dbb2404ad540cb797fc41776f2</guid>
-<source>Google News Artificial Intelligence</source>
-<category>technology</category>
-<pubDate>Tue, 03 Nov 2026 16:01:52 +0000</pubDate>
-<description>Stony Brook University study finds AI improves hospital discharge summaries Long Island Business News</description>
-</item>
-<item>
 <title>What does the H+ symbol mean on your Samsung phone?</title>
 <link>https://www.engadget.com/2300406/what-does-h-plus-symbol-mean-samsung-phone</link>
 <guid isPermaLink="false">eb7b54d74d3a87733a43804e806338251ef85f261cd570c70ecdb9b8072005b5</guid>
@@ -979,24 +654,6 @@
 <description>The status bar of your smartphone is littered with arcane symbols that are mostly undecipherable. We all know what 4G and 5G are, so what is H+?</description>
 <enclosure url="https://www.engadget.com/img/gallery/what-does-the-h-symbol-mean-on-your-samsung-phone/l-intro-1792776714.jpg" type="image/jpeg"/>
 <media:content url="https://www.engadget.com/img/gallery/what-does-the-h-symbol-mean-on-your-samsung-phone/l-intro-1792776714.jpg" medium="image"/>
-</item>
-<item>
-<title>Artificial Intelligence (AI) Radiology Tool Market Projected to Reach $3.69 Billion2030 Driven Robust Industry Expansion - EIN Presswire</title>
-<link>https://news.google.com/rss/articles/CBMi9wFBVV95cUxPSDEzS2dYNDJWUE9RdDc0OGFTenJVSmVyWnRNSVQxeld5NWVQX2dNcjJkS1haUlJqa1ZTRWR1V2Utd3hmaG9vUnNWdC1qTHJSR1Z6cVZ3LU13QXcyNk5nSDMtX3VQd0pZUWR3Y1FMU0lDeDZZS0FkZmhOT0d3dEV5aktSTDRGWW1UUmFyMHZyeHpaVFZ0V0liRU9xNThPcDl5cHNxeXF6T05PTW5zdy0wbEVFM3ZuSXBVQmU0eUNWbHN2MGNkRUljV3pFdXB4b1dwTXNzT2xHM3lFOFdaX01nak42d1hINU44Z1BGb1JIQ2R4T2tSZ25B?oc=5</link>
-<guid isPermaLink="false">7aadc9894c8d5ad390a7a21c3fc857add8edcc1cf6485cd82d5e09716f42a10c</guid>
-<source>Google News Artificial Intelligence</source>
-<category>technology</category>
-<pubDate>Tue, 03 Nov 2026 15:45:00 +0000</pubDate>
-<description>Artificial Intelligence (AI) Radiology Tool Market Projected to Reach $3.69 Billion2030 Driven Robust Industry Expansion EIN Presswire</description>
-</item>
-<item>
-<title>Show HN: HackerChurn – which SaaS tools HN wants to cancel</title>
-<link>https://hissingkitty.com/hacker-churn</link>
-<guid isPermaLink="false">5973d0308d2f526a225a47697961569a79dde1720803ed7614ee72012cc4ac4b</guid>
-<source>Hacker News</source>
-<category>technology</category>
-<pubDate>Tue, 03 Nov 2026 15:41:52 +0000</pubDate>
-<description>Comments</description>
 </item>
 <item>
 <title>Trump wanted to give No Kings no air. Then, Meta suspended its Instagram.</title>
@@ -1019,24 +676,6 @@
 <description>Apple's new App Store rules will require 18+ ratings for dating apps and AI companions that offer sexual or romantic content.</description>
 </item>
 <item>
-<title>Study estimates 75% of NFL players who died over 15-year span had CTE</title>
-<link>https://www.nbcnews.com/health/health-news/study-estimates-75-nfl-players-died-15-year-span-may-cte-rcna605975</link>
-<guid isPermaLink="false">12dfb26aa54a72e70b52d5e7ee17da7d066005ff0a237c1e4d71dd46120362b8</guid>
-<source>Hacker News</source>
-<category>technology</category>
-<pubDate>Tue, 03 Nov 2026 15:38:04 +0000</pubDate>
-<description>Comments</description>
-</item>
-<item>
-<title>The Artificial Intelligence (AI) Pathology Quality Control Market may reach $4.65 billion by 2030, growing at 21.1% CAGR - EIN News</title>
-<link>https://news.google.com/rss/articles/CBMi7gFBVV95cUxQa2VGSHVuZmpOVzVUeHdkaGdvb1kweEtsWWM4WUNTTTBDX3lUcUt6SGp4OHpNd2NwZkxVMkhRT2ZBRTJrTGlyLUg1MU1RNnVtTXZoRHV2NGQxbEN1cE5vVmtLbm42MktzSl9QcUtEVjN6X1NWMFhGTnduZkZxaDRJTlZCcWNXWUpMaDNEZnItZmZiekFQdmxoOC1WZWlVaVZySW1vUGR2MUQwYXBMb1BXaEtRMTZ1MGkxU0JPREdidUJLY01NOUlsSHBjNkRGMXB4d1czNnpPdXc5bms3V2JIaHRuWGpWLW5Da1hQc1d3?oc=5</link>
-<guid isPermaLink="false">5e68bd93694eeabdc4ddb203a4c0f494b3e4755e12c7c1d4cd74e4b33696cbec</guid>
-<source>Google News Artificial Intelligence</source>
-<category>technology</category>
-<pubDate>Tue, 03 Nov 2026 15:30:00 +0000</pubDate>
-<description>The Artificial Intelligence (AI) Pathology Quality Control Market may reach $4.65 billion by 2030, growing at 21.1% CAGR EIN News</description>
-</item>
-<item>
 <title>Kalshi and its co-founders face felony charges for violating Utah gambling laws</title>
 <link>https://arstechnica.com/tech-policy/2026/10/trump-admin-sues-utah-to-save-kalshi-from-the-states-total-ban-on-gambling</link>
 <guid isPermaLink="false">da1b5997a61e624a913d34b516cfece4503e5bcd0ce23af2df2176d14bcd9bc1</guid>
@@ -1044,24 +683,6 @@
 <category>technology</category>
 <pubDate>Tue, 03 Nov 2026 15:29:15 +0000</pubDate>
 <description>Comments</description>
-</item>
-<item>
-<title>Prediction: This Artificial Intelligence (AI) Software Stock Will Outperform Palantir, According to Wall Street (Hint: It’s Significantly Cheaper) - The Motley Fool</title>
-<link>https://news.google.com/rss/articles/CBMijwJBVV95cUxOSUNnQTFqekR5MlJJOGliZ3hIbnQycFpxWEk1MjVoOER1SXJ4ZUNXVThJbzBERllGSXhLbE1WZHhtYjJJTGtoaS03V1o4Rk5jRnBrTm5IcDdNRFJXRk1KT1FkcWRrdlJoMm1rbWpnMC1BY01TTFJQYVQzT0tWTE1HMXF0NlcwSEM2N1NscFpaS0ZKVU51X3FkN1JZR1ZjM3RraGU4WUlFNTVXaGI1NF9COEVzUm5pS3p0emxWZ1hQS2Z3UWtYTjdNMzVOUFk4OFBJeExxZHA5QUthWjBCNXNlalBuTDQ3dmo5c2JLeUxQRUtMTWdvZWZwbzlWN01XMWlhUFBTT2M4c2xXV2ZxLTNN?oc=5</link>
-<guid isPermaLink="false">2dc91e8ce3308376fcc155f2743cafc5093a6c86fc5496c18c42766e6c776d8c</guid>
-<source>Google News Artificial Intelligence</source>
-<category>technology</category>
-<pubDate>Tue, 03 Nov 2026 15:28:00 +0000</pubDate>
-<description>Prediction: This Artificial Intelligence (AI) Software Stock Will Outperform Palantir, According to Wall Street (Hint: It’s Significantly Cheaper) The Motley Fool</description>
-</item>
-<item>
-<title>Artificial Intelligence in the Diagnostic Market Expected to Experience Steady Growth at a 39.3% CAGR Through 2030 - The National Law Review</title>
-<link>https://news.google.com/rss/articles/CBMitgFBVV95cUxPaHJPWFFGSld3OG4xNUJXcEtJYXhKbVJlS3hRSy1sS09QQTVDMUp1TVg1QnZlYlhFZk5ONEVsZWZlTXNYMmJGMm9CT2p1Z0IxWGN6NnJreUlraGRvLVMwS0FwaXM0TzZhV0lWVm1LM2JIaFdnMXNDbVRKeXkyeHN3TV95Mlp1RjB1X25ZbjQwQWdoTlpqb0pVYVhKRXViY0hLY3N2X3BrVU9sOXM4YUl5aWR1VnByQQ?oc=5</link>
-<guid isPermaLink="false">f89362468e522636cb1000b6db211e00b7e825698e0208884692ea8c45b17c1b</guid>
-<source>Google News Artificial Intelligence</source>
-<category>technology</category>
-<pubDate>Tue, 03 Nov 2026 15:27:51 +0000</pubDate>
-<description>Artificial Intelligence in the Diagnostic Market Expected to Experience Steady Growth at a 39.3% CAGR Through 2030 The National Law Review</description>
 </item>
 <item>
 <title>Google will turn off search for schools that reject AI</title>
@@ -1079,24 +700,6 @@
 <source>Hacker News</source>
 <category>technology</category>
 <pubDate>Tue, 03 Nov 2026 15:17:07 +0000</pubDate>
-<description>Comments</description>
-</item>
-<item>
-<title>The Artificial Intelligence (AI) Oral Health App Market is projected to grow $1.8 billion by 2030, with a 21.1% CAGR - EIN News</title>
-<link>https://news.google.com/rss/articles/CBMi6AFBVV95cUxQb253d1BvVGd6WGd6VFJTYzROOXF2NjNBUXhsdUdBTXAxYjl5WERySzVRa3VYTEhJNkk3TVVfLVlVWTNSRjYza2VqYVhOdERkNjloeUNPZFpGZ0hueWlWZWFyN251aVZtODF2cmQwSmNKS1NCYUhWY203cUhSTURNa3dIVWlzWkczUnA5ak14cVpnYnkwTENpM1dCME93RUZELUJTVlpLaFpnM0IxU2Z1clBJV0QwdHlUakhkM19WSmtjcktmNTRxTUtZdk5lTnc2aUFVT2FIZzZxNnJ4d3BiSEhoVG93OGw5?oc=5</link>
-<guid isPermaLink="false">9595e71c390a7e9b5bfd07463db0b30fb0911de9b5c65c8e8200f782c4640131</guid>
-<source>Google News Artificial Intelligence</source>
-<category>technology</category>
-<pubDate>Tue, 03 Nov 2026 15:15:00 +0000</pubDate>
-<description>The Artificial Intelligence (AI) Oral Health App Market is projected to grow $1.8 billion by 2030, with a 21.1% CAGR EIN News</description>
-</item>
-<item>
-<title>Handles are the better pointers (2018)</title>
-<link>https://floooh.github.io/2018/06/17/handles-vs-pointers.html</link>
-<guid isPermaLink="false">17d85d3d44c1dfa3c28adaf2d66f06b267353f6e676bf2992f8753b8c76e5a9e</guid>
-<source>Hacker News</source>
-<category>technology</category>
-<pubDate>Tue, 03 Nov 2026 14:54:30 +0000</pubDate>
 <description>Comments</description>
 </item>
 <item>
@@ -1169,24 +772,6 @@
 <description>On Nov. 4, TechCrunch Founder Summit 2026 brings founders and VCs to Boston's SoWa Power Station for practical insights and connections. Register before prices increase at the door.</description>
 </item>
 <item>
-<title>Life Sciences Market for Artificial Intelligence Projected to Reach $10.43Bn by 2030 Driven by Robust Industry Expansion - EIN News</title>
-<link>https://news.google.com/rss/articles/CBMi8wFBVV95cUxPb1FIT2hyWUJCYTJqN0F5b2p3ckRjd3BDV3FLSXBnRVExMGFTOEFxSUlWdEY2U1F0T3ExZVhMckFIN1FKTUw1bjFiN1ZzQnE4THcySDJjSjFKTUhVYTZQeUtrQlh1OWhFTVV0c3lXSEdsd3RnZ0Z1UVZPcjhXRnpiQWlDNnk4ZV82Q2RuSzVwRTdWTnFhaWxVOWVCdmo1bnRhR3J6ZDdRMno3Z3BSckUzRHpfSGRRdGw2Qk1YVUJUWmxnZW1xZlhNbWhmTldqcVN1bV9xNnVnbkZGUVFVUHgtaUYyd3FpckdIUzluM2ZHb3R5OVU?oc=5</link>
-<guid isPermaLink="false">0109b12ab19dc78752b572574bde47cba0d3982ccda9a1e63e4fa6ac4c3c083c</guid>
-<source>Google News Artificial Intelligence</source>
-<category>technology</category>
-<pubDate>Tue, 03 Nov 2026 14:30:00 +0000</pubDate>
-<description>Life Sciences Market for Artificial Intelligence Projected to Reach $10.43Bn by 2030 Driven by Robust Industry Expansion EIN News</description>
-</item>
-<item>
-<title>The Artificial Intelligence in Medical Coding Market is Projected to Grow Rapidly at a 14% CAGR Until 2030 - EIN News</title>
-<link>https://news.google.com/rss/articles/CBMi4AFBVV95cUxPZ2ZhNGo4eHBXVUEtTWxoMFcyN3UyUjRlOWlsY2pjR25CZDlGZXhZdmRkRzJGUHEwdDZKaXpTM0ljNkFUM0dBT1FwZFFFSWh1MW9nZmlndGl5aWlWNTJnYXNtRGpLSVR4SmZYOW5rMWhXbWFieDMxOFVQU2tmbkdoQVFSRHZLYU9PSlV5cXV1aUxJQmc3d01jaEhhZjdSSWIxNTFWWHNLMXhSMmNBa295Sm9lQVVMYkRyUjh1SWtvM05GODVOb0FFRngxMmVRU1VpRlhTSUlCeFpvOHdfeHFlUA?oc=5</link>
-<guid isPermaLink="false">7c61c7dcc41f00bbe48b428adf04b6f250f6a6d04fcc21cfe04998c471a0724f</guid>
-<source>Google News Artificial Intelligence</source>
-<category>technology</category>
-<pubDate>Tue, 03 Nov 2026 14:30:00 +0000</pubDate>
-<description>The Artificial Intelligence in Medical Coding Market is Projected to Grow Rapidly at a 14% CAGR Until 2030 EIN News</description>
-</item>
-<item>
 <title>Samsung's Galaxy Ring gets FDA approval for advanced sleep apnea detection</title>
 <link>https://www.engadget.com/2305182/samsung-galaxy-ring-gets-fda-approval-for-advanced-sleep-apnea-detection</link>
 <guid isPermaLink="false">d5946b8fe09d343352e2f813e27dcc0094d2dc00bbade1a0e7f132ddd264d279</guid>
@@ -1196,24 +781,6 @@
 <description>Samsung's Galaxy Ring now offers more advanced sleep apnea detection following FDA approval of the new feature in July.3 replies</description>
 <enclosure url="https://www.engadget.com/img/gallery/samsungs-galaxy-ring-gets-fda-approval-for-advanced-sleep-apnea-detection/l-intro-1793715607.jpg" type="image/jpeg"/>
 <media:content url="https://www.engadget.com/img/gallery/samsungs-galaxy-ring-gets-fda-approval-for-advanced-sleep-apnea-detection/l-intro-1793715607.jpg" medium="image"/>
-</item>
-<item>
-<title>FILE PHOTO: FILE PHOTO: An AI (Artificial Intelligence) sign is seen at the World Artificial Intelligence Conference (WAIC) in Shanghai - The Daily News | Texas' Oldest Newspaper</title>
-<link>https://news.google.com/rss/articles/CBMikAJBVV95cUxNOG9Ia3RJTTZ6ZV83aVI5cDd4X0QxVW5FTk9aUGJPdkhvbzZGSWh2VXAzYXNVNXpxbkdzVWs5X0V1YW9fYTlSVVVOMDR4Z3JMUGRXRVdnQmFJQlh0elY3YnFobXFrVTE4YVVkOF9IOUhzNUhVYVByODNIZTdFSUZxNkI2cjN2WldqR3hYS2ljTUk3eW5ZY3JMRDljem9HSHQwS3lRaEtZZXlFZ3loaGdHMEtWRVFqZW1hdzhXVlh5QWUtRWRzeTRJa0V0eklNS0JZNndpZnJjZ1ZjSnE3Rm1SMVhESXM2Nkc2ODVMNkxEVVBycVI1Xy1MOUlGanhfbzNfZlh3YTdPeVVBd21yWnVNcA?oc=5</link>
-<guid isPermaLink="false">1b9d23937c20e5c60fe553c6fd48789489e35fa1a7edf98e23c60c85899c6b0e</guid>
-<source>Google News Artificial Intelligence</source>
-<category>technology</category>
-<pubDate>Tue, 03 Nov 2026 14:20:13 +0000</pubDate>
-<description>FILE PHOTO: FILE PHOTO: An AI (Artificial Intelligence) sign is seen at the World Artificial Intelligence Conference (WAIC) in Shanghai The Daily News | Texas' Oldest Newspaper</description>
-</item>
-<item>
-<title>Micron or Nvidia: If I Could Only Buy and Hold One of These Artificial Intelligence (AI) Chip Stocks for the Next 5 Years, It Would Be This One - Yahoo Finance</title>
-<link>https://news.google.com/rss/articles/CBMilwFBVV95cUxNNkdPNUF1TDE3bHZZbFVwa3JBVnEyNTRkRDlVS0J3ZXJTQ0M5OVV5YW1IU3dPOUlUdUVmdGxhTFF1b3E2Z21oeUF4dDJoZldabTItU21WQkpKY0tPUnVaMFpfOGVKZk4xNzVCNmdySG9fWXYwTGgzS2J1RDFWdWJYaF9BRkhhVG53V0dyY2xDbGhYb2t1bW9J?oc=5</link>
-<guid isPermaLink="false">6a66f71bc4407b03b0ef9f6d2f8fca2aff271100242200cfeb2d27ffb8186cf6</guid>
-<source>Google News Artificial Intelligence</source>
-<category>technology</category>
-<pubDate>Tue, 03 Nov 2026 14:20:00 +0000</pubDate>
-<description>Micron or Nvidia: If I Could Only Buy and Hold One of These Artificial Intelligence (AI) Chip Stocks for the Next 5 Years, It Would Be This One Yahoo Finance</description>
 </item>
 <item>
 <title>5 iPhone features you should be using after updating to iOS 27</title>
@@ -1227,24 +794,6 @@
 <media:content url="https://www.engadget.com/img/gallery/5-iphone-features-you-should-be-using-after-updating-to-ios-27/l-intro-1793592703.jpg" medium="image"/>
 </item>
 <item>
-<title>Competitive Analysis of the Artificial Intelligence (AI)-Driven Hospital Asset Rental Market Among Top Global Firms - EIN Presswire</title>
-<link>https://news.google.com/rss/articles/CBMi8gFBVV95cUxNa3R2ZXZNS0daYkhCOFRWRm5GWmtoMTFMejZNSXZmNGNVNDB2UVBYWGZhalBVRnh3Vy1SYThRajZiS3FJUHY1emFqaHV3N1dvbGNkalFZN1pJOHdhUWItdWtMbVdCV1VvRjlnV005M3NFbzhlWjh0NzJ6RUxzY0I3Nk5GbE9idjE1UHE1cmlNSkpnTmNMT1FVSUc0VXNDTElHY1diLWNKdHNlcVVtOGcyVkdoOXFtZUpydmFHLVR6VENSbFRqa3pIbC1BUElDUzc5ejdUcE5WZmRlZURNQjZUYnp5QUpYR19aRmNTTkdDTGNqQQ?oc=5</link>
-<guid isPermaLink="false">ada66d1fd469dc1dce69b52e663a908f65314a9016f31d09065803ba70f23eb6</guid>
-<source>Google News Artificial Intelligence</source>
-<category>technology</category>
-<pubDate>Tue, 03 Nov 2026 14:15:00 +0000</pubDate>
-<description>Competitive Analysis of the Artificial Intelligence (AI)-Driven Hospital Asset Rental Market Among Top Global Firms EIN Presswire</description>
-</item>
-<item>
-<title>The Artificial Intelligence in Radiology Market is projected to grow at a CAGR of 30.3% by 2030 - EIN News</title>
-<link>https://news.google.com/rss/articles/CBMi0gFBVV95cUxPOHo3MkxQZVpxWG9BWEVVZWdPTFdXZkM0QS1WcUw4Nm05Mkx3TldaRUhrWVVRdFdYdHctdmJGS3V2cGtRaDBfWUhfczhUNkRaMlhTRVFYR3JZN2pjTTR5bHdyaVNkb3RfZ2taLXduRXNlUW84VW9QWENORW9Lb1k2dC01NXd1ZkRpbDh1UEk0V1dsV0NYNFkya1licmlaZll1cTlqUVNROFhhczR4NVJoMUlzbkwwT0lCTnlBaFFXNkx4cVNQdkRuSlhfY2Y4Mm1ZUXc?oc=5</link>
-<guid isPermaLink="false">0b02a43f79df8caaec112b1aa6dc586c0b3b9ef78d03ec0208c362e0c69ca504</guid>
-<source>Google News Artificial Intelligence</source>
-<category>technology</category>
-<pubDate>Tue, 03 Nov 2026 14:15:00 +0000</pubDate>
-<description>The Artificial Intelligence in Radiology Market is projected to grow at a CAGR of 30.3% by 2030 EIN News</description>
-</item>
-<item>
 <title>Roli Has Fallen Apart—and Left Customers Holding the Bag</title>
 <link>https://www.wired.com/story/roli-has-fallen-apart-and-left-customers-holding-the-bag</link>
 <guid isPermaLink="false">8bbfce6244d8bd71e37509d1b0cbf589b846c11e84303dd20201904b30a52050</guid>
@@ -1254,15 +803,6 @@
 <description>The inventive instrument maker collapsed into insolvency, leaving buyers empty-handed and users scrambling to keep their musical gear alive.</description>
 <enclosure url="https://media.wired.com/photos/6ae8f529e0d52c3a137c9f19/master/pass/LUMI%20Top.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/6ae8f529e0d52c3a137c9f19/master/pass/LUMI%20Top.jpg" medium="image"/>
-</item>
-<item>
-<title>China’s AI ‘shock’, EU ‘kill switch’, Mbappe fiasco: 7 global relations reads - South China Morning Post</title>
-<link>https://news.google.com/rss/articles/CBMi1wFBVV95cUxQTFJsWnNZcjRCRU1DeHhxVGd4YVM2QUMzQ0NXR3FrTWhIYmlDYkhlVUhPWlNmalhNLS1mZHBVS1NyaGF6OHFabGo2Y3h6b3I3bzEyWjJXeGRLMUc0YTlYaTI3NGExZHVZY2hNN0g1eGZtdVRhd0hiZVZpdEI1SG1laUpNWkdVVkFCTlBra2NBWm9qWTd5S3htVFIwUTRLN1lyeWVWcnN0TkhUbDEyVnhaLW9LMzBZblNPWHdaTE1lRGdoTVdaQ0diOTdEZjNOUGhzWkhZSHJzQdIB1wFBVV95cUxPUERXSnBFWVc3TDdwRm81TTdvSmZFQ1pXR2gwSFVORGdwX3lfLU93bXBkWG5pLWVJQnBWb0MzU1ZTNDNEeWlvTHVkOTlPUlRER2pRQ0dIaTJrVllGNlBPcjU4Tm0xMW9FN1pFNHJvcHJ5SzJlU3ZaQWlJTzVpVjhTVU83U2VJQk54aGxDeXE5cG1rUVAxdUx2bGxMSW1BMjk2d0NDQm50MjhjcFVQdFZycG9iMnRsYkRtSkJFSEJCcmhPMFRBdml4c21fS3RCZEhOeTNzOG9nWQ?oc=5</link>
-<guid isPermaLink="false">777a355beb6f1a0266687566c5d57aa5a07d56a9b2d44f1e0656f0f521bddbf9</guid>
-<source>Google News Artificial Intelligence</source>
-<category>technology</category>
-<pubDate>Tue, 03 Nov 2026 14:00:16 +0000</pubDate>
-<description>China’s AI ‘shock’, EU ‘kill switch’, Mbappe fiasco: 7 global relations reads South China Morning Post</description>
 </item>
 <item>
 <title>Beyond screens: Mercedes-Benz's new holographic heads-up display</title>
@@ -1296,107 +836,13 @@
 <media:content url="https://media.wired.com/photos/6ae914d0db4305d8f2ef46a8/master/pass/Review%20iPad%20Mini%20112026%20top%20art%20SOURCE%20Amazon.jpg" medium="image"/>
 </item>
 <item>
-<title>iPad mini (A20 Pro) review: Apple's tiny tablet gets a big update</title>
-<link>https://www.engadget.com/2304616/apple-ipad-mini-a20-pro-review</link>
-<guid isPermaLink="false">b6fb6d42948b3be847e7b2b669bc73be3a0ac5ef1c09937b30dbdee564104559</guid>
-<source>Engadget</source>
+<title>How McDonald's first got its start</title>
+<link>https://www.smithsonianmag.com/history/story-how-mcdonalds-first-got-its-start-180960931</link>
+<guid isPermaLink="false">ae919f4ccf8285ab4931dddd075f82035e421a22c341f95d8e09f0a34dd51a40</guid>
+<source>Hacker News</source>
 <category>technology</category>
-<pubDate>Tue, 03 Nov 2026 14:00:00 +0000</pubDate>
-<description>Apple made significant improvements to the iPad mini this year, but they don't come cheap.</description>
-<enclosure url="https://www.engadget.com/img/gallery/ipad-mini-a20-pro-review-apples-tiny-tablet-gets-a-big-update/l-intro-1793652645.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/ipad-mini-a20-pro-review-apples-tiny-tablet-gets-a-big-update/l-intro-1793652645.jpg" medium="image"/>
-</item>
-<item>
-<title>Peak Design launches premium charging accessories to complement its bags and tripods</title>
-<link>https://www.engadget.com/2305009/peak-design-premium-chargers-batteries-cables-accessories</link>
-<guid isPermaLink="false">e0fcb839ee5f1bad78327653390c27102f638f36a61af8a13efdb7903cadb305</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Tue, 03 Nov 2026 14:00:00 +0000</pubDate>
-<description>Peak Design fans, rejoice. The company is now ready to show off its debut collection of smartphone chargers, cables and batteries.</description>
-<enclosure url="https://www.engadget.com/img/gallery/peak-design-launches-premium-charging-accessories-to-go-with-its-premium-tripods-and-bags/l-intro-1793700205.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/peak-design-launches-premium-charging-accessories-to-go-with-its-premium-tripods-and-bags/l-intro-1793700205.jpg" medium="image"/>
-</item>
-<item>
-<title>Insights Report on the Artificial Intelligence in Medicine Market: Examining Demand Patterns and Competitive Landscape - EIN Presswire</title>
-<link>https://news.google.com/rss/articles/CBMi9wFBVV95cUxOZ0tjelNoQi1NU3lDb3FabGVoc1VGUHFCanpjQ0g4ajBOODFzc2hOQXY1RGdSM1daY2hYc2Q5aS11QVJFc1BIYlgyT3pkT1pXUlY4Q3hTaUotZmxFT2I0WTdIemRaSXpWMExyMEwyTG9Yb2k3QTJMYTFYZy15dnZiRkw4c3RDMmRVSDBoRkNLdjVZckF0WkN1dkF4VWw0VlpuMS1ydWt0VUljVzhKQk16dHVCUEp3MDlmZmJkbW12cW9xc3lPSTVxb0xWV3QyYkFDb3Mtdno1NnR0Q3NvWXB4U1NPTlJNeW4xRi1LX1NIQlB0eXpEck1B?oc=5</link>
-<guid isPermaLink="false">9bd39b3c6b599579770c419e2d1c3f8510387028c18ebc2552ab7cce52008cdc</guid>
-<source>Google News Artificial Intelligence</source>
-<category>technology</category>
-<pubDate>Tue, 03 Nov 2026 14:00:00 +0000</pubDate>
-<description>Insights Report on the Artificial Intelligence in Medicine Market: Examining Demand Patterns and Competitive Landscape EIN Presswire</description>
-</item>
-<item>
-<title>AI alters ITAD economics - Resource Recycling</title>
-<link>https://news.google.com/rss/articles/CBMigAFBVV95cUxQRFVSbTBITDVxcW5FZ2FDS0wwSnFfOVpqZGZ1SWJCTFJxWm12b3ZMeHQ1QWkzM3R3VzcwLVNKV1dZVTF1am81YVVmcDFqdE03RUJMZi1MQml6aXFpdEVkTUJlOTdKYjhKa05Hb2NZVG84Sk9OclFoeHRPSVNhZEY5bg?oc=5</link>
-<guid isPermaLink="false">5be23525d66b5d6ca15e2989837ed4e0ab9a9f999e52a3ee1f79889a83237f1f</guid>
-<source>Google News Artificial Intelligence</source>
-<category>technology</category>
-<pubDate>Tue, 03 Nov 2026 14:00:00 +0000</pubDate>
-<description>AI alters ITAD economics Resource Recycling</description>
-</item>
-<item>
-<title>Micron or Nvidia: If I Could Only Buy and Hold One of These Artificial Intelligence (AI) Chip Stocks for the Next 5 Years, It Would Be This One - The Motley Fool</title>
-<link>https://news.google.com/rss/articles/CBMilwFBVV95cUxNVmpHVmtYeUJuM1VvUl93WWVCa09adkFfekU4MWNGUXBmVWtMMGpHQlFZdE1TSkRsSmJzYk9wNlh4eUVvMFh3VWp1eTFjM19CWjZ5MjZvS00zd3RJc3RqNEpaVU5jcWJIR1FHUG9weGJEaWJVWWQwYWUwbUQ2MU12N2h2anVhUU1xVUlSaFY2Nm5vVWxVMXM0?oc=5</link>
-<guid isPermaLink="false">0e8edf57adc7c3894f08318befe7a87784207d1ab21f1104d11f89b56b2210a3</guid>
-<source>Google News Artificial Intelligence</source>
-<category>technology</category>
-<pubDate>Tue, 03 Nov 2026 14:00:00 +0000</pubDate>
-<description>Micron or Nvidia: If I Could Only Buy and Hold One of These Artificial Intelligence (AI) Chip Stocks for the Next 5 Years, It Would Be This One The Motley Fool</description>
-</item>
-<item>
-<title>Artificial Intelligence (AI)-Powered Dermatology Lesion Triaging Market Is Projected to Grow Robustly with a 31.8% CAGR - EIN News</title>
-<link>https://news.google.com/rss/articles/CBMi7wFBVV95cUxPOFJzUkFYeE1EdS13SWFENHFoS0o3bnhpdmFyc1VucWRHelU3UFNfLVNKZlBFQUE3NXItOVBuM3drcXlOX0d4WTBjR2V2ZHgydXpaczR0R01za0FWOVh0SWZvckRzT01rVzVKbGk5aVItSzZEVEdMLXlaMG44YlJrZnl4Q3A1U0NnaWs3eW83ZkpJMWdKb1ZWYVUwYmVPbDRHTDhwR0gybGg1V3NIcy16RkNaVGlNLWF4R093eHBraE9wWHh1WXJBQkxSX2VoYUFPWWpLM29fV0JUT29wUE9sZ2prRHdTeTZ6WFkzQml6UQ?oc=5</link>
-<guid isPermaLink="false">abd221bbd5ffc3007da4ab1dfa8099059fa838cdc5e49e05cc3a34ed06c56c8a</guid>
-<source>Google News Artificial Intelligence</source>
-<category>technology</category>
-<pubDate>Tue, 03 Nov 2026 14:00:00 +0000</pubDate>
-<description>Artificial Intelligence (AI)-Powered Dermatology Lesion Triaging Market Is Projected to Grow Robustly with a 31.8% CAGR EIN News</description>
-</item>
-<item>
-<title>How much of the stock market is propped up by artificial intelligence boom? - Baltimore Sun</title>
-<link>https://news.google.com/rss/articles/CBMitgFBVV95cUxNOHhncjkxd3BuUjYzcGZUeDZxZ2stUkt3R1djX2RhMm5oWUh0YzM1dWRRVTJjMHRfYTZ4ZU9ockxPcFM2eGxNZjVHYlRJa2prRXc2TUVQSXdnYjJzd3JaLXBKQXNwdEg5c2EwWXdVbXdjTzJCNng5SEo5SVlTM1BNeTBJNXhnWE9aZDBpUW43SGVjNGk4MWx5MW9HeWhJNTFsNlM4QUhfakdLTFJwV3VMUWJKMndRdw?oc=5</link>
-<guid isPermaLink="false">0960d616136c647b4f9252b5cdcef65088f9112867fdb3b913332f50eee6fa3e</guid>
-<source>Google News Artificial Intelligence</source>
-<category>technology</category>
-<pubDate>Tue, 03 Nov 2026 13:44:55 +0000</pubDate>
-<description>How much of the stock market is propped up by artificial intelligence boom? Baltimore Sun</description>
-</item>
-<item>
-<title>Artificial Intelligence Technology Solutions (AITX) Targets January 2027 Cash Breakeven - TradingView</title>
-<link>https://news.google.com/rss/articles/CBMi4AFBVV95cUxQOThSbm15Z0dld3ZUeXV6WWd1NWJZNjFPS0ZBV3NyTzBQV2psRktJaEFod0hlUnR6ZHJsbWhRcWcxQUwwckZzUExfZktIc1FQQzhnN2FLd1dsM2NTaXhFcUt5OXBVeldTcm1tMnRVeHFWemtCUjF1YUdvNXBuNV81aWM3VWRySWVBMm5zcmFrSEhmY0cxNjNENkNkWk5ySmc2ak5ab0FyRzdyZm8wTzJCOFdaOU5CbTY0N2dUZmFlMG0zRHU4T3hyT2dIM2p0M2JQRmF1OHFzdWZrZ3ZkdkNDaA?oc=5</link>
-<guid isPermaLink="false">3b0c7a87f17cafb63e5fef86a6c4bee597e18004b37aeca0f561a0ad3cca8c23</guid>
-<source>Google News Artificial Intelligence</source>
-<category>technology</category>
-<pubDate>Tue, 03 Nov 2026 13:40:00 +0000</pubDate>
-<description>Artificial Intelligence Technology Solutions (AITX) Targets January 2027 Cash Breakeven TradingView</description>
-</item>
-<item>
-<title>Artificial Intelligence Resurrections Are Becoming Big Business, But Who Really Benefits From Bringing Back The Dead? - IFLScience</title>
-<link>https://news.google.com/rss/articles/CBMi4gFBVV95cUxPVXNLN1hnZks3X29KdHlXSE9JekdUU3JtenY1cU51VWdFcDJ0Smx3eHlhMmltQVU5WWNjQ2FLUUdfNjhoVVk4RXowdTQtaVlYNjk1cmZaRG81cUJwbktfQlltM0VMdE43em1Qb2VlRlNHMHk0dHlOZlI3c0EzWlp1WVdDN2J0UFU0cVVQSnhDeVM3NDF3Rko3WW4yakVCN24yMzQwVnJPWXFtZ1NuNlpZeEpkTUE2SFJaWFhCU0EyQjkwdzVmajM4RzY5RHJ0X19jTVVUMG5jQmpTR2pjUDVnU3VB?oc=5</link>
-<guid isPermaLink="false">3278c3732655b4c145eb8616bc72f4de3d8fadc72c6ec0ece31c50b3b20abcbd</guid>
-<source>Google News Artificial Intelligence</source>
-<category>technology</category>
-<pubDate>Tue, 03 Nov 2026 13:26:50 +0000</pubDate>
-<description>Artificial Intelligence Resurrections Are Becoming Big Business, But Who Really Benefits From Bringing Back The Dead? IFLScience</description>
-</item>
-<item>
-<title>Schwarz Digits and Bull partner up to build European AI computing services - Reuters</title>
-<link>https://news.google.com/rss/articles/CBMixwFBVV95cUxObWQ2WUFhNnhncGQtQnItaF9xaUl3QU1qSXY0YVRlYWxFN3JpZ0U4M2V1V3Q2LWhOencyZTVaY3hnaUNVR1FUbkZLS2ZvREpZS1oxT0Y2Ym91cE9FRElVRDZsbDRYMzhlMGtXMVMxcm9TblN4cmlPNW9fb1psM1E1ZUN2VE9iRVhHODMwSlBYZlp1RzJvNGRoTEZIVDhlTXJJSmJJZXVzbWV6ZjVQNGZHRjRwWl9XV3Q4UmtjZ2YzeE1tS3VFZHZr?oc=5</link>
-<guid isPermaLink="false">24debcc07a121c6145a97032ba304fb9911de06e426c7259b24e82c5bf972945</guid>
-<source>Google News Artificial Intelligence</source>
-<category>technology</category>
-<pubDate>Tue, 03 Nov 2026 13:08:09 +0000</pubDate>
-<description>Schwarz Digits and Bull partner up to build European AI computing services Reuters</description>
-</item>
-<item>
-<title>Google reveals new Gemini 4 Carbon AI model, narrowly beating Claude Opus 5.5 — frontier AI model is also the least likely to hallucinate, benchmarks claim - Tom's Hardware</title>
-<link>https://news.google.com/rss/articles/CBMivwJBVV95cUxOTWhTVENnM3JSMkhHSWh6bDNNcVh4Nk9PRXJsUkJKSG9rLTRmNTB4ZWRydEctZnJFWWJvVWpKOU40VkhhWkdVTTdXZHU3WmxCRmd4czZ2WDF5OE5NNXJvY0FIVl80S1BNWXh0SFBDNFpBT1FXWldXaTQ3NWM5aGN0VmR2Q3VKRWE4bHctVW9OODFxbGwtaDZ5ZFY3a21wZ1oxaHJpRDJrUW12Ykd0VkMzcy1MZmJoeFlRaHdscHhaak91SkhncnY1Z0tOVFRGWWFBMVlKSWM4TzQ1NjVMdzU4bjI2ajJ6YWY4c2tLZnZOa2ZkSmd4eWNUc2ZtQUxfZ2k0dk92eDEyLTJHU0tMRG9kVWhTOUZIYnJBLVZkZ0dyaWdWeUNVczF2SDhWWmZSSXZaMUNobE9xcmQ3cTJZdFZN?oc=5</link>
-<guid isPermaLink="false">8475f9e9890f9d329cd5a99345152c36f92dee2a4efaa130baa2bd40be4fab7b</guid>
-<source>Google News Artificial Intelligence</source>
-<category>technology</category>
-<pubDate>Tue, 03 Nov 2026 13:00:00 +0000</pubDate>
-<description>Google reveals new Gemini 4 Carbon AI model, narrowly beating Claude Opus 5.5 — frontier AI model is also the least likely to hallucinate, benchmarks claim Tom's Hardware</description>
+<pubDate>Tue, 03 Nov 2026 13:12:47 +0000</pubDate>
+<description>Comments</description>
 </item>
 <item>
 <title>The 'Astra can read and write weights to improve Qwen' post is misleading</title>
@@ -1406,42 +852,6 @@
 <category>technology</category>
 <pubDate>Tue, 03 Nov 2026 12:21:17 +0000</pubDate>
 <description>Comments</description>
-</item>
-<item>
-<title>Microsoft AI Chief Says AI Development Should Stop If Artificial Intelligence Begins Showing Signs Of Consciousness - Wccftech</title>
-<link>https://news.google.com/rss/articles/CBMi0wFBVV95cUxPSkhPbUZZN19BZWNLaWdlODZyeTdwQUIxNDZ5RzBtSWh1c3pLNV9yR3l2eXVVNG0zZkgyUmJ4aXdfM1NFUGdvY3pGakc4Q0hQdnNjTk5ZRHBsUldDZHZXUXUyUTJOLUhnRGthMlFyaWIyQ0hHeXhyMmFzTmNFdzZQWnNDazluVHRNNTM3c29HWFJDT1lYZktOVWRBcTJETWFiS203Xy16QUFVTm1IOHU2VktDd0pzNTgwTFRLRFpNWWtIMG5iQlBnYm9DN1g0Wi1fZ2Jr0gHYAUFVX3lxTE1QSWFheXZZbjVLdGNEOHJsei1XMG5jVm1HQTkteGd6a09kUy1NSlA0ZGZhSjJFYnVOZG55dVdjcGtPMzYyc3JURy16bU1XR0JoT1hleHNHUngyajhGWVNkS016cGVXV3dzMS05Wm1hWFpwM1gwVHY4YUZBOTh5aXFEeklXYXNBVDRoOXJvSzZ6T0Z3enpsYzNGYk1KMFh1TWMzZTZJOVBXUzU0RlRkRU85cDJ5VExIUS1VUy1JVlFnRDVwUEpHNjNTenhQZ1VmYVp1a1ZYUDhSXw?oc=5</link>
-<guid isPermaLink="false">3574ef96e17bb413b0fc1daa7c8f14e36de046470a7cd9d1e0e5b32c5b645eeb</guid>
-<source>Google News Artificial Intelligence</source>
-<category>technology</category>
-<pubDate>Tue, 03 Nov 2026 12:20:38 +0000</pubDate>
-<description>Microsoft AI Chief Says AI Development Should Stop If Artificial Intelligence Begins Showing Signs Of Consciousness Wccftech</description>
-</item>
-<item>
-<title>Calvin Engen Explores the Intersection of Consciousness, Artificial Intelligence, and the Search for Meaning in ‘The Infinity Formula’ - Ottumwa Courier</title>
-<link>https://news.google.com/rss/articles/CBMiswJBVV95cUxPZldqc2tpTUpYa0g1aDd3V0pPUzZQdXF3bUwzbWRzOGVsbVhyUVdvS1dWTEIxTi0yZnZJeXFza2UteHBDZjhpTHJOS1FLbEQzcmoyaV91NWVaVElMMVpkODlCOUtOS1ZLYWlIVTFSYkl2TDYtNjIteElIOWJZTkFaZW9jNUxzaGF0RFZhb0pMTmFSUTR1bkN4UlhLV3BNOVk3THgzbHFFc3BUN3AzejF4ZVJRRFRQNVBVVU1feGZVUU44Nmx0dUdQbjhMcmkySjlYdUVKU1k2akFKNEp5X1MyOVB0VFl3V3Facm9WX0dHelp0eDBQTkZwN3A5eDhUeVRaaTIwYXRLU09XN19XR0lWTlRQUE0xcE15MnNaTnBwdnJzVkV1SjVXUFpIY0QyX01OS3RB?oc=5</link>
-<guid isPermaLink="false">2b4b549751f90993b69890eb1fa729f914a3a4a660f17c6b97503aa4000b3d0b</guid>
-<source>Google News Artificial Intelligence</source>
-<category>technology</category>
-<pubDate>Tue, 03 Nov 2026 12:18:38 +0000</pubDate>
-<description>Calvin Engen Explores the Intersection of Consciousness, Artificial Intelligence, and the Search for Meaning in ‘The Infinity Formula’ Ottumwa Courier</description>
-</item>
-<item>
-<title>Calvin Engen Explores the Intersection of Consciousness, Artificial Intelligence, and the Search for Meaning in ‘The Infinity Formula’ - The Grand Junction Daily Sentinel</title>
-<link>https://news.google.com/rss/articles/CBMinwJBVV95cUxOaGlaSHh6SzNRbmJvNWhtdWthVWtCbnRlMWkyaHZwLWwyanZCYTZXclVWWHJuVDh1UUdlNlY2d3lxUnBzUXNrYW53aEtBTjVLTU1Hc2xQcUVUYjNxQVpsZE1wM2M0MW5YM0l0UjIyUDVJazQwd0V2VzZjXzRJZy1YRUpuTHZIeHp2QzI4MC1pUXZaa3BHTFNzcHhONEtXWHJVNjFpeFlpVWJiRFpHbVZFWXNtLTl4M1ZZYXpqQ3hRR0NqRHpocUp6S3hCYW5xNlEzanZrb0pONDczcnJydV8tdzBnY3lITHRjRTVtTFBGQmlTd0tadDhNTGtJSVluR0NlajNmcW1rd08xenY2WVFSbkRXQk56bWJ1ekVaVjBuSdIBpAJBVV95cUxNMG1jQmxVNDlGYy1FazhKUTJINWQwQVdQc3ZDX3N5R1c0bFJFY3RpRlp5bjR3OFNIRThtS0M2STI5eU0wU3RUMXhxN1hpd2NOOXVsTnVNLXZlQ1Z5eTBuSm1JQVB5OFd0cjk1NEdYcjc3cmJwNzJZQVV2N1hGRVRhZGZsRzZtMHRIV2xOYUJNeVJlVDdSZk5GMnpmeEpzUWRKdmlDeUI5UDVEWVloTS1Od3RLUERHYlpYaUFRazh2bENwS0pzdlctRWR6VVFySXN5eVB0cUJYeWNpMUhjbEpmNkMzUDA0QUtOV19ybWo4dGVVTzJwclF5WDRzVGxGZGR6a0FLNHprSVdhcmh3ZURkWFJmQWdkZkEtcG1LbWdyQ0l5aGFR?oc=5</link>
-<guid isPermaLink="false">d8c316d989e8f0b4c7408e370933a6b6f2c05af5dd4e032551b5c36f45b24190</guid>
-<source>Google News Artificial Intelligence</source>
-<category>technology</category>
-<pubDate>Tue, 03 Nov 2026 12:18:38 +0000</pubDate>
-<description>Calvin Engen Explores the Intersection of Consciousness, Artificial Intelligence, and the Search for Meaning in ‘The Infinity Formula’ The Grand Junction Daily Sentinel</description>
-</item>
-<item>
-<title>UNESCO, Brazilian Government and ITU partner to launch green AI Climate Institute - UNESCO</title>
-<link>https://news.google.com/rss/articles/CBMisgFBVV95cUxOWF9jQkJsV1htVjRiOXJKTENKWUw0bS1IOHgwYWJsLV9QVjZtR0xrRUtoam56NXMzSHhKRkN4WDR3Wmo1Qk1DWVVfTXJOM1dnd3E2eHhNa25EbmU1UWEtVk01bnZaQXl4N21zWTdnMUVQamJwVHpJRl9vWDhzNU9rQ0NwVGh6dzl3QWxucHBVblNlTU8wb1kyekpqUHhOU1FkNHVzbXhaZjRTclZqaEhpekF3?oc=5</link>
-<guid isPermaLink="false">50d3dcae8c3382c2d047b0596f72428f3bd93aaca523cd4d402179306401485b</guid>
-<source>Google News Artificial Intelligence</source>
-<category>technology</category>
-<pubDate>Tue, 03 Nov 2026 12:12:01 +0000</pubDate>
-<description>UNESCO, Brazilian Government and ITU partner to launch green AI Climate Institute UNESCO</description>
 </item>
 <item>
 <title>The Endlessly Meme-able Steve Kornacki Is Not a Meme Person</title>
@@ -1466,42 +876,6 @@
 <media:content url="https://media.wired.com/photos/6ae7ceda7ef4ba44e2d4570c/master/pass/New%20AirPods%205%20Review%20112026%20top%20art%20SOURCE%20Amazon.jpg" medium="image"/>
 </item>
 <item>
-<title>Elise Penn, S.M. '24, Ph.D. '25: Atmospheric chemistry meets artificial intelligence - Harvard School of Engineering and Applied Sciences</title>
-<link>https://news.google.com/rss/articles/CBMiqAFBVV95cUxPaFpVTzAyMFFGblFIbVJPd0dHTW1OSmhfYk9LYnA0VXN3N0ZQd3h5aUc4NFh2M2FGcFRpRUo4WUdrdllHMFNyMWZZVEd0QWVGZ2U3aU5BcGxQaDdtbGQzNDR0U2ZDakYxakZ3SFYxM1dxUU9KVW4zQk00QkdNaXJob2RGbFlwWHJBY1BMdXR3WFpmbVcwVWxMeUtsNVU4U1JHX0lCNjNEQl8?oc=5</link>
-<guid isPermaLink="false">324dadaba6409e6577fe29d49ca10f604e88002f645fb1bd67bf2f4498dd62a8</guid>
-<source>Google News Artificial Intelligence</source>
-<category>technology</category>
-<pubDate>Tue, 03 Nov 2026 12:00:00 +0000</pubDate>
-<description>Elise Penn, S.M. '24, Ph.D. '25: Atmospheric chemistry meets artificial intelligence Harvard School of Engineering and Applied Sciences</description>
-</item>
-<item>
-<title>LeanTaaS expands iQueue into ambient intelligence with LookDeep acquisition - Fierce Healthcare</title>
-<link>https://news.google.com/rss/articles/CBMivwFBVV95cUxQT3lsYXYtZFBHOGpVTmZ0SzlzQ21ncWRPTTRtY2FjRTUzbFBNb1gwbHdMQkNkanNvdXByWmZaNUNnSklTWlB3WU51QWtLNUhpRXgzSDBNaWU4VXlka0tFelJkU1VSQVpKMGV1aEdPb29MSV81TkZDVGhJbF9RYWhQZEl2aS1ZSVgwZWo4a1pDaUdVTVNtZ1JVLWVYQ0dTVGktX0ttbGtLZ3g1MDA2WWRXTmFrV3lBS2NhOFZDUnRmTQ?oc=5</link>
-<guid isPermaLink="false">e102ea1d483600562a7a5ee0ff98ea78d6d659955365326dbe26e4f4014ab977</guid>
-<source>Google News Artificial Intelligence</source>
-<category>technology</category>
-<pubDate>Tue, 03 Nov 2026 12:00:00 +0000</pubDate>
-<description>LeanTaaS expands iQueue into ambient intelligence with LookDeep acquisition Fierce Healthcare</description>
-</item>
-<item>
-<title>Enterprises pay $100,000 a day for AI they never ordered - CSO Online</title>
-<link>https://news.google.com/rss/articles/CBMiowFBVV95cUxORW9QVm0zemhZeDhuZkRnWUllMDlJZVZlOTgwT0lxcFk5VGVQN1Y3QkR6TVB2NWxHcEVwZHA3TFY4RmFJQWJLZ2l4UkNteVlIeWdHRU1LWVpVNGROaW92d1JaZ3JCR3JzT0dHYU5EY0ZyY1ZIN2l4eFhlZkhveWhKT2pyOW9jcDlEeWNhRl9PcHVKRUhvb2UtVnVVM1pUYUhlelo4?oc=5</link>
-<guid isPermaLink="false">7ff409f225da2514bc7c4b851a0ccf5e5b467e3fe430ee6ba661bc14d0484e47</guid>
-<source>Google News Artificial Intelligence</source>
-<category>technology</category>
-<pubDate>Tue, 03 Nov 2026 11:54:43 +0000</pubDate>
-<description>Enterprises pay $100,000 a day for AI they never ordered CSO Online</description>
-</item>
-<item>
-<title>Artificial Intelligence and Teacher Self-Efficacy: From Technology Adoption to AI-Mediated Efficacy Reconstruction - Frontiers</title>
-<link>https://news.google.com/rss/articles/CBMikgFBVV95cUxNQ0FjQ2ptS29FbUVrUzdfZDZNUXlsTWpQdGVPbEtHdmp4MVVFY3k2MXU4c3lwTWVfamhmbTdKMlpxUWtnUmJUQmoyNk1YWkFGN1lkaTFGM0NENG92OWs3RG4xazVuTmNJSTB0YmFFdGl2ZGczQTIxSmRMVm11OXo3YXRlb1pqX1IxWnVaN1I0RzJyZw?oc=5</link>
-<guid isPermaLink="false">0804543bb9ed1d5c171429f367732d1211eaa6168378374e652d79d5dc55d12b</guid>
-<source>Google News Artificial Intelligence</source>
-<category>technology</category>
-<pubDate>Tue, 03 Nov 2026 11:50:50 +0000</pubDate>
-<description>Artificial Intelligence and Teacher Self-Efficacy: From Technology Adoption to AI-Mediated Efficacy Reconstruction Frontiers</description>
-</item>
-<item>
 <title>ICE Is Inspiring Latinos to Vote in Historic Numbers</title>
 <link>https://www.wired.com/story/ice-is-inspiring-latinos-to-vote-in-historic-numbers</link>
 <guid isPermaLink="false">7daebc407f9f616e09027fce6203c60817cf959165527069c4b1300c9b0f0b80</guid>
@@ -1511,15 +885,6 @@
 <description>“I did a Latino community event [and said] we have to actually fucking vote to tell these motherfuckers to fuck off,” Nevada secretary of state Cisco Aguilar tells WIRED.</description>
 <enclosure url="https://media.wired.com/photos/6ae4ddda8bae4a3ff3d62f04/master/pass/GettyImages-2299691372.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/6ae4ddda8bae4a3ff3d62f04/master/pass/GettyImages-2299691372.jpg" medium="image"/>
-</item>
-<item>
-<title>A Once-in-a-Decade Opportunity: 1 Artificial Intelligence (AI) Stock to Buy Before It Soars 60%, According to Wall Street - The Motley Fool</title>
-<link>https://news.google.com/rss/articles/CBMimAFBVV95cUxQQTVMRFpjZFBvTUg0LXl3RjBSZUxNRlo5VnJOVEd5MlhtdV9YOFF2UlB6b2NNRk9PZGp4cmNvamtsSFV6SV9SVUVZZkVRb0M1MzhvUHBsYnpxR2F1ak1QMnIzZXZFaE40Vlozd0FhdlpFMjZ2S0tVZEo3U3BraHpBaGJCTElmbndoTXJuYWh4YkdJMzBKdTYzdw?oc=5</link>
-<guid isPermaLink="false">d67de574786406bdfb22c91a369c3abc65f85ed008444e85024283df7eb8dfec</guid>
-<source>Google News Artificial Intelligence</source>
-<category>technology</category>
-<pubDate>Tue, 03 Nov 2026 11:10:00 +0000</pubDate>
-<description>A Once-in-a-Decade Opportunity: 1 Artificial Intelligence (AI) Stock to Buy Before It Soars 60%, According to Wall Street The Motley Fool</description>
 </item>
 <item>
 <title>‘Our Risk, Their Reward’: Zohran Mamdani on AI and Data Centers</title>
@@ -1544,15 +909,6 @@
 <media:content url="https://media.wired.com/photos/6ae8c770a02f1e9caf32860c/master/pass/swiftnasa.jpg" medium="image"/>
 </item>
 <item>
-<title>Veterinary Artificial Intelligence Market Size, Share, Scope, Forecast Report 2026 to 2035 - Insightace Analytic</title>
-<link>https://news.google.com/rss/articles/CBMikgFBVV95cUxPZ2xHdzFNX2Fud1VVSlpJaVF6bXE2OXo3RzI5Z3R1U3JBZk9wU0RJeVduS2otd1FHMDdRYUxBYzZjMFV0d19BWk1ma1RaQWlyUldzaVVqaHVkMHgtMGk2VVg3Q0ZIb0tTYkEyUHBOWjRmSmlKLUJJZGJucUROVXh0Qzd4MVU1NG5wZk4zM054SmNlZw?oc=5</link>
-<guid isPermaLink="false">ec3e78dbea76e5086ada649bd8779f2b51b1e62999123216afd44989659833d8</guid>
-<source>Google News Artificial Intelligence</source>
-<category>technology</category>
-<pubDate>Tue, 03 Nov 2026 10:39:30 +0000</pubDate>
-<description>Veterinary Artificial Intelligence Market Size, Share, Scope, Forecast Report 2026 to 2035 Insightace Analytic</description>
-</item>
-<item>
 <title>White Noise Machines Worthy of Your Nightstand in 2026: Snooz, Hatch, and More</title>
 <link>https://www.wired.com/story/best-white-noise-machines</link>
 <guid isPermaLink="false">3689c3d990000705e26b0455360147865a396af3909af0232b4ea319c0e78627</guid>
@@ -1562,15 +918,6 @@
 <description>Catch more z’s with soothing background noise from our favorite sound machines.</description>
 <enclosure url="https://media.wired.com/photos/6ae7c5f55d95fb1734aa8438/master/pass/White%20noise%20machines%20112026%20top%20art%20SOURCE%20Amazon.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/6ae7c5f55d95fb1734aa8438/master/pass/White%20noise%20machines%20112026%20top%20art%20SOURCE%20Amazon.jpg" medium="image"/>
-</item>
-<item>
-<title>Steven Spielberg’s 2001 sci-fi ‘A.I. Artificial Intelligence’ to get 4K SteelBook release - The Hollywood News</title>
-<link>https://news.google.com/rss/articles/CBMixAFBVV95cUxQLTV6RW5lZGFsWEtSNm5wRUpOM2JPWGN5cVIxbUhxbkI5WW4wYUNNUndJZHpjRWhHdHVCZE1nQVp4VUpDdktMTkJzQ3cxOTFmZHYtSV9ydFB0TWplZm9JbFluZ1ViemlVaFJXUG53elphcHlkVXh4cTA2cWtNb3pGcldjOWhYZjY1MHlSOFJjTUU1aDIydUF5T3FLQWxuNWtpTVViYWFodVdOUHJiTzdsNVdhU21jblNTc2l6d2E3NldPaS1k?oc=5</link>
-<guid isPermaLink="false">a5504a3e03d03686d6f6c49e4ec86a71005614fe8eb2b8638d1391dfd6c16160</guid>
-<source>Google News Artificial Intelligence</source>
-<category>technology</category>
-<pubDate>Tue, 03 Nov 2026 10:28:57 +0000</pubDate>
-<description>Steven Spielberg’s 2001 sci-fi ‘A.I. Artificial Intelligence’ to get 4K SteelBook release The Hollywood News</description>
 </item>
 <item>
 <title>Ancient Meteorite Found in the Sahara Holds Secrets About Mars’ Watery Past</title>
@@ -1584,15 +931,6 @@
 <media:content url="https://media.wired.com/photos/6ae8fe6dbbb2a7fcc242fba1/master/pass/505137454" medium="image"/>
 </item>
 <item>
-<title>7 sure-fire ways to blow your AI budget - CIO</title>
-<link>https://news.google.com/rss/articles/CBMihwFBVV95cUxQTXpOV1pKQlktSVNpU2xMRGhtLUxBMGtfdFowaWhiYlVSRm1UMWZCamw1WVMxYXZOdC1mS2d2T3dabVVNR3Exdk1NYU9Wc041VEV2MjBrWU90RWpsZWFQclpxNXg2SUtIVUFsdEI3S05PWmhYUDRQQzBJdm5vOWtETk9WbktfX0k?oc=5</link>
-<guid isPermaLink="false">57ae3ae8d980ac7beebb8698197b7e5d2ec9e49e21f961938101675dd2cb808b</guid>
-<source>Google News Artificial Intelligence</source>
-<category>technology</category>
-<pubDate>Tue, 03 Nov 2026 10:06:06 +0000</pubDate>
-<description>7 sure-fire ways to blow your AI budget CIO</description>
-</item>
-<item>
 <title>Opioid Users Found a ‘Miracle Drug’ to Help Them Quit. Then the DEA Banned It</title>
 <link>https://www.wired.com/story/opioid-users-sr-17018-drug-to-help-them-quit-dea-ban</link>
 <guid isPermaLink="false">4d300f330f20f6c2a4427869e2f5c45efdf1497a3ba836abbfc5d411cc7fb936</guid>
@@ -1602,15 +940,6 @@
 <description>On Reddit and Discord, people addicted to opioids say SR-17018 can remove withdrawal symptoms. Despite its potential, the DEA has placed it in the same category as heroin.</description>
 <enclosure url="https://media.wired.com/photos/6ae8f97d779df3a2b1d25e49/master/pass/Culture_Opioid%20Users%20Found%20a%20%E2%80%98Miracle%20Drug%E2%80%99%20To%20Help%20Them%20Quit.%20Then%20the%20DEA%20Banned%20It_v1.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/6ae8f97d779df3a2b1d25e49/master/pass/Culture_Opioid%20Users%20Found%20a%20%E2%80%98Miracle%20Drug%E2%80%99%20To%20Help%20Them%20Quit.%20Then%20the%20DEA%20Banned%20It_v1.jpg" medium="image"/>
-</item>
-<item>
-<title>Artificial Intelligence in Critical Infrastructure SOCs: Force Multiplier - Attack Surface and Operational Resilience Through 2030 - https://debuglies.com</title>
-<link>https://news.google.com/rss/articles/CBMi8wFBVV95cUxPQ0xqMWdrNE9zaVM3TFcwMDBCbWNxZjY1TjBQMVJlMmV6al9XdjB4b21DTk1yZ0tlYU1LdGVUNVM1T1pIdjlIX1dvWkZadEhqSG5wYU5sUUFMOTFWR0ZTcE9DdXdNdmxrcU45QXo0U0l5RkxGTFM4dDFidHlTUnhySE9GR2RRN0NRUUJDSWtQc0JpZ0hDeWEyc2xFN1V5NGVPbS1acGlBeFd4WDlXRHdJWTVQNmZybUNNX1RBUnY1TXFUUlVncUlzV0NYVVRIOVRtTmViSG1feWRVd2lBWTZ1UzZlWlRIZUNwMXpmOHdVM1Mxd0E?oc=5</link>
-<guid isPermaLink="false">92d5f9397a75d6c1b8dd6a09899c8ef4c78216331eaa19dde56915c1bbd606e4</guid>
-<source>Google News Artificial Intelligence</source>
-<category>technology</category>
-<pubDate>Tue, 03 Nov 2026 09:43:29 +0000</pubDate>
-<description>Artificial Intelligence in Critical Infrastructure SOCs: Force Multiplier - Attack Surface and Operational Resilience Through 2030 https://debuglies.com</description>
 </item>
 <item>
 <title>Yvonne Bajela is bringing $17M in fresh capital to Europe’s startup scene</title>
@@ -1638,26 +967,6 @@
 <category>technology</category>
 <pubDate>Tue, 03 Nov 2026 07:20:00 +0000</pubDate>
 <description>Now in beta: Apple's new Audio Intelligence features can help you remember what someone said or take notes on conversations.</description>
-</item>
-<item>
-<title>The Artificial Intelligence (AI)-Driven Spinal Surgery Market is Projected to Grow Rapidly at a 9.3% CAGR Through 2030 - The National Law Review</title>
-<link>https://news.google.com/rss/articles/CBMirwFBVV95cUxQckp1MjFVNklhVzg4a3NXSC1NZEJXWHNBVGQtMkhnRjRaMm1UcGdfV0xta0Y2R0ljTmxsdXdvSUhGUVNKOFVrY3VwbXItMmJVVU80N2k5bnlfcWZzc1pwOERfUFBMV2xadkdXay1yWlU2Z2tSY09RcDAxZmpaS2JIeERZOUlLeEdsY0FTc0pYZVFOZE1rT2hvWnFEVHJ4MFBXMnNWOVpRZGxCRUIydTdv?oc=5</link>
-<guid isPermaLink="false">2b1ed3c7ba7a0c76668bf03053c563d61a2342e50b100f9fe045ee21cbbbc158</guid>
-<source>Google News Artificial Intelligence</source>
-<category>technology</category>
-<pubDate>Tue, 03 Nov 2026 07:06:04 +0000</pubDate>
-<description>The Artificial Intelligence (AI)-Driven Spinal Surgery Market is Projected to Grow Rapidly at a 9.3% CAGR Through 2030 The National Law Review</description>
-</item>
-<item>
-<title>30% Off Canon Promo Codes | November 2026</title>
-<link>https://www.wired.com/story/canon-promo-code</link>
-<guid isPermaLink="false">b7b297c4c57110a535ebb7e21ce3aa1ad5547e25ec9499eef52e4ec8f670dea2</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Tue, 03 Nov 2026 06:00:00 +0000</pubDate>
-<description>Save an extra 10% or 30% with Canon coupon codes, plus up to $1,600 on cameras, printers, and more this November 2026.</description>
-<enclosure url="https://media.wired.com/photos/66ea077251891e6d3cb5d5cf/master/pass/WIRED-Coupons-3.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/66ea077251891e6d3cb5d5cf/master/pass/WIRED-Coupons-3.jpg" medium="image"/>
 </item>
 <item>
 <title>Uber Eats Promo Codes: $15 Off│November 2026</title>
@@ -1702,6 +1011,17 @@
 <description>Get 20% off with verified Dell promo code, plus today’s coupons for up to $600 off laptops, Alienware monitors, and all things tech.</description>
 <enclosure url="https://media.wired.com/photos/66ea076e571d60947a48460b/master/pass/WIRED-Coupons-16.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/66ea076e571d60947a48460b/master/pass/WIRED-Coupons-16.jpg" medium="image"/>
+</item>
+<item>
+<title>30% Off Canon Promo Codes | November 2026</title>
+<link>https://www.wired.com/story/canon-promo-code</link>
+<guid isPermaLink="false">b7b297c4c57110a535ebb7e21ce3aa1ad5547e25ec9499eef52e4ec8f670dea2</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Tue, 03 Nov 2026 06:00:00 +0000</pubDate>
+<description>Save an extra 10% or 30% with Canon coupon codes, plus up to $1,600 on cameras, printers, and more this November 2026.</description>
+<enclosure url="https://media.wired.com/photos/66ea077251891e6d3cb5d5cf/master/pass/WIRED-Coupons-3.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/66ea077251891e6d3cb5d5cf/master/pass/WIRED-Coupons-3.jpg" medium="image"/>
 </item>
 <item>
 <title>Chewy Promo Codes: $20 Off November 2026</title>
@@ -1759,60 +1079,6 @@
 <media:content url="https://media.wired.com/photos/66ea03340e63ccab6b8add4b/master/pass/WIRED-Coupons-1.jpg" medium="image"/>
 </item>
 <item>
-<title>3 Genius Artificial Intelligence (AI) Stocks to Buy Hand Over Fist Before Year-End - AOL.com</title>
-<link>https://news.google.com/rss/articles/CBMihgFBVV95cUxPbEJzeDJHMzUzNld6OW10Z2d4dlFQVlB3R19ob3B6Z3E5NS1UZUVhMEN3WXdpWjVnelI5TFRxaTBiZk5kOEFKa014aGNLUEFzWHFpalZfMVlSdC1reVZFSTlmeE4wMUd6cUhwOXFhTW1RU3o4UG8zbEtfVzlad2NZWFEyUnFwdw?oc=5</link>
-<guid isPermaLink="false">335e7759e86e607aa70a14618b6e68202819673e02b976e1e703fce87c4cded4</guid>
-<source>Google News Artificial Intelligence</source>
-<category>technology</category>
-<pubDate>Tue, 03 Nov 2026 05:20:00 +0000</pubDate>
-<description>3 Genius Artificial Intelligence (AI) Stocks to Buy Hand Over Fist Before Year-End AOL.com</description>
-</item>
-<item>
-<title>Lin Chia-lung: America’s AI Ambitions Depend on Taiwan - Foreign Affairs</title>
-<link>https://news.google.com/rss/articles/CBMikAFBVV95cUxQRWE5SXZuRVJpUE55aXNMS2p2VHZ5UVRpQ19yNTBzUGhsZ3RUZWVBX2ptMm5DbVNyUkt1NGVzQ0JrOVh0OFVoaWVUdUJtSk9aN0NFY3daS3VvQ0FHM2lMVXJpQWtra1E3NXNZVHdjS3JUdXJ5N1A5cjhabW05M1AxeHliSkYtQUk1VlJyanpOdng?oc=5</link>
-<guid isPermaLink="false">1d32a3674402337dc21ff6d2d32b5a5264d2b8726f6c0900ca43d4018ed0f0b7</guid>
-<source>Google News Artificial Intelligence</source>
-<category>technology</category>
-<pubDate>Tue, 03 Nov 2026 05:00:00 +0000</pubDate>
-<description>Lin Chia-lung: America’s AI Ambitions Depend on Taiwan Foreign Affairs</description>
-</item>
-<item>
-<title>3 Genius Artificial Intelligence (AI) Stocks to Buy Hand Over Fist Before Year-End - The Motley Fool</title>
-<link>https://news.google.com/rss/articles/CBMilwFBVV95cUxPZ3FmZThudzBIY2tZMENHeUwxd1g1bzR1aENWZFBqYUd4cmJJS0lRYVJsbXFzcE9nOVN1YkZybFJiZmFMYnRMa0xvV2ZhTVppckJPTzg2ODdZcFRvX0hvZFNCanRtU3p2dHFSWHp3UlJGaWdvbzdBRjBXSGxKTzJYY1lRTDlCTHJieEZFc19WRExPRDJmRW9V?oc=5</link>
-<guid isPermaLink="false">35bf0c7d9af47e2e2033ae4013ccf118e68be5fee82b6b44bd8096d5e84b0fb6</guid>
-<source>Google News Artificial Intelligence</source>
-<category>technology</category>
-<pubDate>Tue, 03 Nov 2026 05:00:00 +0000</pubDate>
-<description>3 Genius Artificial Intelligence (AI) Stocks to Buy Hand Over Fist Before Year-End The Motley Fool</description>
-</item>
-<item>
-<title>Here’s who is falling in line for Trump’s “Super Intelligence” loyalty test - MIT Technology Review</title>
-<link>https://news.google.com/rss/articles/CBMiwgFBVV95cUxPLS1UZ01BOU02cG9SdWlTQUdhclhDLWNNaUxRcUE4c2ZSY3pNSWl1bXVMTUh0MnVWVEhKbjhzV0tXanNyX0M1dEhyV0daZVRDQ3FyR2RTVVA2V0dzWG1uSFBVcnVEeUF2Q01JdDhDbnBqQ3BGNVlsNndtZnhIYkN6UktRb2xvXzMyejVYOTVXS3g0RGFFUVhpcU9SVFQydTdiRnU2Z0ZnNzlyc0FfaHN4MkhobmhPTG9IbURVWTlZWXJLZ9IBxwFBVV95cUxQcnlFVDZtem1mWS1pd05SUjhpeGdhMmtEUU1mQTN5Tk55bmNJTTZveWYwZDF2dk5YRUlTTjBGYXZBc1FkYzlRSG5DYTlxUlJFaDZmU1liTUlSbWlMRXdYelRuZGFRU1lQZmJHWGoxR1V4a1F1dFk4Q292SWszYjIzcDBuLVpObUo5UWctRjF1SlVHY0l1bWNtWko4YThqQ3EwT2lBRm8yVGdxWE83SzBtX05KM0x4SmNMRlItTVZPdjhlVW91VkVn?oc=5</link>
-<guid isPermaLink="false">d1e6af447bfb1c9d04463c0e71a5454f78c66d2b595e66def0cdefa32ceda504</guid>
-<source>Google News Artificial Intelligence</source>
-<category>technology</category>
-<pubDate>Tue, 03 Nov 2026 04:18:47 +0000</pubDate>
-<description>Here’s who is falling in line for Trump’s “Super Intelligence” loyalty test MIT Technology Review</description>
-</item>
-<item>
-<title>Shipcom secures US Air Force 309th EMXG Artificial Intelligence Test Program Sets contract - OrangeSlices AI</title>
-<link>https://news.google.com/rss/articles/CBMitgFBVV95cUxOMW4wWTJSWV9EOU5kb3hTcV9jQXB4aEV1dVczZmZETThQUTVEcE02NTRQS2xNN3BzMkVrb04yeGt5TzdNQ3lObEZKbV8xWmFxMFM3QUt4cWFXTkNuVzR2S2NPTUo4Ulgta00xZjMxU0R6OWVHbzNVRThRamdoUnBacHZtVm9zYzNFU0NEbmcwRTNNNHp4djJuZldDLWVHa1A5d1YzZC1jc1VDbi1aT0dXd2YydXlldw?oc=5</link>
-<guid isPermaLink="false">785419eb783f940ad356d7d7ffd26aa24f16347121a9956de069e382bf01b58b</guid>
-<source>Google News Artificial Intelligence</source>
-<category>technology</category>
-<pubDate>Tue, 03 Nov 2026 04:12:12 +0000</pubDate>
-<description>Shipcom secures US Air Force 309th EMXG Artificial Intelligence Test Program Sets contract OrangeSlices AI</description>
-</item>
-<item>
-<title>Anthropic Claims to Be Near Recursive Self-Improvement - Gizmodo</title>
-<link>https://news.google.com/rss/articles/CBMimgFBVV95cUxQWW56ZDBxWlhxY24xbDBENFhEXzNZUFRiYzhfbHI2bjRFSzdlRGlxR05jX0hKS21HOU1DVHJURjFnVmVuNmxzQ0JhU3FrQU9hemlsVjNQSUNCa1BYODdhQWdaN1ZNQnh0Mzk0MjVjT3h3RWVUUHBOYnE3V1BOZTBGZDJqLWkzS2hIYVdRWUdwUW1YaHJRMnJ1a2Jn?oc=5</link>
-<guid isPermaLink="false">29587337a6bdf3c66ccb803fc0418ffef73ae6173a9e8ad8ea15ade9bd660b21</guid>
-<source>Google News Artificial Intelligence</source>
-<category>technology</category>
-<pubDate>Tue, 03 Nov 2026 04:03:24 +0000</pubDate>
-<description>Anthropic Claims to Be Near Recursive Self-Improvement Gizmodo</description>
-</item>
-<item>
 <title>Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses</title>
 <link>https://techcrunch.com/2026/11/02/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses</link>
 <guid isPermaLink="false">11a3e4cb137f52664836d1e39d6b9e1bc691ed995443b82ed307d91f14e7cecb</guid>
@@ -1838,42 +1104,6 @@
 <category>technology</category>
 <pubDate>Tue, 03 Nov 2026 01:18:09 +0000</pubDate>
 <description>Comments</description>
-</item>
-<item>
-<title>Ukraine’s new pocket-sized gadget turns Russian drones’ cameras against them</title>
-<link>https://techcrunch.com/2026/11/02/ukraines-new-pocket-sized-gadget-turns-russian-drones-cameras-against-them</link>
-<guid isPermaLink="false">be4c738f2d2f5e8afc9347d55980f97f99f7f8105d0b531d1e3635b268bd69e4</guid>
-<source>TechCrunch</source>
-<category>technology</category>
-<pubDate>Tue, 03 Nov 2026 01:12:55 +0000</pubDate>
-<description>A Kyiv startup’s pocket-sized, 10-ounce receiver lets Ukrainian troops watch the video feeds of Russian drones, though Russian moves toward digital video and AI-guided drones that emit no signals could make the victory short-lived.</description>
-</item>
-<item>
-<title>Y Combinator’s Garry Tan uses AI agents so much, he spends up to $200K a year on tokens</title>
-<link>https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens</link>
-<guid isPermaLink="false">d38f7b5068359c02019572a7a3d3e94184f9d64c956af44bbfd87c44673d770c</guid>
-<source>TechCrunch</source>
-<category>technology</category>
-<pubDate>Tue, 03 Nov 2026 00:35:52 +0000</pubDate>
-<description>Y Combinator Garry Tan has jokingly admitted that he's suffered from "cyber psychosis” and barely sleeps sometimes because he’s so excited to be working with his AI agents. On a new episode of Walter Isaacson’s podcast, The Builders, Tan put a price tag on his passion.</description>
-</item>
-<item>
-<title>Artificial intelligence and the ballot box - KTVU</title>
-<link>https://news.google.com/rss/articles/CBMiW0FVX3lxTE8zSE5vNUthNHRTM1Atc3lEZE5RbkU5bmkxSEFBakRVMGV4VFhoN2lVQUdQVW5jdVloTVhUa3phQ1UzWXhaeEd3ZDd2TVNPaTdvWHBKenBCUmRtdXPSAWBBVV95cUxPUkVTZVpWMktXamluVzNGaE9DblR0R2hFYkYwSkp4WTU5UXprM3RkbjNNWEZEejZ0S2FhNjFyamthTHJHRnNIc1FZN3RzNzZITmZDa0dDLTBfT3JfYXV4V2U?oc=5</link>
-<guid isPermaLink="false">6b071fe7e6f742f922a7d1cd3fa38bed70a8bbfdcd50dc6c89adb52924dc538a</guid>
-<source>Google News Artificial Intelligence</source>
-<category>technology</category>
-<pubDate>Tue, 03 Nov 2026 00:17:18 +0000</pubDate>
-<description>Artificial intelligence and the ballot box KTVU</description>
-</item>
-<item>
-<title>Efekta Education Group and UNESCO Santiago sign agreement to - unesco</title>
-<link>https://news.google.com/rss/articles/CBMiygFBVV95cUxPOGh6TE9MOWNrS3Rpd0FrMWdMZFJ2d0g2VFpRY2hwOC11TWZmMTRuTXNEZVoyREFOSFZZd3oxTGE2UUVBV3ZiX3lKS3h1OUxSaHlJWFFBZDRaMUliVnVZOGw2SUY4VUpkazR5VE9vbkdWalVpVlM3Z2R6eVJEeFhDOG8wT183TGN2Nk5XXzRXV3BPcUJ6VDFFek0xRUtLVjVuZm1Od0dHbU1qMlJmTWZqdXdER1ltbXJ3YmZFZWhxZTE2RTFTZTRTQUNR?oc=5</link>
-<guid isPermaLink="false">a9673f3f7fd57f214274ef4550df98e8c6b61b1e96faf35fc45d1fdc14630578</guid>
-<source>Google News Artificial Intelligence</source>
-<category>technology</category>
-<pubDate>Mon, 02 Nov 2026 23:52:11 +0000</pubDate>
-<description>Efekta Education Group and UNESCO Santiago sign agreement to unesco</description>
 </item>
 <item>
 <title>"At Home in Space" opens, caps Air and Space Museum renovation</title>
@@ -1909,15 +1139,6 @@
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/doggos-1152x648-1793464886.jpg" medium="image"/>
 </item>
 <item>
-<title>Law firm's AI use doesn't warrant cutting legal fees, US appeals court rules - Reuters</title>
-<link>https://news.google.com/rss/articles/CBMixAFBVV95cUxNdS1LX2NIT2xSeTRSSk00YUVVOENZMDFvdENwZV90MkN3U1VEcDhkQ0tPX2lyTzQ4YTdIZjd5VlJqWl9yUkM4ZG9tdDVaZ01jWlFXVGVtTkJyZF9QdlpMZWl1MTc4bXNCaGNUcFp1WXRFUHFITWJtS3FubGlLU2R0MFE1c3h3aGl3SVBkaW5hYUktYVZ5cHlRNzFMbExxNUE5cXR5RUh4M0dTU1ozM2VfcEtTYWp2VmVPZjBPajBzUnp3dk5u?oc=5</link>
-<guid isPermaLink="false">6e65cd6f4d0a0724bab2a8d942c0495805a3d21494ba04ca56cdcd4ee03710d1</guid>
-<source>Google News Artificial Intelligence</source>
-<category>technology</category>
-<pubDate>Mon, 02 Nov 2026 22:37:46 +0000</pubDate>
-<description>Law firm's AI use doesn't warrant cutting legal fees, US appeals court rules Reuters</description>
-</item>
-<item>
 <title>How to Save $25 on Burga’s Phone Accessories With This Sale</title>
 <link>https://www.wired.com/story/burga-sale-november-2026</link>
 <guid isPermaLink="false">e9c0104540eaeb274bb07b0c7ae8be177ce513c8a9ec2e1796150e268be20814</guid>
@@ -1949,33 +1170,6 @@
 <description>Black Friday is still weeks away, but you don’t have to wait for a good sale on Dyson vacuums.</description>
 <enclosure url="https://media.wired.com/photos/6ae8f21332b07efa953f9e48/master/pass/The%20Best%20Dyson%20Vacuum%20Deals%20You%20Can%20Shop%20Right%20Now%20112026%20top%20art%20SOURCE%20Dyson.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/6ae8f21332b07efa953f9e48/master/pass/The%20Best%20Dyson%20Vacuum%20Deals%20You%20Can%20Shop%20Right%20Now%20112026%20top%20art%20SOURCE%20Dyson.jpg" medium="image"/>
-</item>
-<item>
-<title>Pennsylvania Enacts Artificial Intelligence Deceptive Advertising Act: New Disclosure Requirements for AI-Generated Advertising - Consumer Finance Monitor</title>
-<link>https://news.google.com/rss/articles/CBMiiAJBVV95cUxNRGpJYy1BOGF3QWFlRWJUbC1oSWlKZXpLNWpZTU5tdUlGeW9kZWFSWHViQm0zakFNVHB2ZVVMYnF0Q0wtd2lJemdEVF9hUlJMcW9GM0lfTTRNTXNYblMyY2JfQkdEd21EQmlXNUpQa25jZmkyU3NiVGdkM29iT2NXZnBmRDc2VVNYeHhiaTlFT1VTcXdGb0o4cjdKM19vbVB1bFVzZ3BScTJnRDBMRHB3ZHFaOW5qdUlGNGlaVmk3bnFWTFNPMHFObFVSd0dKVFloVHhrR3ZHTEtHWHluN2hIUVBGMkNHRlR3OTkyMzNqZlFQSS0yM0FpaVRMcVJZWmpKNTZzMkRXdzU?oc=5</link>
-<guid isPermaLink="false">dd98d0f9ca31776ac53531e8d46bf228a3a4e92bc86bb7e933a843ca9733c923</guid>
-<source>Google News Artificial Intelligence</source>
-<category>technology</category>
-<pubDate>Mon, 02 Nov 2026 20:57:53 +0000</pubDate>
-<description>Pennsylvania Enacts Artificial Intelligence Deceptive Advertising Act: New Disclosure Requirements for AI-Generated Advertising Consumer Finance Monitor</description>
-</item>
-<item>
-<title>State of Working Maine 2026: Protecting workers from Artificial Intelligence - Maine AFL-CIO</title>
-<link>https://news.google.com/rss/articles/CBMinAFBVV95cUxQWGNVbVBkMkdZV0dETF9GQVkycUxmYk9CZGZ6bWMwT1FSYTZXSUN2ZWRtYXpMZmFUYmNraFRXOXV3OXZmRnN2WURpZ2tvcENwdjg2WXJJNUwxRHJjMk9GS2kyaVJWbU0zN3F5dUJicDZSUHRtMGZ3dDg3aTdJUHF4VnBXRjFDWUNLR0NNU0hJRjZkR3RTZXRRdXZlbjc?oc=5</link>
-<guid isPermaLink="false">224b284b3ae3ca280978c052752703233d6f0fdeb95326ba3ebed73d47eb5484</guid>
-<source>Google News Artificial Intelligence</source>
-<category>technology</category>
-<pubDate>Mon, 02 Nov 2026 20:23:01 +0000</pubDate>
-<description>State of Working Maine 2026: Protecting workers from Artificial Intelligence Maine AFL-CIO</description>
-</item>
-<item>
-<title>The 3 Best Artificial Intelligence (AI) Stocks to Buy in November - Yahoo Finance</title>
-<link>https://news.google.com/rss/articles/CBMinwFBVV95cUxQcjc3U3RxeFFGc0ZHUHl1TVZjWWZFcVdIOFdHWnNjT2t5d2lLOE8zdGd3Ukdjb0tXMkpzNlA1NW1neG5pbGllSGNFZ1JrMkNjTU5Jb2xYUllqVXBpRlpvNkpaZ3FjR2dLVUpna3dvdDFlMVRTRjhOTHlQQkRjZVo0dHFReF9KWkJmZW00cVFwbXU1VHRMd1FuQk5kaVlOZUU?oc=5</link>
-<guid isPermaLink="false">f06cc4f7aaed869697e5b2a3a00142b5e16253490992d260d0f26b62bf3de3ab</guid>
-<source>Google News Artificial Intelligence</source>
-<category>technology</category>
-<pubDate>Mon, 02 Nov 2026 20:02:01 +0000</pubDate>
-<description>The 3 Best Artificial Intelligence (AI) Stocks to Buy in November Yahoo Finance</description>
 </item>
 <item>
 <title>Googling "Zelda" today offers a glimpse of how search worked in 1998</title>
@@ -2106,15 +1300,6 @@
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2302218135-1152x648.jpg" medium="image"/>
 </item>
 <item>
-<title>Will artificial intelligence make caddies a thing of the past? - Yahoo Sports</title>
-<link>https://news.google.com/rss/articles/CBMilgFBVV95cUxOZVdMdXp4SjZETnhDSzItM3RnRHlDUE01ZHZleXlDdWZQaVNVcEZOUTNxVWZ6aUIxSlppZUwweXU2bjI2TzVLcXB4UzhWZWI2R3BqZ1VXVVhyQTY2cHJnZFhsNVNxN25SQ3M2LWUtY05QNkJQM3ZUOENCSjBYVmpTTTg1LTViRXkzWmUwejBZSkkzOVl2Tnc?oc=5</link>
-<guid isPermaLink="false">9f222be23b48915c42908eb855cdebf0a48f75bff60561153ebeaaa3a4fdabbf</guid>
-<source>Google News Artificial Intelligence</source>
-<category>technology</category>
-<pubDate>Mon, 02 Nov 2026 15:43:14 +0000</pubDate>
-<description>Will artificial intelligence make caddies a thing of the past? Yahoo Sports</description>
-</item>
-<item>
 <title>Queen of the Bagel Business</title>
 <link>https://thehustle.co/originals/the-unlikely-queen-of-the-bagel-business</link>
 <guid isPermaLink="false">e1a4646547a635df5ff1c56d6dc89c7402f9ab3e888fe6ea4ee94ea2c401bb72</guid>
@@ -2122,15 +1307,6 @@
 <category>technology</category>
 <pubDate>Mon, 02 Nov 2026 15:23:02 +0000</pubDate>
 <description>Comments</description>
-</item>
-<item>
-<title>Generative Artificial Intelligence in Clinical Reasoning Education: A Focused Review and Framework - Cureus</title>
-<link>https://news.google.com/rss/articles/CBMi0gFBVV95cUxOTjdmaWJjVHEwYlVXTnFjZTVaMTZlalRTYXQ4LTc3NS1UUnpQQVQ0clJPLVVyZ3ZOZG1ZRVlzbUduWTVzSERLaWIzMjJoLVpHaFVlcmg1Q0U0TzF6NGVvX3ZMMzdNQWZhVUpsanpld01XcGVva2k2Ung2Z19va3E5bHBxWl8wTjRLblBIX082U1UzczZTTWl5d202djJEUVEtSzQxWlNmUGhsT1F6THZaWVZlLTU4c1RGMGwzdFRDS2VTSnlwN1BRamRIamZCLVFnenc?oc=5</link>
-<guid isPermaLink="false">2099bcdcc8ded79cfb233492b649015351c4bfc69e8a1d253a45cad087022d90</guid>
-<source>Google News Artificial Intelligence</source>
-<category>technology</category>
-<pubDate>Mon, 02 Nov 2026 15:14:59 +0000</pubDate>
-<description>Generative Artificial Intelligence in Clinical Reasoning Education: A Focused Review and Framework Cureus</description>
 </item>
 <item>
 <title>Here’s How the Trump Administration Is Trying to Undermine the Election</title>
@@ -2142,26 +1318,6 @@
 <description>So far, Department of Justice–led efforts to sow chaos, even as Americans are already voting, have fallen flat.</description>
 <enclosure url="https://media.wired.com/photos/6ae4d8d720f72a39b1a4480e/master/pass/GettyImages-2290193242.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/6ae4d8d720f72a39b1a4480e/master/pass/GettyImages-2290193242.jpg" medium="image"/>
-</item>
-<item>
-<title>The world has a new plan to save nature, but it still needs the money</title>
-<link>https://arstechnica.com/science/2026/11/the-world-has-a-new-plan-to-save-nature-but-it-still-needs-the-money</link>
-<guid isPermaLink="false">2e34eb012881874dbd692f96e2357d6549c156486ae65d7f0e7f467953816a17</guid>
-<source>Ars Technica</source>
-<category>technology</category>
-<pubDate>Mon, 02 Nov 2026 14:56:52 +0000</pubDate>
-<description>A new action plan aims to rescue 2030 nature targets as financing remains inadequate.</description>
-<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2024/11/1620px-Jabiru_-_Garzon_Soldado_Jabiru_mycteria_8576613973-1152x648.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2024/11/1620px-Jabiru_-_Garzon_Soldado_Jabiru_mycteria_8576613973-1152x648.jpg" medium="image"/>
-</item>
-<item>
-<title>Announcing FAI's Super Intelligence Team - The Foundation for American Innovation</title>
-<link>https://news.google.com/rss/articles/CBMieEFVX3lxTE45U3VKU1FTSHZJNDZYVVdfaGM0aWRXNVdkRFBUNjNEanBFYUNFbTY0Skc0RUJhUlllb0c2dGpvd1BlS1l2MWhiYXVEdHo2bU9NV21JQUtqN3RWYWltMDlRczZjaG9QSnFLSkowNmpLLTZVX1FGa3VlSg?oc=5</link>
-<guid isPermaLink="false">85a0b3956ca3b2ce6eaf38d3a922d0d538fcc9113dba31e90c181061ca505d71</guid>
-<source>Google News Artificial Intelligence</source>
-<category>technology</category>
-<pubDate>Mon, 02 Nov 2026 14:24:07 +0000</pubDate>
-<description>Announcing FAI's Super Intelligence Team The Foundation for American Innovation</description>
 </item>
 <item>
 <title>Get 25 Percent Off My Favorite Renter-Friendly Storage Lockers</title>
@@ -2193,15 +1349,6 @@
 <description>I tested Birdbuddy’s Nook and Birdfy’s Rookie in my backyard. Saving money comes with compromises, but some are easier to live with.</description>
 <enclosure url="https://media.wired.com/photos/6ae8a6050f4d264d864a7ac6/master/pass/Birdbuddy%20Nook%20vs.%20Birdfy%20Rookie%20102026%20top%20art%20Updated%20SOURCE%20Birdbuddy-Amazon.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/6ae8a6050f4d264d864a7ac6/master/pass/Birdbuddy%20Nook%20vs.%20Birdfy%20Rookie%20102026%20top%20art%20Updated%20SOURCE%20Birdbuddy-Amazon.jpg" medium="image"/>
-</item>
-<item>
-<title>Artificial intelligence use doubles among rural Nebraskans - Nebraska Public Media</title>
-<link>https://news.google.com/rss/articles/CBMiswFBVV95cUxQR1FaTElaMHo3UjdkdlZEMFB3V1pDTkJ1VVVMQ1ZjX1Rqa0lNOF9La2ZkMlBZTVJzb29EMkY0RERrN1g5WF9SRTd1ZW1nVEs2TWEzWGZuY3ZxbWp1UUJxWnBxcVVnU25SUDNfd2JEc3NoNXBhYnVEQ3FualdUNW1VaFc1cUVEcGgtRW1BdjJ4NjhnUGlHbmJDN2FhM1NmZGpuRzhuRTY5WUI2OElHOHlCQXZiVQ?oc=5</link>
-<guid isPermaLink="false">9cd6e3c3bdb5a81011d59fd07c2facc243ad01045eab8fba8f002d5122111390</guid>
-<source>Google News Artificial Intelligence</source>
-<category>technology</category>
-<pubDate>Mon, 02 Nov 2026 12:05:46 +0000</pubDate>
-<description>Artificial intelligence use doubles among rural Nebraskans Nebraska Public Media</description>
 </item>
 <item>
 <title>When You Should—and Shouldn’t—Use AI to Search the Web</title>
@@ -2279,30 +1426,12 @@
 <description>Comments</description>
 </item>
 <item>
-<title>Why Don't We Live in an Art Nouveau World?</title>
-<link>https://asteriskmag.com/issues/16/why-don-t-we-life-in-an-art-nouveau-world</link>
-<guid isPermaLink="false">291f83db2f6a5916ea22a0870b08bed4f2f6a31b8f632a2b54a9a49ab3bec334</guid>
+<title>Japan's Jimi 'Mundane' Halloween Costumes of 2026</title>
+<link>https://spoon-tamago.com/japan-jimi-mundane-halloween-costumes-2026</link>
+<guid isPermaLink="false">298d75a5463a0eb82dd957db618cac87286823e604a643d5bc36d9c904de4d05</guid>
 <source>Hacker News</source>
 <category>technology</category>
-<pubDate>Mon, 02 Nov 2026 05:05:11 +0000</pubDate>
-<description>Comments</description>
-</item>
-<item>
-<title>Rise of artificial intelligence in Athens affects local artists - The Post</title>
-<link>https://news.google.com/rss/articles/CBMilAFBVV95cUxQRjlzQ1NCZURyTThKOHdhU3JFblhCeDAtVllKWnVkZ2NGZWdZVlVsT09vbEtiMS1ORHk4VWYyTG9zVGJMLTQtZHRYaHRfa0RWUmxXNnVkYU5Xd284aTItaW5KUTYxVVVKanFVTURXR3NQNU5sdml3RmtlczVuSWxuSGhVcmdvMHVCLW1tUnFkblF3NkZO?oc=5</link>
-<guid isPermaLink="false">78f141b8454f3d25bae18cf3e94ac0c25a19bfad7880bb18f693f576e9c922bc</guid>
-<source>Google News Artificial Intelligence</source>
-<category>technology</category>
-<pubDate>Mon, 02 Nov 2026 05:00:00 +0000</pubDate>
-<description>Rise of artificial intelligence in Athens affects local artists The Post</description>
-</item>
-<item>
-<title>Katamari Damacy but it's The Met collection</title>
-<link>https://katamari.vaguespac.es</link>
-<guid isPermaLink="false">0b292dd14c06f06831a7000511c62e8ccda86bcf144b6c8338d7a0dbc5676c9d</guid>
-<source>Hacker News</source>
-<category>technology</category>
-<pubDate>Mon, 02 Nov 2026 02:21:07 +0000</pubDate>
+<pubDate>Mon, 02 Nov 2026 04:31:20 +0000</pubDate>
 <description>Comments</description>
 </item>
 <item>
@@ -2423,34 +1552,5 @@
 <category>technology</category>
 <pubDate>Sun, 01 Nov 2026 04:05:23 +0000</pubDate>
 <description>Comments</description>
-</item>
-<item>
-<title>Spooky New Infostealer Malware Uses AI to ‘Autodox’ Victims</title>
-<link>https://www.wired.com/story/kernel-panic-volta-autodoxer-ai-infostealer-malware</link>
-<guid isPermaLink="false">cfd9c022f552f991968f62e10e6fc05d54529bbb99bb4e8a31bb2d04d44f589e</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Sat, 31 Oct 2026 12:00:00 +0000</pubDate>
-<description>Named Volta-Autodoxer, the recently uncovered malware uses AI tools to collect troves of data about victims, from login credentials and credit card numbers to Discord sessions and UberEats receipts.</description>
-<enclosure url="https://media.wired.com/photos/6ae4e9f503c2c36f4cfc913c/master/pass/KernelPanic_10312026_v1.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/6ae4e9f503c2c36f4cfc913c/master/pass/KernelPanic_10312026_v1.jpg" medium="image"/>
-</item>
-<item>
-<title>What is Super Intelligence? - NASA (.gov)</title>
-<link>https://news.google.com/rss/articles/CBMiXEFVX3lxTFBYV1RFejMzMzkxQmpESE1mOVVnRHJ1QUt6bi1WbFVISENxTkM4MTgxZEJfNGIwY09KNmF1ckh1ZEVuSjFXbWtUY0ZpMGEtSjZ1QWFrbDFnY0V3bEll?oc=5</link>
-<guid isPermaLink="false">be84a2cbb71a9af8cb931b2a838dc38c8f493dd4f3fa583603bcda6f8b17c0a6</guid>
-<source>Google News Artificial Intelligence</source>
-<category>technology</category>
-<pubDate>Fri, 30 Oct 2026 17:18:07 +0000</pubDate>
-<description>What is Super Intelligence? NASA (.gov)</description>
-</item>
-<item>
-<title>DOE Explains...Artificial Intelligence - Department of Energy (.gov)</title>
-<link>https://news.google.com/rss/articles/CBMidEFVX3lxTE41OVprOE5tN2lBVzZuck52RDRvRU9FU0JvNThpald0enFRaUNzSHBxY0QzVmVhWnJMMHNEUXAzUlNrRnFmOFBtNkpTUVhTQ1lkdFVFeXJpRUZodHAwWTZwMDQ1UzNfMThKTFZqSjZuWkxtOEl2?oc=5</link>
-<guid isPermaLink="false">30af39774c5f088bb4cccb81986938d9635459af04aacffabc5c4575d358aff6</guid>
-<source>Google News Artificial Intelligence</source>
-<category>technology</category>
-<pubDate>Fri, 30 Oct 2026 14:42:15 +0000</pubDate>
-<description>DOE Explains...Artificial Intelligence Department of Energy (.gov)</description>
 </item>
 </channel></rss>
