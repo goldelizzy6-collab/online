@@ -4,7 +4,58 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
-<title>Is it the end of the Cybertruck? Elon Musk announces factory will shift production</title>
+<title>'I've taken an extra job to pay for heating oil'</title>
+<link>https://www.bbc.co.uk/news/articles/cmj47j7e92gvo?at_medium=RSS&amp;at_campaign=rss</link>
+<guid isPermaLink="false">f4b3f4d3a91cf65200111dff7f466bad5e9f4c620658301438a0662b65a502dc</guid>
+<source>BBC Business</source>
+<category>business</category>
+<pubDate>Fri, 06 Nov 2026 11:40:35 +0000</pubDate>
+<description>People in Sussex say they are taking on extra work and not heating their homes due to oil prices.</description>
+<enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4b36/live/69fc4950-d93d-11f1-95ea-8df9a040b6bf.jpg" type="image/jpeg"/>
+<media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4b36/live/69fc4950-d93d-11f1-95ea-8df9a040b6bf.jpg" medium="image"/>
+</item>
+<item>
+<title>Local Business Spotlight: Hungry Hippie Hostel &amp; Hungry Hippie Tacos - WTIP</title>
+<link>https://news.google.com/rss/articles/CBMiiwFBVV95cUxOSzJkb283OFpnZVBLVGM5SnR0eWZtTUUycDVpenNhR1RmVjlXemhEOGt1clJwTDZfaFAzV3h6NUtucXJQalJzeGl2LVp6dldNMld5eFZqVTNLWVE3NDB2MHlaUzNPNVJxSDJBeFlHRkhrVTR4R1Z6SDRNY3lsRll3eDlzMmRmRkNaYWc0?oc=5</link>
+<guid isPermaLink="false">03426688f40132b31919ba41a3caea80fefb0f7c6aa1cb37b67a56b604ae366f</guid>
+<source>Google News Business</source>
+<category>business</category>
+<pubDate>Fri, 06 Nov 2026 11:33:38 +0000</pubDate>
+<description>Local Business Spotlight: Hungry Hippie Hostel &amp; Hungry Hippie Tacos WTIP</description>
+</item>
+<item>
+<title>Global stocks plunge as fears over US AI slowdown spread to Asia and Europe</title>
+<link>https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&amp;at_campaign=rss</link>
+<guid isPermaLink="false">7f806f4d6ebc196f3a39fdee2f431c31ca87c3a4406b4c6fa6d1f3081c11b7a9</guid>
+<source>BBC Business</source>
+<category>business</category>
+<pubDate>Fri, 06 Nov 2026 11:20:10 +0000</pubDate>
+<description>Investors have reacted to possible tougher scrutiny of data centre construction and the AI industry.</description>
+<enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b0d1/live/49c24750-d9d0-11f1-9e5a-c30c5e3d8c85.jpg" type="image/jpeg"/>
+<media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b0d1/live/49c24750-d9d0-11f1-9e5a-c30c5e3d8c85.jpg" medium="image"/>
+</item>
+<item>
+<title>My 93-year-old father changed his will at the 11th hour, leaving my brother his entire $500,000 estate. Can I challenge it?</title>
+<link>https://www.marketwatch.com/story/my-93-year-old-father-changed-his-will-at-the-11th-hour-leaving-my-brother-his-entire-500-000-estate-can-i-challenge-it-ecfc63d2?mod=mw_rss_topstories</link>
+<guid isPermaLink="false">27108625c92f966c60e64beb04a550d78afcdb7286f0c2d165e3f1227357691d</guid>
+<source>MarketWatch</source>
+<category>business</category>
+<pubDate>Fri, 06 Nov 2026 11:15:00 +0000</pubDate>
+<description>“My brother had no job and needed a place to live.”</description>
+<enclosure url="https://images.mktw.net/im-04902439" type="image/jpeg"/>
+<media:content url="https://images.mktw.net/im-04902439" medium="image"/>
+</item>
+<item>
+<title>What Does a Democratic Congress Mean for Business? - Barron's</title>
+<link>https://news.google.com/rss/articles/CBMimwFBVV95cUxPVUpCT2hETU5pZ1c1VEdqVGV5Nmd2b09kZHY2anhuOGU3WjM1S3VfTTdHbGstRzlDd1ZodkhPQWh6RWEwanVYQndETmlMVUUxNDlUYW9tT000Umt4ZE1iQlFxQnN6OVBlbmhIY2xVMW1kSGJkS2lhREZHdjBoazkzMFhNaTViekZxNm5fV0lsN1pqSk1FNXZQdDVOdw?oc=5</link>
+<guid isPermaLink="false">55f3ddd641164aac45d77f97aeaf7ec95dd5428abcc1ef6a2d543ce517992884</guid>
+<source>Google News Business</source>
+<category>business</category>
+<pubDate>Fri, 06 Nov 2026 11:07:00 +0000</pubDate>
+<description>What Does a Democratic Congress Mean for Business? Barron's</description>
+</item>
+<item>
+<title>Is it the end of the Cybertruck? Elon Musk announces factory will shift Tesla production.</title>
 <link>https://www.marketwatch.com/story/is-it-the-end-of-the-cybertruck-elon-musk-announces-factory-will-shift-production-3e33cafd?mod=mw_rss_topstories</link>
 <guid isPermaLink="false">30afa80515286861bf86de3399984398d889233470e3e03a9e69965a849f2c15</guid>
 <source>MarketWatch</source>
@@ -24,15 +75,33 @@
 <description>How a carpenter went from bankrupt to financially independent with a novel business of renting dirt Business Insider</description>
 </item>
 <item>
-<title>What the governor-elect of Texas, at the epicenter of the AI trade blowup, is now saying about data centers</title>
+<title>County Awards Berks LaunchBox $125K for Small Business Grants - Berks Community Television</title>
+<link>https://news.google.com/rss/articles/CBMimAFBVV95cUxNekJEWnNhb0trRENuTWpCOF9ja0RMVkJsM0oxdk1yeEl3YW5za0lBR2JyNkE1VnJiUU9rQ3ZOTG1xTWNrU1U1VXM5THU1bEdZYU12aXo1b1Utc3NBOExqZ09wRDBHU0JuRFFjTjJNT1NVUkoxU2xpVW5Xdm91Wk1MR3dZMHcwZHpVNEN4Uy1HS0IzWjlPT2dXZw?oc=5</link>
+<guid isPermaLink="false">1c5b4d31a62dfa0fa1b495e70a695cc3ae7293cb79d89732c168a9505ac7e28a</guid>
+<source>Google News Business</source>
+<category>business</category>
+<pubDate>Fri, 06 Nov 2026 10:31:35 +0000</pubDate>
+<description>County Awards Berks LaunchBox $125K for Small Business Grants Berks Community Television</description>
+</item>
+<item>
+<title>What the governor-elect of Texas, at the epicenter of the AI-trade blowup, is now saying about data centers</title>
 <link>https://www.marketwatch.com/story/what-the-governor-elect-of-texas-at-the-epicenter-of-the-ai-trade-blowup-is-now-saying-about-data-centers-55876582?mod=mw_rss_topstories</link>
 <guid isPermaLink="false">f9e2dc38bcd64e8293e56b32d52c4013e5f453ef9e11e16f98e9a0b03e6ebc06</guid>
 <source>MarketWatch</source>
 <category>business</category>
 <pubDate>Fri, 06 Nov 2026 10:20:00 +0000</pubDate>
-<description>In a televised interview, Gina Hinojosa emphasized that she wasn’t ideologically opposed to data centers but that the express approval of the communities they impact must be prioritized.</description>
+<description>In an interview, Gina Hinojosa emphasized that she wasn’t ideologically opposed to data centers, but that community approval must come first.</description>
 <enclosure url="https://images.mktw.net/im-66583648" type="image/jpeg"/>
 <media:content url="https://images.mktw.net/im-66583648" medium="image"/>
+</item>
+<item>
+<title>Federal judge rips 'lazy' lawyers for filing motions with 'blatant AI slop' - Business Insider</title>
+<link>https://news.google.com/rss/articles/CBMilwFBVV95cUxPdjNBSVNQNzlyRHdtVWx0V0tQdVVfaHdnSVJJbWFtT3pqNnctM3RaQklmVmJvZkJ6TTd2RzJhY0RPbEpwbzVCalA1ZHE0cUs4M2xIZUl0NUF5aTJ3dmZwemlyRWlWakFTRHpfbjFZbXpYLXZUZWlxRDdHVDR3WjR3b2xSUEluOU84WVlFTGtwWVEzOFNSVTZ3?oc=5</link>
+<guid isPermaLink="false">ae0b402f9caab9002dd411bfc156726b32bbc710da2b215e15b9b9fcc9483331</guid>
+<source>Google News Business</source>
+<category>business</category>
+<pubDate>Fri, 06 Nov 2026 10:19:00 +0000</pubDate>
+<description>Federal judge rips 'lazy' lawyers for filing motions with 'blatant AI slop' Business Insider</description>
 </item>
 <item>
 <title>‘It feels like he’s quietly building a separate life’: My husband inherited $500,000, but he refuses to spend it on our home</title>
@@ -66,13 +135,31 @@
 <description>After the blue wave, here’s what Georgia business leaders are watching The Atlanta Journal-Constitution</description>
 </item>
 <item>
-<title>Survey: Half of Vermont businesses hiked prices this year - New Hampshire Public Radio</title>
-<link>https://news.google.com/rss/articles/CBMijgFBVV95cUxPQkI3N3E2enRmZTN1Y3E5WURQYUwzWW10TzlDNk5TcFA0dUJtVC1vTWZCMTFxYzhNOVY1SV9LNFFudlRLNkE2MjhMbWlQRWpoUEFydHpKMmJWR28tVnVzSC0ySUFmNHRsS1IxLUtCMEs3RFRGOWlBUHRNenZPVkYwdmpBdGthMjRvU096Nmhn?oc=5</link>
-<guid isPermaLink="false">33a99ea2bc772d7e2abac4970511173752657c503a05dc4e466edf28f107d5b9</guid>
+<title>Sylvamo Announces Plans to Sell Europe Business - Yahoo Finance</title>
+<link>https://news.google.com/rss/articles/CBMiogFBVV95cUxOYWszSW1LZTVCRTBGbVdORmR0NXJpUTg0ZGN3T3pHeWM2YzRUWGNsVkZKcmYtcnE1OTJjcnJXWUw0TmlqSlN2UHI3empmVjJVam5Yc2ZwY3ZVemJsQTk3ajF0cXdOdDMwY2xUWXJpZXhfVE54QVRiWk5xZ2tjLS1IQ2gzMUtUeUpOUkk2UlVnUDZKVndNRGQ3Ui03ZFU1cWRpYnc?oc=5</link>
+<guid isPermaLink="false">ecdb5aa62de30f242b62f829d1522dbac099ed51e9c95f4a0cd2496341993c47</guid>
 <source>Google News Business</source>
 <category>business</category>
 <pubDate>Fri, 06 Nov 2026 10:00:00 +0000</pubDate>
-<description>Survey: Half of Vermont businesses hiked prices this year New Hampshire Public Radio</description>
+<description>Sylvamo Announces Plans to Sell Europe Business Yahoo Finance</description>
+</item>
+<item>
+<title>Google's AI debate with schools raises a bigger question about the technology we rely on every day - Business Insider</title>
+<link>https://news.google.com/rss/articles/CBMihAFBVV95cUxNaloxVVJnRDR5dnNZajFjNFBuWGN3MWtRaWhXTW9SdlJ5X3ZxY2J2NnZOU0pBdVpSdmdkX2lqb1pmMl80VG1rSkRFNFBWUkphUGJOSlVFMTEtc3pPYk1xM1k5Z3RudnNMSTVxRlY4TkNrdkItMU9Val9nUVhvckF2VkRzbUk?oc=5</link>
+<guid isPermaLink="false">79087bcda6d86d167653ad378248d67303d27698c5340ce2299169df2114f3de</guid>
+<source>Google News Business</source>
+<category>business</category>
+<pubDate>Fri, 06 Nov 2026 10:00:00 +0000</pubDate>
+<description>Google's AI debate with schools raises a bigger question about the technology we rely on every day Business Insider</description>
+</item>
+<item>
+<title>First look: Singapore Airlines shows off its fancy new first and business class - The Points Guy</title>
+<link>https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMVN3TlV3OGJSaFFueEpOdzRSUk5iRTJwVHhYYlpmWXJmZEZubGRsVFNGUWdjZURRU2xSejdrWTRzelFBSXF4NDR2NllaN3NYaGZFOUlEMHo1T056UEVLVWdjYUxXSTZvZkxaOTFEMGRKOFNZRFdDWnlhV2Y4UjMyczlWSWhlSmtoZ1VJ?oc=5</link>
+<guid isPermaLink="false">c5571dc441896d1e8c75d4b40bc0976261e278b992ea27fc35f3cdef327f82a3</guid>
+<source>Google News Business</source>
+<category>business</category>
+<pubDate>Fri, 06 Nov 2026 09:54:45 +0000</pubDate>
+<description>First look: Singapore Airlines shows off its fancy new first and business class The Points Guy</description>
 </item>
 <item>
 <title>The Business Journal 11.6.26 - thebusinessjournal.com</title>
@@ -93,6 +180,15 @@
 <description>Biodiversity loss is a growing business risk for outdoor brands Suston Magazine</description>
 </item>
 <item>
+<title>MORNING BUSINESS REPORT: Wall Street sees biggest market cap drop ever - WFSB</title>
+<link>https://news.google.com/rss/articles/CBMirAFBVV95cUxNbUFsZkswODMzenN4YjdEVkdXMmlvMmlWbjZNbUt2cWZ4dmtZZGFhdUl3T1NCMVBydUhOUWVibDNSNlpQM2NWRjVHZ3hBMUpNWWdKRXhOcDNTSjNad01lOFM3OGZ6c3k5SXluaTAyOERrZDNkQ3JUeVVYTzJ4b2hFM3pva0VJUFpERWktRURYYlFwS0U3SE1qaUlwNGNBRVV4cGN6dUN1Tk1ZZ3JH?oc=5</link>
+<guid isPermaLink="false">babf675d3d79a61c90141241476d3475a0eb950b4c1b4028297f30d641d08894</guid>
+<source>Google News Business</source>
+<category>business</category>
+<pubDate>Fri, 06 Nov 2026 09:22:34 +0000</pubDate>
+<description>MORNING BUSINESS REPORT: Wall Street sees biggest market cap drop ever WFSB</description>
+</item>
+<item>
 <title>How does it affect me if share prices fall?</title>
 <link>https://www.bbc.co.uk/news/articles/c33zdz2m1e2o?at_medium=RSS&amp;at_campaign=rss</link>
 <guid isPermaLink="false">1e0192d1cca6c958750cb0ea0b8f2f6910e5bc1cd1382a37991a3becb1bcc62d</guid>
@@ -111,6 +207,24 @@
 <category>business</category>
 <pubDate>Fri, 06 Nov 2026 09:10:33 +0000</pubDate>
 <description>Eva Shriver-Kealoha ‘30 makes her mark with new henna business The Lafayette – The Oldest College Newspaper in Pennsylvania</description>
+</item>
+<item>
+<title>Disney resort holds No. 1 spot for local headcount among West Oahu employers - The Business Journals</title>
+<link>https://news.google.com/rss/articles/CBMihwFBVV95cUxNN055cjdBUmdSb0k5WTlNOURUSjNtZW5ONHRfdkFqWExZclF4NkNIc1JCb3dEUG9JbHkwV2RrakpXblNyQjA3Mlh3MHVaaF9NZlN0TklKbFR6RlIyX3h0b2pLNXhzdnFIMzRvTHEzSnJZazhpVHZ0eHl2dzdzTmtWOVZQT1hlVTQ?oc=5</link>
+<guid isPermaLink="false">a6d5d623576bbc3c4d5f2c5fe21205ba6f4b70ecd2227ad2b6b1e80bf80e3d7c</guid>
+<source>Google News Business</source>
+<category>business</category>
+<pubDate>Fri, 06 Nov 2026 09:00:00 +0000</pubDate>
+<description>Disney resort holds No. 1 spot for local headcount among West Oahu employers The Business Journals</description>
+</item>
+<item>
+<title>Veteran-owned Lafrance Hospitality ramps up investment for waterfront hotel - The Business Journals</title>
+<link>https://news.google.com/rss/articles/CBMipwFBVV95cUxOTTdKTVdCRnNGRTNJUlJTa1RxVEg4R29aaWpFY29LaGtSM3U2Sk9DdkNqZjBzVkdnVW1Ib0hpU0FiWW1OUHV6bjdiY0FidzNjUjdRWG1fTlFGUEUyS3JCSG9Jd3NzdVcyVTVqVEQxZW8zQURSQkNVOWN6TXdEMjFvR05PTTlCSWkwQThHVGxBODJXcHZjQ1ZiamkwTmdBSWZOTUl6TGg3aw?oc=5</link>
+<guid isPermaLink="false">ab355848919b9c11fd38715bf37a82253c08dd3e20e58072c173f5cf7881b445</guid>
+<source>Google News Business</source>
+<category>business</category>
+<pubDate>Fri, 06 Nov 2026 09:00:00 +0000</pubDate>
+<description>Veteran-owned Lafrance Hospitality ramps up investment for waterfront hotel The Business Journals</description>
 </item>
 <item>
 <title>Front page for Nov. 6, 26 - The Spokesman-Review</title>
@@ -194,17 +308,6 @@
 <description>Veteran-Owned businesses in the Milwaukee area represent more than 500 total employees The Business Journals</description>
 </item>
 <item>
-<title>Global tech stocks plunge as US midterms add to AI slowdown fears</title>
-<link>https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&amp;at_campaign=rss</link>
-<guid isPermaLink="false">7f806f4d6ebc196f3a39fdee2f431c31ca87c3a4406b4c6fa6d1f3081c11b7a9</guid>
-<source>BBC Business</source>
-<category>business</category>
-<pubDate>Fri, 06 Nov 2026 07:27:26 +0000</pubDate>
-<description>Investors have reacted to possible tougher scrutiny of data centre construction and the AI industry.</description>
-<enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7da8/live/a5c551d0-d996-11f1-9e72-375d6b1d1f05.jpg" type="image/jpeg"/>
-<media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7da8/live/a5c551d0-d996-11f1-9e72-375d6b1d1f05.jpg" medium="image"/>
-</item>
-<item>
 <title>Global stocks tumble as AI panic grips markets after Democrats’ midterm success – business live - The Guardian</title>
 <link>https://news.google.com/rss/articles/CBMi6gFBVV95cUxPZkNLV3dtWldROHdkSkR6V1BEWjFSNC1kSzhnSVhDWDhORmxBSHJEdmtkY0wzdy1oOWE4M0oyUFc1NW40RU9YakdVVEtybGN4dmR5elM0X0szRktFYjNwME9Hbng4ck5vUV9VX2FmelF0VlNFNmVHWGY0TEh0NlpWMEVUTUV2SHhzRWJKWjM2bHc2NHU2SXNKakp6aXl4T2xoVEFXQmJKR0tVTERNTmNXdXhlZTZHQXNUSGZrWjZ5S0tnbENfVkVwdU5xZmlHdHFqTTFyZ1ZPVUVnbkJzNmNDaGV2Nkg2Ykh0a1E?oc=5</link>
 <guid isPermaLink="false">d4d1fcd05b0e9735fa5ac465cbe49ef4738f871175d8404b654ac6ecc93ad866</guid>
@@ -259,15 +362,13 @@
 <description>Weirton Chamber of Commerce encourages good business practices Weirton Daily Times</description>
 </item>
 <item>
-<title>'I've taken an extra job to pay for heating oil'</title>
-<link>https://www.bbc.co.uk/news/articles/cmj47j7e92gvo?at_medium=RSS&amp;at_campaign=rss</link>
-<guid isPermaLink="false">f4b3f4d3a91cf65200111dff7f466bad5e9f4c620658301438a0662b65a502dc</guid>
-<source>BBC Business</source>
+<title>Live: Singapore Airlines Unveils All-New First &amp; Business Class Suites For Its Boeing 777-9 - Simple Flying</title>
+<link>https://news.google.com/rss/articles/CBMikwFBVV95cUxQWXJ0S3pBcTRRdTAzLUJIZU1LSmI4ZV9vRDdwamdnLUlkQ05udHVlRmZKYnJDcDBJTEw2WFdkR2NWTHJCWGpwVnJhZEJlaDRDblpCNDJfWmFsWnF1WVVHUzlTLVlPOVEwQjRkWFdWZGZKZmU5dFdhOWF6TlBiZHVYUUFQQTlCTjVkR2lJYVdPWkNYQVE?oc=5</link>
+<guid isPermaLink="false">ffec62334201709247e25f7660ec5a37e07f50c54a0b0dd9ed71ca9979cde9fa</guid>
+<source>Google News Business</source>
 <category>business</category>
-<pubDate>Fri, 06 Nov 2026 06:06:00 +0000</pubDate>
-<description>People in Sussex say they are taking on extra work and not heating their homes due to oil prices.</description>
-<enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4b36/live/69fc4950-d93d-11f1-95ea-8df9a040b6bf.jpg" type="image/jpeg"/>
-<media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4b36/live/69fc4950-d93d-11f1-95ea-8df9a040b6bf.jpg" medium="image"/>
+<pubDate>Fri, 06 Nov 2026 05:36:32 +0000</pubDate>
+<description>Live: Singapore Airlines Unveils All-New First &amp; Business Class Suites For Its Boeing 777-9 Simple Flying</description>
 </item>
 <item>
 <title>The world's best airline is updating its business and first-class experience - CNBC</title>
@@ -306,24 +407,6 @@
 <description>Flooded Las Vegas valley business points to clogged storm drain, neighboring encampment FOX5 Vegas</description>
 </item>
 <item>
-<title>Markets fret over growth and inflation, just as tech rout gains speed - Reuters</title>
-<link>https://news.google.com/rss/articles/CBMinAFBVV95cUxONUh4V2hzQnA1Rk9zNTN6d3ZxcVZycGZQVmNUNjR3NmpXSmphZHh4LWZvaGJmTTVEWDdBc0lNWmZyUUp3MTFndk5uZl80Qnk0QXotRmo5S1g0MVhDejlwMjJlczNLVWY1eHRLZ1c4dExyOUNqdjJPaUFhVnE2WC16QUc4aTVfUlAwQUtKMktZYi1STk94cXBnSXF5OEQ?oc=5</link>
-<guid isPermaLink="false">f11b1231ede93c5a05901856ec23dbb2fbc831528abef63ea702a1babfdd2312</guid>
-<source>Google News Business</source>
-<category>business</category>
-<pubDate>Fri, 06 Nov 2026 05:09:00 +0000</pubDate>
-<description>Markets fret over growth and inflation, just as tech rout gains speed Reuters</description>
-</item>
-<item>
-<title>US job growth expected to pick up in October, with moderation in wage gains - Reuters</title>
-<link>https://news.google.com/rss/articles/CBMirwFBVV95cUxPSDViTzRZWlJHTWlVVjEtNzJZUnNvU2lOQVZXLUZGNTNfV1RMbENwTXlFOVBtUXNLMm5rLWlrMU91Ym9KOVJaOE1oeVo1MGxKVVY4MWdxU3Q2dDNhT1N0LURqdzd4emhBSmN5akZjZGJNbEdHR3RVQ0M0WXFvS0hkTlhrcHdvODM5M3l0aHhOelVHWmlvYk1oeGh5SmIzOUZOczFRb3VXdkdmMlJSenRv?oc=5</link>
-<guid isPermaLink="false">4e568a6f400c2e9e22f6cbc178cc40c6892a953a3ad2bc0e80cea1995445fb0f</guid>
-<source>Google News Business</source>
-<category>business</category>
-<pubDate>Fri, 06 Nov 2026 05:04:00 +0000</pubDate>
-<description>US job growth expected to pick up in October, with moderation in wage gains Reuters</description>
-</item>
-<item>
 <title>When Can a Business Be Liable for an Accident That Occurs Off its Property in New Jersey? - JD Supra</title>
 <link>https://news.google.com/rss/articles/CBMihgFBVV95cUxNMkhIVlQzcWhRVE5ueVhYUThXbUVFdGZub0E4UHJlQU9TcWNRN2xwWXhfSW5rcEt0amtOTHZka0VjVloyY0VJU1dIUnktekp6ZTF6a05vbm5XSjZLLWdiVE5ra2tTVjJ0ZnJvYkxhcWEwRnp2blRpUHpMQm5zRFp4aVBBSmx2QQ?oc=5</link>
 <guid isPermaLink="false">dc4bc576abd2e21a4220629f7969539bbb8d4afac1dfcee6bfb7c9cb10f0f33d</guid>
@@ -331,15 +414,6 @@
 <category>business</category>
 <pubDate>Fri, 06 Nov 2026 04:42:14 +0000</pubDate>
 <description>When Can a Business Be Liable for an Accident That Occurs Off its Property in New Jersey? JD Supra</description>
-</item>
-<item>
-<title>Bakery, grocery store: Check out 5 Richardson business updates - Community Impact</title>
-<link>https://news.google.com/rss/articles/CBMirgFBVV95cUxPVXNyRmRtWHdPQVZqUlROVGZPa2R5RFliSUtkYjE4R01KM21fc18xajdaSHhaQlRmQ1hwNnF0UDI2Ul9VQmRaRzNGc0l4ZGp1bzRudHFLZVRsM0FSZ1NlWGtsTXRsR2V0WFpyaFZmVUdpdWkteURzUmhhbGM0dmdGcm1XaElQRXlzSUtBWUFCZkZVQnVDcTdWMldfTTE0Qi1scXlPZWpiUnRjUzZ6RFE?oc=5</link>
-<guid isPermaLink="false">ed35e1553e650aa1db47bdfe816078fbfea282420d360fabfe37490fb9e3c369</guid>
-<source>Google News Business</source>
-<category>business</category>
-<pubDate>Fri, 06 Nov 2026 04:04:46 +0000</pubDate>
-<description>Bakery, grocery store: Check out 5 Richardson business updates Community Impact</description>
 </item>
 <item>
 <title>8th Annual Dodgeball Tournament at Haverhill Chamber Business After Hours - WHAV</title>
@@ -472,15 +546,6 @@
 <description>LSCP celebrates Marquette County small businesses Upper Michigan's Source</description>
 </item>
 <item>
-<title>Elm Avenue construction affects businesses south of Hastings Southeast roundabout - KSNB</title>
-<link>https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNjZCaHVNeFdHYXlNS0ZWOU5qcktMQjNDM3VNbTkwM056MkRWdS1jeWJVN2k1Qmd1TGhBZTBnYW1hdlVIbENwMXFncVBhRXI1aWJnb1lNdFVpUGlhWXpocXFPdzAwaWo5eldyVThqYzFSMUhub2F1dmZDNGwzeG93NmVxMzFoY1RQemQ3TzBHOV9FSFpJci14THljTGRCRnBlRTJSZGlCWjc1QzdkOEIyb3hxYTFUR3pI0gHMAUFVX3lxTFAtZWFkRVVqNTU3eFhFUlFraV9jWnp2YTlnaFcxbXBabUlvMllCRVktM0V3S3NCRUFMNnAyeU0wQXNwSWRjalM1M2cwdEtHdnlhb0hURVhRTkRwY0cxdEt1cjlBQ0pJSkJ0bDJ3MUhLUlR6OVdUa2g2ZTd2MGVMRHJTYmRwcWQ0Y2pzamxFZ2VyN1pMcmYxZElkYnhoNUF1V1labUlCRDdCX0tDQlQxemQ3QTQ2X2RVeVk1NWNQbEo3UFF5RUVnaWdMWjJKbQ?oc=5</link>
-<guid isPermaLink="false">ac63375851a39a71d2585370d9adb201ef5425190f93546123e67c7aca37b4e8</guid>
-<source>Google News Business</source>
-<category>business</category>
-<pubDate>Fri, 06 Nov 2026 01:45:00 +0000</pubDate>
-<description>Elm Avenue construction affects businesses south of Hastings Southeast roundabout KSNB</description>
-</item>
-<item>
 <title>ICE detention of Waltham business owner extends past 10 months, as family continues fight for his release - Waltham Times</title>
 <link>https://news.google.com/rss/articles/CBMi2AFBVV95cUxPTVVmOUtHNzM0MzJuUU1xTTVacTlLNjVXbWh3WjZMTjBibWtoUTNvOS1FckhQOHNZTEVoYXo2RTNNNHdBaXRlWU1rQjdCRUpjVVZCWHpvek5Vbk1zeFNlaHh0X3kzdllFTzFnMnZJNGhRY191enV4S21FNm4zMlhmdE5ZT2JtcVVpYmRzbkF5YlktN1E5TWRGS21ieF9KdERiUW8xaGo5U1ZrWjdFUVpwNnFfOEZoaHh5bUFKRW9xYlNfYVUxRjlkaEVjMkVzNjhkZU1DV2ltN0I?oc=5</link>
 <guid isPermaLink="false">85955ed2245d66bfef517b7f91f6f6fb482ed1bd581b225fbddb8fe12dd2e1ae</guid>
@@ -595,15 +660,6 @@
 <description>Downtown Augusta business owners describe effects of Broad Street construction WRDW</description>
 </item>
 <item>
-<title>Watch AmCham China President on Business Sentiment - Bloomberg.com</title>
-<link>https://news.google.com/rss/articles/CBMioAFBVV95cUxPVW0yNmZFeDVfLVZJeGkwdVl4ZDFhMGVDSkpWR2RsMTRJQmZGMmlRWDRicmJ4aWlfWXNMdDJuWm83TEw2aXNsVC1ydFptTno3OEtTRmJIdlVtQkZwNWdmTGxjbTBkaWExZU0zdW90ZUtfaGx2SUZaMFNjWEgwb3NDNXdWYzlGQ0RpVkNBVUlJWVBaMmZ0X2p6czB6VXVTckxj?oc=5</link>
-<guid isPermaLink="false">a3e08e3f1f96a71c2203b70856f047a787154c60215a883d6fa6a5d54ee5a362</guid>
-<source>Google News Business</source>
-<category>business</category>
-<pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
-<description>Watch AmCham China President on Business Sentiment Bloomberg.com</description>
-</item>
-<item>
 <title>Northern Michigan leaders say new West Coast flights could draw new business and visitors - 9and10News.com</title>
 <link>https://news.google.com/rss/articles/CBMixwFBVV95cUxObVN1SHprdHdxZG1Ocko2MU9sNXRXSk1QcFJ6T2VBMl84R2xGQkkxNXg4ekpMaXlaX0dkdE9hVWhsOFkzMmRFbW00Tk1sZUdvdUZFMWtpZzFDV2VWYkQ1dHJ0bFNhWkNCSzRUeng0dlhnWVpySURPQVEwd0RmTVVhWVVRMkxGX3dOODNaS0dEX3ZmaldoUDJpWVY5cXlUSVVqU0ZqRDV5UkZWU0hyckFXQmYwRUlsS2lpVGxUUmpIR3dpd1VnQWF3?oc=5</link>
 <guid isPermaLink="false">630a49298c15a6c33e67ecfae77e442befe4271298031fd13f976395bc075b34</guid>
@@ -651,17 +707,6 @@
 <description>WECT INVESTIGATES: Supply business owners face criminal charges, civil complaints over missing headstones WECT</description>
 </item>
 <item>
-<title>Tech stocks log worst day since 2020 as carnage comes to the AI trade</title>
-<link>https://www.marketwatch.com/story/tech-stocks-log-worst-day-since-2020-as-carnage-comes-to-the-ai-trade-56109845?mod=mw_rss_topstories</link>
-<guid isPermaLink="false">73664dad86aa9c338d6fbc67f50270036a603b3c61e21aa5dd0137240f0f4e1f</guid>
-<source>MarketWatch</source>
-<category>business</category>
-<pubDate>Thu, 05 Nov 2026 22:48:00 +0000</pubDate>
-<description>The S&amp;P 500 lost an estimated $2.9 trillion in market capitalization, the largest one-day loss of market value on record.</description>
-<enclosure url="https://images.mktw.net/im-71200494" type="image/jpeg"/>
-<media:content url="https://images.mktw.net/im-71200494" medium="image"/>
-</item>
-<item>
 <title>Stone finds his rhythm in the Gordon Ford College of Business - Western Kentucky University</title>
 <link>https://news.google.com/rss/articles/CBMifEFVX3lxTFA0RDhWeGFwa2hodldzRFV2OTlIMlplcE5IYmNEeGdqN3c2YWQ2dW1BTE5RT2NKSEd3NVB2QjVFS2I3Q3U2QlpoVGZfS001WUdxWkoyR1ltcDFUdzlIVi0yUm5USUpSWkk0QlE5T1JPOGtXUjAtblBUbXRFZ0M?oc=5</link>
 <guid isPermaLink="false">4055168b720f9abd50571611fa5350462daf1fbba3b9183148a4580053ebc7f0</guid>
@@ -707,24 +752,6 @@
 <description>Jackson business owner arrested for $100k loan theft of elderly victim FOX40</description>
 </item>
 <item>
-<title>UWL hosts small business summit - news8000.com</title>
-<link>https://news.google.com/rss/articles/CBMizAFBVV95cUxQTjNQRkE4dHZRUGpoZDZyaE4tbmtMMndlekNHOTJ1OG1JaE5oc2JUQVJKT2pCVnFsd0hpVmFuMFp3NGZKaUUtN3JQQVdYemFVNnBoN1NLQXFnZ1ZxZWFPcDhDNEEwMFYzS1ZQNDZwM25EOENSWmJzU2pIb2MtY2tydTg3RlNmVTVsZTkwMUxTYldNZGZkTTlyVkJtbF80bWFGUV93V1FBZ2xueHNSSGZEMG1veF85Z3Q4dlNQcE5oU1U3UHFnTDlTTTRnQzM?oc=5</link>
-<guid isPermaLink="false">f8bb3457fea8a60a1adf98887d7fde261cbf5a8e049112c0a52e711472656d20</guid>
-<source>Google News Business</source>
-<category>business</category>
-<pubDate>Thu, 05 Nov 2026 22:16:00 +0000</pubDate>
-<description>UWL hosts small business summit news8000.com</description>
-</item>
-<item>
-<title>NFIB Jobs Report: October Small Business Jobs Numbers Strengthen - NFIB</title>
-<link>https://news.google.com/rss/articles/CBMiqgFBVV95cUxNR0lNYUNUSUhFc1JJejdGalZSSmhJVEYzTllseEpjdndWbGpIQmN3TGxEQTZTOEJqX1BtWFpiamJiWDFxaGo0dmxvWEtQMV8zQXRJNm1RUW1XR1ByTUw1WGFwZUttWFE2aVZZcEtUQW1BSjJVT1F4OU01Yl81X0tuM3hNbFBYd2t5RzlacDdqZXFiSEQ1VXRJQUVaWlRVLW9Fbmxrb3NBTFlrUQ?oc=5</link>
-<guid isPermaLink="false">f6e1f8e9e9eb28db436fbe0da1247385e9750d7096a4519bcdecb3ca061a5f43</guid>
-<source>Google News Business</source>
-<category>business</category>
-<pubDate>Thu, 05 Nov 2026 22:12:57 +0000</pubDate>
-<description>NFIB Jobs Report: October Small Business Jobs Numbers Strengthen NFIB</description>
-</item>
-<item>
 <title>Disney employees use a town hall meeting to press management for details on a possible next round of layoffs - Business Insider</title>
 <link>https://news.google.com/rss/articles/CBMitAFBVV95cUxQSmpHcURmS2x1U194R2xuYm1PLUNFMUdqOEFjMmwyVGd2SXFmWmdrUk5Ubm9PUFgzYjVhOTM3ZGs3QkE4T05CUDZaaWpaZFFad0paa3ZfMzYyTlQ5ckttcF9KY0tkRTU0Q0VIQl8ydlBEdG5Bcm5uZjlhNjJYendwSG10cU1BcF9HV1hyQXNqeFBVTlBTSmJUQzY5cnpKelBjZlREZ0tsNGZ1ZEZEOGVXQms1R2Q?oc=5</link>
 <guid isPermaLink="false">97b31fd3f1f93c56ef35250ad6ad2339ea3150e4a920fb729a208fefbf4f606e</guid>
@@ -732,15 +759,6 @@
 <category>business</category>
 <pubDate>Thu, 05 Nov 2026 21:42:00 +0000</pubDate>
 <description>Disney employees use a town hall meeting to press management for details on a possible next round of layoffs Business Insider</description>
-</item>
-<item>
-<title>I lost most of my friends after a heart attack and double amputation. Almost a decade later, I don't miss my old circle. - Business Insider</title>
-<link>https://news.google.com/rss/articles/CBMikAFBVV95cUxQX3BfWUxMLWVMaWFLaUpsRGtVUzlBTy1JN0tRcHNZX3gyemFnNWM1OUwzcUtLMnZGXzlmUXpfVGxqWVVod25vQVpreVhmMFBVNUFISF9aMUc0WklRZ2cyeENabDV3TU82WC1EN0xILS0yOXY3emtfOTZ4WUZCV2trSzNua3MyaUlGR1dIaGQzRXM?oc=5</link>
-<guid isPermaLink="false">96b0d54cca77744d277e075e3a5ef695b3e4ead3bbb9d9edfc5d7399772abf0b</guid>
-<source>Google News Business</source>
-<category>business</category>
-<pubDate>Thu, 05 Nov 2026 21:32:00 +0000</pubDate>
-<description>I lost most of my friends after a heart attack and double amputation. Almost a decade later, I don't miss my old circle. Business Insider</description>
 </item>
 <item>
 <title>Melissa L. Gruys named dean of Nistler College of Business &amp; Public Administration - University of North Dakota</title>
@@ -770,6 +788,15 @@
 <description>Junior Achievement of Georgia to induct 2 business laureates Nov. 6 WTOC</description>
 </item>
 <item>
+<title>Serve Robotics launches new business to become the AWS for robots - TechCrunch</title>
+<link>https://news.google.com/rss/articles/CBMiogFBVV95cUxPX1BDTjhHVkwweU9jY0FBeEhpcWxIanNXa3QzLThVVEZ0cjl6S0tYZmFBeWxkRFI0T0xGcHlLR0psVUh4ekctWVE1NzJrMFVYWEl3MDBOdWg1NXdoT0duY2dMaU9xaTlyWmN5SXU4VldtZVJwNTRJUVA0YTZkV25UbjJtN1hWTXBfbmRhU1hxaU1LRlFtYjZ0eU9LcWJoZkhpZEE?oc=5</link>
+<guid isPermaLink="false">db6e16cdc6baf151c998fa791bbe9052c5713d78e295def1e921a9b3a2420ad7</guid>
+<source>Google News Business</source>
+<category>business</category>
+<pubDate>Thu, 05 Nov 2026 21:15:00 +0000</pubDate>
+<description>Serve Robotics launches new business to become the AWS for robots TechCrunch</description>
+</item>
+<item>
 <title>AI stocks crater as investors panic over the risk of a data center slowdown - Business Insider</title>
 <link>https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWEMycnVBc3MxVDFJNlJrNXpCakVwWTE2WjJBekgzb2F5ejNHb3c0eGZ0bld3aG1BVkR1ejJZTk1ZNnd4d2JXdGZfNTl1VUFqeVR4ek53ODhXdEpENjdrM1NscUNIbi1YdG9IaHR5YTZmaVB3SEtHcU9UMUt2YTBJRk9NTDRGaks0bXlVdi1WUnhqanFzR0QzNGQzVDYxRlpCdlhCMWlMaG0?oc=5</link>
 <guid isPermaLink="false">3c49e409397ce9803c646729f2eb1d93762c6dcd4c23c92a664710c25b049afe</guid>
@@ -777,15 +804,6 @@
 <category>business</category>
 <pubDate>Thu, 05 Nov 2026 21:06:00 +0000</pubDate>
 <description>AI stocks crater as investors panic over the risk of a data center slowdown Business Insider</description>
-</item>
-<item>
-<title>UVM MBA program ranks #1 nationally - Vermont Business Magazine</title>
-<link>https://news.google.com/rss/articles/CBMihgFBVV95cUxPVHNlUzBDNm9Jd2RBM3plbWxZNnFMbVAwcS1oOFNodU9tcno2Z0w0eVM0S0QyQ1RERXVPYlh2Q2pFZHkwM1RmamlFQjhJRmpqdEZoeU9EclVJMEFDVUM4QXVZOGhBQ0g0ZmJKVHBDYzEzX29TckxKaGlNNWZUbWRQbEVLQzludw?oc=5</link>
-<guid isPermaLink="false">75a31fb2801a0256bfe6268be97218966c8bc5346635db9e89d7bfaad33fd52f</guid>
-<source>Google News Business</source>
-<category>business</category>
-<pubDate>Thu, 05 Nov 2026 21:03:27 +0000</pubDate>
-<description>UVM MBA program ranks #1 nationally Vermont Business Magazine</description>
 </item>
 <item>
 <title>Stocks plunge as Dem midterm sweep fuels AI regulatory concerns - Fox Business</title>
@@ -806,6 +824,15 @@
 <description>Tallahassee holiday staple, Project Annie, pausing amid business transition WCTV</description>
 </item>
 <item>
+<title>Community health workers help bridge the gap in service access - Talk Business &amp; Politics</title>
+<link>https://news.google.com/rss/articles/CBMinAFBVV95cUxNeTJNNEE2UTN0UlhzSWhEQ0ZYMjRsMFlmLTdxY3UtVGtsdjNJU2VyWm1WSUdCaXQ1Qk1zZGVPNUhEc2I1OGRUZ0d2cjNqYk9ZM29ZOTl6R21ZOVJfeEZsUHJENno1elJjdVR4V0U0OUJoMTNJellTcU1QbmJIQkwwSmhTWjA0Mm82Nm5rSmJIOXlQVDU2TkJuT2JBWnU?oc=5</link>
+<guid isPermaLink="false">d6c56e4bb0b8c793026a813c6b3636afb1e0f5f5f969f52a401573568ea3bc35</guid>
+<source>Google News Business</source>
+<category>business</category>
+<pubDate>Thu, 05 Nov 2026 20:21:27 +0000</pubDate>
+<description>Community health workers help bridge the gap in service access Talk Business &amp; Politics</description>
+</item>
+<item>
 <title>24 businesses selected for Lahaina’s ʻUlu o Lele Marketplace ahead of Nov. 10 grand opening - Maui Now</title>
 <link>https://news.google.com/rss/articles/CBMixAFBVV95cUxPN2lYMEsydUNpUmVQWWRoTkl5WWpWdmN3NFhHejh5R3JXbW5FVUFEaHFGTGRHUHpFcXFzZEVpbmk0OERHSnU4UFBaV0JhakVWMEVhY0MtUTRJWHZVTmd2YlZGSURyNlJIR1Z4cm5IR1B2U3o0cGh1aXI1SW0zd294aXJtTFljRVpQWktxRjFPT1FGSC02UlRMRGNTQjNaOFQtb2hzQlJjY1FhNVlSTS1WbjIwLW5QZ0pZVkJZV0hWRUJfeTV3?oc=5</link>
 <guid isPermaLink="false">cae0b8f9213b4b5e4d66ab0c8009b79063374acb469b2ac78552e7be08cf2edb</guid>
@@ -813,24 +840,6 @@
 <category>business</category>
 <pubDate>Thu, 05 Nov 2026 20:00:00 +0000</pubDate>
 <description>24 businesses selected for Lahaina’s ʻUlu o Lele Marketplace ahead of Nov. 10 grand opening Maui Now</description>
-</item>
-<item>
-<title>Downtown business owners voice support as city adjusts parking fees - SiouxFalls.Business</title>
-<link>https://news.google.com/rss/articles/CBMinAFBVV95cUxOQ2dkbXRmX1J4V2tvSVptaEZZUEpYWF9sZHBaeGRYZ29qRHp4MjFabFdURkthM211R1Vtb3k0TWY3RE95RDYyOXczVnhwd01JLWgwV0hmMWlLUXg2QlhJMm5iVVh0TFFTMjM1RTNVSk93ZkpvRnNpbzU0V01RcWQ4dnJ0VDQ0OUEwUmRoSHkyNUtyMHpMWEtnLThmRFY?oc=5</link>
-<guid isPermaLink="false">3485e0f87b4bb2563c1453b7dfa748a6d0b99ee148b18af3c083f2f2650abb1e</guid>
-<source>Google News Business</source>
-<category>business</category>
-<pubDate>Thu, 05 Nov 2026 19:33:56 +0000</pubDate>
-<description>Downtown business owners voice support as city adjusts parking fees SiouxFalls.Business</description>
-</item>
-<item>
-<title>Tillamook teen wins national FFA title for flower business - Capital Press</title>
-<link>https://news.google.com/rss/articles/CBMimwFBVV95cUxPMXRTNllBVlRtZjhIb2I4by1ldmZHYnk5TGc3dWp3NVZic0V1REFOZlU5QVZTTDRyZk5sQS1adFBhTlMwUHlwSzJyeklWd0xwc0lmY3lWYjc5YTA2YnFudUpnTnhsZTVqWUxuMWhHQ1hDNjJrYTZUX1NlZFZaWHVrNG5kdm0yUXZXSTZhU3dhVnVOdDVnYnlDbFR5UQ?oc=5</link>
-<guid isPermaLink="false">218d460e600782561a06ff4bed79ca5f038b4014ca5b2187f8a8d77b2e385d5b</guid>
-<source>Google News Business</source>
-<category>business</category>
-<pubDate>Thu, 05 Nov 2026 19:15:18 +0000</pubDate>
-<description>Tillamook teen wins national FFA title for flower business Capital Press</description>
 </item>
 <item>
 <title>I watched my dad build Cape Cod Potato Chips, and then I built 2 businesses of my own. Here's my advice for founders. - Business Insider</title>
@@ -907,13 +916,13 @@
 <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5e8c/live/91074120-d849-11f1-b870-55415e6a9944.jpg" medium="image"/>
 </item>
 <item>
-<title>Turning 2026 SEMA Show Insights Into Business Growth: Wednesday Recap - Specialty Equipment Market Association (SEMA)</title>
-<link>https://news.google.com/rss/articles/CBMirgFBVV95cUxOVVpOSjh0dy1sQWxNM2Z2Q0xadXl0MzFrTkFoYmFxOG1URGxZRkNweUpHMTI0MVFtUmNsOVJLbHktajZYVEZHUGZsZUk3WnNoc0R2QzVyTWYzTkpmNVF0WWJpQTZzTlNaVlpySVpBNk5YSU5NdkZqX3NQZTM2RS1HbUdXaDVZZ2E1WnVsa2VMMDQwckZqTTZyeFhkdl95a0NTOWh4dmlrUTdwbFpLRlE?oc=5</link>
-<guid isPermaLink="false">64a288577e923263b6394ae1825ed0a26cef12b16e616b60e13161bf0cf49e8e</guid>
+<title>7 Small Business Ideas With the Highest Net Margins, According to Industry Data - Inc.com</title>
+<link>https://news.google.com/rss/articles/CBMivAFBVV95cUxQb2Yxa2dBSEpjVno3NnhiOXhkN3R3d29DdmlWNTkwazNDZ3NIemVPMElVaUt1SFVjSGEyUXllY1lmUnk3czFWY3FvNE1xUzBKRXg4eEJFY19GLW45cEkzTTdFcUZjbFpwd0dGSmlCR0dmNHcxZW8tUTdsUlRTdEI2UzZ2NklBQ3dleUxjZjVUYlNXYWdKR0ViUFlES3Y1V1laRlBhcEUxNXMwU2J6LTNUaW14aFV2dG1TS1NHTA?oc=5</link>
+<guid isPermaLink="false">4b9e7e68adb5f6a71d10b3e8ef711084e43047890fdd2e4614f53ecdc9a17e83</guid>
 <source>Google News Business</source>
 <category>business</category>
-<pubDate>Thu, 05 Nov 2026 17:05:31 +0000</pubDate>
-<description>Turning 2026 SEMA Show Insights Into Business Growth: Wednesday Recap Specialty Equipment Market Association (SEMA)</description>
+<pubDate>Thu, 05 Nov 2026 17:06:37 +0000</pubDate>
+<description>7 Small Business Ideas With the Highest Net Margins, According to Industry Data Inc.com</description>
 </item>
 <item>
 <title>Expedia CEO says AI agents aren't changing booking habits — yet</title>
@@ -932,6 +941,15 @@
 <category>business</category>
 <pubDate>Thu, 05 Nov 2026 16:59:00 +0000</pubDate>
 <description>Jack Dorsey's Block Makes Second Round of Job Cuts This Year Business Insider</description>
+</item>
+<item>
+<title>The Blue Wave Hits Sand Hill Road - Business Insider</title>
+<link>https://news.google.com/rss/articles/CBMifkFVX3lxTE52MUlHYl9UVGNOQ2JEYllSbjlUb0FNTE4xUjVXMHVSRXl6OXQ3OVhiNlFQanAzU1lQcU9yOU0yVnRPQk55QXhTZ1hEWU5PV0R1aWRiUU9PT0h1WmhGWlQ0WVBUb1FrbmM4Q0QyMTdHek5fMTlmdmllSi1VbGR3Zw?oc=5</link>
+<guid isPermaLink="false">6314eb9ab535a062079de97a53ea278d7ac5f03d988ffb4dbaa80bba42e92506</guid>
+<source>Google News Business</source>
+<category>business</category>
+<pubDate>Thu, 05 Nov 2026 16:56:00 +0000</pubDate>
+<description>The Blue Wave Hits Sand Hill Road Business Insider</description>
 </item>
 <item>
 <title>Family-run massage businesses in Southern California hid decade-long sex ring - KTLA</title>
@@ -1021,6 +1039,15 @@
 <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8981/live/dfdf1a30-d91f-11f1-93e1-3b657b665bcf.jpg" medium="image"/>
 </item>
 <item>
+<title>Business - The Economist</title>
+<link>https://news.google.com/rss/articles/CBMic0FVX3lxTFBUSWhYcG42aWFZdkRsUnBXRm9fRklLVHcxTF9ZT1ltVjBtMU1qMlIwOUM4RnRrU3l5UHViX1hnSmt5dVVybE5qamlscmRVZXk1Z2lheV9pdm5xbGVrY1h4RlNfWnB0Vkg4U1o1V2FtRjNpOVk?oc=5</link>
+<guid isPermaLink="false">40e0ee734ce141f7f62b72fc74a3cef57568ceb024a90604298bf96f93a9d737</guid>
+<source>Google News Business</source>
+<category>business</category>
+<pubDate>Thu, 05 Nov 2026 13:58:17 +0000</pubDate>
+<description>Business The Economist</description>
+</item>
+<item>
 <title>The break-up of CVS marks a turning point in American health care - The Economist</title>
 <link>https://news.google.com/rss/articles/CBMisAFBVV95cUxQMWNpZmllSlY3S3JzSzhHb09XOTlqMGdjaXZlUlpqU18xZlBnbjRzT1BONExCSGpQeFFJM0xSLUh0SVFoWWtfMjNqRnB6ZzhkZ2d6YVF6VjBaV0Z0d0hnd0c4eHlpUnZUSEU0VWpDQmpxVEwzYW1qZU5kNHZ6RVdsdEZNekJFTGY5UUt3OGhncmllRXBtNDVNMGZ1d2ZmNXpMeklEeERtT2FaWkNhZ2JKZw?oc=5</link>
 <guid isPermaLink="false">55af75b7a0f29a536771a3707462d2b488dc9e7c7040094cdb33c5870b13fd27</guid>
@@ -1052,15 +1079,6 @@
 <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/296a/live/09ae45c0-d916-11f1-93e1-3b657b665bcf.jpg" medium="image"/>
 </item>
 <item>
-<title>SpaceX and Tesla's midterm stock drop cut Elon Musk's wealth by $33 billion - Business Insider</title>
-<link>https://news.google.com/rss/articles/CBMingFBVV95cUxOZnlXY0U2bF9GYncwc0JHQVVWU3BDSV9FWkt5emNmWU9abGU3bS1IMHFyU2JTTlBYd2d4dV9SQ0hWdU9JeDZZbFZ6cXQyQ1k1YjZQUlhPXzFoN0JGWTJSazNiZERjYVVGMnJzMUdtclBJSmtxZ3VQcHc5VVoxS2NOQ1ZGcW9JbzJpN2RvZnBEUGdQYVAxMWE3UzN3dTlnQQ?oc=5</link>
-<guid isPermaLink="false">5ddaae990baff3a8e3ed3f2bb379d45f2fbb7b155135882728d5d5b83dd5eaa3</guid>
-<source>Google News Business</source>
-<category>business</category>
-<pubDate>Thu, 05 Nov 2026 12:53:00 +0000</pubDate>
-<description>SpaceX and Tesla's midterm stock drop cut Elon Musk's wealth by $33 billion Business Insider</description>
-</item>
-<item>
 <title>The Texas-Size Political Tremor Rattling Big Business - The New York Times</title>
 <link>https://news.google.com/rss/articles/CBMilAFBVV95cUxON0ZWNURGTnl2eTBjOFdUN01hZWpTdm1ZOHNUemZGUHZJY0w1NG81YVdXUG5xUHpzNWVfYS1nVnpzaWQwZkpHZm41RWF3OWVONS1mTWNiRF9UTVMwbkJUcnVIcWN3M1dHU2ZubGlHVVM1TkF6VmFyQlhHYXBfVTQ3NFJfTmN2U2cwMC1iMmN5X1psS1NT?oc=5</link>
 <guid isPermaLink="false">aa41247c62cc7697a2778669491965f86562a2c45161747d5b6e457ae9ec73fa</guid>
@@ -1077,15 +1095,6 @@
 <category>business</category>
 <pubDate>Thu, 05 Nov 2026 12:00:15 +0000</pubDate>
 <description>Musk bet big on keeping Texas red. What happens to his business empire now? CNN</description>
-</item>
-<item>
-<title>Vail Resorts facing a proxy fight over its board, business strategy - The Colorado Sun</title>
-<link>https://news.google.com/rss/articles/CBMiiwFBVV95cUxPX1J4eFhGRHFTRHowZ1AyUjNSb2xaYWVvUHp5N0VwUHNzZW1JTmZrbVhaSkl3THByVXlZTFlnX3RGc2FuTWdsRDVMNjFXSk1raDZlUHRPLVF3Y2RTZ1ZpZ0hPWms0Xzd6OVRvVXlIb1V1SHAwRUp5VUtQU2VuZVlZbm1SNWotRzgwNVNV?oc=5</link>
-<guid isPermaLink="false">355b3b513069b9eb61ebe07fbc3b2674e14b7cb5c4136c6564e5f81df1458b93</guid>
-<source>Google News Business</source>
-<category>business</category>
-<pubDate>Thu, 05 Nov 2026 11:14:00 +0000</pubDate>
-<description>Vail Resorts facing a proxy fight over its board, business strategy The Colorado Sun</description>
 </item>
 <item>
 <title>Welsh aviation firm AerFin bought in £475m deal</title>
@@ -1108,13 +1117,13 @@
 <description>Even as travel and experiences top the wish list, consumers are still prioritizing spending on physical gifts this holiday season.</description>
 </item>
 <item>
-<title>What the Democratic landslide means for GOP booster Elon Musk and his businesses - Los Angeles Times</title>
-<link>https://news.google.com/rss/articles/CBMivwFBVV95cUxOajY3dlRpQlA5MjFEZEdVTTZmMk5adkxQLV9WdUFiczRQYlNNOGt3NnVRMUZUT0ZGdUxsY1F1R09KOERMdzFNalo4YlkyaDNpVm1XRnVZMDlxcEhma2lJbm9NMmE4dHFlTmFRVWNja1k3VWZGZW9QejQ0OGxTMndrWFo4dEtyX1hJaDVGdVdkTWhKTWdnQm11b1N3ZlNRdXJIRUcxS09ZR1FIeFd6WnhBMmREV3h4QS1fM1VWbUZZNA?oc=5</link>
-<guid isPermaLink="false">63c5456439c022aa3e124f04c2cb9ad558739d347fcd2414857c1dc60e5cebbb</guid>
+<title>At the Root of K-Pop’s Controversies, a Restrictive Business Model - The New York Times</title>
+<link>https://news.google.com/rss/articles/CBMigAFBVV95cUxNcFd3cFNPR1lxUGFKa3VMc1hxc2JheGEzX0tVUlFNYllLdElOQ3p6NXdYOEdCVU92X1UzNjY2VGtZa25SV0N4X2xCQzFaZHRGb05KWkdvZk5Ba085UHNJS2tkc25JTDVnNEFueEF1cTFaLVJYeDVMOHFLcmxEYk9fMw?oc=5</link>
+<guid isPermaLink="false">b4a9d36431575b881eb2bf4e6a0e2fa9934a01c4bc0bff7cdf33b293406fa0d7</guid>
 <source>Google News Business</source>
 <category>business</category>
-<pubDate>Thu, 05 Nov 2026 11:00:00 +0000</pubDate>
-<description>What the Democratic landslide means for GOP booster Elon Musk and his businesses Los Angeles Times</description>
+<pubDate>Thu, 05 Nov 2026 10:00:43 +0000</pubDate>
+<description>At the Root of K-Pop’s Controversies, a Restrictive Business Model The New York Times</description>
 </item>
 <item>
 <title>Second buyer makes rescue bid for Poundland as retailer faces collapse</title>
@@ -1351,15 +1360,6 @@
 <category>business</category>
 <pubDate>Tue, 03 Nov 2026 19:25:44 +0000</pubDate>
 <description>Pfizer announced that Cecile Guegan, who has held various leadership roles at the company over the last 20 years, stepped in as CFO this month.</description>
-</item>
-<item>
-<title>Sysco Is Ruining American Restaurants. Or Saving Them. - The New York Times</title>
-<link>https://news.google.com/rss/articles/CBMijwFBVV95cUxPODR4RmF5Q2dCajVDZUl2Z1pxMmZGN3dQdFVxMUdkRmhNVURLNW51QzhGLUZvZGVqUU9ROHNfYXk2NjRKTWk2QWk5eDBRUlYxNVB2OUY3RFA5STdmblJ4cS03eDBqWmxodGNPNDZpZHpDSDdwVzN3RFowQlN2QWFlWjNQRWJpZmJTY3liYk5WVQ?oc=5</link>
-<guid isPermaLink="false">af6f9365a2d654886db83c1a8df79dee6a719aa17eb01fbe07fa2ed89fdf2186</guid>
-<source>Google News Business</source>
-<category>business</category>
-<pubDate>Tue, 03 Nov 2026 17:13:13 +0000</pubDate>
-<description>Sysco Is Ruining American Restaurants. Or Saving Them. The New York Times</description>
 </item>
 <item>
 <title>Disney plans several thousand layoffs, asks some managers to cut costs by up to 20%</title>
