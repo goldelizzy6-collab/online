@@ -4,6 +4,59 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>NYT Cooking’s AI assistant saved my weeknight chicken, but almost ruined my cake</title>
+<link>https://www.theverge.com/tech/1029489/nyt-cooking-ai-assistant-review</link>
+<guid isPermaLink="false">1ab28dde47a3074f5d545d3ab26962de3646ed099f84a0589ddd472240f8575e</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Sat, 07 Nov 2026 15:50:00 +0000</pubDate>
+<description>Around 7PM each weeknight, I find myself standing in front of the fridge, trying to decide on something for dinner that won't make my husband complain, "Chicken again?" Yes, I should meal plan more, but I don't, so this is where I'm at. A nightly battle in which the chicken usually wins. Recently, my best […]</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268844_NY_Times_Cooking_App_JTuohy_0006.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268844_NY_Times_Cooking_App_JTuohy_0006.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>The US let Nvidia sell chips to an empty office in China</title>
+<link>https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government</link>
+<guid isPermaLink="false">b521172828d62613029c51d533189e7ac0f4664ec1518d5501648ef5d6a74a1f</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Sat, 07 Nov 2026 15:43:45 +0000</pubDate>
+<description>Concerns are being raised that neither the Commerce Department nor Nvidia are doing their due diligence when it comes to vetting Chinese firms cleared to handle the company's H200 AI chips. According to The New York Times, New Matrix is on the list of approved firms, yet its offices are empty, "a hollow gray shell […]</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/STK083_NVIDIA_2.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/STK083_NVIDIA_2.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>AI Companies Are Preying on Under-Resourced Schools, Students Say - Truthout</title>
+<link>https://news.google.com/rss/articles/CBMimwFBVV95cUxPSzNYakJDZjNjYi0zcG9ESjgtS3Y2OVVzR2pCR2NIdEkzUFZtdjA5MjhDSElQTXh5TTNQYnE0Qnp2N3FZUkpLaEFCT3p6bEc3WWpieVFxU3psLXRSSmhtWWRfU3hYalZlRVZac09XRU5zSmY1UHM1NE9qa3g2T1hFcWxMMkJDdDAxYWJPYzVwaWp1eVlHZXdhdy1Jcw?oc=5</link>
+<guid isPermaLink="false">88cd453a69a0f8ad8eece221e87254854fd4f7755d4988e8902c9976ea9b6657</guid>
+<source>Google News Artificial Intelligence</source>
+<category>technology</category>
+<pubDate>Sat, 07 Nov 2026 15:41:36 +0000</pubDate>
+<description>AI Companies Are Preying on Under-Resourced Schools, Students Say Truthout</description>
+</item>
+<item>
+<title>How to use your old tablet to build a live streaming setup</title>
+<link>https://www.engadget.com/2304970/how-to-build-live-streaming-setup-with-old-tablet</link>
+<guid isPermaLink="false">4a05614ca251f6f400e49364129f18874164a31eb56eae1402ff33e0265b0469</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Sat, 07 Nov 2026 15:30:00 +0000</pubDate>
+<description>You don't always need to buy new products just to start live streaming. This app lets you reuse an old tablet as the centerpiece of your setup.</description>
+<enclosure url="https://www.engadget.com/img/gallery/how-to-use-your-old-tablet-to-build-a-live-streaming-setup/l-intro-1793689754.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/how-to-use-your-old-tablet-to-build-a-live-streaming-setup/l-intro-1793689754.jpg" medium="image"/>
+</item>
+<item>
+<title>How iOS can warn you when one of your passwords shows up in a data leak</title>
+<link>https://www.engadget.com/2305444/how-ios-warn-password-shows-up-data-leak</link>
+<guid isPermaLink="false">ccb95109feb8a8add3749f2c68152174f62a2e039ef1a3d4ce00ce96d8d6e20f</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Sat, 07 Nov 2026 15:15:00 +0000</pubDate>
+<description>You'll be warned if your credentials stored in Apple Passwords are weak or compromised so you can take appropriate action.</description>
+<enclosure url="https://www.engadget.com/img/gallery/how-ios-can-warn-you-when-one-of-your-passwords-shows-up-in-a-data-leak/l-intro-1793725978.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/how-ios-can-warn-you-when-one-of-your-passwords-shows-up-in-a-data-leak/l-intro-1793725978.jpg" medium="image"/>
+</item>
+<item>
 <title>AI broke the cybersecurity world. What’s next?</title>
 <link>https://www.theverge.com/podcast/1029038/ai-cybersecurity-hackers-data-breach-dark-age-alex-stamos</link>
 <guid isPermaLink="false">4b429bd7582936e31a06bd96af5a52a7bc025ba8117462358d981259605958a1</guid>
@@ -27,11 +80,11 @@
 </item>
 <item>
 <title>3 Artificial Intelligence (AI) Stocks I’d Buy Without Hesitation in a Market Crash - The Globe and Mail</title>
-<link>https://news.google.com/rss/articles/CBMi9wFBVV95cUxQRl82V19qc0wtNnRiWENmNDVpQjk4Y3puWVhVUXduY0xZU3VmUHppM2hKQV82NDZQc3pvNFVOVG5SVXgzLVlGd1IxTElFeVotLVZHYUdRQ2Y2dDNWWnZDenhDRk5jNUVtemJfZTVlSzV2MEllSzFGZ1NYakQxUW02eF8tTzBMSDFRYnA1SW9lazRqNk03YXpfVjZVcWFoaEY4a1NvcDBkTmx4dnJlVkRid3VuM3I3a3lES2U2NWhLMnRsOGdlT3A4M2RjMEU3TG9QSl84Sm12elU5NzJIT0hZbkw4T2hmZFZtb0xxbjJlZU9rR2FaRHlr?oc=5</link>
-<guid isPermaLink="false">aebe7c1bca2d2d8c01485f5baff386692d07eee94760ad91fc86054d16f797a1</guid>
+<link>https://news.google.com/rss/articles/CBMi-AFBVV95cUxORmZwakk5OW9XdDRkajNMVThBM2l1ZVFLRENkWjR6S2dENnlZbXZRdm1hTzF3SkhKaHlsYnRsNGFOMV9lMHR4TldCN2JCblhjWDdKQWdxQkU1a2lxSnBPV2phR1BaQVU4Vks1WXFCN2V2NGVOQWVSanVHeGVsMlcxLUNpemtFS3pBdHp4T1NicVQwNDdWaG4wdjZhZlpJN3o5SGxkUWpVT0dWajhCYllza3Y0MjBmU1haZklRa0NBV2o5QjFDUjY0RGdBcGJGOEdMWjdsSnpDYzNrQXlGMVpJbFAxX1JmaGdFYmNXcFZ3NGI4VFZfT1ZjXw?oc=5</link>
+<guid isPermaLink="false">b6ef5566b755a94ac55ea02344310a0d66a9cf3e248d22e432767af240e45069</guid>
 <source>Google News Artificial Intelligence</source>
 <category>technology</category>
-<pubDate>Sat, 07 Nov 2026 14:56:10 +0000</pubDate>
+<pubDate>Sat, 07 Nov 2026 14:50:09 +0000</pubDate>
 <description>3 Artificial Intelligence (AI) Stocks I’d Buy Without Hesitation in a Market Crash The Globe and Mail</description>
 </item>
 <item>
@@ -51,15 +104,6 @@
 <category>technology</category>
 <pubDate>Sat, 07 Nov 2026 14:45:02 +0000</pubDate>
 <description>Men see more career advancement in jobs with AI, as women lose ground The Washington Post</description>
-</item>
-<item>
-<title>America's newest small business owners with no employees are off to a hot start in AI era - CNBC</title>
-<link>https://news.google.com/rss/articles/CBMipgFBVV95cUxNSGNocEIzalpzdHNFNndLV3NDTllNUkhza1N0VGVHZ2ROdDVLenotQldUWEhjUFN0Vmg4UUZGOE5WMXQtZ3YxRjNFdWExYVdJdmJMU1VzX2hESFJHUVFyR0RnR1RwcFc4UXloekpzY010bVhUcnFhd3Z4blhwZEZsR2VHZ0c2WHFsRnhiTU9qRU1HbnFwd1BNa3B3RE9iTTFIV1RjU253?oc=5</link>
-<guid isPermaLink="false">c30bc013cfdf038c3d625b5a7bfb92e7a8d11f3212b9662c8c23c57d402e6bb8</guid>
-<source>Google News Artificial Intelligence</source>
-<category>technology</category>
-<pubDate>Sat, 07 Nov 2026 14:45:01 +0000</pubDate>
-<description>America's newest small business owners with no employees are off to a hot start in AI era CNBC</description>
 </item>
 <item>
 <title>Windows PowerToys can automate some of your more tedious PC tasks</title>
@@ -202,15 +246,6 @@
 <description>Gboard's built-in features go way beyond many of the standard keyboards available on Android devices, but they do need to be enabled. This is how you do it.</description>
 <enclosure url="https://www.engadget.com/img/gallery/how-to-use-gboard-to-boost-productivity-on-your-android-phone/l-intro-1793704835.jpg" type="image/jpeg"/>
 <media:content url="https://www.engadget.com/img/gallery/how-to-use-gboard-to-boost-productivity-on-your-android-phone/l-intro-1793704835.jpg" medium="image"/>
-</item>
-<item>
-<title>From high-flying AI stocks to tariff-hit alcohol companies, the midterms shook up Wall Street - WRAL</title>
-<link>https://news.google.com/rss/articles/CBMixwFBVV95cUxOblVMcmlWSk0tV1lmMDdDUlZRUm9BVUtMWXJGUFBHOHpRR28xU0xaMHZVVHY0X3pDcUNzcE52LUo3RlV3RDNQRVUyTXdoTGs2QkwzTERFUG16Qk52MTJ0RlhMenFXN0p0Q3dQNUZiNUF4Z2ltX2tOOW14XzJ5T1pLZnFfczBITHlkWGxYdDFJQjdMVV92QUk1akZiZXlFTXBMNXhyQVBtOGNxOU5jZXp1eFRDOVdhUV9SeXM0VWJFdXpsNTNsVVpr?oc=5</link>
-<guid isPermaLink="false">79b2a2436bfcdfc95f1bd1dd58e53f2529eba9a8155acc726db7e87c3dc006bf</guid>
-<source>Google News Artificial Intelligence</source>
-<category>technology</category>
-<pubDate>Sat, 07 Nov 2026 13:36:29 +0000</pubDate>
-<description>From high-flying AI stocks to tariff-hit alcohol companies, the midterms shook up Wall Street WRAL</description>
 </item>
 <item>
 <title>This is when external DACs for your phone are worth buying</title>
@@ -522,15 +557,6 @@
 <media:content url="https://media.wired.com/photos/6aee6950f3308d4d3049680f/master/pass/Your-Holiday-Travels-Need-a-Power-Bank,-and-My-Favorite-Has-Never-Been-Cheaper.jpg" medium="image"/>
 </item>
 <item>
-<title>OpenAI Secures $11B In Funding As Valuation Reaches $1.25T: Report - Forbes Middle East</title>
-<link>https://news.google.com/rss/articles/CBMiyAFBVV95cUxPcXl2OWY2ZWYtYmVna0o0dEtfd29hWHJVZFRYbDdFVHZaOGVQNHhQYWdzcU0zMUVnVW9LSmNVOW5ya3dZY0lJSDZDSkF6TUJvTUh0QTR0d1VGM0s1VlJTOXZEZmk5NWVpb0xCTEJ2ajllTzNJRHh1MzVydldjVTVpUWVlVDJvY2hER3hhRXhyeTE4T0hSZXBYdVRxcVhZa25udFA3MkkzcEVJVmtTcW95M0FjV3hRLVMwb1pvNE9VNDVhQjdlYmNjRw?oc=5</link>
-<guid isPermaLink="false">b09a1e2dd0c12e79d9cc0606ef2b11329a7a195d5673bcdc0b01a036ce8445ca</guid>
-<source>Google News Artificial Intelligence</source>
-<category>technology</category>
-<pubDate>Sat, 07 Nov 2026 10:19:47 +0000</pubDate>
-<description>OpenAI Secures $11B In Funding As Valuation Reaches $1.25T: Report Forbes Middle East</description>
-</item>
-<item>
 <title>The 19 Best Early Black Friday Deals 2026</title>
 <link>https://www.wired.com/story/best-black-friday-deals-11-7-2026</link>
 <guid isPermaLink="false">965d29eee3f48771cd85fa063c9c19bb94a8694fc8efdf4d1d995b1b7c8bc86f</guid>
@@ -576,7 +602,7 @@
 <guid isPermaLink="false">e272d8cab34518d37ad08b464fd87bfd060cbaeb2bd1cf87ff3393c2f9a36f90</guid>
 <source>Google News Artificial Intelligence</source>
 <category>technology</category>
-<pubDate>Sat, 07 Nov 2026 09:52:27 +0000</pubDate>
+<pubDate>Sat, 07 Nov 2026 09:57:37 +0000</pubDate>
 <description>Explainable Artificial Intelligence System Predicts Multiple Diabetic Foot Ulcer Outcomes Bioengineer.org</description>
 </item>
 <item>
@@ -900,15 +926,6 @@
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/EACOM-News-EA_Classics_Feature_Article_16x9-Screenshot_09.avif" medium="image"/>
 </item>
 <item>
-<title>Three Charged In Massive Artificial Intelligence Impersonation Scheme - Security Today</title>
-<link>https://news.google.com/rss/articles/CBMi2wFBVV95cUxPVVRRUUdJWHNNREppcXRfTDZmWkpMYzBHd1VKdzFZeVpfX0NUczFaVjlpTGhfY3N4Y2JQajZyNTY5bDBLV0ZYUDdpM3JFUWtFVVZ3M2FIWjhQdWNnbllINF9kbzlUbU5CSVF2QzQyZlpyRnctYnY2dEFDcW9sci1pTzctRE5oR3BibU5WX2E3MHZ6Sll5UU1zRTF5QUZ6MkVlbXdDcnN3Z1dETzhrOEN0d20xM0VWaVEyYzl5R3lRRGtwTlJiR3pRdEo3RUlwem5RWGExdlZqak55eWc?oc=5</link>
-<guid isPermaLink="false">98a2a7407b47bcfe7b80cf53c3d6f4b78d2297e1e6d19c66e2835658e83c14f7</guid>
-<source>Google News Artificial Intelligence</source>
-<category>technology</category>
-<pubDate>Fri, 06 Nov 2026 22:02:33 +0000</pubDate>
-<description>Three Charged In Massive Artificial Intelligence Impersonation Scheme Security Today</description>
-</item>
-<item>
 <title>KPop Demon Hunters on 4K Blu-ray costs less than a month of Netflix Premium</title>
 <link>https://www.theverge.com/gadgets/1028640/kpop-demon-hunters-4k-criterion-bluray-deal-sale</link>
 <guid isPermaLink="false">c4fe188e8afc7714ccb13291dabfb2b4054d1e436fe0c251fe9916128b77131d</guid>
@@ -947,15 +964,6 @@
 <description>There are now 100,000 Duo-optimized apps, says Apple, and thousands more arrive daily.</description>
 </item>
 <item>
-<title>Prediction: Wall Street Has the Post-Midterm Artificial Intelligence (AI) Trade Completely Wrong - The Globe and Mail</title>
-<link>https://news.google.com/rss/articles/CBMiigJBVV95cUxPUE9xeHV1eTYzM3BjTXBPUnVMcEZZczFuNDRyMlZSQmRqTDllM1hmZFhTQmV5MzF2YXhlbUlTX2tTYTFxVW5pbEROajVZekhfeFFLV1gzVlBaeWJTVWl5dV9wakhVamN1TjNqcGVuNTB1VGg4VjFEdmxBSC1idjh2QWJ0TlFVYzRMcDRXUWdqWnB2TnJMRHhzMUhRX0pxNkx2cmdRUzM1SExWcHB2ckNOTXpiMnExZ211N1lkbnBrRTZYYnUyRnJvSEppYTRGMWhycTczODNZMFFab05FSUFtUUV0UUl3MWtEclB0V19KNHJ1V2dEb2NoWGVROW1hUl9memlaSFpXaXJ0Zw?oc=5</link>
-<guid isPermaLink="false">c04af38ad600e4474fecf93552d96b132898e5290d29b51408d27bd9cda6ba19</guid>
-<source>Google News Artificial Intelligence</source>
-<category>technology</category>
-<pubDate>Fri, 06 Nov 2026 21:25:09 +0000</pubDate>
-<description>Prediction: Wall Street Has the Post-Midterm Artificial Intelligence (AI) Trade Completely Wrong The Globe and Mail</description>
-</item>
-<item>
 <title>How Stephen Miller Schemed His Way to the Top</title>
 <link>https://www.wired.com/story/how-stephen-miller-schemed-his-way-to-the-top</link>
 <guid isPermaLink="false">1eaee6d5a72132030ae64936c00fe3a9bfb4f2e569fec7c160a00aa06ce02e10</guid>
@@ -965,6 +973,15 @@
 <description>The architect of the Trump administration’s brutal crackdowns on immigration and dissent was already known as “the prime minister.” Now he’ll work as the chief of staff.</description>
 <enclosure url="https://media.wired.com/photos/6aee33acd48df2adb8635683/master/pass/GettyImages-2289377528.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/6aee33acd48df2adb8635683/master/pass/GettyImages-2289377528.jpg" medium="image"/>
+</item>
+<item>
+<title>Israelis charged in international AI fraud, money laundering scheme - The Jerusalem Post</title>
+<link>https://news.google.com/rss/articles/CBMiX0FVX3lxTE94dmFXR3VfUW1WckNUVnF1NS1OVzJzYWQ5cXRoRVNQNXRRM0JFcVRudThrSF9SMkNMblc1ak9DcnNRVnRNVFQzMEQ4Q2dVbVh3RU5pN2drMDJLa1F5X0Jj?oc=5</link>
+<guid isPermaLink="false">7d21fabb4d028c6d699767aa96009f35f039f988e218ee29879da9b6b7eca3a0</guid>
+<source>Google News Artificial Intelligence</source>
+<category>technology</category>
+<pubDate>Fri, 06 Nov 2026 21:07:20 +0000</pubDate>
+<description>Israelis charged in international AI fraud, money laundering scheme The Jerusalem Post</description>
 </item>
 <item>
 <title>AI stocks bounce back after trillions wiped from market values - BBC</title>
@@ -996,6 +1013,15 @@
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2022/08/getty-blockchain-1152x648.jpg" medium="image"/>
 </item>
 <item>
+<title>Krispy Kreme Is Beating Nvidia, and That’s Not Even the Chip Giant’s Biggest Problem - Gizmodo</title>
+<link>https://news.google.com/rss/articles/CBMisgFBVV95cUxOX0JVbC1JMUlaM0hRN1dHV2tnYzIwbmlObXdiMFFsbjVrdXZhZ3J4b0E1c3hpUnNucENmaE9Td3BSdzFWUGZNd09KaURQRmphUmZ1OHQ3dENKbVZkZE1jM2pMZEdHSXNTd0NMZmd1T0dQWG5WbTQtM0pQZnB3Wk9EcEVSXzY0ODNDbTNCVFZxemt5OEtvQW9jTjdvZUtKTjdWQVM0WGptcVFEd3ZiRVFhaldR?oc=5</link>
+<guid isPermaLink="false">0f49dc8da304a200237178122bdba3e8e10d75c705a75a45e6bd467a6b186af4</guid>
+<source>Google News Artificial Intelligence</source>
+<category>technology</category>
+<pubDate>Fri, 06 Nov 2026 20:25:46 +0000</pubDate>
+<description>Krispy Kreme Is Beating Nvidia, and That’s Not Even the Chip Giant’s Biggest Problem Gizmodo</description>
+</item>
+<item>
 <title>K&amp;L Gates–CMU Conference Examines the Opportunities and Challenges of AI in Medicine - Carnegie Mellon University</title>
 <link>https://news.google.com/rss/articles/CBMi1gFBVV95cUxPSXJ4SEdPemR5VURabHdVN2QxbzJGZ3BiRU9wUklyUjdkemFwUkJLS005ZDhjYjZoN3lTYTJzbkYwZjNEdkVDeU5UTld2akdYcFVMT0o1UWZHd3BqZDZPUHVISldOYjVJdjdJdlhLY2dXb3BPbF96X0ZOaGQ1ZDRTNHV3WnJmZ3NJR0lpV0pwb0JncEVBRnV3SVZRYkRMSjNWUHlfVW9Hbnl3N2tvWml6RFlleDg2Nko0ZUNkNGRiRmx0UF9QTVYzamJLWWpGMzhBcHVWZC1n?oc=5</link>
 <guid isPermaLink="false">598aa8fff1f2c795c7ad2ad198d92a05b676b43d44c9ae10da8122d6a0e96792</guid>
@@ -1016,24 +1042,6 @@
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-1498933988-1152x648.jpg" medium="image"/>
 </item>
 <item>
-<title>‘We are all impacted by AI but nobody’s listening’ to one another, cardinal warns at conference - EWTN News</title>
-<link>https://news.google.com/rss/articles/CBMiwwFBVV95cUxNaWxad0FnN0dFSnpGMHZ2RE1qNkpIcEd2NF9GSGxSWl8yWjR5VHdaTUk2TFNvaEVka2JtOWlrQUxCbXVQT1g1Wk1rWFBwZzl5dFpCdi1jUndoM2p3OEE0elhaNjJuaDlwQzY4VnFHQmpVZElWbjdkRG02dk5pVjFzMHREQkZBOU9yaWdScVVieVl5MDdoc0lwUTQ0Vm1DR0hockgzdXJQREE3Wi1xRDZ5NWR5Szgzb19JeldWdU5acC1RZHM?oc=5</link>
-<guid isPermaLink="false">2729313bb489bae07d7d0997bcf9931850bf82b4844dac914b4561aea829b8a0</guid>
-<source>Google News Artificial Intelligence</source>
-<category>technology</category>
-<pubDate>Fri, 06 Nov 2026 20:15:00 +0000</pubDate>
-<description>‘We are all impacted by AI but nobody’s listening’ to one another, cardinal warns at conference EWTN News</description>
-</item>
-<item>
-<title>Google has acquired Crusoe's data center site in southeast Wyoming</title>
-<link>https://www.crusoe.ai/resources/newsroom/crusoe-wyoming-data-center-campus-update</link>
-<guid isPermaLink="false">96d96bc83625d43e6426459ef2b90d6ef6291272ed4c4ef5bf48930c7e8d2ff6</guid>
-<source>Hacker News</source>
-<category>technology</category>
-<pubDate>Fri, 06 Nov 2026 20:09:14 +0000</pubDate>
-<description>Comments</description>
-</item>
-<item>
 <title>Nvidia hardware worth $11.4M vanished between Oakland and Texas</title>
 <link>https://arstechnica.com/gadgets/2026/11/nvidia-hardware-worth-11-4m-vanished-between-oakland-and-texas</link>
 <guid isPermaLink="false">845f91c44e4c21448e23df772cf59bc71e61fcb020a0dd8da2446cde70a2d01c</guid>
@@ -1043,17 +1051,6 @@
 <description>6 pallets of hardware vanished en route to Texas, with no arrests 2 months later.</description>
 <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2303158972-1152x648.jpg" type="image/jpeg"/>
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2303158972-1152x648.jpg" medium="image"/>
-</item>
-<item>
-<title>All the latest updates on AI data centers</title>
-<link>https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy</link>
-<guid isPermaLink="false">f8fe21ba7f368ed10ce0a3c0e1659178f895d9eae8a89112274a09de130c90c2</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Fri, 06 Nov 2026 20:02:22 +0000</pubDate>
-<description>Massive new data centers are the physical foundation for tech companies’ hopes and dreams for AI. But the rush to expand warehouses full of energy-hungry servers has also kicked up fights across the world over their impact on power grids, utility bills, nearby communities, and the environment. Data centers were a major bipartisan issue ahead […]</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STKS528_DATA_CENTERS_C.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STKS528_DATA_CENTERS_C.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
 <title>Artificial Intelligence Models Predict Cancer Diagnoses and Gene Expression from Tissue Slides - Bioengineer.org</title>
@@ -1083,17 +1080,6 @@
 <category>technology</category>
 <pubDate>Fri, 06 Nov 2026 19:48:51 +0000</pubDate>
 <description>Comments</description>
-</item>
-<item>
-<title>Shure’s popular podcasting and streaming mic is almost $50 off</title>
-<link>https://www.theverge.com/gadgets/1028846/shure-mv7-plus-podcasting-streaming-mic-deal-sale</link>
-<guid isPermaLink="false">5f3f5f973e436c6f6b0b4b2f49dece88cf8bac51ef76b823e6fecec390530a6f</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Fri, 06 Nov 2026 19:47:02 +0000</pubDate>
-<description>While the Shure Mv7 Plus is popular with streamers and podcasters, it’s equally good at impressing your friends and coworkers on meetings and Discord calls. It’s currently marked down to $255 at various retailers, including Amazon, Guitar Center, and directly from Shure. That’s almost $50 lower than its usual price, and just a few dollars […]</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/shure-mv7-plus-breakout.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/shure-mv7-plus-breakout.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
 <title>Google's eyewear partners can't keep a lid on its smart glasses plans</title>
@@ -1428,6 +1414,15 @@
 <description>Prediction: Wall Street Has the Post-Midterm Artificial Intelligence (AI) Trade Completely Wrong The Motley Fool</description>
 </item>
 <item>
+<title>Three Charged In Massive Artificial Intelligence Impersonation Scheme - Security Today</title>
+<link>https://news.google.com/rss/articles/CBMivAFBVV95cUxPNlZHVXhmVmhwZVZYNFNIVXMtVHZxYzBRX2k2WFF2ckJIMjdyaTdkTFNUTEZGWE9EREYxdXJYbjc4ZEpWaGd0ZDNBOGNMa1Brb1Y2WlhOUlVacXZUUFA2RHVSNE5OYnZDdTdTdS0wdlhrcEFKUmlUODhzSlUtc3lHSEhkcjRRd2NkanFPRTdzMEtwN2ZwOTY2eVc1NDI2UXM0djBEUUV3V3ZGNF9sVWVSYnFhcWRZeHIyS0hoRw?oc=5</link>
+<guid isPermaLink="false">65ce38b46c3cb8eb1340afc279ed2b66e3f49d9b7d5681499f62c3086a81000b</guid>
+<source>Google News Artificial Intelligence</source>
+<category>technology</category>
+<pubDate>Fri, 06 Nov 2026 16:28:56 +0000</pubDate>
+<description>Three Charged In Massive Artificial Intelligence Impersonation Scheme Security Today</description>
+</item>
+<item>
 <title>Could potential AI clones of GTA VI force a quicker official port?</title>
 <link>https://arstechnica.com/gaming/2026/11/could-potential-ai-clones-of-gta-vi-force-a-quicker-official-port</link>
 <guid isPermaLink="false">e3b273e196542284caad42e589b7c4f1fa524fe247d1eb6231bdfa97bc95e580</guid>
@@ -1490,6 +1485,15 @@
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/MacBook-Pro-closed-lid-1152x648.jpg" medium="image"/>
 </item>
 <item>
+<title>AI-powered youth education has come to Boston. Teachers aren't happy. - WGBH</title>
+<link>https://news.google.com/rss/articles/CBMiugFBVV95cUxQQ1U1QmRmY3NRTk9BQmFTNGtENDJoSVNfTFhtOThRTUtFYVBiSHpGNjRuaERhSXhuTGhsY2hySE15OTFsVEpNNjVLdUd1bkpya1h1OTBkMEduUnQwMDNYNUJFYVFKT3c5VXJGYTVmLXU4dHVWd2g2Y0VKRUhMdVctb0plQzdIRnVoOHo0eHNKbHlEdXlvZWI5T21NUDZyRDdGTmV0Z1QtYlpzSHVxNUtkOFByZ2VZYjFPbkE?oc=5</link>
+<guid isPermaLink="false">252a8e920c4ac1cf4bd4867e4de3d0984966e25e91ae47e9270500e60798f96a</guid>
+<source>Google News Artificial Intelligence</source>
+<category>technology</category>
+<pubDate>Fri, 06 Nov 2026 15:22:56 +0000</pubDate>
+<description>AI-powered youth education has come to Boston. Teachers aren't happy. WGBH</description>
+</item>
+<item>
 <title>A Stranger Things prequel series is coming to Netflix in 2028</title>
 <link>https://www.engadget.com/2309062/a-stranger-things-prequel-series-is-coming-to-netflix-in-2028</link>
 <guid isPermaLink="false">64472ce0fb37a497dba52a6e90eb9e8ef889f16955d42afe127c77f72529081d</guid>
@@ -1499,17 +1503,6 @@
 <description>Other Worlds: A Stranger Things Adventure takes place in Nevada in the 1950s.</description>
 <enclosure url="https://www.engadget.com/img/gallery/a-stranger-things-prequel-series-is-coming-to-netflix-in-2028/l-intro-1793977602.jpg" type="image/jpeg"/>
 <media:content url="https://www.engadget.com/img/gallery/a-stranger-things-prequel-series-is-coming-to-netflix-in-2028/l-intro-1793977602.jpg" medium="image"/>
-</item>
-<item>
-<title>Anker Soundcore Space 2 Pro review: Big bang for fewer bucks</title>
-<link>https://www.engadget.com/2309011/anker-soundcore-space-2-pro-review</link>
-<guid isPermaLink="false">dbc576517493052aa002d15acad532f3842c66ff3a28fced05daf33b179aa37b</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Fri, 06 Nov 2026 15:00:00 +0000</pubDate>
-<description>The Space 2 Pro is a set of slightly above average headphones with exceptional voice clarity.</description>
-<enclosure url="https://www.engadget.com/img/gallery/anker-soundcore-space-2-pro-review-big-bang-for-less-bucks/l-intro-1793975820.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/anker-soundcore-space-2-pro-review-big-bang-for-less-bucks/l-intro-1793975820.jpg" medium="image"/>
 </item>
 <item>
 <title>RIP Cybertruck. You Were Unloved, Unwanted, and Utterly Absurd</title>
@@ -1601,15 +1594,13 @@
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/NHQ202604010115orig-1152x648-1793950034.jpg" medium="image"/>
 </item>
 <item>
-<title>Google's Find Hub can finally notify you if you've left a tracker behind</title>
-<link>https://www.engadget.com/2308903/googles-find-hub-can-finally-notify-you-if-youve-left-a-tracker-behind</link>
-<guid isPermaLink="false">fe0dd1833f873a738de553aae6817af4ebeab8b41d2c9bf144d9eacac2020a45</guid>
-<source>Engadget</source>
+<title>After a $2.5 Trillion Wipeout, Tech Investors Brace for More Pain - The New York Times</title>
+<link>https://news.google.com/rss/articles/CBMihwFBVV95cUxNV0RtZTA3ajR1V0lZM093OFhQclhEZDByU25PY3VRM3NOcW1BUi1oajYzVjY0d3FRckx6Rk1UZW1qRlcycEZkVHJWV050clFWNlN5eDBNOTI2Tk83NXRLMHFZdVk1MWtWdklKQl80MXZQcVpWRHcwT0o5SkFpakhHMjFKTTdQOTg?oc=5</link>
+<guid isPermaLink="false">4e71f1f5907436256c8f1027924134cd4a8a0f92d2983c02e5ce090b231171c0</guid>
+<source>Google News Artificial Intelligence</source>
 <category>technology</category>
-<pubDate>Fri, 06 Nov 2026 13:05:16 +0000</pubDate>
-<description>Google has rolled out 'Notify when left behind' separation alerts for your tracking devices.</description>
-<enclosure url="https://www.engadget.com/img/gallery/googles-find-hub-can-finally-notify-you-if-youve-left-a-tracker-behind/l-intro-1793970258.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/googles-find-hub-can-finally-notify-you-if-youve-left-a-tracker-behind/l-intro-1793970258.jpg" medium="image"/>
+<pubDate>Fri, 06 Nov 2026 13:07:35 +0000</pubDate>
+<description>After a $2.5 Trillion Wipeout, Tech Investors Brace for More Pain The New York Times</description>
 </item>
 <item>
 <title>Underdog shows off a 32MB speech model in new demo</title>
@@ -2127,15 +2118,6 @@
 <media:content url="https://media.wired.com/photos/6aea54d38c0d20ad6dc9def8/master/pass/signature27_lifestyle9_Motorola.jpg" medium="image"/>
 </item>
 <item>
-<title>The real test for the artificial-intelligence buildout is what happens in 2028, analysts say - MarketWatch</title>
-<link>https://news.google.com/rss/articles/CBMi0AFBVV95cUxOMGZBcGxPaGptOGFleTZTbVo4SU5QMEJxWExVRy0tY2p0WVUtLUJLNmRjNnl3VHdNa19fcXBzNGo3NGdTbm5mMUEydkJEME1JZ1dycndTdDZ3VkJrd3lfU29nMjFUeklyS0ZMdExJV2dMR096NTFLZzZUSVU0TUVPQWVpNDNLdG1oaTNXS0RzRnkwSUU3d0VPb2pmQzZoUTRFY2dLR2hIbGlmRzZXcVhmSGlKSVFUSWNuU3kyQmFNZDJsMVF5anVzdHFCUkRBbjJh?oc=5</link>
-<guid isPermaLink="false">891ab0e9feb8313a8e3d66afff0b458724a439beec0576ab06b494b20844178a</guid>
-<source>Google News Artificial Intelligence</source>
-<category>technology</category>
-<pubDate>Thu, 05 Nov 2026 12:23:00 +0000</pubDate>
-<description>The real test for the artificial-intelligence buildout is what happens in 2028, analysts say MarketWatch</description>
-</item>
-<item>
 <title>AI’s Next Trick? Speaking Dolphin</title>
 <link>https://www.wired.com/story/wired-world-fair-2026-denise-herzing-wild-dolphin</link>
 <guid isPermaLink="false">62fde210e42b16662698972b143fddc11a8c2a9cd3d596506f5728d2fad17522</guid>
@@ -2337,6 +2319,15 @@
 <description>Column: Artificial intelligence becomes artificial connection, too The Daily Tar Heel</description>
 </item>
 <item>
+<title>EU rules on Artificial Intelligence devices will apply in NI - BBC</title>
+<link>https://news.google.com/rss/articles/CBMiW0FVX3lxTE9XLVFyNmp2WG1CSG1aU2NodnRlRUt0QjBsaHYtb0pFTEpkQlFUUWcwZ2dQWmFzaU5IajJ6VlMxZDNiTVFST1ZhQTduXzFCR1liLVNNTkQ2Um5jY28?oc=5</link>
+<guid isPermaLink="false">7f81ca0d5f897abc7fba2ae202adb4c7560dce8fa59c643eba7838961a54d4f2</guid>
+<source>Google News Artificial Intelligence</source>
+<category>technology</category>
+<pubDate>Wed, 04 Nov 2026 18:47:32 +0000</pubDate>
+<description>EU rules on Artificial Intelligence devices will apply in NI BBC</description>
+</item>
+<item>
 <title>Little Friends: Artificial Intelligence and Human Services… a Lot To Think About! - Positively Naperville</title>
 <link>https://news.google.com/rss/articles/CBMizgFBVV95cUxNdXFsQ2t6aW1VX0ZEUDFmdkxmMFZEMHhYMzBDNVR1ZnY3WWwtUG5SZXM1LTVuUlU5bkp2c3RqamdpQzdUeGFXY1NjNlNqdmR1WVFiTTh4eFhIVGZsNWY4TWQ0RXdKS3VvT1dsMFFiUnIxbUZvRXZvZzR2QWVLMXhsWFVnWHF1bVBVc0ZLb1FNVUVNWGF6dlZlZ3ZxSUxuWDdKVHJhdExsYXR0aVdnM1BXYnNOaGZZbFhuclpKeEt1cGgwUXIxWlVYZ0N0TzVWZw?oc=5</link>
 <guid isPermaLink="false">7dbfb7b9bfc70d4a4e00b3365f9952baaa9b3e69089e76f406376dc579ad4f38</guid>
@@ -2407,6 +2398,15 @@
 <category>technology</category>
 <pubDate>Tue, 03 Nov 2026 21:47:00 +0000</pubDate>
 <description>Google says there’s no way to use Search without using artificial intelligence The Guardian</description>
+</item>
+<item>
+<title>Tasfer: a text editor drawn on a 2D canvas</title>
+<link>https://www.hamza.se/blog/tasfer</link>
+<guid isPermaLink="false">af32b6413837bf460b8bd12effaeea63ddb3d30db87c9cdab870b56903df7d0e</guid>
+<source>Hacker News</source>
+<category>technology</category>
+<pubDate>Tue, 03 Nov 2026 20:58:40 +0000</pubDate>
+<description>Comments</description>
 </item>
 <item>
 <title>ToothPaste</title>
