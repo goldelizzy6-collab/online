@@ -4,6 +4,75 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>The built-in iPhone app for creativity you may be ignoring (but shouldn't)</title>
+<link>https://www.engadget.com/2309562/iphone-built-in-creativity-app-should-use-freeform</link>
+<guid isPermaLink="false">4dce24d42ac847c71164e35563fe9bbace62321c5f53fab8e871d3b62d5053fb</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Sat, 07 Nov 2026 21:30:00 +0000</pubDate>
+<description>Your iPhone has a built-in app for brainstorming and visual planning that can turn scattered screenshots, sketches and notes into something you can share.</description>
+<enclosure url="https://www.engadget.com/img/gallery/the-built-in-iphone-app-for-creativity-you-may-be-ignoring-but-shouldnt/l-intro-1793900002.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/the-built-in-iphone-app-for-creativity-you-may-be-ignoring-but-shouldnt/l-intro-1793900002.jpg" medium="image"/>
+</item>
+<item>
+<title>Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo</title>
+<link>https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo</link>
+<guid isPermaLink="false">3b069222ecbd3b59ba7f8c2ff943b91c72de351b72c023cee112d46552acd58c</guid>
+<source>TechCrunch</source>
+<category>technology</category>
+<pubDate>Sat, 07 Nov 2026 21:17:08 +0000</pubDate>
+<description>A memo circulated earlier this year reportedly claimed that China’s Ministry of State Security recruited a female technology executive to spy on Nvidia's CEO.</description>
+</item>
+<item>
+<title>Your EV's battery is big enough to run your house — here's what stops most people</title>
+<link>https://www.engadget.com/2309559/ev-battery-can-power-house-what-stops-most-people</link>
+<guid isPermaLink="false">13e695696a47eccca293b12c810a36fca474ad179b94d3d48fa5ad4436d15b00</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Sat, 07 Nov 2026 21:15:00 +0000</pubDate>
+<description>Today's EV batteries could let you power specific appliances or your entire house. But a few factors line up to make that idea a non-starter for most folks.</description>
+<enclosure url="https://www.engadget.com/img/gallery/your-evs-battery-is-big-enough-to-run-your-house-heres-what-stops-most-people/l-intro-1793901287.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/your-evs-battery-is-big-enough-to-run-your-house-heres-what-stops-most-people/l-intro-1793901287.jpg" medium="image"/>
+</item>
+<item>
+<title>Shadow of the Sun</title>
+<link>https://mattlakeman.org/2021/07/27/shadow-of-the-sun</link>
+<guid isPermaLink="false">dda17298948790332c5acec28db82ad4363a43489a0d2249d0999dc856c7696e</guid>
+<source>Hacker News</source>
+<category>technology</category>
+<pubDate>Sat, 07 Nov 2026 21:11:05 +0000</pubDate>
+<description>Comments</description>
+</item>
+<item>
+<title>Show HN: Where Were We</title>
+<link>https://wherewerewe.app</link>
+<guid isPermaLink="false">70125cb4ee84fb099f3a61186af8977ef1c854616979d8d34ea5bd283531f0b2</guid>
+<source>Hacker News</source>
+<category>technology</category>
+<pubDate>Sat, 07 Nov 2026 21:08:35 +0000</pubDate>
+<description>Comments</description>
+</item>
+<item>
+<title>As AI Threatens Tech Workers, Their Workplaces Become Sites of Class Struggle - Truthout</title>
+<link>https://news.google.com/rss/articles/CBMiqwFBVV95cUxObVcxdjhuQzRhTkZkUDBleGhUNVZQajJmSWE4bmZSdVdFWGpSMk94dEFpR003eEh6YlBCa094akN2QXJ3SnRGNFJ0aUFBT2RiVXk3V3hnY1lMeVozUElvWUVhZmlfTndvM0s5TUVzNXh3bzEzWU9acW9QY1BUalpKUzN1NWN0bEJrSm9vSHNvNUwwOG5ZdDJHYXpmc2NYOER4Y0lSOG0zQ1VRVXM?oc=5</link>
+<guid isPermaLink="false">e3399e74a80d6208441c68198146c23fd61a43275431d0d2ccd88e245e69d6f3</guid>
+<source>Google News Artificial Intelligence</source>
+<category>technology</category>
+<pubDate>Sat, 07 Nov 2026 21:04:03 +0000</pubDate>
+<description>As AI Threatens Tech Workers, Their Workplaces Become Sites of Class Struggle Truthout</description>
+</item>
+<item>
+<title>Your old iPod could be a sleeper flash drive</title>
+<link>https://www.engadget.com/2306204/old-ipod-sleeper-flash-drive</link>
+<guid isPermaLink="false">38fafdf933bc4df564ff8a8c10670a5be422594098408a1b839897a428b32666</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Sat, 07 Nov 2026 21:00:00 +0000</pubDate>
+<description>Old iPods still work fine as digital audio players, but you can reuse them in other ways if you're not interested in listening to music on the go.</description>
+<enclosure url="https://www.engadget.com/img/gallery/your-old-ipod-could-be-a-sleeper-flash-drive/l-intro-1793774211.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/your-old-ipod-could-be-a-sleeper-flash-drive/l-intro-1793774211.jpg" medium="image"/>
+</item>
+<item>
 <title>Claude Code's "Don't Ask Again" exposes passwords in 1,122 public GitHub files</title>
 <link>https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again</link>
 <guid isPermaLink="false">10bdc73097cfd2386d0a762b95dc77e518c680989d890e766788d398671a3536</guid>
@@ -244,7 +313,7 @@
 <description>Men see more career advancement in jobs with AI, as women lose ground The Washington Post</description>
 </item>
 <item>
-<title>GeoWorks, Microsoft Windows' Upstart '90s Competitor</title>
+<title>GeoWorks, Microsoft Windows' Upstart '90s Competitor (2016)</title>
 <link>https://www.atlasobscura.com/articles/the-history-of-geoworks-microsoft-windows-upstart-90s-competitor</link>
 <guid isPermaLink="false">3cc832560729b016329576f545d4f9795776e926ad49dd121457a8360273b245</guid>
 <source>Hacker News</source>
@@ -409,17 +478,6 @@
 <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268829_The90_Gem_SVasani_0002.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
-<title>How does the digital ink in ereaders work?</title>
-<link>https://www.engadget.com/2306305/how-does-ereader-nook-amazon-kindle-digital-ink-work</link>
-<guid isPermaLink="false">8b290d605fd59ff70452edf984877b282594dcb4d08b871c08e98b8eb1c446b4</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Sat, 07 Nov 2026 17:00:00 +0000</pubDate>
-<description>Unlike regular LCD and OLED displays, ereaders rely on e-ink tech that lets them gently sip power and last for months. Here's the science behind how it works.</description>
-<enclosure url="https://www.engadget.com/img/gallery/how-does-the-digital-ink-in-ereaders-work/l-intro-1793794207.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/how-does-the-digital-ink-in-ereaders-work/l-intro-1793794207.jpg" medium="image"/>
-</item>
-<item>
 <title>Remember When Bosses Were Forcing Their Workers to Use AI? They're Now Realizing They Made a Huge Mistake - Futurism</title>
 <link>https://news.google.com/rss/articles/CBMigAFBVV95cUxQRTV1TDl2LWVJQ2ZNblR4WHU4eHpsZXh2MVJ5dzc1QXBRRTZNYVBlTWRrSHdVVGF1WEotZDFtYVN5RFdfUUtsWmRIUU83eEZzbDIyNzNTOTNELUx0Sl9IMlBGMDZxQkJLUGJhRnI2b1JlUGszNG81RDNvV2Q0ZklyQw?oc=5</link>
 <guid isPermaLink="false">87a5107e6d4e23674cfca160a1a051023c4d44d230017c83f38b4755d3998bbf</guid>
@@ -438,29 +496,7 @@
 <description>Germany to Invest €50 Million in AI-Powered OSINT Intelligence Мілітарний</description>
 </item>
 <item>
-<title>Solar panel breakthrough could almost double the efficiency of today's panels</title>
-<link>https://www.engadget.com/2306188/solar-panel-efficiency-breakthrough-doubles-output</link>
-<guid isPermaLink="false">ee860e0ea0ec35f12cd9789bd9f0ba5c4ade8e107ebf172122eb659144e9552c</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Sat, 07 Nov 2026 16:45:00 +0000</pubDate>
-<description>Solar panels have become much more efficient since their infancy, but research breakthroughs show there's still plenty of room for improvement.</description>
-<enclosure url="https://www.engadget.com/img/gallery/solar-panel-breakthrough-could-almost-double-the-efficiency-of-todays-panels/l-intro-1793766160.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/solar-panel-breakthrough-could-almost-double-the-efficiency-of-todays-panels/l-intro-1793766160.jpg" medium="image"/>
-</item>
-<item>
-<title>This GPS navigation app should be the go-to for older drivers</title>
-<link>https://www.engadget.com/2305919/gps-navigation-app-go-to-older-drivers-google-maps</link>
-<guid isPermaLink="false">6dc6fbab9a444bde9a1e49de59534c0993f860dfad0ccca94c698842bfbfd2c2</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Sat, 07 Nov 2026 16:30:00 +0000</pubDate>
-<description>Nervous about driving somewhere new? One familiar navigation app has simple turn-by-turn directions that help older drivers feel more confident.</description>
-<enclosure url="https://www.engadget.com/img/gallery/this-gps-navigation-app-should-be-the-go-to-for-older-drivers/l-intro-1793733691.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/this-gps-navigation-app-should-be-the-go-to-for-older-drivers/l-intro-1793733691.jpg" medium="image"/>
-</item>
-<item>
-<title>How Long Can Life Wait?</title>
+<title>How long can life wait?</title>
 <link>https://mceglowski.substack.com/p/how-long-can-life-wait</link>
 <guid isPermaLink="false">f7c4b6b4979900dd8b0acc449ccb4d23b2339f7ae5c3b0992a087d74cb3f013b</guid>
 <source>Hacker News</source>
@@ -565,15 +601,6 @@
 <category>technology</category>
 <pubDate>Sat, 07 Nov 2026 15:41:36 +0000</pubDate>
 <description>AI Companies Are Preying on Under-Resourced Schools, Students Say Truthout</description>
-</item>
-<item>
-<title>A fintech giant drops Claude for a Chinese model, Brazil shields its media from AI: The week’s highlights - L'Orient Today</title>
-<link>https://news.google.com/rss/articles/CBMi6wFBVV95cUxQcy1BOHZnc2JzVTE5d2pRLXN6eG5mc3FEYXl3OGhZRHktX3FhdXQybGVnVVVRTERGSGZmQ04xS3JBdkNaazBPY2RYZjgxSHJZZ1JSSkJGWloxbEhYWlpxMzZBcFRRUUN2M0VoZ2NJam1jdDZsUDdjRzJFR25xaldpbE1MODlRZExGZW1QSEVVNEtnSzhSMlVzMmlmSTBPQnNvN2wyVlpHOGtXOUtBaTB0YkVKRk00RVJpaHNDcjVUZDJWckJFdTdIdjlyTl9wckc5QTZfaGU1S0c2aUxUV3VpZjFGRzZaMDFKNWJV?oc=5</link>
-<guid isPermaLink="false">17be0eeb2f126ae2c67b6f30c728c1d481801d5451540b72dc60c845b17d964d</guid>
-<source>Google News Artificial Intelligence</source>
-<category>technology</category>
-<pubDate>Sat, 07 Nov 2026 15:37:15 +0000</pubDate>
-<description>A fintech giant drops Claude for a Chinese model, Brazil shields its media from AI: The week’s highlights L'Orient Today</description>
 </item>
 <item>
 <title>Show HN: We compressed a 31B video+audio diffusion model to 14B, 6 steps, INT8</title>
@@ -904,15 +931,6 @@
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2290156853-1024x648.jpg" medium="image"/>
 </item>
 <item>
-<title>A gun-control group has plans for safe chatting with AI - Washington Examiner</title>
-<link>https://news.google.com/rss/articles/CBMinAFBVV95cUxQSzFQdkpUTjRRUmhqVzFZVkFmVkx2d2ROc1BPUEtEalNYVEJkb3kzVGNUYl9WQ3d0ZTl6aTN4Um4tcjJxekc3STJ0TEpoeGRwLXB4em9OYUVHekc3eGhvZmZNYzVjOEVoaFhROG9zamxjeFdQQTBIY0xFdnBZTEtsSVljVWxMRjllMmZXeDNVMGtnLXRkQ3hjd1Q5X3Y?oc=5</link>
-<guid isPermaLink="false">235d7c92038956dd1bf17006f31f54a547b959a20921e68d4f5efbbb13ddb171</guid>
-<source>Google News Artificial Intelligence</source>
-<category>technology</category>
-<pubDate>Sat, 07 Nov 2026 11:00:22 +0000</pubDate>
-<description>A gun-control group has plans for safe chatting with AI Washington Examiner</description>
-</item>
-<item>
 <title>Can I Have an A.I. Chatbot Field My Mother’s Endless Complaints? - The New York Times</title>
 <link>https://news.google.com/rss/articles/CBMihAFBVV95cUxOM2w0Qk1iM0hiZERTTDRIT1RheVJobElSYlM0MTVsU1JGOU02TUpvekhsUkZjcFFUYTg0eTU1RlJPeUtkOVZMc2FWYXhhVnU3ZU5hN1lYLV9hYlRwNW9OUE1XVE81TFBTTFFmaWZnS0JhcmUxd0hfcnZ6SUhDM3RmOG9JcHc?oc=5</link>
 <guid isPermaLink="false">685b85e360420f4b1469b26a1a55f19f7e8dd5e1e0dcf45923bd44644348ce46</guid>
@@ -1076,15 +1094,6 @@
 <category>technology</category>
 <pubDate>Sat, 07 Nov 2026 07:00:00 +0000</pubDate>
 <description>The Brain Artificial Intelligence (AI)-Assisted Diagnosis Solution Market is Experiencing Rapid Growth and is Projected EIN Presswire</description>
-</item>
-<item>
-<title>The Components of Agent Memory</title>
-<link>https://www.anthropic.com/research/components-of-agent-memory</link>
-<guid isPermaLink="false">f0247d2be6d23fda27989bba50a71943168bf8e5f68168df2bbd40b50bab75f3</guid>
-<source>Hacker News</source>
-<category>technology</category>
-<pubDate>Sat, 07 Nov 2026 06:39:04 +0000</pubDate>
-<description>Comments</description>
 </item>
 <item>
 <title>Environmental groups embrace AI, even as they warn of data center impacts - Reuters</title>
@@ -1322,6 +1331,15 @@
 <description>There are now 100,000 Duo-optimized apps, says Apple, and thousands more arrive daily.</description>
 </item>
 <item>
+<title>New program looks to prepare Northern Kentucky students for the AI workforce - WCPO 9 Cincinnati</title>
+<link>https://news.google.com/rss/articles/CBMi4wFBVV95cUxOXy1KbmdlN1VHekZsY1FTalRxZVN4TWpvNTlqZVJ4aDRrekFvalFUZXhZVDhUNnhrR0JkODBmZ1lRLXg4TE5PcXh1UVhVZjB5MjFYMjV4Tkk3bUVDb3NMRlctc1gxUmp0UGl2Tl92MTB4M1dfaFdlTkh0Rm5jd2pIWVpkYUE0cHotMURqZ0o3Tl85TFRzdGd4NU9LQ0lBMTMxVUtPb0FoVnlKTFhBN0pQWUVCcWd6VW1CZGNDUjZma1hteXp2eWp0d0xheG1LcXFlal9nMmNQcmlsd1NEcUo2SEdSUQ?oc=5</link>
+<guid isPermaLink="false">1478efb75c779d202fe10f5e159014c44831209aa788d19e4465579c1d9b6544</guid>
+<source>Google News Artificial Intelligence</source>
+<category>technology</category>
+<pubDate>Fri, 06 Nov 2026 21:31:43 +0000</pubDate>
+<description>New program looks to prepare Northern Kentucky students for the AI workforce WCPO 9 Cincinnati</description>
+</item>
+<item>
 <title>How Stephen Miller Schemed His Way to the Top</title>
 <link>https://www.wired.com/story/how-stephen-miller-schemed-his-way-to-the-top</link>
 <guid isPermaLink="false">1eaee6d5a72132030ae64936c00fe3a9bfb4f2e569fec7c160a00aa06ce02e10</guid>
@@ -1393,15 +1411,6 @@
 <description>Developer: “I can’t be part of the Fox world.”</description>
 <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/Screenshot-2026-11-06-134100-1152x648.jpg" type="image/jpeg"/>
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/Screenshot-2026-11-06-134100-1152x648.jpg" medium="image"/>
-</item>
-<item>
-<title>A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost</title>
-<link>https://hightouch.com/blog/llm-judges-identity-resolution</link>
-<guid isPermaLink="false">60724c835de1389a14bee876fee8bbbda6e1b2eb42037cd889c60772d29662ad</guid>
-<source>Hacker News</source>
-<category>technology</category>
-<pubDate>Fri, 06 Nov 2026 19:48:51 +0000</pubDate>
-<description>Comments</description>
 </item>
 <item>
 <title>How Agentic Artificial Intelligence Is Reshaping Agricultural Research and Farming Operations - Bioengineer.org</title>
@@ -1634,6 +1643,15 @@
 <category>technology</category>
 <pubDate>Fri, 06 Nov 2026 16:30:00 +0000</pubDate>
 <description>Prediction: Wall Street Has the Post-Midterm Artificial Intelligence (AI) Trade Completely Wrong The Motley Fool</description>
+</item>
+<item>
+<title>Can physics and artificial intelligence make autonomous vehicle platooning more reliable? - EurekAlert!</title>
+<link>https://news.google.com/rss/articles/CBMiXEFVX3lxTE5rMnVYX1lGMlNuaTlJR09rXzYxU19panFScEZMeDU0clVMMFBLV2F2NkQ1NlI5WmFkeFY1X0JsWXFITU1SV3kzZERfUEU1T0RjY09rRjQzVlFMRnds?oc=5</link>
+<guid isPermaLink="false">1c86689e310559b7d75735256f777083caf02d8f8333819a1acd6502cea6692e</guid>
+<source>Google News Artificial Intelligence</source>
+<category>technology</category>
+<pubDate>Fri, 06 Nov 2026 16:19:59 +0000</pubDate>
+<description>Can physics and artificial intelligence make autonomous vehicle platooning more reliable? EurekAlert!</description>
 </item>
 <item>
 <title>Could potential AI clones of GTA VI force a quicker official port?</title>
@@ -1923,15 +1941,6 @@
 <description>The concerns range from privacy to how data is shared (and with whom) to procurement concerns.</description>
 </item>
 <item>
-<title>Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M</title>
-<link>https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m</link>
-<guid isPermaLink="false">a83a56374fd6aa91bfb5c5e279fa15b1331653c38bb895589dd8bcff0d7ab1f8</guid>
-<source>TechCrunch</source>
-<category>technology</category>
-<pubDate>Fri, 06 Nov 2026 06:28:32 +0000</pubDate>
-<description>Clutch, backed by Lightspeed and SignalFire, was last valued at $85 million, according to a source.</description>
-</item>
-<item>
 <title>Morning Bid: AI's reality check - Reuters</title>
 <link>https://news.google.com/rss/articles/CBMif0FVX3lxTE5xWEZCT19xVnB0ZUVUZDQzWWRjTGxuUEpqQTE4OU1CZ1ZQNHJpQTR2MnNvejZteVJRZXR2eTZ5dENZX2I0MDRnb0xOUE1ranhSWG5OblJsMEZhZzZxcnNKMFdhMDlRVWVVa0pRR1FhczRCblJZLXZGdmtLMi1DTkk?oc=5</link>
 <guid isPermaLink="false">2c3a9b6791c54e58a85b57ad4e1714dd5ebf82e39d7884e94038b7657a2d56b8</guid>
@@ -2042,8 +2051,8 @@
 </item>
 <item>
 <title>Top Democrats call to rein in AI buildout after midterms sweep: 'National data center moratorium now' - CNBC</title>
-<link>https://news.google.com/rss/articles/CBMihwFBVV95cUxONG85QmJuZGVEWUIxSW4ybHJPVmN2RmR2VjBTdnkydmZSOGV6YllsWEUtbVpYclRTSWhQS09EZGxJSllyY0otS1QtQVdVY3BhY0ZqMWxfR25WeWo3Q3d5LUg5dVZrUGRneGh2LTRBQjY3SERxNTdLaXNkaU9VaHVPb0lKQW10WmvSAYwBQVVfeXFMTWdsc2pjdEpUS1NXdWRzcld3SFp2eVBhWkU2NWNOTXRsUS1WbTNRVlg3S0ZRalhiYnR5WTNKQUxiR1JXNkI3b3ItbnBsZkdoZE9lbWJkVFB1eTFwMFluVFNobUtfLU1sTUJPSlRVSU1IUnRhYXFPVzNEc0NRempsZGM3MTFTVFZSUGUzS0Y?oc=5</link>
-<guid isPermaLink="false">ce7e2cc7aaa7c187258ee4743b937fbda8719b4eed4e145571370bcbc4091ca0</guid>
+<link>https://news.google.com/rss/articles/CBMihwFBVV95cUxONG85QmJuZGVEWUIxSW4ybHJPVmN2RmR2VjBTdnkydmZSOGV6YllsWEUtbVpYclRTSWhQS09EZGxJSllyY0otS1QtQVdVY3BhY0ZqMWxfR25WeWo3Q3d5LUg5dVZrUGRneGh2LTRBQjY3SERxNTdLaXNkaU9VaHVPb0lKQW10Wms?oc=5</link>
+<guid isPermaLink="false">cd01cb3a67127d207006f504f37fd178ec675da1e317109a8cbd873d6bf50d53</guid>
 <source>Google News Artificial Intelligence</source>
 <category>technology</category>
 <pubDate>Thu, 05 Nov 2026 20:16:52 +0000</pubDate>
@@ -2126,15 +2135,6 @@
 <description>Alexis Ohanian is trying to figure out what’s next for user-generated content now that so much of the internet is “compromised.”</description>
 <enclosure url="https://media.wired.com/photos/6aed1ceece26120992b0cc1a/master/pass/WWF-Alexis-Ohanian-10457.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/6aed1ceece26120992b0cc1a/master/pass/WWF-Alexis-Ohanian-10457.jpg" medium="image"/>
-</item>
-<item>
-<title>Marvell agrees to buy Lumentum in $115B stock deal - Manufacturing Dive</title>
-<link>https://news.google.com/rss/articles/CBMimwFBVV95cUxOV0pKeUszR0lQek0yWllGajNWeWZXYWJ1TC0tWS10OTZJdDRBZzhSVGt0MHRuMWhLNVdTUndZd3pRSURIQ0FSaTdDaWFMdVBTQVAxTi1lc25sS2VDQlBVenlmUXA4Z001WXRBaTJ5R3NnSXhsOEhXcGhLVExpeks2bUNvR3FOUGNWb1FtM0J5UHJxNnBwaDRISUhHYw?oc=5</link>
-<guid isPermaLink="false">66dd9e6ebc2ad89ec720a85b7b3d1b1094d7c3c8d4053bd70a4284a116a0ffaf</guid>
-<source>Google News Artificial Intelligence</source>
-<category>technology</category>
-<pubDate>Thu, 05 Nov 2026 16:21:24 +0000</pubDate>
-<description>Marvell agrees to buy Lumentum in $115B stock deal Manufacturing Dive</description>
 </item>
 <item>
 <title>Area Man Feels Joy Online for First Time in Years</title>
@@ -2349,28 +2349,6 @@
 <media:content url="https://media.wired.com/photos/66ea07715f7a3326e9fe7ca3/master/pass/WIRED-Coupons-5.jpg" medium="image"/>
 </item>
 <item>
-<title>Corsair Discount Code: Up to 50% Off for November 2026</title>
-<link>https://www.wired.com/story/corsair-coupon</link>
-<guid isPermaLink="false">e67208ab31041caec3b79a4607e1ab1d87b105c922a79cac010a3a6074fdef6e</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Thu, 05 Nov 2026 06:00:00 +0000</pubDate>
-<description>Upgrade your gaming setup or PC build for less with these verified Corsair coupon codes, student discounts, and refurbished deals.</description>
-<enclosure url="https://media.wired.com/photos/67b63b98fb14553f0ebd9ffd/master/pass/WIRED-Coupons-R2_15.png" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/67b63b98fb14553f0ebd9ffd/master/pass/WIRED-Coupons-R2_15.png" medium="image"/>
-</item>
-<item>
-<title>Nomad Goods Promo Codes: Get 25% Off in November 2026</title>
-<link>https://www.wired.com/story/nomad-discount-code</link>
-<guid isPermaLink="false">9254f5656796ce3331e0ab7f2639a1e5e2a380e2c0aa140222e6edb80f63bb05</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Thu, 05 Nov 2026 06:00:00 +0000</pubDate>
-<description>Save up to 25% on Nomad Goods accessories such as Nomad phone cases, Nomad wallets, and more in November 2026.</description>
-<enclosure url="https://media.wired.com/photos/66ea077283cd4f2fbb17d478/master/pass/WIRED-Coupons-2.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/66ea077283cd4f2fbb17d478/master/pass/WIRED-Coupons-2.jpg" medium="image"/>
-</item>
-<item>
 <title>Meta Quest Promo Codes and Coupons for November 2026</title>
 <link>https://www.wired.com/story/meta-quest-promo-code</link>
 <guid isPermaLink="false">361f07e09a3f7ed4b4b1535c278a6c0e94610d1c65c3f0a8ae2e217f6250e346</guid>
@@ -2382,6 +2360,28 @@
 <media:content url="https://media.wired.com/photos/67b63b909468ebbf8f0cbc77/master/pass/WIRED-Coupons-R2_8.png" medium="image"/>
 </item>
 <item>
+<title>B&amp;H Photo Promo Codes and Deals This November 2026</title>
+<link>https://www.wired.com/story/bh-photo-coupon</link>
+<guid isPermaLink="false">a02076e4395bd96a220efa2041951b6091218c280a60fee66d925d63748a3607</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Thu, 05 Nov 2026 06:00:00 +0000</pubDate>
+<description>Enjoy top deals on cameras, computers, and tech essentials at B&amp;H Photo.</description>
+<enclosure url="https://media.wired.com/photos/66ea0772ca863bb4c1028b66/master/pass/WIRED-Coupons-4.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/66ea0772ca863bb4c1028b66/master/pass/WIRED-Coupons-4.jpg" medium="image"/>
+</item>
+<item>
+<title>Corsair Discount Code: Up to 50% Off for November 2026</title>
+<link>https://www.wired.com/story/corsair-coupon</link>
+<guid isPermaLink="false">e67208ab31041caec3b79a4607e1ab1d87b105c922a79cac010a3a6074fdef6e</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Thu, 05 Nov 2026 06:00:00 +0000</pubDate>
+<description>Upgrade your gaming setup or PC build for less with these verified Corsair coupon codes, student discounts, and refurbished deals.</description>
+<enclosure url="https://media.wired.com/photos/67b63b98fb14553f0ebd9ffd/master/pass/WIRED-Coupons-R2_15.png" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/67b63b98fb14553f0ebd9ffd/master/pass/WIRED-Coupons-R2_15.png" medium="image"/>
+</item>
+<item>
 <title>ASML vs. Marvell Technology: Which Artificial Intelligence Stock Is a Better Buy Going into 2027? - The Motley Fool</title>
 <link>https://news.google.com/rss/articles/CBMi4AFBVV95cUxQRVpmeUVwWkc1TUVBOHJnbWQ0WW56blRwdHpOblRoeG9tTmVrTWxZQUtnOG1iRG9GbEVvalBLbUJURUFmcGtBaUN6dEhFeVctZDZOTzM5Y3QzREVnOVRwaVA2UWpWVV9GdEFJNFotcDNmM0FLRjg2ZlZ2ZGlwbWUzOV8tWDJRSDlwMklhRlNDdC10LW1ObFpJeWRHT3piZ2U2VldpcElGeXdSM2pDdWh2UXZhVHJoZzFiT1ctdWh3NFdIaU5mM2FaZGN4ZEdaT1FxWm1mUDMwd2hhbWtfSTF2eQ?oc=5</link>
 <guid isPermaLink="false">720372e03a5784677a83dda338c6dafb247538db927b8fc24d8d52f10257b122</guid>
@@ -2389,6 +2389,15 @@
 <category>technology</category>
 <pubDate>Thu, 05 Nov 2026 02:33:00 +0000</pubDate>
 <description>ASML vs. Marvell Technology: Which Artificial Intelligence Stock Is a Better Buy Going into 2027? The Motley Fool</description>
+</item>
+<item>
+<title>The typo generation is damaging literature</title>
+<link>https://www.metropolitanreview.org/p/the-typo-generation-is-damaging-literature</link>
+<guid isPermaLink="false">f79b0d46c2d407063d5637a03254e230f3d3f965c6d0480d8702937a2ffce072</guid>
+<source>Hacker News</source>
+<category>technology</category>
+<pubDate>Wed, 04 Nov 2026 20:05:56 +0000</pubDate>
+<description>Comments</description>
 </item>
 <item>
 <title>EU rules on Artificial Intelligence devices will apply in NI - BBC</title>
@@ -2425,15 +2434,6 @@
 <category>technology</category>
 <pubDate>Tue, 03 Nov 2026 21:47:00 +0000</pubDate>
 <description>Google says there’s no way to use Search without using artificial intelligence The Guardian</description>
-</item>
-<item>
-<title>British Library Legal deposit and web archiving</title>
-<link>https://www.bl.uk/services/legal-deposit/web-archiving</link>
-<guid isPermaLink="false">da77c4bc03296150398b0c4792c8e1ae5f19b9a3c47435c9fadec411d597b548</guid>
-<source>Hacker News</source>
-<category>technology</category>
-<pubDate>Tue, 03 Nov 2026 14:56:30 +0000</pubDate>
-<description>Comments</description>
 </item>
 <item>
 <title>DOE Explains...Artificial Intelligence - Department of Energy (.gov)</title>
