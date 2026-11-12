@@ -4,15 +4,476 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>UK economy grows at fastest rate for more than two years</title>
+<link>https://www.bbc.co.uk/news/articles/ck3rgd429zd5o?at_medium=RSS&amp;at_campaign=rss</link>
+<guid isPermaLink="false">1b127e2f67ca793c7cd9a0ae20561b2829e381b49fd2be481bf79ae21f441cb4</guid>
+<source>BBC Business</source>
+<category>business</category>
+<pubDate>Thu, 12 Nov 2026 08:11:44 +0000</pubDate>
+<description>﻿The UK economy grew by 0.7% in the three months to September, according to official figures.</description>
+<enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bb4c/live/4af5abf0-de6a-11f1-9115-cfe6d179af3a.jpg" type="image/jpeg"/>
+<media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bb4c/live/4af5abf0-de6a-11f1-9115-cfe6d179af3a.jpg" medium="image"/>
+</item>
+<item>
+<title>How the Nvidia selloff hits your 401(k) - CNN</title>
+<link>https://news.google.com/rss/articles/CBMiswFBVV95cUxNdTBSaFFtWFBOblZQcHVsSXRLRkdWcWJ6M2YtbVAtWGstU3pDRk54eENBSWJWTWRtRlpYS1dqMDk5NXc3aGVxZTBXTkFXV1BTVjAxUm92emh0cUV4UHBCVHZPMHRNREdUUjJGOXM3c09NdkZlQ1NfUnZQWjI5UTVrcnhpeWdiQmpORF95cHdISVAtTGc5RmpIZ09JU2xTMUhuTS1ORVZkdHMxVXJOQkdMdjZCRQ?oc=5</link>
+<guid isPermaLink="false">b62cef5051318ccaa26058c985e51c2b9c4aa243f047e15ea303ff6842395ced</guid>
+<source>Google News Business</source>
+<category>business</category>
+<pubDate>Thu, 12 Nov 2026 08:06:20 +0000</pubDate>
+<description>How the Nvidia selloff hits your 401(k) CNN</description>
+</item>
+<item>
+<title>DDCC celebrates local businesses - Davie County Enterprise Record</title>
+<link>https://news.google.com/rss/articles/CBMic0FVX3lxTE1LbkYtQWdWZXEwUy1rMGFJV2M3VW1pVFhCYUdKempXZGhmVmNjOS1QTHRxUnNQSjFYNkh3SmIzUEY3QXdRN3J4Q0xkWVlKcmdSeUNURkVPMGVHOUpQVXZzVWpfeVNqVWNCOHdlUHFsUGJMNjA?oc=5</link>
+<guid isPermaLink="false">2282d03bbaba77c2f0808fbce20bb919132d4ec17e30d70ffd2d94a6edb64987</guid>
+<source>Google News Business</source>
+<category>business</category>
+<pubDate>Thu, 12 Nov 2026 08:03:14 +0000</pubDate>
+<description>DDCC celebrates local businesses Davie County Enterprise Record</description>
+</item>
+<item>
+<title>Should personal finance be part of the liberal arts? : The Indicator from Planet Money - NPR</title>
+<link>https://news.google.com/rss/articles/CBMinAFBVV95cUxNdndjLURwc0dqV3FWMURVSTRfTjRpTXpVeE43ZERUTzZ2LU54ZjNBQy1DSlljRlU0SkZ5NnhVeWs5Tkt4RGhJMkFEM0lPUUhmMlU2MGJWd0VNVVJYckc3TjhFQ2FpNHFsRDc5MUtpUUhFNE1lZEM1elIzdktGNEhGREhXeTJTWjZjX1dTWjRKYUlZanRVZDJBd0FQN0U?oc=5</link>
+<guid isPermaLink="false">691ee1c450f8482506effa840bb3a8b4384260c2c27c523ab0236b5956606acc</guid>
+<source>Google News Business</source>
+<category>business</category>
+<pubDate>Thu, 12 Nov 2026 08:00:00 +0000</pubDate>
+<description>Should personal finance be part of the liberal arts? : The Indicator from Planet Money NPR</description>
+</item>
+<item>
+<title>Business and medicine cross paths at inaugural cancer innovation summit - Yale Daily News</title>
+<link>https://news.google.com/rss/articles/CBMiqgFBVV95cUxON1FZTV8xemZpWFRSZmJMS0I3X3o4bmN4b3JmbmF6cnd4SVpLeEdYMnNJcldTaUNsWjl1eTlUdUVaT0VaLTdPRnZSU1BXcUNjeG1QWjZwSkVqemxwN0dyVkZvaFhUMFczQ3ZGV0VISDU3ZUxJZHBiWU45WnBVTS1YTGhjd3ZNMVpFZmYyR2pjaWY1Sk9oQnhkcDg4WnJtaFRQWlNPd2pfcGFtZw?oc=5</link>
+<guid isPermaLink="false">ce696824090239c3ef828afbb261ab1efa823c59eb9b12ebd2ba6b18d48be6af</guid>
+<source>Google News Business</source>
+<category>business</category>
+<pubDate>Thu, 12 Nov 2026 07:59:30 +0000</pubDate>
+<description>Business and medicine cross paths at inaugural cancer innovation summit Yale Daily News</description>
+</item>
+<item>
+<title>Jensen Huang built Nvidia into a behemoth. His scandal puts the entire AI boom in jeopardy.</title>
+<link>https://www.marketwatch.com/story/jensen-huang-built-nvidia-into-a-behemoth-his-scandal-puts-the-entire-ai-boom-in-jeopardy-c374b079?mod=mw_rss_topstories</link>
+<guid isPermaLink="false">f16bf2b014809ff9e05dbe94e75b0a294dd7d92f16106e52667df1df0cfa7a36</guid>
+<source>MarketWatch</source>
+<category>business</category>
+<pubDate>Thu, 12 Nov 2026 07:30:00 +0000</pubDate>
+<description>Huang fueled his company and the AI ecosystem with advanced chips and creative financing deals across the supply chain. What happens if he’s gone?</description>
+<enclosure url="https://images.mktw.net/im-07328527" type="image/jpeg"/>
+<media:content url="https://images.mktw.net/im-07328527" medium="image"/>
+</item>
+<item>
+<title>NMHU Students Shine at Regional Business Ethics Case Competition - New Mexico Highlands University</title>
+<link>https://news.google.com/rss/articles/CBMijwFBVV95cUxPTmp0bTFNVzE4UXVuRFNnam9laEg2REVTMDFhcDNlNVFkN05wcDhwSm82SW54cjU3Zmphams5NS1hemk0Q3JaTUg2RkZBckR1MV9LbWJrYXVCNmdBbjhSanBXdGJGMEd6cDlWU1Iwb2tBeGVwZEltaVFUdFZNZUdvVDFxbjJYMWVQSmxnRUdjaw?oc=5</link>
+<guid isPermaLink="false">a36c4cc924af8e4314dd3819a1ec445ec2eb415a5d5e5ecad14aa465ff29690e</guid>
+<source>Google News Business</source>
+<category>business</category>
+<pubDate>Thu, 12 Nov 2026 07:22:16 +0000</pubDate>
+<description>NMHU Students Shine at Regional Business Ethics Case Competition New Mexico Highlands University</description>
+</item>
+<item>
+<title>UK economy grows by 0.7% in third quarter despite high oil prices - The Guardian</title>
+<link>https://news.google.com/rss/articles/CBMingFBVV95cUxQWU5OakJnWV83ZmkzcFpRbWRHSlVqY29mV2R3T3EwbGhMNlR1M1hMeTRlclU1QTRUbnZONXlaZkVNeGRhYXNKaFJjRHdad293QXptWnQxNmwycEhXX0lUSnFRNnVKbUxoSTM4Z0JTRkc4Z2g2ZDBuamgwVVF4Uk5MSGJKMEYxTmNGX0FyX2NtR2JnMjBZallOeFZtRDE0dw?oc=5</link>
+<guid isPermaLink="false">b0bde7a558d77fbf557476e34b064fd75bc437ea904c8a0f75a4bca34647c65b</guid>
+<source>Google News Business</source>
+<category>business</category>
+<pubDate>Thu, 12 Nov 2026 07:07:00 +0000</pubDate>
+<description>UK economy grows by 0.7% in third quarter despite high oil prices The Guardian</description>
+</item>
+<item>
+<title>Megaspeed's links to rural Australian store raise fresh questions in Nvidia scandal - Reuters</title>
+<link>https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUl9xUEV5ajlNMEphV2FRUmdYTnlPSXFKSHA5MG9Ed1ZlT3g4ZnZFY3VpcExnS3B1b0tqSWI3N1hBXzVJQlZXc0c4YjVxdzFwVEQxdmNpdHF5aTFuOG5DUEJkakg0a1dsdmIwalk4Mkh4VVR1a0Ixa1k0SmxXUkxGUUxpT21TdW5fQUphRERCV3pVWHJNUnFWOURLTHYxQ2o2NEZyXzl6Z3c4RGR3aGNSSDJQQU1ZaFp2czNyS194MmVRUDlrME1Gdw?oc=5</link>
+<guid isPermaLink="false">b8ae4367835cdc335e1c6f567d6eb30a2fe8f90b54e7a61bfc4e2c24bd9ca9d6</guid>
+<source>Google News Business</source>
+<category>business</category>
+<pubDate>Thu, 12 Nov 2026 06:59:00 +0000</pubDate>
+<description>Megaspeed's links to rural Australian store raise fresh questions in Nvidia scandal Reuters</description>
+</item>
+<item>
+<title>Quarterly statement: Munich Re expands its business and raises its profit target to €6.6bn - Munich Re</title>
+<link>https://news.google.com/rss/articles/CBMi2wFBVV95cUxQZkpSd0RGbEtkcjhkMkN6MlpIc3V0RjNwT2ZzYTJOSDNKRlBtcjZkU0V3TGwwR0JRZV9xSFhaa1R2QUsyMTU4dE93UW4tYW9jYlZrTWJtemNsdHpFczdMN2NqQTFTSVJsek1Ubjczc01feUNsX1N1MmFPU0JvVHdYOEdwRU1VWXB0ajFBUVZVZHJtVXFzaUZJeGhWOUJZM3ZmajVGSHJqYTRFQTFnWlRFOWd6Q2FDeG1qQm5pb2RnblJpcGQxX1J6QXZVMEdXS0hGLUNLRERKWTFucVE?oc=5</link>
+<guid isPermaLink="false">01db9ef8b0b09be3245bc9a3e4ff3cdb76214d13b5aa9173d99e5e583148fd11</guid>
+<source>Google News Business</source>
+<category>business</category>
+<pubDate>Thu, 12 Nov 2026 06:33:29 +0000</pubDate>
+<description>Quarterly statement: Munich Re expands its business and raises its profit target to €6.6bn Munich Re</description>
+</item>
+<item>
+<title>Are branded cold and flu tablets really worth the extra money?</title>
+<link>https://www.bbc.co.uk/news/videos/cw4gnxm0y43po?at_medium=RSS&amp;at_campaign=rss</link>
+<guid isPermaLink="false">551eaa78e778b1ee51e6a8e51c83a41f69d42ffb92fbfbc1818f25dc90c1f972</guid>
+<source>BBC Business</source>
+<category>business</category>
+<pubDate>Thu, 12 Nov 2026 06:17:06 +0000</pubDate>
+<description>Are branded cold and flu tablets REALLY worth the extra money?</description>
+<enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5283/live/92ef3df0-ddce-11f1-b441-2b33b063138f.jpg" type="image/jpeg"/>
+<media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5283/live/92ef3df0-ddce-11f1-b441-2b33b063138f.jpg" medium="image"/>
+</item>
+<item>
+<title>Gas bills to rise as Middle East turmoil persists</title>
+<link>https://www.bbc.co.uk/news/articles/ckregdvr2y3go?at_medium=RSS&amp;at_campaign=rss</link>
+<guid isPermaLink="false">d37ec91a150290a53bb1164235a9363e5f8c512d3d29d9df9d6d5cd1ce2be802</guid>
+<source>BBC Business</source>
+<category>business</category>
+<pubDate>Thu, 12 Nov 2026 06:15:36 +0000</pubDate>
+<description>Gas bills will increase by about 5% from 1 December, Island Energy announces.</description>
+<enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a768/live/1deef820-dddc-11f1-b865-d17d8611efca.jpg" type="image/jpeg"/>
+<media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a768/live/1deef820-dddc-11f1-b865-d17d8611efca.jpg" medium="image"/>
+</item>
+<item>
+<title>European business sentiment picks up, inflation worries grow, survey finds - Reuters</title>
+<link>https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNXFJX1VibGJ0TWNWcjh4UnBIYXlEbHpqMTlaaDJLSHhtZFo1T0xBVTk5eGIwb1lwWUhQQ0I3NjlTYVNZTVl0Z3MyQU1EakZxc0YwRUpDVF9iOC00N3VtVm52emFEd3RFRDFnRE9XS0xfOF9nUVlxRzVnSWJIR0wzWFM4NVJhMUZ6bDlYeE8wVzB1WnViblNMdnI4Z0R2WjBfREZlWFNrdVRXUC1wY0lfZ2FZbW5OZHkw?oc=5</link>
+<guid isPermaLink="false">cfea5cbf7a4e3d096be8a57d8300dcf52e3ec5961cf9d6242b086a22f6a0b841</guid>
+<source>Google News Business</source>
+<category>business</category>
+<pubDate>Thu, 12 Nov 2026 06:03:00 +0000</pubDate>
+<description>European business sentiment picks up, inflation worries grow, survey finds Reuters</description>
+</item>
+<item>
+<title>PERC and Opti-Port Put the Business of Eyecare Center Stage at Fall Elevate Conference - VisionMonday.com</title>
+<link>https://news.google.com/rss/articles/CBMizAFBVV95cUxNNDJEU05JY0IwcjFPaFo2ajFncXlVU2xPaG41XzRnRlJydEF5b0ZkcGFGbkNwZVVlOEc0d2NYOWZQTklfQTUtVExyTGZQYzhUc01DdnhDQlRJdGlpQnVkRldTeDlJZDVkTmNPNDFJeUpOMFFjb2R1a3FGOFhfekI1YTg1Um5UdTBSc0VTUWxLUGRib0czMVhyOFdXV0dic2tmMi15ZnNkWm1aN18wVnhSRU14bEVzVVdVaDJEM0VILW96ZFlKUnd4WUY1alg?oc=5</link>
+<guid isPermaLink="false">415678804973ae6b56ce0a158e1dbd59f88c79c89fbc140ea5756690134f1a0c</guid>
+<source>Google News Business</source>
+<category>business</category>
+<pubDate>Thu, 12 Nov 2026 05:21:00 +0000</pubDate>
+<description>PERC and Opti-Port Put the Business of Eyecare Center Stage at Fall Elevate Conference VisionMonday.com</description>
+</item>
+<item>
+<title>Kalaris Therapeutics Releases Q3 Financial Results, Provides Business Update - VisionMonday.com</title>
+<link>https://news.google.com/rss/articles/CBMivgFBVV95cUxNV2xTYTdBZk4zQ1dtRTBYSFJVRTRwNnJ5T2ZaaEJ4eG5YX2tfOGd1Um9MejVBbFZud2EwcXpCQXF1b3hOWTkzRG8taEUwTkFhN2V1WElpUV9rWkpDWjFDRFZ4QTR5R0VHQjQwdjNZUHYtV3piQXljcnoyekZXbDlQTW9ZV0VzOS11b1hpOG8tWi1BR2ppVFI1QkZSVGVMeXVJWjZldUZXTDkzZHRxcnhPNWM0TjhJNHptYmtxZjNR?oc=5</link>
+<guid isPermaLink="false">ba1962a0267182b5c2bc11a059fbf3ce5e127da509891bbf2c2eadaed7d7cab1</guid>
+<source>Google News Business</source>
+<category>business</category>
+<pubDate>Thu, 12 Nov 2026 05:18:00 +0000</pubDate>
+<description>Kalaris Therapeutics Releases Q3 Financial Results, Provides Business Update VisionMonday.com</description>
+</item>
+<item>
+<title>New England College Expands Tuition Partnership to 39 NH high schools - Business NH Magazine</title>
+<link>https://news.google.com/rss/articles/CBMisgFBVV95cUxQV1dkcjhUS3BWTzBfajJIYm5PVUpBQVNTVFRtYzJ6U3oxbDV3MEZ6eTRZTTNHQy1OblBwTDdsdG1VLVhZV3o5ZXBKc0l1MndjcjNjR0RoRGFTVVlNWDMtMmdjY0U5N2ZYZTY2ODN1ckNmOFJRbWZ5UUN5eDJoS1BlSjI1eWotZHZtSnM2MmJZZ3ZNbzV2dDlXUFg2TDVRbS1BYWl4dkZfb3RCV1VHZHh4bzZR?oc=5</link>
+<guid isPermaLink="false">c150529ee57bbf4b80c7f6baf110691b427ebc2077a8c1dfb86dead560ed15d3</guid>
+<source>Google News Business</source>
+<category>business</category>
+<pubDate>Thu, 12 Nov 2026 05:04:29 +0000</pubDate>
+<description>New England College Expands Tuition Partnership to 39 NH high schools Business NH Magazine</description>
+</item>
+<item>
+<title>What smart people in business and tech are saying about the Nvidia board potentially ousting Jensen Huang - Business Insider</title>
+<link>https://news.google.com/rss/articles/CBMingFBVV95cUxNRVZoY29KS0xrM2V1T3lMYmdEWF9nLU1YTzhuQWN1d1o4eTFJZmVBSjhrMHRObmxkeHFHR3NwR0dlRDRqcFZKV0dYU05FeGtHaGxmcUFGZ1VpMWtyN1BlTlktQWFPTXZpdjVPQ0ZwdWpTbU5yR0l2ZDFESDVsN19BUm1pMlp3MWwxUENkT0cxTEVGeFBlN2lwdS05TWZ5Zw?oc=5</link>
+<guid isPermaLink="false">8bcf9ebaf56ef67dd184c78aab78cda7d6f3b89b7c1191ae551be4884f10a3db</guid>
+<source>Google News Business</source>
+<category>business</category>
+<pubDate>Thu, 12 Nov 2026 05:04:00 +0000</pubDate>
+<description>What smart people in business and tech are saying about the Nvidia board potentially ousting Jensen Huang Business Insider</description>
+</item>
+<item>
+<title>Casella Writes Off $13.6 Million In Costs For Failed Landfill Proposal - Business NH Magazine</title>
+<link>https://news.google.com/rss/articles/CBMisAFBVV95cUxPZHUxODhCcDNoNEtsYW5Dc3ZlSlFsYlRVbnJPMVpSa25iT18zYXJHaUJTbUJxTkRXTTZCci1HY3c5VHphWTdzTEp1VzJocE9tbDR5MXF6bkRybDNlelhrcEF6aFBUbkNXWTFkTTZhaW14RzkwN2RDMXJRdDRsOExqR2JpVXlIZmNBLVgzNm9EOUZiNF9yUmZJdW1MeDdTa1ZMTkdZcXJGa1YwNjZ2SWtSUQ?oc=5</link>
+<guid isPermaLink="false">de2fd9434bbe15c1a8c88c635a6b8c1ab816326431d54bdcfaa4d7f12f2794cd</guid>
+<source>Google News Business</source>
+<category>business</category>
+<pubDate>Thu, 12 Nov 2026 05:03:41 +0000</pubDate>
+<description>Casella Writes Off $13.6 Million In Costs For Failed Landfill Proposal Business NH Magazine</description>
+</item>
+<item>
+<title>Gene therapy seeks a cure for its brittle business model - Financial Times</title>
+<link>https://news.google.com/rss/articles/CBMihAFBVV95cUxPWWxJV042SDJxUV81M3VBejJNZ2hvR05uLTl0Qnl0RHhtWkZoSHczQUtjT191TFBDTm15bmUzaXEtLXUzTFlvYjBJUkl2RS00SUprSWV0MzRZM1JBcHNNZUhjZGpMYUl0dV9kTkJiZEktUXFpUUF5RDg0QUd1ZmxneTRNQ00?oc=5</link>
+<guid isPermaLink="false">6bb08d04acf8a3cf269f6eb13aa668f90e5222f6d58c2e3785185c7d341266e6</guid>
+<source>Google News Business</source>
+<category>business</category>
+<pubDate>Thu, 12 Nov 2026 05:00:12 +0000</pubDate>
+<description>Gene therapy seeks a cure for its brittle business model Financial Times</description>
+</item>
+<item>
+<title>Haysville Air Force veteran grows mushroom business with family - KWCH</title>
+<link>https://news.google.com/rss/articles/CBMinAFBVV95cUxNdXQ1MDF5N1dLN002cy1iUW5EU2hLZGltVnZEd05MbnJIbGFac3pDeU1SZnhnS1ZEMXZyTEZRMl9fNHRqTzlnQkI0VlYyRVBqcjRLU1FWblRjVHFjVXpCSGFGMm5yLVllYWxBQktDNXpyU3hXQW1Ua1JvY0NVUU5kN2l2TUVQZHBwRVZPRE5YakNHWnM2aUF6Q0lRMzPSAbABQVVfeXFMUFlfTmZFUDZsLWpUSVpaVzhXalZCQmNxa0JoVHpQd291YTluZXhzazZKWG1XamtPSFAxQkpYdmpZRUN1R0t3SEdiOFkzZjJrb3ZVMlJEdnRmY2JVTDdVSGNrUDQ5VU9XVHpLWjgxbG5ieDRtMVpkLVN5UXFsT21vZHlLM19SejhyZERJakhBVk1IMWVuTjlSbHZXV1I4V1lvODFNNE0weVVUQ0Rld3VhZ2M?oc=5</link>
+<guid isPermaLink="false">bc12f10abd2b1a81c3814269cba3d638ec38c384655c534f1a6743a0ff08107e</guid>
+<source>Google News Business</source>
+<category>business</category>
+<pubDate>Thu, 12 Nov 2026 04:56:00 +0000</pubDate>
+<description>Haysville Air Force veteran grows mushroom business with family KWCH</description>
+</item>
+<item>
+<title>Nasdaq futures fall as Nvidia sinks 8% after hours on report board may oust Huang</title>
+<link>https://www.marketwatch.com/story/nasdaq-futures-fall-as-nvidia-sinks-8-after-hours-on-report-board-may-oust-huang-e99b898d?mod=mw_rss_topstories</link>
+<guid isPermaLink="false">494d2890fd02e545207a474e1572064c858dec7897e90756bf7e61efab2a505e</guid>
+<source>MarketWatch</source>
+<category>business</category>
+<pubDate>Thu, 12 Nov 2026 04:41:00 +0000</pubDate>
+<description>Stock futures were sliding Wednesday evening as a selloff in shares of Nvidia after the closing bell weighed on the Nasdaq-100 and dragged down shares of other chip makers.</description>
+<enclosure url="https://images.mktw.net/im-99694497" type="image/jpeg"/>
+<media:content url="https://images.mktw.net/im-99694497" medium="image"/>
+</item>
+<item>
+<title>Nvidia Turmoil Lifts AMD, Broadcom on Bets for Business Gains - Bloomberg.com</title>
+<link>https://news.google.com/rss/articles/CBMisAFBVV95cUxQOVNuY1hQVVBKWnpYYldPbW1yYm9Nc3lhMGhyM1E0aTE2ektOem82UkdWZWtQclFUem41QWFpLUZXRnNWQV9YT2J4eUNrZ0Y2Z1JBajBYTlJmWjBHSXBVVFIyNC1jX2FiTnNIenZjSlNQX1lvb1JxVjQtMTZ4TG1BZTc4X3BJTk5SeWpibEwzeWM0VF9rSEs3SHpLcXpYckJmQ0Q4RXN1REVuNDhUS09xYg?oc=5</link>
+<guid isPermaLink="false">b1477d817cbb2e10510f48670e5269eaabf895ed9bf63c8973965460af728249</guid>
+<source>Google News Business</source>
+<category>business</category>
+<pubDate>Thu, 12 Nov 2026 04:36:00 +0000</pubDate>
+<description>Nvidia Turmoil Lifts AMD, Broadcom on Bets for Business Gains Bloomberg.com</description>
+</item>
+<item>
+<title>Get stronger, more flexible at new business in Forest Park - WBRC</title>
+<link>https://news.google.com/rss/articles/CBMijAFBVV95cUxQWWRGbF91YWF0djRfbml1RjRBb2ZJejZZRUFjbVdubldsd0VNOXVmSHJaa1FhWm1IRGtSbHhmcWR2NVdNSWc3Z180emhqUExkbVQwOUFCSEF1dHhBd1Jta3B3dU9UQWdMMUZCWWVCUzdvcDNYeFAzNUFLemdIX3Etd2JaMEhZc24yLXZCRdIBoAFBVV95cUxNWGRKdi1odmlvbUtONGhQRHFURFhicWlpbEJlUExXR2RvUk10X2QtQUZUR2Y4UGFlOG5Jc3BXNmV0STBDLVc2VDdXM3BvanVmUy1nN0pSM1diU0R2Y2JBajRDQzlvTGl6dnB5MmtsUWh4Mmh3R0RyUHlkb3VKQUlqSFY4NHVKam91a0RXVURhQ01mb3ZYcGRtVXJtQ0w5ZWl6?oc=5</link>
+<guid isPermaLink="false">725b68355be00fa516a5de704c28ae2ea5ea55c2977b22d2a5a1e0201fee19b8</guid>
+<source>Google News Business</source>
+<category>business</category>
+<pubDate>Thu, 12 Nov 2026 04:36:00 +0000</pubDate>
+<description>Get stronger, more flexible at new business in Forest Park WBRC</description>
+</item>
+<item>
+<title>What we know as pressure builds on embattled Nvidia CEO Jensen Huang</title>
+<link>https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&amp;at_campaign=rss</link>
+<guid isPermaLink="false">e869dd4c2eff543382104bf7d7153fbe1e7c4ebd08423203da2672635a1686bf</guid>
+<source>BBC Business</source>
+<category>business</category>
+<pubDate>Thu, 12 Nov 2026 04:18:33 +0000</pubDate>
+<description>The billionaire tech executive's future is in question after reports of a second extramarital affair.</description>
+<enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2521/live/6ba67640-dc03-11f1-b441-2b33b063138f.jpg" type="image/jpeg"/>
+<media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2521/live/6ba67640-dc03-11f1-b441-2b33b063138f.jpg" medium="image"/>
+</item>
+<item>
+<title>Russell Wilson and Ciara Just Announced Their Latest Business Partnership - Yahoo Sports</title>
+<link>https://news.google.com/rss/articles/CBMijAFBVV95cUxOSjM5X3FBczBZeW1MMTdjUU9rLWxBRWhsWWdVWDJCdGV0SnpKTUdJVXNRNzV0N29NSjVPUjRkOG1mSXVqSklwendESlFscXpNM19vTGtORFc1UGlIZWc2eFNVRjNRZWRiOTFaRmU3alhRMUU0UkI4eVJOcE5KZkdGbG84WGRoVG1Semdjbg?oc=5</link>
+<guid isPermaLink="false">715e26dc430ea0d2bb0a75b6d72d85acd419229e0d7481706ad9e5e782381494</guid>
+<source>Google News Business</source>
+<category>business</category>
+<pubDate>Thu, 12 Nov 2026 04:18:29 +0000</pubDate>
+<description>Russell Wilson and Ciara Just Announced Their Latest Business Partnership Yahoo Sports</description>
+</item>
+<item>
+<title>Polymarket confirms layoffs as prediction market giant undergoes major restructuring - Fox Business</title>
+<link>https://news.google.com/rss/articles/CBMiuAFBVV95cUxQT25KNkRVM3Z2VWtmaTA0X2JncjB5VENwUGlZMG9qUUl3Q0dGNkFwcEM4eHktTENNWXN1R2pMQmkxZzgyTV8waDhvWnRtTklhTXdFRkdINXRoOWdDWF9odmZqOUV1MXBpQ05xWkxfcmxnWWl0MHFfSkhtYXVaY0VqanRtd2V0MjJVXy1BdWJhdXBVWkc1UHA2R3JsOUNZNEV1WTg3Y0JYTkItWEg0R2NRSl82MnFSdnVf0gG-AUFVX3lxTE1FcmlfdEI1NVlZTlVKRGFLc2xIcnV0TzJjWXg5ZWRmUjVDMzBSXzhrRkhVUlBwYkItMjhtZGhEdDZWMHB3dlQ5a2c4S2YzclI2c3BSbU9zbEdkWjZwakdDQzhFd0dGMjAyWTR1ODFiSzlXZnhCU0J0d0JWNWFaekh5ZTdDR01vTktJcTBFd3lLbVBWbjU2LVJ0Y3VfYm1lamZVNTBYOEFuWDZ0c3F2d3IxN21PVXp0eGlBMDZ6Nmc?oc=5</link>
+<guid isPermaLink="false">ca3c31ddb1bfdd6910c1f35aac0e9dc19d4bbce50eae6bc1dfb4c718e6a086cc</guid>
+<source>Google News Business</source>
+<category>business</category>
+<pubDate>Thu, 12 Nov 2026 04:08:00 +0000</pubDate>
+<description>Polymarket confirms layoffs as prediction market giant undergoes major restructuring Fox Business</description>
+</item>
+<item>
+<title>‘That’s life’ : How Shea La Vie Cupcakery turned baking into a business - The Crimson White</title>
+<link>https://news.google.com/rss/articles/CBMirwFBVV95cUxPeG5fb1Voa2FJVWtzQ21YOHNrTFVQTmtXTkpVYzYzQ1NHdVE4TkhPZjhvdmNObXpMWk1MT1Y5QUdEMV9yMUZvQ1BMMTJzcWdCUFJvdl90YkpWbWdVRGkzMEgzVXdvRjRVX2UtOV8wZXlZYUJQM0dXOXZDU2R4VjJYZnNndzVVM2p2VHNNRm5VX2NGWnBxQXFaTk95ZTh2Nkh6R2dOWW1JdUhCb3ltU3JZ?oc=5</link>
+<guid isPermaLink="false">f7829114105f38087ddad05ca92efb9ef477d9dde3d15c75634d5d186775ed74</guid>
+<source>Google News Business</source>
+<category>business</category>
+<pubDate>Thu, 12 Nov 2026 03:52:44 +0000</pubDate>
+<description>‘That’s life’ : How Shea La Vie Cupcakery turned baking into a business The Crimson White</description>
+</item>
+<item>
+<title>Chinese university bought Nvidia H200 chips despite US blacklist - CNN</title>
+<link>https://news.google.com/rss/articles/CBMigAFBVV95cUxOaXJzMFpZQUI0M1p4Y0RJeW9FTk03MkVtWjA4aG90dDFlTEVkcndFbEpXZExraHpyUDhXbGN4MjBRYXJ2OURvV2h5b1VuNkVpcEQ5Y1lUTF95QnpnQThsTXdWeXJaeGctN2VNR0laYS1NSUN3VGxnaE9BOHN2eUpWOA?oc=5</link>
+<guid isPermaLink="false">9acdcdd27febb5f98ebf69d9932b88e6a277235541e1934e3d91003f8e220435</guid>
+<source>Google News Business</source>
+<category>business</category>
+<pubDate>Thu, 12 Nov 2026 03:30:07 +0000</pubDate>
+<description>Chinese university bought Nvidia H200 chips despite US blacklist CNN</description>
+</item>
+<item>
+<title>2 Baldwin County business owners indicted on financial crime charges - Fox 10 News</title>
+<link>https://news.google.com/rss/articles/CBMiowFBVV95cUxQa2VkZVdxMnRUWHdhYzNJTk42dFBWOFVZUjFMekhlak41Y0NsZTRNdWRuWldIRGt2akJCVVotd0Fkb3dXeVFRZzdOakJ0WG1FNzhiOEZtV3hQTG5QWER2ZEhUejZ2Ujl6THk3V1huNktzWlRoLWdzclBEanVJV0lDS3JUNDI3a3dnYjlqMm1kVzNVSUMzRklhWUNKMmc5RFRqRFpJ0gG3AUFVX3lxTE05RnB5SUdOYTc4S25JQjJuMGtVS0FYY3dZRXlIbGNjOUpPbm4tekZDSTZzZWMwZUtDMk01NWhlYm9ldDZURXo1bno2S2N4ajg1QkxuaVlZcVpzMzcwTnhubFMyNm1wdUEwYkF2UzRrYkdzcTNGdl90bG42dGtGNDU1VnVaalB1VG9JT01jY0ZHOWptOEw2N0Y0ZE82UWwtOFpQYWhqUWhjYmkxY2lXV1k5SjRsSXBITQ?oc=5</link>
+<guid isPermaLink="false">68f773381eb0cafd78dbd731b44e678d346db580c50645ff07d349a1049b89c8</guid>
+<source>Google News Business</source>
+<category>business</category>
+<pubDate>Thu, 12 Nov 2026 03:21:00 +0000</pubDate>
+<description>2 Baldwin County business owners indicted on financial crime charges Fox 10 News</description>
+</item>
+<item>
+<title>Business owners accused of financially exploiting the elderly - fox10tv.com</title>
+<link>https://news.google.com/rss/articles/CBMinAFBVV95cUxObFdtUy1iRTZpYmQ2YlBKREJHb1ozU0R2bW53RGJDSjRCdlVCZ2pUNy1tTFFCS1YzOUNOUEpLOVROUlJPUlhtN2FwWGdQOG5BSlVBUTJwaVVCMUhDY2ZIeDZiY2F5ZHNUYW9XZWxCM1lzRTZCeHhpOTNMT0U0MWJjUEFOSU04dDRXQTQ5ZHhkRzNvejBJUEtubnBBZ3E?oc=5</link>
+<guid isPermaLink="false">7c649ad1f53c1c5bf80b204970e5471b5ed9953e308d708fa60689a495a32170</guid>
+<source>Google News Business</source>
+<category>business</category>
+<pubDate>Thu, 12 Nov 2026 03:19:00 +0000</pubDate>
+<description>Business owners accused of financially exploiting the elderly fox10tv.com</description>
+</item>
+<item>
+<title>‘The thought of living to 100 terrifies me’: Is Social Security a giant Ponzi scheme?</title>
+<link>https://www.marketwatch.com/story/the-thought-of-living-to-100-terrifies-me-is-social-security-a-giant-ponzi-scheme-84a64e7e?mod=mw_rss_topstories</link>
+<guid isPermaLink="false">3e0446ea3fd98e5862b95414e9bba935d7faf51cbe2d562ac57df66a457367ee</guid>
+<source>MarketWatch</source>
+<category>business</category>
+<pubDate>Thu, 12 Nov 2026 03:15:00 +0000</pubDate>
+<description>There is already a demographic ‘run’ on Social Security.</description>
+<enclosure url="https://images.mktw.net/im-49247042" type="image/jpeg"/>
+<media:content url="https://images.mktw.net/im-49247042" medium="image"/>
+</item>
+<item>
+<title>Here’s how Bernie Sanders wants to keep Social Security solvent ‘for generations’</title>
+<link>https://www.marketwatch.com/story/heres-how-bernie-sanders-wants-to-keep-social-security-solvent-for-generations-f5666a38?mod=mw_rss_topstories</link>
+<guid isPermaLink="false">347870de3cec103f3e4cb22194612da5578d88f3618b052c18f28e146f0ec5d3</guid>
+<source>MarketWatch</source>
+<category>business</category>
+<pubDate>Thu, 12 Nov 2026 03:10:00 +0000</pubDate>
+<description>The Vermont senator aims to eliminate the taxable maximum, making the wealthy pay more in taxes</description>
+<enclosure url="https://images.mktw.net/im-95193263" type="image/jpeg"/>
+<media:content url="https://images.mktw.net/im-95193263" medium="image"/>
+</item>
+<item>
+<title>Higher USPS holiday shipping prices hit small business owners - WDBJ7</title>
+<link>https://news.google.com/rss/articles/CBMimwFBVV95cUxNN3U4RXREZHlTZHJ3bzhIcjBObUxtN3hLRXJSbGd4Sy1Xb1A3WkF5Z1YxWWQ0QklBT25STlJHbl80RnJZYnJ5YThZTC1IM3V3bTM5OGdPYmxmQ1lTWDdEaXliZnlzZEdMMzdaS09OOE5wVVNxQjlWRUxsQXRiTkZ0SXdFUjBPMy1PdFZRLVVKZndNM2NWa3l4Yl9TWdIBrwFBVV95cUxOTGxFLWFqTlp4TGkwZTU4NlZpS2pObGNFbmZmVERxV0JrNzdoZGdMVkpTNnpuUzEzcGZwV0dXemFidklHRjNORkFsRzJwWTBuNVN1dnpwNGNIRmZFa3RJaXczd3JMTFNzWHFJaTJ4NUJvQ1BtMFdmMVFkZ3ZWb1UxSXNOcF91SGptallfRGNkeXJodDNWVVQwRW5TZkhJUm1pbmJlRTVTQkgxSnRGUjJN?oc=5</link>
+<guid isPermaLink="false">7e4d4f0835a535c15a90fa554848441f536c4bfc0c288034c25bf8e7855c838f</guid>
+<source>Google News Business</source>
+<category>business</category>
+<pubDate>Thu, 12 Nov 2026 03:10:00 +0000</pubDate>
+<description>Higher USPS holiday shipping prices hit small business owners WDBJ7</description>
+</item>
+<item>
+<title>Oklahoma veterans pitch businesses for $10,000 in ‘Shark Tank’-style competition - KOCO</title>
+<link>https://news.google.com/rss/articles/CBMikAFBVV95cUxOOElYWnhUcHRLdklkYzBCY3NkTW9yNTVWNVhQUnhjUVVYZ3hpYU1zWGhtcHpXX0JJblNNV1JPbmtDamhza08td2FycDJTTUF1UmdCNDVwLVE0dzBPOW1JSVdKb2JBYzVRQnJjb04xZ2VWM1ZnZ0ttdUs1UVZhX0JBSEN0ZkxrLUFjZk9sMlBKRlU?oc=5</link>
+<guid isPermaLink="false">85a3096520874c8d86cce72078896dc27d813e7092245d032eafa707932067bd</guid>
+<source>Google News Business</source>
+<category>business</category>
+<pubDate>Thu, 12 Nov 2026 02:59:00 +0000</pubDate>
+<description>Oklahoma veterans pitch businesses for $10,000 in ‘Shark Tank’-style competition KOCO</description>
+</item>
+<item>
+<title>In HelloNation Business Insurance Expert Brandon Disney of Bluefield, West Virginia Explains Risk Management Strategies - Yahoo Finance</title>
+<link>https://news.google.com/rss/articles/CBMirwFBVV95cUxNMDQzNWZuWk1lMENYR3NGeFlaRnM1N1hPbUlpVlZsUFdfclpSS1NDQUgtMjNNMjh2Z09Kbk1mY252aXo3Sk9mc09IbnR2d1lYTXRlT2pwTUhYOEx3bXlsNW9OcnA4M0JxQ0p0VmxFUzNJN0tqelQzR0Q0MzdMVmVfbjZuMGtUOHJIbXlXUVNwXzctbm5IeV8walctd2ZjYUFQRXc5aUJnbGoxY0V6aTlj?oc=5</link>
+<guid isPermaLink="false">0224095dd9cdbd6b31d99c699292b68c58a1bf2b73109a791779a1940361a714</guid>
+<source>Google News Business</source>
+<category>business</category>
+<pubDate>Thu, 12 Nov 2026 02:55:00 +0000</pubDate>
+<description>In HelloNation Business Insurance Expert Brandon Disney of Bluefield, West Virginia Explains Risk Management Strategies Yahoo Finance</description>
+</item>
+<item>
 <title>Nvidia’s stock drops as the board reportedly prepares to remove CEO Jensen Huang</title>
 <link>https://www.marketwatch.com/story/nvidias-stock-drops-as-the-board-reportedly-prepares-to-remove-ceo-jensen-huang-9edee58d?mod=mw_rss_topstories</link>
 <guid isPermaLink="false">2181e37d341dabad1083bb3bfc87071d6cbc6d21e9257e09fed84ade4171dada</guid>
 <source>MarketWatch</source>
 <category>business</category>
-<pubDate>Thu, 12 Nov 2026 00:57:00 +0000</pubDate>
-<description>Nvidia’s board of directors reportedly could meet as soon as today to determine the CEO’s fate.</description>
+<pubDate>Thu, 12 Nov 2026 02:52:00 +0000</pubDate>
+<description>Nvidia’s board of directors reportedly met late Wednesday to determine the CEO’s fate.</description>
 <enclosure url="https://images.mktw.net/im-77920319" type="image/jpeg"/>
 <media:content url="https://images.mktw.net/im-77920319" medium="image"/>
+</item>
+<item>
+<title>‘I’m sick of flying’: I paid for priority boarding, but the overhead bins were full. Was I duped?</title>
+<link>https://www.marketwatch.com/story/im-sick-of-flying-i-paid-for-priority-boarding-but-the-overhead-bins-were-full-was-i-duped-0badcc80?mod=mw_rss_topstories</link>
+<guid isPermaLink="false">7788a5542ed9bc2e496f6fae51bcab6a440ec801b57002285f66f6294c57bf01</guid>
+<source>MarketWatch</source>
+<category>business</category>
+<pubDate>Thu, 12 Nov 2026 02:45:00 +0000</pubDate>
+<description>“Maybe next time I’ll try the other approach: I’ll board whenever I feel like it and drop my suitcase in the first open slot I see.”</description>
+<enclosure url="https://images.mktw.net/im-62799282" type="image/jpeg"/>
+<media:content url="https://images.mktw.net/im-62799282" medium="image"/>
+</item>
+<item>
+<title>SBE Council in Inc.: New AI-Powered Platform Aims to Give Small Businesses Big-Company Capabilities - Small Business &amp; Entrepreneurship Council</title>
+<link>https://news.google.com/rss/articles/CBMizAFBVV95cUxNNkdxaFVKcE5raktjOV9nYjBFNEM4YjA3UlM3Zk44UEMxejVXMFAxRGlVSWF5MGtRSk1NWWFnWTI0X2NiQlFyY3ViYkxrWVBKUGtUUm54V3ZLQW9vUUUwVGhRRXljeTQ2bE4xdjFueDRTSGFSUnhXRkttaWc0Q0pOd19xVGZFcWg3eGZGdTM2R081cllRNWQ0NkJCU0dIMTBqSTdMSXhYVEFDeUxlb2pDZmhPR0Q1c05kRlhpbnhaNmgxeHdYcDVvMVVnc04?oc=5</link>
+<guid isPermaLink="false">2b77a45d0e2c92f61f4eace66c20a691e09da9b75ab515170bc5549cff457979</guid>
+<source>Google News Business</source>
+<category>business</category>
+<pubDate>Thu, 12 Nov 2026 02:41:30 +0000</pubDate>
+<description>SBE Council in Inc.: New AI-Powered Platform Aims to Give Small Businesses Big-Company Capabilities Small Business &amp; Entrepreneurship Council</description>
+</item>
+<item>
+<title>Building a Versatile Roster, Taking Care of Business | Huddle Up - Jacksonville Jaguars</title>
+<link>https://news.google.com/rss/articles/CBMilgFBVV95cUxOXzJvQ3VsVDYyVzZGM3FLSXRZdkFyOVFCYlJqS1Rhay1oZElJM3RZNGNidFVIRHotU1dBQkVxVEdrbEZta0d3anBmYTI0djdUek5qXzRFa2tscWpKVzBoQUVuTG5zdkZlaE43eXJlMHJIUWI3VEU5bnZsZ1VCdjBTNU1jQXN5QWdINWFheGhHbUhOYWljWFE?oc=5</link>
+<guid isPermaLink="false">8f5ae94432b4c2d2d64ac00dc8127596eceacc69b71832dac1ccdbe547140973</guid>
+<source>Google News Business</source>
+<category>business</category>
+<pubDate>Thu, 12 Nov 2026 02:39:24 +0000</pubDate>
+<description>Building a Versatile Roster, Taking Care of Business | Huddle Up Jacksonville Jaguars</description>
+</item>
+<item>
+<title>Kerrigan and Kelly in Washington Reporter: Small Businesses Are Winning With AI. Policymakers Should Keep Up - Small Business &amp; Entrepreneurship Council</title>
+<link>https://news.google.com/rss/articles/CBMi2AFBVV95cUxQTkNUNkJ0bHNheTVHNE5JTlBPX2szVUR6RHc0SHZiM2R1VXR2TDU2X2hOWFZIUVY3SEJPYmlyT0p5Z1VNWWhqdlE0YjR5aXY4NFJNdE43UFJTaDczMDZkdml1ck9HY3B2VmJSVXhIdHNsbkYwZWNXZUdad2YwOXh6X0lmT2RuZXVhbm1vWmpvekFNdVpOLVFxMTBNZFN3WHBIa3FUVlVRMTE3ZW9pdTJZZ3lKVmkyRkZuVFVEZHhZVjZRQjZQb3pmNWtXS1pXN2YxU1RzYzhGd3I?oc=5</link>
+<guid isPermaLink="false">7ed1e6c69a9d65aaa0d835bf93a945b3192a710342f9e08d53e21c49e573b953</guid>
+<source>Google News Business</source>
+<category>business</category>
+<pubDate>Thu, 12 Nov 2026 02:31:30 +0000</pubDate>
+<description>Kerrigan and Kelly in Washington Reporter: Small Businesses Are Winning With AI. Policymakers Should Keep Up Small Business &amp; Entrepreneurship Council</description>
+</item>
+<item>
+<title>I’m 63 and spending $95,000 on a roof deck for my $500,000 home. Am I being extravagant?</title>
+<link>https://www.marketwatch.com/story/im-63-and-want-to-spend-95-000-on-a-roof-deck-for-my-500-000-home-is-that-a-good-investment-f1a59c27?mod=mw_rss_topstories</link>
+<guid isPermaLink="false">3b2dc50887882bcd9e092390abade9c565cd467be6915122d514216bad103416</guid>
+<source>MarketWatch</source>
+<category>business</category>
+<pubDate>Thu, 12 Nov 2026 02:31:00 +0000</pubDate>
+<description>“I have a net worth of $2.3 million and my only debt is a 15-year mortgage.”</description>
+<enclosure url="https://images.mktw.net/im-83882608" type="image/jpeg"/>
+<media:content url="https://images.mktw.net/im-83882608" medium="image"/>
+</item>
+<item>
+<title>Elon Musk says he would hire Jensen Huang - Business Insider</title>
+<link>https://news.google.com/rss/articles/CBMimAFBVV95cUxOOWlwd0MtRlZrZkpjTGdqVDItLW5RNTVDMGsxOGFRc3dtaUFpd0tTZlB1bTZkUzFEeXZTX1ljVjQwNHVpdE5PT1dkSk53VHUwbmFzMms3eGZGWnV6SDhoNjUyWEJ0N25aMUVPRjhpN3p4eUcybjNwTnBTNDdPVXpRR2RxeEJRcHhVRVk0Y0xmZ1hWT2wtRU9VTw?oc=5</link>
+<guid isPermaLink="false">26e8889613c1ea0f56b313585d69e88734ead0901c602119b2d9c4d01f9fee44</guid>
+<source>Google News Business</source>
+<category>business</category>
+<pubDate>Thu, 12 Nov 2026 02:28:00 +0000</pubDate>
+<description>Elon Musk says he would hire Jensen Huang Business Insider</description>
+</item>
+<item>
+<title>Federal court documents detail FBI investigation involving raid at Lansing massage business - WILX</title>
+<link>https://news.google.com/rss/articles/CBMitwFBVV95cUxOTUZwa1owbU1uYWl6eXpzWXAyUDlZTk5keXhCM1BIQkNlaHVFWmZGbUFDN29hNjVWZGFicXNwZDVlamR1U0dDQVZzZGkzUmZtUXJ1ZlUxWU81NlhSUDYzWDVkaVFqbF9lN3JyWFU4TkFlelZEaUZBc2N1dllleHphenFreXlSUV9PMFFxUmRkbTFVSXV0WEgyM3NEekpFN19QcjFHOF9lR0FKSlN4cGdIVllmbWJ2U3M?oc=5</link>
+<guid isPermaLink="false">e2dcb1aa771500c02de660e119537c70ed8a08ce97bf574db29666082db654a2</guid>
+<source>Google News Business</source>
+<category>business</category>
+<pubDate>Thu, 12 Nov 2026 02:24:00 +0000</pubDate>
+<description>Federal court documents detail FBI investigation involving raid at Lansing massage business WILX</description>
+</item>
+<item>
+<title>B20 USA Summit Concludes With Call to Action for Global Growth and Business Leadership - U.S. Chamber of Commerce</title>
+<link>https://news.google.com/rss/articles/CBMixAFBVV95cUxObC05b1BsMlZaMGtORFhhMFV2WlZIZW0tdFZFTUdhQXBmM1N5aVFaa2NDWTFuMldxSWdrRUlsZmNJMEx1SU1HQUdFU1h3TXVYLW45eUZPaWFvYkhnS3Y2ZUtWNzBmbGFHVmlJak5JSmVLUmkxYVIzMFBjYjY0eFhnYzJxc3NNUVpSZzgxSWFUX3JDV0pzWUNQTEItR3pha1JjWkV4MG5oZGhvY2YxZGJ1X0ZZc1VKMWFEWkxjWWlNNWpCa09N?oc=5</link>
+<guid isPermaLink="false">345c453d91129aaee570f402196131c0e44203b60c9f676e14e5dca0975d186a</guid>
+<source>Google News Business</source>
+<category>business</category>
+<pubDate>Thu, 12 Nov 2026 02:06:16 +0000</pubDate>
+<description>B20 USA Summit Concludes With Call to Action for Global Growth and Business Leadership U.S. Chamber of Commerce</description>
+</item>
+<item>
+<title>Downtown business and drivers share mixed feelings after parking rates at downtown garage set to increase in 2027 - ABC10</title>
+<link>https://news.google.com/rss/articles/CBMihgJBVV95cUxNX1F0aG9kUEZqRTZINmh5aWM3NzI4TDQxd1NyemlsNXQ1TkFMclh4YjBwSVZySlJ3TXFPT0ZFaFdTNHdNNGpkUVBaa1FzNkVVZ2RHM0ExVnZiQVg4NEhtR2hxR3RVbWNHVV9TelpPSE55bzRuRVNoS2MyNGJtZVVaSVhPV0RKdmhlREhiUzB2MjczcEdRUkxEbFZyTnZNNDZDNkFsaURhcFI0TzdCQWRGZG5fWG85ZkhDVGhaek1FQzJ6YXQ4LXdZQVdBRm9KVkNVWWNrT0JlMXZjQWplVGFib3ctaFZjTUNLSHB3TmxQbElCeGNaVVNRS01TZU9zdGNXUHJ0Qkt3?oc=5</link>
+<guid isPermaLink="false">e7cafd86ab460752c31593d2d4045f8c13661668aa329aab957915c557058dd1</guid>
+<source>Google News Business</source>
+<category>business</category>
+<pubDate>Thu, 12 Nov 2026 02:02:00 +0000</pubDate>
+<description>Downtown business and drivers share mixed feelings after parking rates at downtown garage set to increase in 2027 ABC10</description>
+</item>
+<item>
+<title>Northeast Arkansas Regional Leadership Accelerator Academy graduates class - Talk Business &amp; Politics</title>
+<link>https://news.google.com/rss/articles/CBMirAFBVV95cUxNN1dEdm9zdk05Q1VYMF9UUnBUd1dTTkZhOWFGR1BWM2JSTVppZXJQNWJieVRINTZaVFIxQ1hienJxdjZUa2dncTI4Z2ZpRmowNC1YMlFzVXVIdEhYNmI2VVJUQlF1djktT1NEczk1SXNVSkU1RkoxNWllREVqUFBoWUEzczRKTk1QbC1LTFZVNF9ranFLdUdqX2cwYTVnZE8wLTZMRUZ3Tm5MVkJT?oc=5</link>
+<guid isPermaLink="false">e1ba1b1847882ef9b3c20a21ac688e4a413d9c1d365bdcae8bec9bada20cd1ee</guid>
+<source>Google News Business</source>
+<category>business</category>
+<pubDate>Thu, 12 Nov 2026 02:01:34 +0000</pubDate>
+<description>Northeast Arkansas Regional Leadership Accelerator Academy graduates class Talk Business &amp; Politics</description>
+</item>
+<item>
+<title>Teen who spent years building lawn business has nearly $20,000 worth of equipment stolen - WVIR</title>
+<link>https://news.google.com/rss/articles/CBMiugFBVV95cUxNSGtZcGY0eUxoa1ozdmNrOElaMjNtNDJRX19vMDdvZmlILUhfUFptd2s0bGIwOVJ5S0RBWUY3bHBxMzdCVzYwOTZMZ2pxb3FpSUMyY1Ztdm1yQV9uVS1pY2lXNEpxQVBOZFgtdWw1M09zSmJSaEltT3Z3U19ONkZJRnZpYXRsdWJ4UEhXMFBUaElXSGQ3VE9zS1dGbVVvdVMxbmRWa1pIR24yVkY1ZkFabVlXT2g4SGRBZUHSAc4BQVVfeXFMUFRlX2FzUmwtaG9ud1p0bklDeXVtSFdiY3oxMGNXMXphbVNNSXF1aHFwZHBwV3VMeENkUW1Kb1p3ckU2Mm5hYmZVZWlEUnBPTzB1ODZVckRXdFVONHJRb1BZOHZDM3ZvZ1hka1A2dmVvRy00QTJmdk53VUJLdlRnS0tTZzdCVGVqT0ZMZVdfQnY2RHNpNlhuaXVCemtBZmFYa1c1cHRjNlBiYkx5b25sTXNjcm9hN2tYMC1VV2xITUR1ejJkaENVdERXUi03ZEE?oc=5</link>
+<guid isPermaLink="false">63fb39e47fe50023412a7444eb9f0e5e10628a0bfd1c085e1af3ae8cb7443203</guid>
+<source>Google News Business</source>
+<category>business</category>
+<pubDate>Thu, 12 Nov 2026 01:34:00 +0000</pubDate>
+<description>Teen who spent years building lawn business has nearly $20,000 worth of equipment stolen WVIR</description>
+</item>
+<item>
+<title>The biggest winner from the downfall of Jensen Huang is China - Business Insider</title>
+<link>https://news.google.com/rss/articles/CBMimwFBVV95cUxPeU9sVEtRYXREaUtyRTVfTUV0REdadjA5NXpiU1RDUUg2M2xmOXVNMnFKWm1JVWNBM0lkekZLb0t0T0l6T1VWYWdWSDROVnpULUFJR2NxTTJvNWxoNEVjODV6bkd4SmJqTXlqOHQ5dlJJSXZJOGZYZFhYbzMwdUp0NDRPMEpneUctTW5GcS1YcjFwV0pTZ0JZUlJ4OA?oc=5</link>
+<guid isPermaLink="false">eca048970119c1ddf2fe1605b97f180a52a31011778adbb083bcdaa4931a710c</guid>
+<source>Google News Business</source>
+<category>business</category>
+<pubDate>Thu, 12 Nov 2026 01:15:00 +0000</pubDate>
+<description>The biggest winner from the downfall of Jensen Huang is China Business Insider</description>
+</item>
+<item>
+<title>Kenosha man charged with theft from sports memorabilia business - WISN</title>
+<link>https://news.google.com/rss/articles/CBMiowFBVV95cUxQQ281MGNsQzluOW5UT0dRR0JRWmthS0Ywejk2TW5Gbjd3amtab2l2Zy1xdm5vbHZUcy1vcG5pb1dQNXdBQVZkNFBsT0x6d3ZJeUZORGdxRlZkWXZQa1RORWVOYkk4a2NPNTZJdkJxX1NEa21KNnZfRUlRRk1DY3BtaGMyT1VFc196ZFpKZnByOVA5MndxTWhER0traGxEd2FWUmVn?oc=5</link>
+<guid isPermaLink="false">f89cc52d237796e97d3e244b891bbf42d6ae4e97bdde51963f4ece2ce822db25</guid>
+<source>Google News Business</source>
+<category>business</category>
+<pubDate>Thu, 12 Nov 2026 01:12:23 +0000</pubDate>
+<description>Kenosha man charged with theft from sports memorabilia business WISN</description>
+</item>
+<item>
+<title>$4.9M Loan for Red Dog Mine Solar Array - Alaska Business Magazine</title>
+<link>https://news.google.com/rss/articles/CBMihwFBVV95cUxPVDBxYk1RMXVadFo1ZVFkNkNxMndMTlA3dTVxYjUwT2RsdmIteENzSUVjNHAxYVUyWlNnMUpkNkU2dXhZc3o1S3dpNzVUdElpUzBLaVlCNEVYVWFXODBVb0tPWUh3Q0NncUZ4QlBPcTNHRzdGT2FFXzRFUC1ZZ0F2YzNZR1JrOTQ?oc=5</link>
+<guid isPermaLink="false">51de4d0e9427bd0842489fe74968b9b5ce8470c89c6d6444b84ba6d691cfb676</guid>
+<source>Google News Business</source>
+<category>business</category>
+<pubDate>Thu, 12 Nov 2026 01:09:06 +0000</pubDate>
+<description>$4.9M Loan for Red Dog Mine Solar Array Alaska Business Magazine</description>
 </item>
 <item>
 <title>WATCH: NFIB State Director Discusses Small Business Optimism - NFIB</title>
@@ -33,22 +494,40 @@
 <description>Small Businesses Targeted with New Sparklight Mobile Plans Broadband Breakfast</description>
 </item>
 <item>
-<title>Veterans lost $684M to scams in 2025: Better Business Bureau - ABC7 Chicago</title>
-<link>https://news.google.com/rss/articles/CBMingFBVV95cUxNbEdUNnNqazhhQl9YMTRzM1YwWWMyZ3RwTmdVZ3RaSnE1a3pYWGNRTzVRa0pGbG03cjlCTkZSNzRlZWhnYkxjY0FCUllhMWM1VWVNaXFoYTNVUHVBeXcyQzkxUk4tRzZFakRRSmRJWHI3Y296QkFnUWxYRkx5TnpxOTA5NWtaWjBTbnNGT1E4MC12M2dXOVF0YkI1ZnpWQQ?oc=5</link>
-<guid isPermaLink="false">73c6d41ad00cf35223682d69b0d6932d8f7608690380e4c0893100f9741fb1bd</guid>
+<title>Better Business Bureau warns veterans lost $684M to scams in 2025 - ABC7 Chicago</title>
+<link>https://news.google.com/rss/articles/CBMingFBVV95cUxNbEdUNnNqazhhQl9YMTRzM1YwWWMyZ3RwTmdVZ3RaSnE1a3pYWGNRTzVRa0pGbG03cjlCTkZSNzRlZWhnYkxjY0FCUllhMWM1VWVNaXFoYTNVUHVBeXcyQzkxUk4tRzZFakRRSmRJWHI3Y296QkFnUWxYRkx5TnpxOTA5NWtaWjBTbnNGT1E4MC12M2dXOVF0YkI1ZnpWQdIBowFBVV95cUxNdkdGVzVVVF9BanhBaHd0Qkh5UzlzQUUwOGxsa0h4NDhyQURKaG1ScXlsbWkxdkFQaDlFNGppbktZN3Q2cXdzRTRRQlV5XzFWaUc3MUNOZzhOQ0htcVJDekk4RndaZTRmVWdObjMxTGIxc2kwMTFzMTVLckRZYVZ5S1ZESG9ZV2NYSklGSklHTEItNW5zZUlMODRXVmg1VnNFZXNz?oc=5</link>
+<guid isPermaLink="false">eb9af62c1c905a5fef87f505e21dd6c709060cc5e98cecfb102d0ec8e3c0005a</guid>
 <source>Google News Business</source>
 <category>business</category>
 <pubDate>Thu, 12 Nov 2026 00:26:53 +0000</pubDate>
-<description>Veterans lost $684M to scams in 2025: Better Business Bureau ABC7 Chicago</description>
+<description>Better Business Bureau warns veterans lost $684M to scams in 2025 ABC7 Chicago</description>
 </item>
 <item>
-<title>Big Bear bald eagles get ‘down to business’ as mating season begins - KTLA</title>
-<link>https://news.google.com/rss/articles/CBMicEFVX3lxTE40VjBtWVlsc3dCNS1hM0NxV0xLQjFRT1JNdU15V1YzNzBDY05KS1g3S3dPNjRLd1lpZ0J1U3Y3V1dtUFhGV1NTMlhSalRHWmY2V0phYlZSR0dvcEdfMWNKTTJFMjQ1RnJOd1gxU0RiZmnSAXZBVV95cUxNX0x5LTFUcjBzQmxEdGJDRjlBN0FDWWVJdncxd19wVEQ2dXJXNjNDZ21RSHN0V3N2SG00VlVEdXFQSTh0eFNRVUhRM1Q4eTJ2ZFprZS1XM0xpRlVlekwwZFN1RWJpZWxBOVZLdl9yalVONmNXZkdB?oc=5</link>
-<guid isPermaLink="false">9ccadc5b9a90ace30f57dc7f157dc747fae8ea9873f9d1e0a0306d077e2de672</guid>
+<title>Wausau prosthetics business aims to help more veterans find the right fit - WSAW</title>
+<link>https://news.google.com/rss/articles/CBMioAFBVV95cUxNSy1SY29lYzVveEkyeHVxQUtqQlh0QmZ6UURxTVU3X3A5TWtJNk9RNGczcXhUNzREZGRQTlQwYUUzR2hWYzMxbnI3cWJCMmlDamExYm1lQXdVdGd6LXJ1Z3gxMS1XcFpCSXFJZ1R4N3RaN3k4RUItM0RXRTMtLTVKcVlveTh2T2MyeFUwRlh5WjU1RDNjOGstV05TWV9uZTNN0gG0AUFVX3lxTE4tSU9od25pQUNOMUg5dVRDSWY0eVFCVG93SkFJbUhMZV9rR3ptZWt2cWdmQzNiUU95UDV3c1BaT0NhdWNiWmlCbkxHWU9Rc0l3aTRMLTlDLW10b1NYeWJNWHB0MnkwZGJncjFqLTJkdXVaZl9ZS1hESmd5V1ZvWGFhYV9yOFI2ellaWDJmWmNVd0xTYWhaa1hBRmw1UW01NVlHYUktRkFUaVliR2MtWXdZUnNONQ?oc=5</link>
+<guid isPermaLink="false">f79e30f42600c48a5a2477ce7f46fb60271bd9c775415763f542e2dd1282be57</guid>
 <source>Google News Business</source>
 <category>business</category>
-<pubDate>Thu, 12 Nov 2026 00:26:09 +0000</pubDate>
-<description>Big Bear bald eagles get ‘down to business’ as mating season begins KTLA</description>
+<pubDate>Thu, 12 Nov 2026 00:22:00 +0000</pubDate>
+<description>Wausau prosthetics business aims to help more veterans find the right fit WSAW</description>
+</item>
+<item>
+<title>Exclusive | Nvidia Is Preparing to Oust CEO Jensen Huang - WSJ</title>
+<link>https://news.google.com/rss/articles/CBMikwFBVV95cUxON2VaZ01EcWdXc1ZGb3plNUNMM294WGZlT0tTbWw2SFNPOHZ3ZERtQlR6RkhLRWF2cHExRnNfWGZINm1NWVoxVjRSUDRTVXRFb1RaRGcyMXFUdEd0LWtlME5SVHJETVdzOHR6eHhyNXJLVXF6cldFbnhHMXcydFMzTGhzVnhWN2RQX2d0X1N4QVZvdUU?oc=5</link>
+<guid isPermaLink="false">4b17fa99c7f3af230aeef089d0146afcec3c72aaa5fe787a82086264000eef19</guid>
+<source>Google News Business</source>
+<category>business</category>
+<pubDate>Thu, 12 Nov 2026 00:17:00 +0000</pubDate>
+<description>Exclusive | Nvidia Is Preparing to Oust CEO Jensen Huang WSJ</description>
+</item>
+<item>
+<title>Nvidia preparing to replace CEO Jensen Huang as second alleged affair emerges: report - Fox Business</title>
+<link>https://news.google.com/rss/articles/CBMitAFBVV95cUxQeWN0ekV3QWFzaGtVZkZ0bzZDWVZ0WWdITi0zQ3ZDRG1ONVo5TFo3a3NmcHJIcE9QeUFWZmFfT0xqQ2ZPckE3S0g3Q2dMZDFqT0pXVU54R3V1RjJ0dl9LNlJaVWJYaV9ZT0E4SFhuWk9kWVFaV0lsZF91NmpWWFpjZVpzVEdXWnZxMzNNRWJHRG5CVHluWE5VZ0lKTjVTRzhIUnJZVVF4bS1ETXJReTl3Rlp3YzPSAboBQVVfeXFMTnZxcUR0OXRBUHlvbXpCMTl2VXk2Z1h4RzI4X0RrMTdYYk1OV3VESmJRcExhc0RvS2NSVFF6cXd0MnJyd2lvRkpMSVBlODNReEtIbEtKZWhxbzd3ZW92VFVucThWbENtT29oWWdnT2I3NzNuZ0luUi1zaTlBcUlnamhxNmVzTEh0aDhzb3hfRVhwNnVIam1HYkhFd1cwa1RwN1NBaThkcTROZVlpc1F5TEdUYkQ0clR6MG5R?oc=5</link>
+<guid isPermaLink="false">a9804d01105713fb12accd4b818f60cb617afe9a1e91e06b12cd53213f6ee499</guid>
+<source>Google News Business</source>
+<category>business</category>
+<pubDate>Thu, 12 Nov 2026 00:13:00 +0000</pubDate>
+<description>Nvidia preparing to replace CEO Jensen Huang as second alleged affair emerges: report Fox Business</description>
 </item>
 <item>
 <title>From Paris to DC - why offices are being turned into apartments</title>
@@ -62,15 +541,6 @@
 <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/309b/live/ac3f89b0-c95e-11f1-bc2e-018d645d8d21.jpg" medium="image"/>
 </item>
 <item>
-<title>Exclusive | Nvidia Is Preparing to Oust CEO Jensen Huang - WSJ</title>
-<link>https://news.google.com/rss/articles/CBMikwFBVV95cUxON2VaZ01EcWdXc1ZGb3plNUNMM294WGZlT0tTbWw2SFNPOHZ3ZERtQlR6RkhLRWF2cHExRnNfWGZINm1NWVoxVjRSUDRTVXRFb1RaRGcyMXFUdEd0LWtlME5SVHJETVdzOHR6eHhyNXJLVXF6cldFbnhHMXcydFMzTGhzVnhWN2RQX2d0X1N4QVZvdUU?oc=5</link>
-<guid isPermaLink="false">4b17fa99c7f3af230aeef089d0146afcec3c72aaa5fe787a82086264000eef19</guid>
-<source>Google News Business</source>
-<category>business</category>
-<pubDate>Thu, 12 Nov 2026 00:01:05 +0000</pubDate>
-<description>Exclusive | Nvidia Is Preparing to Oust CEO Jensen Huang WSJ</description>
-</item>
-<item>
 <title>Nvidia's succession dilemma just got real. Here's who could take over if Jensen Huang steps down. - Business Insider</title>
 <link>https://news.google.com/rss/articles/CBMimgFBVV95cUxQX2Mtd2hCa2E0bWdnVzc3VG5JajlzVkdvcENXLVhudm1IVkpla1Z0eVctdHJQdVN0YjdPcHVhTW0tcndEcUQtMDBSSkJldXVpQUxpREwyTjd0SmFuRUlucWs4YjNTaVJkM2hZVFNPUzYyckhxRjNnLXEzZlBRaXZ2WExPdnFreFkwWjJSMXVCdGgyLTFzWXRQVnNB?oc=5</link>
 <guid isPermaLink="false">a4fcaa28f095eb5141f31d8dad3b73451594bd31e96e601e192b41af118d25c7</guid>
@@ -78,6 +548,15 @@
 <category>business</category>
 <pubDate>Wed, 11 Nov 2026 23:56:00 +0000</pubDate>
 <description>Nvidia's succession dilemma just got real. Here's who could take over if Jensen Huang steps down. Business Insider</description>
+</item>
+<item>
+<title>Australian corporate watchdog sues CBA over alleged business customer overcharging - Reuters</title>
+<link>https://news.google.com/rss/articles/CBMivgFBVV95cUxObEU4Zk1kMGFndlFTMWhVZ2pqd2Y3c0NuRk5VWHhRVjZZU0xNM2xnNzQ5dVE1VFl1ck1fanZSMUJ4SkN0bGIxdEJJbEZCT3NlNTlxcGtNblg2Tnl6MW1SWUVMVEdlQlZDV1R4bHdOTGlrdVNGYTQ3bFNRSWNBVFE5cnpocVR0RHBfSGl3LUFzSmZaWklvOG85aEIwSWVSbi1JTEduZFRMaFk5cmdTTXVlQjFUbkNwN2pqMXVhN01R?oc=5</link>
+<guid isPermaLink="false">9ffcc8df1807afefe74e4f2794e66bbbec8e137e4dba5cdc84de1ada0877fb4b</guid>
+<source>Google News Business</source>
+<category>business</category>
+<pubDate>Wed, 11 Nov 2026 23:34:00 +0000</pubDate>
+<description>Australian corporate watchdog sues CBA over alleged business customer overcharging Reuters</description>
 </item>
 <item>
 <title>Your holiday credit-card bills are going up. What you can do to ease the pain.</title>
@@ -109,15 +588,6 @@
 <description>What defines a small business? Feds propose changes, but business leaders are wary Fort Worth Report</description>
 </item>
 <item>
-<title>A modest proposal for finishing O’Hare on time - Crain's Chicago Business</title>
-<link>https://news.google.com/rss/articles/CBMimgFBVV95cUxQWnk5cFdSUTA0WXpneUoxMjdGWndKWWJCRU1XbllCbVF0UklMalNyUzVZUzFkSmpsR3VjYy1nSUFLMkRaSWNIcFIzMDcwM3pQNzdZQy1oYmRkWDdFZUthcEFfMHhKVU5yamtzVkQxa2lfNUdRTHA5aEF0NEZUSEwzb044OGYzV2pEc0kyTUxPQ29EZGlpcWZVOEZ3?oc=5</link>
-<guid isPermaLink="false">7cadb9c52453cbcba17ef2bd7e4b7361af5602539a205f9b5f01719b2bbef6ce</guid>
-<source>Google News Business</source>
-<category>business</category>
-<pubDate>Wed, 11 Nov 2026 23:23:00 +0000</pubDate>
-<description>A modest proposal for finishing O’Hare on time Crain's Chicago Business</description>
-</item>
-<item>
 <title>Serving beyond the uniform: 2 Augusta veterans use their businesses to give back - WRDW</title>
 <link>https://news.google.com/rss/articles/CBMiqAFBVV95cUxOb2RTZzl2dzF3U2RLWlRGNUM1bE1jZlRxd2t2Vl9kaTFISmo2OFVrTXA4cFRjRmhxRnFocGF2V012cVlXQXdBcUNJNS1TeVA3eGdhdjk4cGtfNUk2SzNfbnU5alV3T1lZQkJ2bmR4ak9oS3V1NUFaZ1BHbnQ3akR4ZjJidVJUOFc2bGJiU1I3SEZMeEhoUUNBVC1JTllQUXBsVjJBVlZFY1TSAbwBQVVfeXFMTlR5amtlNzVZbVIwTEZ5RGpsbzJJWXZtSl8tWUxrOWdlM2NJREo2eE9SVHh3NnFCS3lVdHdGR0ZBTVNnTEhCbGxObVVJTFBQa2w2M1FFcDVING1ZZ1drNllCWU4zcm5ucWVUMjE2VnF4NVFCX0p4eC1YN2xnczN0M3VrcTVxMm1YVm9Bb1ZPRS03VWtISGNYMVZtaFpMbFZrZTNXVDFObXgyTFM4OFZDakFFbGI3WlNscTJBWWs?oc=5</link>
 <guid isPermaLink="false">f680ba7086cde3434e31cec0bce27c634a7050fbeaf721b8801deb4673d4733a</guid>
@@ -141,26 +611,44 @@
 <guid isPermaLink="false">d1961a993162103bb6cb92a91f26f540a8fd803ca87602bc864852e8e8d200d6</guid>
 <source>Google News Business</source>
 <category>business</category>
-<pubDate>Wed, 11 Nov 2026 23:15:27 +0000</pubDate>
+<pubDate>Wed, 11 Nov 2026 23:21:45 +0000</pubDate>
 <description>Kirk Cousins sees return to Vikings, following trade from Raiders, as unfinished business The New York Times</description>
 </item>
 <item>
-<title>Nvidia stock drops as board reportedly weighs Jensen Huang’s future - CNN</title>
-<link>https://news.google.com/rss/articles/CBMidEFVX3lxTFBoRUJ2MTBDV1lNNy1ETnc3cXEzM1dsMmJ4OEVfT2l2bDl1NnZMd1JWV00wX2VpUE9PdU00LV9xU0V3WXdIbnRNSVFyUUJtQ3BFckZRY05ObExzbjJyZlFWUUpveUJ3dXNyQ1lNQ2UyeGtMaURf?oc=5</link>
-<guid isPermaLink="false">29ff683d04af23b0fe680f996b79e4596795ea4aa8bba987b5bc473e8cd2c994</guid>
+<title>Free small business workshop designed for veterans - KFVS12</title>
+<link>https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTUhSd0tOYXdoYkZnTHRsUVZEMmlIOV9YeDJWaHZvWlk4U0ttVVFvRjBmaG5ldjNRZzR1RGhjZWRHS2hwUFJmX2tkb2lRTS1oUXVKTm5pTlV1aExYeV85bG9sY3lLMDUzV09JUjhHX1dFMjM3cXltNk1IdEVnRUI2SDJKWlNGN19W0gGcAUFVX3lxTE45RktqdWw4dDN5RTBJUU1VNXRsVGUzTGpGa2E1YnNxLVBNalRJcjYzRVlSV3F0eE5jYV9rMFhCV3BOZnQyUlh4c3I2R0tUSU5aSHJOM0NTTVZQUXg5V3MydXlQamp3cXJQRnlyRWxEZzFYNnVuamVZSE5aWkJlSXZmYVZQc0pHdXViVUJzMTRxT1UzYWR1WDRSci1pOA?oc=5</link>
+<guid isPermaLink="false">76d8033c82c496044e827afc1857e04ce353d5c7f716d25bf0c9786daad1d553</guid>
 <source>Google News Business</source>
 <category>business</category>
-<pubDate>Wed, 11 Nov 2026 23:06:01 +0000</pubDate>
-<description>Nvidia stock drops as board reportedly weighs Jensen Huang’s future CNN</description>
+<pubDate>Wed, 11 Nov 2026 23:09:00 +0000</pubDate>
+<description>Free small business workshop designed for veterans KFVS12</description>
 </item>
 <item>
-<title>China's trade surplus hits record high through October - CNN</title>
-<link>https://news.google.com/rss/articles/CBMirgFBVV95cUxPc1JBRFVrR3l5eUE1djZHek5RUjlhT1dzUkVzNVpRY0xDRFdlR2FiRk5ma0JYemVyajU3eVkyRzBYaEluekhuOVZPdF9iblBLMVV0eUNpZUh3VXIxUjE3Y05TRlNZbHhLTzVkTC1TNmVYUlE3a19ZWjI4MGtkbFFISEtFRGtKb0ZWeFpKRWFwR21udjdkR3VhVDNXSUJmN0k1c21Wc3RTMXl0eGhycWc?oc=5</link>
-<guid isPermaLink="false">cb060c94856490691008e673f116657e6379c79b9ae8ef2a1d62164191886e60</guid>
+<title>New business in Jackson is all the rage - Lakefield Standard</title>
+<link>https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZU8zazQtZFNMS3lMYnlUSG1UX2VWU0M0V09xeWZobTJCeWhRQll0MjFoUWtCb3BPVHl6d1IybnBldmQ2VFhFQjNTdG5ESk9WTktBTlFhSFlJZXgzSXd3Nkg1SGNZazZHampaa2hVcDRMUDJGVGFWNGN3dk5sZHZKSVJULVN4LTdrMkRZ?oc=5</link>
+<guid isPermaLink="false">af31d33b389363d982b0d8a0810b880208217e9fc3a7a46ed1858dc0ec390e52</guid>
 <source>Google News Business</source>
 <category>business</category>
-<pubDate>Wed, 11 Nov 2026 23:03:02 +0000</pubDate>
-<description>China's trade surplus hits record high through October CNN</description>
+<pubDate>Wed, 11 Nov 2026 23:07:12 +0000</pubDate>
+<description>New business in Jackson is all the rage Lakefield Standard</description>
+</item>
+<item>
+<title>Georgia-based employment and business programs offer future for veterans - WABE</title>
+<link>https://news.google.com/rss/articles/CBMimgFBVV95cUxPeGlqMzY5THdJMENsclZCOWE4MlNGSTF3aFR2TEhfODhiN0xKSEF1Qnp5RGJSbTZGLVFTZ2ctSF8weldCT0NzM3BVakZSSjJTQ3p6eE9MZUF4Vkd5VjhHaWJCeFdZSmVfRFpKWTB1bm1LY1JQNzhoZnF0M0taOEtoUml2Qkx4NXVyV0VsNFhjd29wMHhUdjNkWXpB?oc=5</link>
+<guid isPermaLink="false">e313f3c8eb76bc43a6f0d975376feb78370af74f3920c85c3f656e49d1e6779b</guid>
+<source>Google News Business</source>
+<category>business</category>
+<pubDate>Wed, 11 Nov 2026 23:04:34 +0000</pubDate>
+<description>Georgia-based employment and business programs offer future for veterans WABE</description>
+</item>
+<item>
+<title>College football’s big business: Bigger playoffs, bigger stakes for Atlanta - WABE</title>
+<link>https://news.google.com/rss/articles/CBMimgFBVV95cUxNLTVOaDRwUng1MllvTG5IRWh0SkN1akxxNC1FM0FhQkdIVGNtQlNqSUFncl81Ny1IWHc3TkhseXgybjBycjVuRTZ1cDJ1V2lJd2toQkVBN2ZSWV96ZGxmdXdQNDJmNEw0V0pRVXBtckd2akx6R2FJdURDa3NUbHoybFJZRnFHTVdEYlpVZXVWeGhSMnJMVVAtTEpn?oc=5</link>
+<guid isPermaLink="false">bcd8c94a51d93ec3996e7b12b78b763af832217e74392c6e57320c87600ef826</guid>
+<source>Google News Business</source>
+<category>business</category>
+<pubDate>Wed, 11 Nov 2026 23:04:32 +0000</pubDate>
+<description>College football’s big business: Bigger playoffs, bigger stakes for Atlanta WABE</description>
 </item>
 <item>
 <title>Feds arrest top official of healthcare company, alleging illegal drug importation</title>
@@ -181,24 +669,13 @@
 <description>Highland Park staff proposes business grant for local grads, while also scaling back other business incentives The Record North Shore</description>
 </item>
 <item>
-<title>I’m 63 and spending $95,000 on a roof deck for my $500,000 home. Am I being extravagant?</title>
-<link>https://www.marketwatch.com/story/im-63-and-want-to-spend-95-000-on-a-roof-deck-for-my-500-000-home-is-that-a-good-investment-f1a59c27?mod=mw_rss_topstories</link>
-<guid isPermaLink="false">3b2dc50887882bcd9e092390abade9c565cd467be6915122d514216bad103416</guid>
-<source>MarketWatch</source>
-<category>business</category>
-<pubDate>Wed, 11 Nov 2026 22:30:00 +0000</pubDate>
-<description>“I have a net worth of $2.3 million and my only debt is a 15-year mortgage.”</description>
-<enclosure url="https://images.mktw.net/im-83882608" type="image/jpeg"/>
-<media:content url="https://images.mktw.net/im-83882608" medium="image"/>
-</item>
-<item>
-<title>How imaging leaders are standardizing CT contrast use across an enterprise - Radiology Business</title>
-<link>https://news.google.com/rss/articles/CBMi2AFBVV95cUxQZWx2QUR5am9nTDFfVXhEMnVvMExMcV9PUVdHWVhMLUM4MF9od2p3cV81Ul92OUx5VWllaEMza0tNUFhXT1AwOEQ4WXRkMEZscW15X1pkQ2VqWmV2WWNEYzFTWmxZWTUzV0VWRG9RLUo4WV9QWEE1ZlpjRVlEeEY2Ujg0MDJTZHNCbExHUFJxX3h6SDM5UThLWTN5dk1YS0FwY2NVdGtReE0tNWR5VUhhZGxEa0txQXgtNTV1SmozUXZpV3lzOXFnM1p4aXdwWTJkRzkwYXIyWWU?oc=5</link>
-<guid isPermaLink="false">e0cdc6304edd8ef8b7815cf42c9dcf5d6d0077e0f6982835bb54c7c17b068405</guid>
+<title>Cureate’s 2027 small business food program taking applications - The Arkansas Democrat-Gazette</title>
+<link>https://news.google.com/rss/articles/CBMingFBVV95cUxNdk1KRGVncWhob090Xzc1aEhscjl2NFR2MFNJTmFWa3IxTkhCMWI1MWlVTGUyc3ljLXd4MmZxZlVWQWk2UWFSWHlKb3EwMV84UFF3V0ZvQ0p6QlNXaWhkZW5ia2gyRHZYM1RmNTFTQi1kbXQzZE5mNTlReERTVXhGMGFQUG1ERGlUbmFlbzhUeHl2anZGeUdzcU9tV2NkZw?oc=5</link>
+<guid isPermaLink="false">c83cf23f2667d44d5d910f897b666af771a37db300557763fb3340de3a7368fb</guid>
 <source>Google News Business</source>
 <category>business</category>
-<pubDate>Wed, 11 Nov 2026 22:23:17 +0000</pubDate>
-<description>How imaging leaders are standardizing CT contrast use across an enterprise Radiology Business</description>
+<pubDate>Wed, 11 Nov 2026 22:56:00 +0000</pubDate>
+<description>Cureate’s 2027 small business food program taking applications The Arkansas Democrat-Gazette</description>
 </item>
 <item>
 <title>American Airlines brings fresh food back to NY-Chicago first class for first time since 2019</title>
@@ -210,15 +687,6 @@
 <description>American Airlines' first-class food options include sandwiches, fruit and chia bowls</description>
 </item>
 <item>
-<title>Travis Kelce Plans to Consult Taylor Swift on This Business Venture: ‘I’ll See What My Wife Can Cook Up’ - Billboard</title>
-<link>https://news.google.com/rss/articles/CBMiogFBVV95cUxOcVdtT2RncGdDX3dhOEZ4UFBOUDFQendzQlpRU0tIRUtWdm9OOEhzVXlUV1k5YnQzV2Y4andYUUJsZnREeVZEajNYVUdJTUp2VDR3VHlmaHdUQTV1TGRnTkZ2UEtqcXB6RnRUU0tfUG5Xam5PbkdfNl8tVlh1M2NHSlhrNTJEeFhRdjczd3RSU2o2anM1dUwyMEpGWEFBVHlMOFE?oc=5</link>
-<guid isPermaLink="false">c2cbaf144996239175814d48b71e9a85548042dc38a27a1bebdc97253f4e4837</guid>
-<source>Google News Business</source>
-<category>business</category>
-<pubDate>Wed, 11 Nov 2026 22:20:27 +0000</pubDate>
-<description>Travis Kelce Plans to Consult Taylor Swift on This Business Venture: ‘I’ll See What My Wife Can Cook Up’ Billboard</description>
-</item>
-<item>
 <title>Sisters start mobile business featuring customized mini pancakes - SiouxFalls.Business</title>
 <link>https://news.google.com/rss/articles/CBMimAFBVV95cUxNSXRDS2JxQVVWbkhrcTEtY3k5R1RGSUdITTNOVFNyMmQ3dzE3SURZeHFlbUw0Y3E4Q2REZ0E2V2FFbUFXUDZlcVBOQTV5cWZydHJlbUEtMEJGeV9NWF81VEFtcFpiNXlvd0RrZUdUaGRTMXNtY29pNkFXSlZtU2JCeW4zdGllZk9veHRlVHlHelhhTjZwQ3RyaQ?oc=5</link>
 <guid isPermaLink="false">42175cf76a40dcdd982a1690025a2047f8d996db860f2f8b0bb66bab1b999903</guid>
@@ -226,6 +694,15 @@
 <category>business</category>
 <pubDate>Wed, 11 Nov 2026 22:13:38 +0000</pubDate>
 <description>Sisters start mobile business featuring customized mini pancakes SiouxFalls.Business</description>
+</item>
+<item>
+<title>Taking care of business: Chicago's first self-cleaning public restroom opens in Polish Triangle - Chicago Sun-Times</title>
+<link>https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZkhQRlJ0cHpmNmM0b1V4RmE1UzA3Z2djbzhlZFV1ZDVyYmR4NEVaOWlVZE9mdzRKWUNCakgxdjI4ZWl2YVk3X2ZXMXpSZENVMnJrZXVQc3oxTTlfUUg2dXlDRjctSXoxczIwejZRbzFEc3J0bEFPVVN0SW0xVkZseEoxNWZOUkxVU2VMQWN5X3BwVy1CYlowZ3RCZS1sVFRERXBNMjJiSkZHQi1mODlXU0VueHpXMFRpS2JOY2NEWUU4VGs?oc=5</link>
+<guid isPermaLink="false">030a5336807efda960ceb4e4545d0af539da366d8ed57ddb02278149a9c95741</guid>
+<source>Google News Business</source>
+<category>business</category>
+<pubDate>Wed, 11 Nov 2026 22:11:57 +0000</pubDate>
+<description>Taking care of business: Chicago's first self-cleaning public restroom opens in Polish Triangle Chicago Sun-Times</description>
 </item>
 <item>
 <title>Embraer Mulls New Aircraft Lines as Core Jet Business Booms - WSJ</title>
@@ -237,15 +714,6 @@
 <description>Embraer Mulls New Aircraft Lines as Core Jet Business Booms WSJ</description>
 </item>
 <item>
-<title>Does Nvidia’s board violate its duty by keeping Huang? | CNN Business - CNN</title>
-<link>https://news.google.com/rss/articles/CBMikwFBVV95cUxOS2IxSXRIWk1vRXZjNVNKOV9uSVVYSVpsY0xHSHJROU9SUHJMaC1ORGNjTjQ4bzlMNlZPanFkd2JKU1h1VW1rNlhSbEZtb1RabDlhRTF5d1hlWlgycEhBLUtHcGlEUmRFcW1zQ29GaTlHdVBxVjN0TS1lSWl0ZEp5ZmRtMzVKZHV6OU1kNTEyTEJqcUk?oc=5</link>
-<guid isPermaLink="false">391c2590f3952408892afb27015ece46e363afe3455778b3670aa3fc4d199d33</guid>
-<source>Google News Business</source>
-<category>business</category>
-<pubDate>Wed, 11 Nov 2026 22:11:00 +0000</pubDate>
-<description>Does Nvidia’s board violate its duty by keeping Huang? | CNN Business CNN</description>
-</item>
-<item>
 <title>JetBlue unveils new first-class seats to bring back profits</title>
 <link>https://www.cnbc.com/2026/11/11/jetblue-ceo-premium.html</link>
 <guid isPermaLink="false">5191e3f9624ac4fba89d55ef95de83afb1b6fce84839c905d5cbc8f90c3a3585</guid>
@@ -255,31 +723,22 @@
 <description>JetBlue gave reporters a look at its new first-class seats on Wednesday.</description>
 </item>
 <item>
-<title>Taking care of business; Chicago's first self-cleaning public restroom opens in Polish Triangle - Chicago Sun-Times</title>
-<link>https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZkhQRlJ0cHpmNmM0b1V4RmE1UzA3Z2djbzhlZFV1ZDVyYmR4NEVaOWlVZE9mdzRKWUNCakgxdjI4ZWl2YVk3X2ZXMXpSZENVMnJrZXVQc3oxTTlfUUg2dXlDRjctSXoxczIwejZRbzFEc3J0bEFPVVN0SW0xVkZseEoxNWZOUkxVU2VMQWN5X3BwVy1CYlowZ3RCZS1sVFRERXBNMjJiSkZHQi1mODlXU0VueHpXMFRpS2JOY2NEWUU4VGs?oc=5</link>
-<guid isPermaLink="false">030a5336807efda960ceb4e4545d0af539da366d8ed57ddb02278149a9c95741</guid>
-<source>Google News Business</source>
-<category>business</category>
-<pubDate>Wed, 11 Nov 2026 22:10:00 +0000</pubDate>
-<description>Taking care of business; Chicago's first self-cleaning public restroom opens in Polish Triangle Chicago Sun-Times</description>
-</item>
-<item>
-<title>Ohio veteran faces hurdles of starting his own business - Spectrum News 1</title>
+<title>Ohio veteran faces hurdles of starting his own business - Spectrum News</title>
 <link>https://news.google.com/rss/articles/CBMihAFBVV95cUxNSXR4VEM2cVRGclJ1Qk9aV3RiU2x5U3g2QldQWUttT05XRjVmUGFGSzY0VkFQWHFCTmUzd2w4S3VTOFQxWjhEN3lEWllKcVVBZzNsLVVwZVkzMUVuRmFiMjNDWkxwWjNJS0lCMnhTUnM4YzF2RWdub3FIZzJBZ3R6NDhsSXE?oc=5</link>
 <guid isPermaLink="false">3100ec0fc9810e1e74b9afd87eedf9d984361a8c71b1dc1e255a70cdc7563a81</guid>
 <source>Google News Business</source>
 <category>business</category>
 <pubDate>Wed, 11 Nov 2026 22:08:00 +0000</pubDate>
-<description>Ohio veteran faces hurdles of starting his own business Spectrum News 1</description>
+<description>Ohio veteran faces hurdles of starting his own business Spectrum News</description>
 </item>
 <item>
-<title>Notable Woodward Avenue retail space near the DIA goes up for sale - Crain's Detroit</title>
-<link>https://news.google.com/rss/articles/CBMijwFBVV95cUxPY013eEhtTlpnM0kySE1kMDQ3c2RoSDNQMm1QOXBOTDQ5V3YwR0FLaVpTVmdFZjExU0VnYkNObXNTR2JJX3ktV212TGo4SWtIakpRWHBkWDZnMTVZQ1B0ejc1UC1vNlo5bzJ6YXliZHgtc1dFQmNQZEN3eU1DRXpDMDAtS2ZYV1NOWlk0WGhIRQ?oc=5</link>
-<guid isPermaLink="false">884d87ed2f4f5ca0559c20e6755d33f4109d35e7bfc7e5847b27a2b9905269ab</guid>
+<title>Iowa agencies launch statewide challenge to support homelessness services, food banks - Business Record</title>
+<link>https://news.google.com/rss/articles/CBMitwFBVV95cUxQSHV5MFN2akUwOWhzZU9HYjhpLXg1cHM2RnFGZHQyZHdLdTk3U25mQlF4bVRzcUxCMVRUMkdWcFQ1bGlWbDl2Q05iQzllNk5lNm1ZMkMwRnIyT1VUQXlaUF95YjF2UjhYdHZLbThULVV3M2JMTm9NOU1MSjVJOHJ4UUNpa3JwRTItc19LLWdUSlRVUDhQQlBmVnFGa1ZuVHdlMzV6NS1rekZyTE5xeHVrNjh4Z18wdXM?oc=5</link>
+<guid isPermaLink="false">c918d5f0f6012bed94d727dd9bdf5c2a5deeb8616b7d51ddb71e98488607de45</guid>
 <source>Google News Business</source>
 <category>business</category>
-<pubDate>Wed, 11 Nov 2026 22:06:00 +0000</pubDate>
-<description>Notable Woodward Avenue retail space near the DIA goes up for sale Crain's Detroit</description>
+<pubDate>Wed, 11 Nov 2026 22:06:01 +0000</pubDate>
+<description>Iowa agencies launch statewide challenge to support homelessness services, food banks Business Record</description>
 </item>
 <item>
 <title>CoreWeave just gave a shot in the arm to Micron, Lumentum and the rest of the AI trade</title>
@@ -298,17 +757,8 @@
 <guid isPermaLink="false">10f18494b8918c6fc999e74832db99524d972289c565e089e19c047c3fc50ecc</guid>
 <source>Google News Business</source>
 <category>business</category>
-<pubDate>Wed, 11 Nov 2026 21:59:17 +0000</pubDate>
+<pubDate>Wed, 11 Nov 2026 21:59:00 +0000</pubDate>
 <description>From Air Force to coffee shop: Baltimore veteran turns passion into business in Highlandtown CBS News</description>
-</item>
-<item>
-<title>Edgewood police shut down suspected illicit massage business - KING5.com</title>
-<link>https://news.google.com/rss/articles/CBMi2gFBVV95cUxPYXJYR1RkTldWWVQ3dGpKei1Hc3R3Q0hyc0l5b0Q3a1pwQ05NUEE2dmVPY0Z6am9famI5eHRweThLTmxMdVpnWTN1Tmg0aTNOVV9NRG4zQy1ZWThDcmV3U1BCaVVvNDdVYU5EZFhydHZESTgtR0dFU1dNRkRhRlgxZUMyTTlwbC1LZUJlNlVBbmx6RF9qeTFCUmRLR09uX1YzVGFJdmVMVURYZVhqUkZIRV9NeEdzWEJvQ1ZHWW0zaFBCUkZzZ1E4MGFpY2JYV2hlQjZJbmIxampndw?oc=5</link>
-<guid isPermaLink="false">f757ed38caa738eaba71dc8cb8ad7e21eca6e2edacd5bd54e7f23798e44e7f08</guid>
-<source>Google News Business</source>
-<category>business</category>
-<pubDate>Wed, 11 Nov 2026 21:58:00 +0000</pubDate>
-<description>Edgewood police shut down suspected illicit massage business KING5.com</description>
 </item>
 <item>
 <title>There has never been a corporate scandal like the Huang affair - The Economist</title>
@@ -340,28 +790,6 @@
 <description>Goldschmidt Named to Sports Business Journal's Impact CEO List U.S. Ski &amp; Snowboard</description>
 </item>
 <item>
-<title>Falling oil prices are no longer enough to bring down borrowing costs in the world’s most important bond market</title>
-<link>https://www.marketwatch.com/story/falling-oil-prices-are-no-longer-enough-to-bring-down-borrowing-costs-in-the-worlds-most-important-bond-market-3176d25a?mod=mw_rss_topstories</link>
-<guid isPermaLink="false">00a6fe2cbbb244d89a48f275f46c0e2516bba5da254bda6ca30c3e0e77cbd3ef</guid>
-<source>MarketWatch</source>
-<category>business</category>
-<pubDate>Wed, 11 Nov 2026 21:42:00 +0000</pubDate>
-<description>The tight trading relationship between oil prices and Treasury yields has broken down. It’s a sign that inflation concerns are extending beyond the energy shock.</description>
-<enclosure url="https://images.mktw.net/im-79106008" type="image/jpeg"/>
-<media:content url="https://images.mktw.net/im-79106008" medium="image"/>
-</item>
-<item>
-<title>Sandisk’s stock just staged a big gain. Here’s how it could march even higher.</title>
-<link>https://www.marketwatch.com/story/sandisks-stock-is-soaring-and-these-three-trends-could-send-it-even-higher-b0d7d5ec?mod=mw_rss_topstories</link>
-<guid isPermaLink="false">44e7219d50af0c259e2a640d173ef939e17c6dd907ca28ce1ec0f9657d2bf9f7</guid>
-<source>MarketWatch</source>
-<category>business</category>
-<pubDate>Wed, 11 Nov 2026 21:40:00 +0000</pubDate>
-<description>Various “structural changes” afoot in the memory industry could help Sandisk shares more than double from here, according to an Evercore analyst.</description>
-<enclosure url="https://images.mktw.net/im-75636714" type="image/jpeg"/>
-<media:content url="https://images.mktw.net/im-75636714" medium="image"/>
-</item>
-<item>
 <title>Sustainable Business Models for Community-Serving Organizations in Research - Milken Institute</title>
 <link>https://news.google.com/rss/articles/CBMi0wFBVV95cUxNaFVkekpnZ0RjWTlUblJzUzU1Yk10aUtaS1lyV2RtUHRHcTUtVjFyNzA1ZjhMTnZXTDZuWHdoekZpNUhFZXoxWWNQN3BLakVVaHcwQmdPU1FNTk5feU82MWZkbFFwdUtDdWFPVjVQdF92Yk5CUkRZS3VHOFY4NFdsSGxoM3p5UHNKeVpJNEdSUy1TTE8tRlR5NGhUOTdXb3FqeXdEeWM4Y3ItOWR5T1NZLXdDenBOOVJJeEhMZnpyWlhBbTNuOGFsYW9Hak80Wm5Rbk8w?oc=5</link>
 <guid isPermaLink="false">ff413dc397d5986c863dc752e67258001a9efcbb364416d2d6001264cd4d1ffa</guid>
@@ -371,33 +799,13 @@
 <description>Sustainable Business Models for Community-Serving Organizations in Research Milken Institute</description>
 </item>
 <item>
-<title>7 Brew to open first Clemson location - Upstate Business Journal</title>
+<title>7 Brew to open first Clemson location - upstate business journal</title>
 <link>https://news.google.com/rss/articles/CBMiiwFBVV95cUxNY3JDRlVPU3ZCaWZBVGYwZDVXTXpyNTdELS1CMUpxWnRUYXdIUzlHTnVQUkdRR2NVVEt6QVRUUXpEd3hwdHgtTnlQT1d4NldEODdEWDVSUnYxdkFTVnJMQk9EWkxDRGZHUnEtY3VDV0xER21waUZTeEtBc2oydUg0VlNyWjVLNnBoUml3?oc=5</link>
 <guid isPermaLink="false">070af9e17d7eea2cec4624d8b8bc6ee0bf69172f88617d7c8d4228afac30e6a5</guid>
 <source>Google News Business</source>
 <category>business</category>
 <pubDate>Wed, 11 Nov 2026 21:27:25 +0000</pubDate>
-<description>7 Brew to open first Clemson location Upstate Business Journal</description>
-</item>
-<item>
-<title>Philadelphia salon killing sparks calls for better security at small businesses - NBC10 Philadelphia</title>
-<link>https://news.google.com/rss/articles/CBMi3gFBVV95cUxPWi1SSi1zd1RQVXlmOGk3aGlFUGtlamo2RUhDN3ZQNDNoc1NPdGJmTjZoME9lcWlCRk5nMWZGTy1OVUNkSC1WZW5ReElOTzdMUkN4OUZXcXg3X3JRMnk2SWZhcHNOZmx0ZmlWQnJMN09UMl83YWtDNVBSc1NPMkc1bmFXY3RvTWdfTy03T2Y2ZzNOZXhkbkVYWUloZU9pd1pqTkFzLUlvT2F0S1dLTndGMVJCWFdRUkNBVFhMcC1QdXdwNXJTNzJKM0VYMmxCSERzY3NvWnNTSEdXSi1HTUHSAeYBQVVfeXFMTUs3MkxhcTNTaE5YUlBQWDEyX3g3eEJ6VHBGY0cyQTVjUGU0VFRCOHNBb3V1WDFwZ2hSckpveERKdUs2NDBmUEw2REZ1T2RWZ1BaUDZsbzJ5ZURKcjJmdWtDaV9PcWdNWjlVTjZmYkJscHBOMy10cE5qSlExbDRqUkc0VU9HeXpMWFktRUJpM2puRW5VNUNuVjJJenJKakUxSkloX2UyNmVUZklaenpJTE9ZbV9kYS1MaDVIbFJJdFFxa2hJSjFNZGpjdk8yUk1BenNMaFJ4aHBPY3BDYkpEcGNVNlZPWFE?oc=5</link>
-<guid isPermaLink="false">107840bf025642c2ce2de147c6fa3bb6b31da18238e6206fd3dcf62ac89559f7</guid>
-<source>Google News Business</source>
-<category>business</category>
-<pubDate>Wed, 11 Nov 2026 21:25:20 +0000</pubDate>
-<description>Philadelphia salon killing sparks calls for better security at small businesses NBC10 Philadelphia</description>
-</item>
-<item>
-<title>Why this ‘big idea’ to fix Social Security relies on a massive stock-market gamble</title>
-<link>https://www.marketwatch.com/story/why-this-big-idea-to-fix-social-security-relies-on-a-massive-stock-market-gamble-5423f50f?mod=mw_rss_topstories</link>
-<guid isPermaLink="false">f8e312b331c3763ed19fb93f4fd734a47a29633643ad64e4810ee025957f7e72</guid>
-<source>MarketWatch</source>
-<category>business</category>
-<pubDate>Wed, 11 Nov 2026 21:21:00 +0000</pubDate>
-<description>From a long-term perspective, the past 50 years of strong market gains are the exception rather than the rule</description>
-<enclosure url="https://images.mktw.net/im-51599311" type="image/jpeg"/>
-<media:content url="https://images.mktw.net/im-51599311" medium="image"/>
+<description>7 Brew to open first Clemson location upstate business journal</description>
 </item>
 <item>
 <title>Quinnen Williams is all business in eyeing the 49ers - Dallas Cowboys | Official Site of the Dallas Cowboys</title>
@@ -409,42 +817,13 @@
 <description>Quinnen Williams is all business in eyeing the 49ers Dallas Cowboys | Official Site of the Dallas Cowboys</description>
 </item>
 <item>
-<title>Bloom Energy’s stock rallies as data-center jitters subside</title>
-<link>https://www.marketwatch.com/story/bloom-energys-stock-is-soaring-as-data-center-jitters-subside-5fda5689?mod=mw_rss_topstories</link>
-<guid isPermaLink="false">edf4f57080dd9026e2bd9f0015e0013e62d2bc977223819304e39c4eabc879db</guid>
-<source>MarketWatch</source>
-<category>business</category>
-<pubDate>Wed, 11 Nov 2026 21:14:00 +0000</pubDate>
-<description>CoreWeave’s upbeat outlook helped calm nerves around the energy company.</description>
-<enclosure url="https://images.mktw.net/im-16106411" type="image/jpeg"/>
-<media:content url="https://images.mktw.net/im-16106411" medium="image"/>
-</item>
-<item>
-<title>Flaming Amy’s Burrito Barn says business isn’t for sale as property is listed - WECT</title>
-<link>https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVmY5c1ZkWlVvZ2RKbFR2WHpsR19seEEzVWFCTTJLUkFSSTQtZlM0VFNtUFZhQ1lVLWJucjZTdVBTX0Y0amlPNVliblZZUElvTndXTGU1TzZVZHBUb3JSeHVrbHpTb3RhNUhrV0Z6dENrQ1lXY1c0SkQ4cnhIS2N1ckZYZXQ1cHByN3o2bENYRkFLX1h5MEdnRGtUUFNXVEgyUWhhLTFhLU1TNTA?oc=5</link>
-<guid isPermaLink="false">d71411b71902616319bba58a2016e6d8d1a96eb52abb4f61a1e054a41f7e0b6e</guid>
+<title>'Illicit massage business' in Edgewood shut down after code violations discovered - KOMO</title>
+<link>https://news.google.com/rss/articles/CBMisAFBVV95cUxNY3g2NWthREFBMEhnYWh6ektFMlVCVmpaT2NFTzdoRmVrQTlUbmphS1hKWnhITmJkc1VzWHhJcURzSFRZSEJoa3VZcE9qdEdHMG9qVzJKYzdYb0NoaFhZd2sxNzJ4X0FPU0Nrc19zb0NIX0hzUEVXMTJ1bjNzTDlicDg2aWlPOFkwTzRoSTJpbUZCa3RheWxTMDN5eFp4eTByRWVLd0pzR2tpOXZwbG5oWA?oc=5</link>
+<guid isPermaLink="false">4fd3cbd6ecd7a2822efb91fe8f8fc534bd32fa9a677e9ae781ae8c56a7958523</guid>
 <source>Google News Business</source>
 <category>business</category>
-<pubDate>Wed, 11 Nov 2026 21:13:00 +0000</pubDate>
-<description>Flaming Amy’s Burrito Barn says business isn’t for sale as property is listed WECT</description>
-</item>
-<item>
-<title>Flaming Amy’s Burrito Barn says business isn’t for sale as property is listed - KBTX News 3</title>
-<link>https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcS1uRlZubW5EVzJnc2RzdXJUQ0VqR3dEXzd5dklqYU5kaUlCeGpxX3BoMlBEblREeWZoalRHeTRBMHc3dU1UUmJzaVEtMTkxWUFpMkJxOTJpZTRRanQ3WXdqUmhoZzVWMGtrekExa0VVSVJpNmppaEthWHpfTnVMa19CWUpMSmE1cFJNVC0wbDYzZE5wTjRuaktuN0hkeUc3ektqTURBSUNKMDg?oc=5</link>
-<guid isPermaLink="false">88e5429a9e4b7b7649bd64752854a446626e635511189dd4589d49b3b0b9dd3b</guid>
-<source>Google News Business</source>
-<category>business</category>
-<pubDate>Wed, 11 Nov 2026 21:13:00 +0000</pubDate>
-<description>Flaming Amy’s Burrito Barn says business isn’t for sale as property is listed KBTX News 3</description>
-</item>
-<item>
-<title>Marc Lore Shares His Playbook for Scaling an Unconventional Business - Inc.com</title>
-<link>https://news.google.com/rss/articles/CBMiswFBVV95cUxQbjlBUmppZGRNeW9TWk5iS2N1OE9IT3hEbUE3eXlVUVhmbGRLajllaEpYY2hPSlpSRzJhdnV6cF90dTBNZWhHSm10d1JKV2VRNURaQVN1WEF3cTNFdU1pTGt6UGRDTUtVblFTLTZIRC1IQW0tWkhyTmpPR0I0ZlhwbFlKSFM2Yk1pNDlJVTNpZks2eW9ReklrcWtlN0xSVUhCZ2htZzhmLXUtdTlCYVBuZExWZw?oc=5</link>
-<guid isPermaLink="false">856ad9973177a8c3594700f01c5ee0f9d38337b1009fe397515f4571583eecd3</guid>
-<source>Google News Business</source>
-<category>business</category>
-<pubDate>Wed, 11 Nov 2026 21:12:32 +0000</pubDate>
-<description>Marc Lore Shares His Playbook for Scaling an Unconventional Business Inc.com</description>
+<pubDate>Wed, 11 Nov 2026 21:12:20 +0000</pubDate>
+<description>'Illicit massage business' in Edgewood shut down after code violations discovered KOMO</description>
 </item>
 <item>
 <title>How the midterm election results could impact Elon Musk's many business interests in Texas - NPR</title>
@@ -456,42 +835,13 @@
 <description>How the midterm election results could impact Elon Musk's many business interests in Texas NPR</description>
 </item>
 <item>
-<title>NJ Tax Portal Now Accepts CBT and Other Business Tax Payments Online - New Jersey Business &amp; Industry Association</title>
-<link>https://news.google.com/rss/articles/CBMikAFBVV95cUxPME9CM2p1TTF1eUwzNnhoQlJsSUtoY2tVQWxwMlU3WWtYenhaVlV2ZjhYMnJOQ0pmSXdicl9NaG9FN281SUN0djF5VmIyQ0loR2JUeTRnSHRsZEhGWG55dHRzeThqbTZCTEViMmVHTHYxdHUycy12MXZneDFpZVk3dW5Yclh5M2VYMFVpZ2trUkw?oc=5</link>
-<guid isPermaLink="false">d2a3fb91f4a97215f15dc6d7f66569a3a0aace4dc9bae50eb8a0aa74d9c99ba6</guid>
+<title>Vermont Humanities Fall 2026 Project Grant Awards - Vermont Business Magazine</title>
+<link>https://news.google.com/rss/articles/CBMimgFBVV95cUxPMjlReDRaNUpQSF9fZ0FYMUlUMXE0Qy1ZTzJHcGE2T3dFNGN3enpDZExtQTh2SEZVRW93d3dhNzNQQnlFcnlQWnNwbXA5bE9oZF9NX1dhNkxNY2VpU0Q1b1lnQzZvWU5SM0g4aGRvcmp0RDhaQm5sR1VCd2dkWWlQejBISzBVRno0TnVXcml5UG9GU0lVOEVBVmpn?oc=5</link>
+<guid isPermaLink="false">eb70ba9aa1da9fb5cc31806e7378f09ede3bddab9f3c2640e09b2c2c78c2afb6</guid>
 <source>Google News Business</source>
 <category>business</category>
-<pubDate>Wed, 11 Nov 2026 20:58:42 +0000</pubDate>
-<description>NJ Tax Portal Now Accepts CBT and Other Business Tax Payments Online New Jersey Business &amp; Industry Association</description>
-</item>
-<item>
-<title>Cattle futures waiting for direct business to develop - Brownfield Ag News</title>
-<link>https://news.google.com/rss/articles/CBMilAFBVV95cUxQX3U1ZldsS1FGSjc4dUFwXy0xRVNWRTRvcEg4U1hZRkgxaE1EM2QxVVpMLXk4OEVHTUZlWEVaZldfMU90NHZPUzk5enBCSGtoWEVyUXk4MF94Q2xVZWxIMURvYWR4U2JoTzFFR2xJVEc5NnVkOHBmMTRNTk5ubkhWbDh0S1JPOWlDalJlYjVGem9BWHZo?oc=5</link>
-<guid isPermaLink="false">5ac7ea37bf6303007ad67ee0ca7ca9927bfe6b9f5a5cb496a9be9c3f9e16b402</guid>
-<source>Google News Business</source>
-<category>business</category>
-<pubDate>Wed, 11 Nov 2026 20:56:48 +0000</pubDate>
-<description>Cattle futures waiting for direct business to develop Brownfield Ag News</description>
-</item>
-<item>
-<title>It’s not ‘Medicare for All,’ but ‘Medicare for More.’ What this could mean for workers over 50.</title>
-<link>https://www.marketwatch.com/story/its-not-medicare-for-all-but-medicare-for-more-what-this-could-mean-for-workers-over-50-4a5c51a3?mod=mw_rss_topstories</link>
-<guid isPermaLink="false">9ddbdf78712ad082e1d8482b144e6a1752fbaf64e0f5e9844ee3bbd99d72bec3</guid>
-<source>MarketWatch</source>
-<category>business</category>
-<pubDate>Wed, 11 Nov 2026 20:53:00 +0000</pubDate>
-<description>A new bill would lower the Medicare age to 50, expanding coverage to an additional 60 million adults</description>
-<enclosure url="https://images.mktw.net/im-17509627" type="image/jpeg"/>
-<media:content url="https://images.mktw.net/im-17509627" medium="image"/>
-</item>
-<item>
-<title>New North Texas Business Accelerator Focuses on Access to Capital - Dallas Innovates</title>
-<link>https://news.google.com/rss/articles/CBMimgFBVV95cUxQRHdvNGZMUXhKQmtxWnU4bENPbUdoOFpJbHNvdHVHMW8wTC13cWhETHhRYlpsVHlZTUZLWDBiZ3lxcEZIc2NONzNqbGRibzNyUy1wVVlNX3dydkw3cTJHdTA0cDhnU1Y1eXV3S0xqS0R3SXNuSzBwaTl0V01DdUdxeUNRaFhYMzVORlZFekRVRnY5ZjNTTkY1dmtR?oc=5</link>
-<guid isPermaLink="false">ba0b712469959ecf86e7f8174d45c078b352b67db58482ebae63bbd48d1dfd03</guid>
-<source>Google News Business</source>
-<category>business</category>
-<pubDate>Wed, 11 Nov 2026 20:47:28 +0000</pubDate>
-<description>New North Texas Business Accelerator Focuses on Access to Capital Dallas Innovates</description>
+<pubDate>Wed, 11 Nov 2026 20:45:35 +0000</pubDate>
+<description>Vermont Humanities Fall 2026 Project Grant Awards Vermont Business Magazine</description>
 </item>
 <item>
 <title>Is she a spy, or just out of your league? How to avoid getting honeypotted - Business Insider</title>
@@ -503,13 +853,13 @@
 <description>Is she a spy, or just out of your league? How to avoid getting honeypotted Business Insider</description>
 </item>
 <item>
-<title>iHeart Weighs Options for Podcast Unit, Including Possible Sale - Bloomberg</title>
+<title>iHeart Weighs Options for Podcast Unit, Including Possible Sale - Bloomberg.com</title>
 <link>https://news.google.com/rss/articles/CBMitgFBVV95cUxOcFZqWU5PeXNxTUpINjJ5akk5QUxodEx2dnZoNFpZVm1ybWw4UlNxX00wZmdmNW1QSUd2SHFubU8wNFMybEhlcThic0ZPUENfZWplblVXckQzT19ESXNjdzRLZFZoQlE0QTYyWkVOb1dCWWR3aGhwUnkyVWhJTFFhMU1IT0NiTEUxM0pxVFJQVGhHd19kdnZnbnBGVVFrc3VSZVN1b19leUUxOGV2eEtqVWljSHNFdw?oc=5</link>
 <guid isPermaLink="false">4c09b3f26ff8f5215612af3f1132fd7b6a85b09adbaa474b458136b5cb9f31be</guid>
 <source>Google News Business</source>
 <category>business</category>
 <pubDate>Wed, 11 Nov 2026 20:41:52 +0000</pubDate>
-<description>iHeart Weighs Options for Podcast Unit, Including Possible Sale Bloomberg</description>
+<description>iHeart Weighs Options for Podcast Unit, Including Possible Sale Bloomberg.com</description>
 </item>
 <item>
 <title>Ski guide business involved in ‘deadliest avalanche in U.S. history’ halts operations - FOX40</title>
@@ -519,69 +869,6 @@
 <category>business</category>
 <pubDate>Wed, 11 Nov 2026 20:30:28 +0000</pubDate>
 <description>Ski guide business involved in ‘deadliest avalanche in U.S. history’ halts operations FOX40</description>
-</item>
-<item>
-<title>Fresno and Tulare counties: Latest fictitious business name filings - The Business Journal</title>
-<link>https://news.google.com/rss/articles/CBMioAFBVV95cUxOVGN5Y2pyM3liWXdPTlI3ZkJIbERobDhOUkN2XzI3djJlT0x1MTUzYTY1cFZaVlFJMUg1cmlNckxETG9ieEppUkwwbm41c1FRaThQZ0tKbVBoZExXWjdVRzJKZXNYdFF1VzFYdXlHVXRmQThvVm03ZDMxVEl4aTN6V1VIdVgtUHpSY3BMSDhRcXhIN3RtNEJtQ0N6aEJJNkls?oc=5</link>
-<guid isPermaLink="false">a9ec80aaec524a01f9a13e100f7bb9b156ea9394489fb570b03e5fb09c027a20</guid>
-<source>Google News Business</source>
-<category>business</category>
-<pubDate>Wed, 11 Nov 2026 20:28:29 +0000</pubDate>
-<description>Fresno and Tulare counties: Latest fictitious business name filings The Business Journal</description>
-</item>
-<item>
-<title>B20 USA Summit Concludes With Call to Action for Global Growth and Business Leadership - U.S. Chamber of Commerce</title>
-<link>https://news.google.com/rss/articles/CBMixAFBVV95cUxObC05b1BsMlZaMGtORFhhMFV2WlZIZW0tdFZFTUdhQXBmM1N5aVFaa2NDWTFuMldxSWdrRUlsZmNJMEx1SU1HQUdFU1h3TXVYLW45eUZPaWFvYkhnS3Y2ZUtWNzBmbGFHVmlJak5JSmVLUmkxYVIzMFBjYjY0eFhnYzJxc3NNUVpSZzgxSWFUX3JDV0pzWUNQTEItR3pha1JjWkV4MG5oZGhvY2YxZGJ1X0ZZc1VKMWFEWkxjWWlNNWpCa09N?oc=5</link>
-<guid isPermaLink="false">345c453d91129aaee570f402196131c0e44203b60c9f676e14e5dca0975d186a</guid>
-<source>Google News Business</source>
-<category>business</category>
-<pubDate>Wed, 11 Nov 2026 20:23:21 +0000</pubDate>
-<description>B20 USA Summit Concludes With Call to Action for Global Growth and Business Leadership U.S. Chamber of Commerce</description>
-</item>
-<item>
-<title>Snoop Dogg Expands Cannabis Business With New Barcelona Social Club - Forbes</title>
-<link>https://news.google.com/rss/articles/CBMivgFBVV95cUxPalo2M0hJaXFNVXQxbjFvckxQdUtUM1VVcWdqSzFMQ0NJa0pRU0hDYUdkanZEZmRMU2dIcFJPTGFiMmxWUThjUmxRcHNvb1FiYllIcXhjbTVXMGIwVHFCdFhKSk15cmNUYWZCUVNBVFB3LXhVaVpOdEY2UTFoQ3h5S01UeFFTTTktbjh2MGg2ckhQalo0VmZHU08zY1B1a0RHWm9sS3NZZGVDTGFyU2Fxbmd6akd0Z0ZJWFZoc0N3?oc=5</link>
-<guid isPermaLink="false">a92fcca595ddfe9fcf1d9ca16cdf88ef2baf4b776f107d062501b3cf973ba3a8</guid>
-<source>Google News Business</source>
-<category>business</category>
-<pubDate>Wed, 11 Nov 2026 20:10:24 +0000</pubDate>
-<description>Snoop Dogg Expands Cannabis Business With New Barcelona Social Club Forbes</description>
-</item>
-<item>
-<title>Sion James thinks beyond basketball - NBA.com</title>
-<link>https://news.google.com/rss/articles/CBMibEFVX3lxTE16a0p0ZGJ5b3locTczV09GZ2lQbDQ0YnlwRjNQSnBydFdNTDNldWYxTTlMbXZsd1VEV2pQTnJhWVNLckpiMzBHaGhWdVB3RjQ3eDFHOE5YbjNEU1p4UXRvNUpPY1ZZbEIyNUJZYg?oc=5</link>
-<guid isPermaLink="false">eebf5ab7961775cd3715ef21df038ab21c3249925be6c218d3c82285d9ad6ea5</guid>
-<source>Google News Business</source>
-<category>business</category>
-<pubDate>Wed, 11 Nov 2026 20:09:55 +0000</pubDate>
-<description>Sion James thinks beyond basketball NBA.com</description>
-</item>
-<item>
-<title>Auto supplier launches defense unit in Auburn Hills, eyes 1,000 new jobs - Crain's Detroit</title>
-<link>https://news.google.com/rss/articles/CBMirAFBVV95cUxPSGR4ZmhvTi11OVNnT1kyMGNBblZoZUtBM3pWZC10WFVWSnNVbEhTNFZrV0JrMm9YWnJqWnRiMVRiR09TUXJ4SDM4Q29FcUkyLUs3cURmeE9tbEpyZ0c1VHFjRVVyRzhWWTA3bnZyS1pDeVZQNERGRjU1MFFuWUxOazBYV2o3SUNnOEZxVl9LbUhUclVOOTQ1RnlYLXVuQzN3bk5zZE1TclV1dUVw?oc=5</link>
-<guid isPermaLink="false">2a4f6489169091f3a9f99c0f354ad2d9dcec44c16e63525928fea3d45ca8b41c</guid>
-<source>Google News Business</source>
-<category>business</category>
-<pubDate>Wed, 11 Nov 2026 20:01:00 +0000</pubDate>
-<description>Auto supplier launches defense unit in Auburn Hills, eyes 1,000 new jobs Crain's Detroit</description>
-</item>
-<item>
-<title>Kraft Heinz Sells Coffee Business for $650M - Progressive Grocer</title>
-<link>https://news.google.com/rss/articles/CBMid0FVX3lxTE1pcWRkN2VTZnRVYWNlRkp2MTcxV1FHb1hSR1YzeFlJM3BPeEFiU08yRnNIR2tjUlFOeVlBQXBYYjIzMk92OVpMZ0VhbDRaM25VOHg1YTNzNExNLTczc2NUZXZ0QklzN0JITW1NN0FudkJqWXZxS01N?oc=5</link>
-<guid isPermaLink="false">f7ea0c2b50e2f6569d3fffda9922bfc1a75d166d651956dc82468efa2d9784e1</guid>
-<source>Google News Business</source>
-<category>business</category>
-<pubDate>Wed, 11 Nov 2026 19:57:36 +0000</pubDate>
-<description>Kraft Heinz Sells Coffee Business for $650M Progressive Grocer</description>
-</item>
-<item>
-<title>St. Pete developer breaks ground on Wellen Park shopping center - Business Observer</title>
-<link>https://news.google.com/rss/articles/CBMimwFBVV95cUxPR0lWSXJnby01VEJ1bGtzZW1wc3JEWmczVEZ5b0h6N2RTbV9WQVNqUEdNVjFKSWxEMmNVa0pVUVhXRkhmUW5MV1N6TmM3VWdrQnRjRFIyM0dGTjhONUVHMUZvcFMwYkVpUWFVUEdvQkRuTzJzbG5BeDlCRXhDRFFXWXEwWkJ2YVZoOXBFUGd5ZWF5MHpmTENvRjNMSQ?oc=5</link>
-<guid isPermaLink="false">d19d4f49f10d1652ec133e9aaa6cb0a9b4bb2ea8196bf1281d984110e551d709</guid>
-<source>Google News Business</source>
-<category>business</category>
-<pubDate>Wed, 11 Nov 2026 19:46:00 +0000</pubDate>
-<description>St. Pete developer breaks ground on Wellen Park shopping center Business Observer</description>
 </item>
 <item>
 <title>XRHealth Deepens Mental Health Capabilities with Acquisition of PursueCare - Behavioral Health Business</title>
@@ -602,58 +889,22 @@
 <description>How Hyatt Is Rethinking Business Travel And Hotel Loyalty Forbes</description>
 </item>
 <item>
-<title>Economic Report: La Quinta Invests in Housing, Hospitality, and Local Business - Palm Springs Life</title>
-<link>https://news.google.com/rss/articles/CBMitgFBVV95cUxON2NkNXVieU44U1JDUlJWTlBJaU5NSVZWZnpFOFJZU1lLbmRmNU13NjY3UEZ5Y3FnMlI1Y0FzN3lCM2FUQ3ZSWGJyZC1CbE43Ym4yMDVPZDItMHBHbXV1ZGc5eDRQRUNEQjYyYjZUUFM0NzZHZU82NG0wSTNVLV8zeHRLRlUxYi1ES1NoSTdDMUViVGh2NkF6SEd3eWxxS1dJMV9KM3QxRkZWWTQwT1RHN2lKT19vUQ?oc=5</link>
-<guid isPermaLink="false">3d8b41ccb0ede37f0f38f343df6ce86f970aff828675f8390db20e9670f2d93d</guid>
-<source>Google News Business</source>
-<category>business</category>
-<pubDate>Wed, 11 Nov 2026 19:34:36 +0000</pubDate>
-<description>Economic Report: La Quinta Invests in Housing, Hospitality, and Local Business Palm Springs Life</description>
-</item>
-<item>
 <title>MPD shares holiday shopping safety tips with business owners - Action News 5</title>
-<link>https://news.google.com/rss/articles/CBMiogFBVV95cUxOMnpQclNTbXJRdzQtdWVTQmFfTlJZYWFoWnpub0xWLWhfZFVWMk94WmVDZFhkZ3NFSUlBeHdKaGE4MUVYck1NeTgtRUpabDNTQTBmUFBlRTRwZ3BmQXd6RXJwbl9qRU9Yd1ZRNk9XdmtCaVhUc2M3U2tRanVpdWxNNHJoc0lFVWxxb29VZE1lN2pZLUpRcndYT0lRQkluaTVnemc?oc=5</link>
-<guid isPermaLink="false">f5a368a9a1d9d9c0a9a010dfd20a0f00deee9d3db7b2bdea8fe0bdd560867d80</guid>
+<link>https://news.google.com/rss/articles/CBMiogFBVV95cUxOMnpQclNTbXJRdzQtdWVTQmFfTlJZYWFoWnpub0xWLWhfZFVWMk94WmVDZFhkZ3NFSUlBeHdKaGE4MUVYck1NeTgtRUpabDNTQTBmUFBlRTRwZ3BmQXd6RXJwbl9qRU9Yd1ZRNk9XdmtCaVhUc2M3U2tRanVpdWxNNHJoc0lFVWxxb29VZE1lN2pZLUpRcndYT0lRQkluaTVnemfSAbYBQVVfeXFMTWVoSEZWc05FQ2V3ZWFqR3l2cDcwSVJ6dGdfSWt4dGJIcXdCZ2xhNWlIeFFXMUtBaWpkN0Y3WUthRk9hek9NLWpDVTd0SUZ0eXFSdGNCTGFVXzkyMzZYazBpREQ4Rm5Ydl9lVnplQ285MkpZSVZaWlZBV0lsckM1ZVdsS2QyTzhnR3ZRQldYLXAxa0hXNm1faDhiTjFfZjBwbTZmTUtWcHdSSkpaSDAyazFfZmtKeGc?oc=5</link>
+<guid isPermaLink="false">9458625c8c8079e0a49bba0f5c36d9ee9b258dfde83bfeffa1b9848d185479ba</guid>
 <source>Google News Business</source>
 <category>business</category>
 <pubDate>Wed, 11 Nov 2026 19:24:00 +0000</pubDate>
 <description>MPD shares holiday shopping safety tips with business owners Action News 5</description>
 </item>
 <item>
-<title>Black business advocate GIFT wraps holiday markets to close visibility gap for entrepreneurs - Startland News</title>
-<link>https://news.google.com/rss/articles/CBMiiAFBVV95cUxOU000cnp1dGF4YVVjZlp4a09RWFdnMEo4MDJtLVFHbDJxLTZjM01EbG1pa0dfVnI2THFPaTdZYWNZeTB2djFjNzFocldsLWs0SHJUSGV6bHJ4UUJhZjhfT0lhQ1NubXdPYm4tdG9nMW12VzJzZ1FwTW5WdjZrSTlHZzM0cE1ZNTlV?oc=5</link>
-<guid isPermaLink="false">286728ea4e21ccc7482ae36f859f4e50e29919b332d3c606154cef58dad6cb62</guid>
+<title>Silicon Valley is 'a center for espionage,' former FBI agent warns after Nvidia spy scandal - Fox Business</title>
+<link>https://news.google.com/rss/articles/CBMirgFBVV95cUxNc0xkNlU1bnJXZ2p3LUxCLXVLTTl0OERDSHRKNk9TLWY4THRBbFJqdTd4NXNhbFc1aXJWcURNRmtsTW83aTYzM3BveWZ3aldsalZyUnczQk1tRWVibG9KTU5ER0Vfb1lCZEZSTlJQdlE2YjRNQWVVTjdmUEV1RmxjNlhTZ3ljZXU5bkxMdUhlQndvZ0tkQXZuaE5DYk9FZTJuYWZ0WjN3eVZxR281dWfSAbMBQVVfeXFMUGxvajNROVZBWVh0NjhXdWFqS1NZNEtWN3Y2TGV5aE5tOWdWbkRSU1FsNjQ1dDlsa0VmLVVYU1JBRUlWVzZzb0VaVkpkR3JyQzBUQnVuSTF1eFdydTF1OVdwUmprbzUycEU2VEtYZWNkLUphNEFfNFRtbkJsc3VIajNTeE54dFp5dGRWRWw3R1czZlhFZW5XVGlqU2hsdlpfdmF1d3loRmFxSkVZeWZHdzM2Wlk?oc=5</link>
+<guid isPermaLink="false">d57a444a55c7f62cd9572317a78fc2de1a2ddc624a7c1e120e96532ce93a770e</guid>
 <source>Google News Business</source>
 <category>business</category>
-<pubDate>Wed, 11 Nov 2026 19:06:12 +0000</pubDate>
-<description>Black business advocate GIFT wraps holiday markets to close visibility gap for entrepreneurs Startland News</description>
-</item>
-<item>
-<title>XPX New Jersey honors veteran business leaders, highlights lessons from military service - ROI-NJ</title>
-<link>https://news.google.com/rss/articles/CBMilwFBVV95cUxQUDRLR2IyRy1mZVpXVEZfMkw0VGRVWTZGV2g0Wm5XcXFxcGhkdVd5RWpQMm80Tld6dTBFbDQxMGktSUtSQnRiRkJlX192TDFLZENDOTZWRmhDWGZ5dnMzdnZfcE1qSlJIVDZqanliMVZTeG5IbjRrSGM4RFNKalFRNU1nOWJQQzVHZ0E4dExfV1VpWEhhcnpn?oc=5</link>
-<guid isPermaLink="false">58d3e81288f01009ce94612e238149cc3761d7bb7595d7d560bc31788d1f0d40</guid>
-<source>Google News Business</source>
-<category>business</category>
-<pubDate>Wed, 11 Nov 2026 19:04:04 +0000</pubDate>
-<description>XPX New Jersey honors veteran business leaders, highlights lessons from military service ROI-NJ</description>
-</item>
-<item>
-<title>Making the business case for safety tech: NSC adds to its suite of calculators - Safety+Health Magazine</title>
-<link>https://news.google.com/rss/articles/CBMiugFBVV95cUxQNWJnTHNkeHZVWmNRUGFqcFptRVNaeFp4VkZNOEhTV2FFQkdCeWYyNlpjeGl4b05zaUtiMURQeFl1d3pBY3NTb0pvbHcxR1pRNmxlNXFaVHNQQjNCdmd0REQxaHRBZ3FKYmhndFpMZTJ4dktsMzVxRW5vOFVSblZEeDcxZ0JVNVR0akpMTk5zVlFnenEyRUIwZEgyYW84eFR2VW5jcy1jaldySVpGa0dUWFlnTzJfYmNwcXc?oc=5</link>
-<guid isPermaLink="false">2fc1b9564f50dfed31fdd62f64c7c07d059b9e3e514618db09eadff32d489bc5</guid>
-<source>Google News Business</source>
-<category>business</category>
-<pubDate>Wed, 11 Nov 2026 18:47:36 +0000</pubDate>
-<description>Making the business case for safety tech: NSC adds to its suite of calculators Safety+Health Magazine</description>
-</item>
-<item>
-<title>JD Power Study Finds Improved Reliability and Growing Trust Among Electric Utility Business Customers - TD World</title>
-<link>https://news.google.com/rss/articles/CBMi7AFBVV95cUxQT0tvTWR5UXZNWUU5X1dxODJieEdRblRvQV9KS2RpUHJmRHZMcTBxaUxTZ19hQWVrTzBiamFzUFZjcWR5TU1uOTFsTzRfODMzTFNqNFFiX2tZLXVZNHYtdURxR3pCRFk4bVZGc2RYSkZMNXpiTktCZjZPU2lFNE9rd0dlU3ZXUlpWU0x1a0JPZ1U2MF93U1ZaTUpVOU56Zld5Yjh0REtrMUtNLXlFWVlkZWRPaFRJc3VOVVJPQkFvTVB0VkhUNDJ3bUFXaUdlUG05TTNPVmNDTE9tQ2JfTjdDY1JpSVJoT3laVXlzZg?oc=5</link>
-<guid isPermaLink="false">56eeed168e271c234537283ef761dcfb3a86b0a74d19782189a6e5bf9da18c64</guid>
-<source>Google News Business</source>
-<category>business</category>
-<pubDate>Wed, 11 Nov 2026 18:37:52 +0000</pubDate>
-<description>JD Power Study Finds Improved Reliability and Growing Trust Among Electric Utility Business Customers TD World</description>
+<pubDate>Wed, 11 Nov 2026 18:53:00 +0000</pubDate>
+<description>Silicon Valley is 'a center for espionage,' former FBI agent warns after Nvidia spy scandal Fox Business</description>
 </item>
 <item>
 <title>Variety‘s Business Managers Elite Report: Top Guns Build Relationships and Expertise With a Personal Touch - Variety</title>
@@ -690,8 +941,8 @@
 <category>business</category>
 <pubDate>Wed, 11 Nov 2026 17:59:35 +0000</pubDate>
 <description>Poundland has filed a notice of intention to appoint administrators, which protects it from creditors until Thursday.</description>
-<enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f5c3/live/68229c90-ddf9-11f1-93e1-3b657b665bcf.jpg" type="image/jpeg"/>
-<media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f5c3/live/68229c90-ddf9-11f1-93e1-3b657b665bcf.jpg" medium="image"/>
+<enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8019/live/7e8b75f0-de68-11f1-b441-2b33b063138f.jpg" type="image/jpeg"/>
+<media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8019/live/7e8b75f0-de68-11f1-b441-2b33b063138f.jpg" medium="image"/>
 </item>
 <item>
 <title>Brad Friedel on Shrewsbury Town takeover</title>
@@ -723,33 +974,6 @@
 <description>Marquette Business brings campus, veteran communities together to honor military service Marquette Today</description>
 </item>
 <item>
-<title>New California laws for 2027: What Central Valley businesses need to know - The Business Journal</title>
-<link>https://news.google.com/rss/articles/CBMihwFBVV95cUxNZkFBWXp5WFhWVHFHSkE0Y3NHbUpwVnRDc2lIcC1JN3UtYVBBWVA2Y05paEItM3NOdS1NWERLMExJRUdLNHBfeWRSTnFVUUZubHpRdDhNZmlCMGlpS2dYMnB3aXVYQW5RUGRlaGRNdW84WVZURGY5dFhuM1Z2OFRIZFpWalhVUHM?oc=5</link>
-<guid isPermaLink="false">bdd3678302221925c6d0a1c915c0670a1925a769d80e75272f05b0ed936b01dd</guid>
-<source>Google News Business</source>
-<category>business</category>
-<pubDate>Wed, 11 Nov 2026 17:36:40 +0000</pubDate>
-<description>New California laws for 2027: What Central Valley businesses need to know The Business Journal</description>
-</item>
-<item>
-<title>NH's Business: 'Opportunity Zones' aim to spur investments in housing, community developments - WMUR</title>
-<link>https://news.google.com/rss/articles/CBMidkFVX3lxTE13dnRrcjZwU2RBbFFTX0MyS01xVGdRc1Q5TEZMc3JwbEFVakw5V0xpZHVmQzgxYkU4M2VXd3RGdHV5WHFKVVlKYUpEX28zcV9NaERNc2FaeC1WUXRzWjduNnhHeEtmQVd2NGQ2ckpIVVBoUVJoR0E?oc=5</link>
-<guid isPermaLink="false">846a9a564168a6cf554391297d8e4691e5539482630cfd8e55ca8e478c6b94b0</guid>
-<source>Google News Business</source>
-<category>business</category>
-<pubDate>Wed, 11 Nov 2026 17:33:00 +0000</pubDate>
-<description>NH's Business: 'Opportunity Zones' aim to spur investments in housing, community developments WMUR</description>
-</item>
-<item>
-<title>New book from Herb Sargent details practical solutions to business challenges - Mainebiz</title>
-<link>https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNUdpUzYtYjlmRE96WHlkaS01aDBLejR3Vy1VTkVwY1JEWl85ZDNLdnhZZ2VfVURaMVhGcXlfUkhBSk1HbF80c29pTWVJejJvQ2h1M0hvTnNLVUxYelR4NXFxOWdPcVBON25SeFp3d2hVQkdtTUU4TVdlRDIwd29xcl9xeEU5cjl0eUVfMkVzWU5xZl9HR08zT29vbUdEbTZEckpRN1R4dGJBTlE?oc=5</link>
-<guid isPermaLink="false">7d7a3be73108a572cc3ec3049214fd3aa41f8879d22b1f91ff9ebffe52a1e40a</guid>
-<source>Google News Business</source>
-<category>business</category>
-<pubDate>Wed, 11 Nov 2026 17:05:10 +0000</pubDate>
-<description>New book from Herb Sargent details practical solutions to business challenges Mainebiz</description>
-</item>
-<item>
 <title>Workers across Spain stage first general strike in 14 years</title>
 <link>https://www.bbc.co.uk/news/videos/c920xlpdl28eo?at_medium=RSS&amp;at_campaign=rss</link>
 <guid isPermaLink="false">1233fe11c5d2a1b5e63f8a9f0d09863fb419ef1a13a0bc5c2381d81b156b7136</guid>
@@ -761,15 +985,6 @@
 <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b36/live/846543e0-ddee-11f1-93e1-3b657b665bcf.jpg" medium="image"/>
 </item>
 <item>
-<title>Power Up Spartanburg accepting applications for small business impact grants - Upstate Business Journal</title>
-<link>https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdU9mdDdZbmhIakdxSXZlaHJnOEI4Y1dUVkJRNjl2NkJMWG9tNDRHZE9UcFZLamYxZGNYSGtOMUVjQUJTNXJiM0JMMTF4anppdXlUNzlWSG9Kb3B0NjRRUEpzS3hxbW1sNHRkMzhzZVB4MWp1U1FIWklEWDRoRUxfYVMxTWItOGJRbUg4VjlzalNMbmFkanJIaXpiSWxQRkFDQTdPQUJtZEtZQS1OWTdLYmNucVpLTWFaaHN5YXVJeURpTUk?oc=5</link>
-<guid isPermaLink="false">255390d62f2f34c708724ed7e5a032c3f288de004005cff566c18fad05fdbc6a</guid>
-<source>Google News Business</source>
-<category>business</category>
-<pubDate>Wed, 11 Nov 2026 16:57:24 +0000</pubDate>
-<description>Power Up Spartanburg accepting applications for small business impact grants Upstate Business Journal</description>
-</item>
-<item>
 <title>Danaher’s Cepheid business to lay off 67 people in California - MedTech Dive</title>
 <link>https://news.google.com/rss/articles/CBMiowFBVV95cUxNeFVxa05jc0JlNmVTVVVQUDNBVG5mWkZuT05Mdzg0RU95ODdxa0JERi1ETlRRX3p6NUZFWWFvNkZYRmZpMXJ1b3VOOGE2b1RNUzFrUjdjT3MxOFN6U25tX3hmSDdaUXJDQ0lkX1p5U1JzdkdldVp4LXRzcjdLWWN4LVFZZ2RiYWg5c1lGdHpoNlZNMXJPVVh1NWxtQUxxR1FCMzVj?oc=5</link>
 <guid isPermaLink="false">7fb3f9afcb7c0f502b26eae1c9e6559ecd23109587b2f3c6f9adb9f8ad791329</guid>
@@ -777,24 +992,6 @@
 <category>business</category>
 <pubDate>Wed, 11 Nov 2026 16:54:20 +0000</pubDate>
 <description>Danaher’s Cepheid business to lay off 67 people in California MedTech Dive</description>
-</item>
-<item>
-<title>Iowa Economic Development Authority introduces tiered downtown revitalization support - Business Record</title>
-<link>https://news.google.com/rss/articles/CBMiuAFBVV95cUxOSnY3T2hISHBfMWF2SGhXdzhGczhtSlIxOF81Z1hTVDBYQ2xvQW1Kc041ZEFLejg4SVhjZGV6eV9aSDJDakFQTDhpQ19JZVJ1ODFFdUMwdm5Ka3RnUEdCdmRSRXR2dDc4MzhGZkt1Q3JQRDh1bi1tRm1SeXdHenJMUXVOS3lyZ1RXeFZ6NVhuNk9XbThNUkxLWkN5blpISHVFb3hkMUpvWllyLXlvT0NNMVFIN0lGbFFM?oc=5</link>
-<guid isPermaLink="false">256ad61b1a0d2b061cdd91237f4e46d592b132edff686e2277b2ea3a965a687d</guid>
-<source>Google News Business</source>
-<category>business</category>
-<pubDate>Wed, 11 Nov 2026 16:35:16 +0000</pubDate>
-<description>Iowa Economic Development Authority introduces tiered downtown revitalization support Business Record</description>
-</item>
-<item>
-<title>Soleo Health to distribute Pasatru through its rare disease business | - HME News</title>
-<link>https://news.google.com/rss/articles/CBMiogFBVV95cUxQVkh2cU5odE1XMzRhYmVrUFNGVlAyVVNWY19TQnhSU01wMks0M1YyT1U0YWhUNjdMQVhHQ1RMSlBMUWhKWUJkWkV3aUlNTTRXU2d6N1VUMXpJTjRfVXF3VWhyTzNWTUZxWWc4N2YzZlBmUUJ0WFgyaUlDVDBud1dBbXZsWWNyQUZIUENBUTc0ZUZTdjNCN0ZJSGhKWU5aVDc4dGc?oc=5</link>
-<guid isPermaLink="false">2155142a91a35013827a057a7b2da9e1d21aab1de6791a3f74bb195da28a6df0</guid>
-<source>Google News Business</source>
-<category>business</category>
-<pubDate>Wed, 11 Nov 2026 16:32:41 +0000</pubDate>
-<description>Soleo Health to distribute Pasatru through its rare disease business | HME News</description>
 </item>
 <item>
 <title>Principal Financial Well-Being Index: Business confidence falls as cost concerns rise - Business Record</title>
@@ -806,15 +1003,6 @@
 <description>Principal Financial Well-Being Index: Business confidence falls as cost concerns rise Business Record</description>
 </item>
 <item>
-<title>NHL sponsor business booming as Global Series begins in Finland - Sports Business Journal</title>
-<link>https://news.google.com/rss/articles/CBMivwFBVV95cUxQVDJmRnNhMUplQ1lZYXlydW1yeVJkRnk1cHFyZW5IQXdwZEduX09uUW9QT1BPbktzQTQtNkdXVkpiTEcwYU45MGZtakh6c2NCeWVqU3o1cEdEZm16a1FCazZTbjVOQzBWWlkyVXJtcHQxMm5YRWlnN1h3QWd1eUtNZndPYV9MT2FxRnVEbGZTQnF4WlFUd0dKQ21yZ2phcFVtcjZQaFBtVGp6SzVhV01LakVOcjJEeVdwS0hFdkg5WQ?oc=5</link>
-<guid isPermaLink="false">90c9547de7551b3803eed8e13a237dc5f69e160410f16b5922816593a0b52264</guid>
-<source>Google News Business</source>
-<category>business</category>
-<pubDate>Wed, 11 Nov 2026 16:30:45 +0000</pubDate>
-<description>NHL sponsor business booming as Global Series begins in Finland Sports Business Journal</description>
-</item>
-<item>
 <title>Protesters gather in Spain for first general strike in 14 years</title>
 <link>https://www.bbc.co.uk/news/videos/cwj0587gde88o?at_medium=RSS&amp;at_campaign=rss</link>
 <guid isPermaLink="false">47364945273774bccab7fcd8f3e77e27ac9c94cd7d42245e7735c00536093c60</guid>
@@ -824,15 +1012,6 @@
 <description>Thousands are protesting across Spain over housing and the high cost of living.</description>
 <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b3a0/live/8584f370-dde8-11f1-a701-fddedf244c16.jpg" type="image/jpeg"/>
 <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b3a0/live/8584f370-dde8-11f1-a701-fddedf244c16.jpg" medium="image"/>
-</item>
-<item>
-<title>The CEO’s agenda for year-end and beyond - SiouxFalls.Business</title>
-<link>https://news.google.com/rss/articles/CBMid0FVX3lxTFBFNXN2TGNpQmoxQmxBUHdOM3V3N1dPb1FETm14TF8xTS1OQ3VRS2UyZW5xdF9lTmY5ZlZYdnNyay1fNVVpeEJGODRkV01HQkdxS00yM0pCWHp6dGNCOTNLYTRpNlhXczdmR2tOVzFVeXdTQzhXdEpR?oc=5</link>
-<guid isPermaLink="false">73e0a893341603bf28032fe513a0a8c778266107799fedcb66e45c59c4e177de</guid>
-<source>Google News Business</source>
-<category>business</category>
-<pubDate>Wed, 11 Nov 2026 15:32:09 +0000</pubDate>
-<description>The CEO’s agenda for year-end and beyond SiouxFalls.Business</description>
 </item>
 <item>
 <title>Measles is surging in the U.S. — and outbreaks can cost millions</title>
@@ -853,33 +1032,6 @@
 <description>Bring your business context to ChatGPT, Claude, Microsoft Copilot Cowork and Grok Bot Databricks</description>
 </item>
 <item>
-<title>VCF Migration Outcomes: Measuring Real Business ROI &amp; Evidence - Broadcom Newsroom - Broadcom</title>
-<link>https://news.google.com/rss/articles/CBMipgFBVV95cUxNNUpwbUFsTF9hQ24zUG54Wklvd2NheTk4TWgzamI2akdmbHNCb0xZd3c2c2tZWGNRVkw1YTAwUzRYQ1d3ZEd4NUhtT1VDeWJ6SGRUdHF0N05pUzE5STZ4NnNVWURHYnNQOW5vd1FWaXFPUTYxS3FfNmhCVEhJX0pfVE9QZXBDM1NJTkpYSml1RlRKYVhYbzM1VEF2MGtMN1YyZWFoYW9n?oc=5</link>
-<guid isPermaLink="false">c21165ea78609ef752ed25cf33c7c1c7bdfa530f0e03e2c27b08d2a0a4e7454a</guid>
-<source>Google News Business</source>
-<category>business</category>
-<pubDate>Wed, 11 Nov 2026 14:49:31 +0000</pubDate>
-<description>VCF Migration Outcomes: Measuring Real Business ROI &amp; Evidence - Broadcom Newsroom Broadcom</description>
-</item>
-<item>
-<title>SOUTHWEST USA: Brick by Brick, Artisans Build a Business in Tucson - Site Selection Magazine</title>
-<link>https://news.google.com/rss/articles/CBMilgFBVV95cUxNYmJYNmVmbjZpblN0emdPVUNhTnk1LVEwcVJJUVpneWNLLTFhX19TOFZicExPMVNDNHd1cHZuX2FqZDRXcDJiMUdVOWtIaUlqSXR1V1VvR2RkNVRqazRFaGRha1VQTVFZN0NWcDgwdkR5clBxeXltWlZvZ3RwYUxjVDJqNGt3eWM4cjZBaXlDdHVmT2pGSlE?oc=5</link>
-<guid isPermaLink="false">11f2795e8a1002e63b9a2a499c3e44821b0674204d48849bf030c86b96dbbdf3</guid>
-<source>Google News Business</source>
-<category>business</category>
-<pubDate>Wed, 11 Nov 2026 14:47:50 +0000</pubDate>
-<description>SOUTHWEST USA: Brick by Brick, Artisans Build a Business in Tucson Site Selection Magazine</description>
-</item>
-<item>
-<title>Maine business leaders to lend a hand in Pingree transition - Mainebiz</title>
-<link>https://news.google.com/rss/articles/CBMikwFBVV95cUxNS1hvQWVINDJVOHVPRnVfN2Jmbmhqc3BNNXlJWjVvY3U0ZzNlUTQ4S1RZOTc5eEEyd3NFTFZlQlJoWU5XWXpISlhyNEZoU0trSmE3WVc3R2ZEN1VWbHdwTkFLR1Q0WFRkNGNCZlp0Nnp4aWlhVnQ2dTNkRjhvY2lwVmtJYWUxQXBCaXlvVzMtYk1pczQ?oc=5</link>
-<guid isPermaLink="false">7632c656c01202dcea3378bde38069646d4225c6e3e54fc3a5d5b031db81bcff</guid>
-<source>Google News Business</source>
-<category>business</category>
-<pubDate>Wed, 11 Nov 2026 14:36:44 +0000</pubDate>
-<description>Maine business leaders to lend a hand in Pingree transition Mainebiz</description>
-</item>
-<item>
 <title>Kim Stone Named Impact CEO by Sports Business Journal - Washington Spirit</title>
 <link>https://news.google.com/rss/articles/CBMioAFBVV95cUxQZGVBMHcxWFBPZ3A1RWE3Q3hqQ3pNeUpqajhoS2JCMU1nTFBpb2R5ZDg1X1NVbk5mODJCOEoyUTBQa3JhbHNndE5xZHJVTVZtRS0zUkVSNjVMXy1kbUE0al9XcjRNYU5LUDNEcWxDTDdVMDd3SzNvc3NPblZibU1pSV9LX2lIM3FyamRHZ1ZzRm9UYXFramZxSUNSeUpHbGdT?oc=5</link>
 <guid isPermaLink="false">84fa82a3c77cbf108ada6215564faf94543ed44e553aa08944981ac1b8ae6cb1</guid>
@@ -887,33 +1039,6 @@
 <category>business</category>
 <pubDate>Wed, 11 Nov 2026 14:27:11 +0000</pubDate>
 <description>Kim Stone Named Impact CEO by Sports Business Journal Washington Spirit</description>
-</item>
-<item>
-<title>I sold almost everything I owned before moving abroad. Now, I'm returning home with even less stuff than I packed. - Business Insider</title>
-<link>https://news.google.com/rss/articles/CBMinwFBVV95cUxNcnpVZ2xHbnA2LTM4TDQtZTlNT0psUzh2dE9LanAzcjBJMGhWdzhCQTctZExmeXZLRDBGVjQ2bEZQN2NQRVlSaF9saUo3S1ZjWFU2d1RSWDNxaWE4a2hiaWtsdGRfS1o3TUVLbXZHUjJNSkFSdEZKUXFGNXU0WWpXeklCR0dJMXFZOTVpaTNTNDdiZU10T21xZDJ4Y29yRk0?oc=5</link>
-<guid isPermaLink="false">ee896707372f39f175a1f3c373ec3e1a9c048415916778433f31c3de617a8680</guid>
-<source>Google News Business</source>
-<category>business</category>
-<pubDate>Wed, 11 Nov 2026 14:27:00 +0000</pubDate>
-<description>I sold almost everything I owned before moving abroad. Now, I'm returning home with even less stuff than I packed. Business Insider</description>
-</item>
-<item>
-<title>News | Hotel executives see strength of group, business travel demand as key drivers heading into 2027 - CoStar</title>
-<link>https://news.google.com/rss/articles/CBMi0gFBVV95cUxNcUgtamJXTy1TZTZQUC0zbmZHS1RoRXpOSEQ1dTR6ZncxTGNBXzRaOVhyYTRMN05xVFhQOEJWcnZRYTZqRXN0M25CQjlyV29KamEwT2ZNV3ZtbjItUmVyc1lzbXRkT0RsN2xOTlRtMGZHTGJ6OTFZTW5zZDQ3d09ydktOcy16eG5VQXUtMFRYZzh3ekQ3Qk1nYUlTUm1TV250M3hmZWJseG9IMF9JYnlUUzVINVM0bnlYejhaTGxGU2dkSl9XaFozendrbS1xT3luLVE?oc=5</link>
-<guid isPermaLink="false">91e78c493eae1b7f2bde930825bc6ce315669fcb7fea8d1108323688e371e32b</guid>
-<source>Google News Business</source>
-<category>business</category>
-<pubDate>Wed, 11 Nov 2026 14:21:07 +0000</pubDate>
-<description>News | Hotel executives see strength of group, business travel demand as key drivers heading into 2027 CoStar</description>
-</item>
-<item>
-<title>JBS posts $22.7B sales as U.S. beef business turns profitable - National Hog Farmer</title>
-<link>https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQkU5TTM1N1d4MElzaFZsWWJwcVBRRXVJSGJMV25YY2FRREUxNTFNUnkzSUtPbVdFNGNmR2FJWlNLRzM2Rlo2dm1iczRuQmJZODk5UXhWZE1IYUJKSTNpV2RBU29xYzFBWVFSN21yWFpVMUVOYUJrZWhGVGRxSWk2cHIyQ25vRnJzTFNYdFlOdU1xekU4YmtvVVdNV19EeWJ2SXVHSThNVEk?oc=5</link>
-<guid isPermaLink="false">6a62b7593c5de7ca8bd329f62c3e01c60107337fba19000ca3674cfacfb966fd</guid>
-<source>Google News Business</source>
-<category>business</category>
-<pubDate>Wed, 11 Nov 2026 14:00:46 +0000</pubDate>
-<description>JBS posts $22.7B sales as U.S. beef business turns profitable National Hog Farmer</description>
 </item>
 <item>
 <title>FAU’s College of Business Ranked in Top 15 Entrepreneurship Programs - Florida Atlantic University</title>
@@ -925,22 +1050,13 @@
 <description>FAU’s College of Business Ranked in Top 15 Entrepreneurship Programs Florida Atlantic University</description>
 </item>
 <item>
-<title>Attorney General credits News 6 with exposing ‘unlawful’ hot tub business - WKMG</title>
-<link>https://news.google.com/rss/articles/CBMiywFBVV95cUxPQU5kaGNVNGhtcUhCV1lhQ0JsOG5MUUFGeGl3QnZLNHNiRFluVm9Qd0tkRkJxWW9TU1NpbDREMzQtdmc5NXVWRkFKQ0NHdUJPcWdaRUJCTmZuOEtOWTVCTkp4WXdLLU5qVjFGNHluZmU4MmltRkFTX3h3VnFWVFFubDRqN1RvVjJtektKVGFaY2pZeHp1OEZWbV9NZUFzMEtSR3duVGNOM2pNLUtRSjR5TlF2M2VWRjlVMU1WYjNUek9ROHdRSm5haThQZw?oc=5</link>
-<guid isPermaLink="false">a21d568e202df0553c019c44b182e0d9d06a32e80836ea0f8dd030a96a361a98</guid>
-<source>Google News Business</source>
-<category>business</category>
-<pubDate>Wed, 11 Nov 2026 13:19:49 +0000</pubDate>
-<description>Attorney General credits News 6 with exposing ‘unlawful’ hot tub business WKMG</description>
-</item>
-<item>
-<title>Ro Was a ‘Zombie Company.’ A Reset and GLP-1 Drugs Changed That. - The New York Times</title>
+<title>How GLP-1 Drugs and a Revamp Revived Ro’s Business - The New York Times</title>
 <link>https://news.google.com/rss/articles/CBMifkFVX3lxTE1leWxHRTNIYUZMT3QyZnNMbXljelYyNUE0dnJoSXpUUXVqZVRLNzhCcFQyaERiUm8ycFdpUFlCYzhzUU9fY0lpaV9jSW14ZVVmRVBsVkxMdDNlOHVHS0pSdldxTFQ5MnVMekYtX3FIbnlBSHM1YlhIQlBDN0RDQQ?oc=5</link>
 <guid isPermaLink="false">1c18139cd69e44190aaa7929305e499c9d99685f6abeb89078aceb09e60d5934</guid>
 <source>Google News Business</source>
 <category>business</category>
 <pubDate>Wed, 11 Nov 2026 13:15:53 +0000</pubDate>
-<description>Ro Was a ‘Zombie Company.’ A Reset and GLP-1 Drugs Changed That. The New York Times</description>
+<description>How GLP-1 Drugs and a Revamp Revived Ro’s Business The New York Times</description>
 </item>
 <item>
 <title>Scaling the Rocks: Rockies are getting ready for business - Purple Row</title>
@@ -950,24 +1066,6 @@
 <category>business</category>
 <pubDate>Wed, 11 Nov 2026 13:00:00 +0000</pubDate>
 <description>Scaling the Rocks: Rockies are getting ready for business Purple Row</description>
-</item>
-<item>
-<title>Tano wants to make creator marketing as easy as buying Meta ads. See the pitch deck that helped it raise $4 million. - Business Insider</title>
-<link>https://news.google.com/rss/articles/CBMipAFBVV95cUxPUWs2YUo5VjhaTE5Bb0RqSDZCamVPMU1FZkgtTWdhTDdpcEY1ZXl1eGRCeG9oekRuLU0tT0lDUGcxUk5NTkplMWgxRHBSX2lJR3VZWDZXTDM4YkVkelhmLUtJandwWUtzcWNRajA2cE5NYkduWFlyNDJubnlqVmRTT0c1TE9EQ2VnUmE0cExDbjBoZ0hLQzFmc0NKTEtkYjNGVFd5cQ?oc=5</link>
-<guid isPermaLink="false">507e96c96cb0513511496e902f7633afb8333b7d52e6215dd5e9135cdfc7e6de</guid>
-<source>Google News Business</source>
-<category>business</category>
-<pubDate>Wed, 11 Nov 2026 13:00:00 +0000</pubDate>
-<description>Tano wants to make creator marketing as easy as buying Meta ads. See the pitch deck that helped it raise $4 million. Business Insider</description>
-</item>
-<item>
-<title>2026 U.S. Electric Utility Business Customer Satisfaction Study - JD Power</title>
-<link>https://news.google.com/rss/articles/CBMisAFBVV95cUxONjg4SlUyQkFTLUVMNWcxejZLMU1WRXlCQmJnWFI5RERBYm12Tlc0d1U4dFJick1FZkhwMjZRMkgwMnpJRWVndkVMS1F5Umk4ckYtYVZwN2l3Z2pSTzFXZDZJb2VxYzFpaUlQSDd6a3FfbzNPanVqcXhBXzhEelJJeE1EYjVQeENjMEtZUmJ5NTA0LVdTT3JnNHNqOURnajkxV3VFZmtPSW41UUo1NGZFNA?oc=5</link>
-<guid isPermaLink="false">9135868cf38dc65e9eb4e5b49fcf373faa8c0f72683000ba5d073aebed8fbe6f</guid>
-<source>Google News Business</source>
-<category>business</category>
-<pubDate>Wed, 11 Nov 2026 13:00:00 +0000</pubDate>
-<description>2026 U.S. Electric Utility Business Customer Satisfaction Study JD Power</description>
 </item>
 <item>
 <title>What are cold weather payments and who can get them?</title>
@@ -999,24 +1097,6 @@
 <description>A college student thought he'd struck gold training AI. Then he says he got burned. Business Insider</description>
 </item>
 <item>
-<title>The Biggest Threat To Tesla’s Home Battery Business Is Its Former Chief - Forbes</title>
-<link>https://news.google.com/rss/articles/CBMiwAFBVV95cUxNQjRnUzFDQUtkVm9zSGJUS1RQWmFjQlBPV0ctdlhFQXh2X1pZX29iaUgwNG1SV2doM25Qck1oR0lZMkJIeXVHdjVGMGNhX2hodUtpSjc0N3ctc1c1dVVaMlBUSnpMaDFzM2lNNDEzeldDTFg4dHFKS1J3bEd3a2tILU1uNGlWeEE0cU8tVUNNQ2QyLTlKU3gxeHNvOG5lZnhPd2xmUlEwVDZjMUZrZXVSNmZkNWdaSEpEOG1vbUk2LUo?oc=5</link>
-<guid isPermaLink="false">7cb4ad54b1655997b3ebe58f6200a0705d067099b4adfc8f41e567ea3380d3fc</guid>
-<source>Google News Business</source>
-<category>business</category>
-<pubDate>Wed, 11 Nov 2026 11:00:00 +0000</pubDate>
-<description>The Biggest Threat To Tesla’s Home Battery Business Is Its Former Chief Forbes</description>
-</item>
-<item>
-<title>Business as usual? MLB executives navigate an offseason unlike any other - The New York Times</title>
-<link>https://news.google.com/rss/articles/CBMingFBVV95cUxNaldZdVBmRXdydk11YmtscXFZMXpveU93amxIRzlBVzFuN2ZRa2p4dVVWbV9tRzNZSjl1Umt1TWdjRGQ1dmZzRTFOTkJZOU1uWUFKZzRVMDZ5UXlxUUpEakxIV0VuZ21FRkNFQUtZQU1BT28zSS0tNlVqTXcyTndfZlZzYlRURktYcjNVOTJiZGlMOUd0elZPOVZWQWJGUQ?oc=5</link>
-<guid isPermaLink="false">ecf47edad60409896caa8703ac9bd49f5ea9e7efe15f21eeac81fa85ad6c152c</guid>
-<source>Google News Business</source>
-<category>business</category>
-<pubDate>Wed, 11 Nov 2026 10:45:12 +0000</pubDate>
-<description>Business as usual? MLB executives navigate an offseason unlike any other The New York Times</description>
-</item>
-<item>
 <title>Real estate's rising stars: 20 top agents, brokers, entrepreneurs, PR pros, and more - Business Insider</title>
 <link>https://news.google.com/rss/articles/CBMickFVX3lxTE1nbzJ6UEo3LTJFNHRrd0tERTVVamFvRFdDZklJdDlWZ2Ezb3gyS3luMTB1VkZnamh0RlpWc0E5YnJYZzdxaVBnRzlOWkpZTXk5UWVxMGpqT2JudnN4cnVQNFBvYVdvaWNITlpSSmhhZzliZw?oc=5</link>
 <guid isPermaLink="false">776e70736325dc4a8dff63437d32dbec07c6e5736660ef5816ac4dfb4577b73a</guid>
@@ -1046,15 +1126,6 @@
 <media:content url="https://ichef.bbci.co.uk/images/ic/240x135/p0pmdhrq.jpg" medium="image"/>
 </item>
 <item>
-<title>Taiwan's Chip Show Will Go on, With or Without Jensen Huang - Business Insider</title>
-<link>https://news.google.com/rss/articles/CBMimAFBVV95cUxPV2d4Y2JnOTZIODM1OWZtTmJQWG9wX3ltOU85bmJHMkQ5NFVKc2VYeDMta3djcmpUZzBiUEJEQVczSUtOdVRWMVh0aDZwZEx4TkVSUFdETnF4YzlpQUVqcGRDSnEwTFVsRERQVEhSeHkwMnBwQjFUYTIxUHlVdXg3Ylh6cFNha1VTeGhUSlp5ek9mdXB5LWI3ZQ?oc=5</link>
-<guid isPermaLink="false">a6c5d5f5b350343fd3904b3205095cd4fd2f0e0184b6070bbf000b13a9b3b47c</guid>
-<source>Google News Business</source>
-<category>business</category>
-<pubDate>Wed, 11 Nov 2026 09:21:00 +0000</pubDate>
-<description>Taiwan's Chip Show Will Go on, With or Without Jensen Huang Business Insider</description>
-</item>
-<item>
 <title>Christmas toy rush being driven by squishies and building sets</title>
 <link>https://www.bbc.co.uk/news/articles/cx5ynyg6j375o?at_medium=RSS&amp;at_campaign=rss</link>
 <guid isPermaLink="false">c273b9fd9591e959b12745a4b3fd67bd6164f2835de2711f07f5e3bd871fa3f7</guid>
@@ -1066,26 +1137,6 @@
 <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/004e/live/e1c67fd0-dda9-11f1-b441-2b33b063138f.jpg" medium="image"/>
 </item>
 <item>
-<title>What we know so far about Jensen Huang's affair with suspected Chinese spy</title>
-<link>https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&amp;at_campaign=rss</link>
-<guid isPermaLink="false">e869dd4c2eff543382104bf7d7153fbe1e7c4ebd08423203da2672635a1686bf</guid>
-<source>BBC Business</source>
-<category>business</category>
-<pubDate>Wed, 11 Nov 2026 07:44:24 +0000</pubDate>
-<description>The billionaire tech executive finds himself mired in a personal and national security scandal.</description>
-<enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2521/live/6ba67640-dc03-11f1-b441-2b33b063138f.jpg" type="image/jpeg"/>
-<media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2521/live/6ba67640-dc03-11f1-b441-2b33b063138f.jpg" medium="image"/>
-</item>
-<item>
-<title>Hawaii business registration backlog hits 40,000 amid system failure - Hawaii News Now</title>
-<link>https://news.google.com/rss/articles/CBMirgFBVV95cUxQS1YySXZrTmRQU05YT3FkWnItN3ZXa2F1cms0VWNlcENXRXl1Q3dIaDVFZ1FIRGRwXzRGMUpoSWpaemxKd3pUSUtVOEZOZGNMNXg5QVpUVFlXUU5GQkNPdzRNa1ZTTlhjMEpPWm5nakNpSUEtR1RnSnE2QlZVRTJoVFc3SmJwdzJrNUhPSDVrd0YtUDZBVmJMSWZwcjBIRThOWDQxa3lIZkRHbEkwVVHSAcIBQVVfeXFMT243V0wyOEJsdmtGaGVxQTgxTE9McGVSZjFQdWl0eVRQcllTQUpXOUFvZnZnWWVuOVdJdU9xREs2bGlDa2M4SkVIN21fbnZmd3FnWlJCSS1CLWtldTM0b0xScUlxTlJMVHFfaldNU1RQcXhCdVY1TzZhQ0NFakNyWXR2cENKWEpiVjFjZWNmbkNYWVVxTzFEYlhxd19laWNfdjhrZ1kwUDNsWl9xZDlWb1M3NVdfSWZoOURUU2xyLTJoeUE?oc=5</link>
-<guid isPermaLink="false">1997f990fea4f1d522fcd54247a78bb36359abdac6a97343ed595654f3742c18</guid>
-<source>Google News Business</source>
-<category>business</category>
-<pubDate>Wed, 11 Nov 2026 05:35:00 +0000</pubDate>
-<description>Hawaii business registration backlog hits 40,000 amid system failure Hawaii News Now</description>
-</item>
-<item>
 <title>EXCLUSIVE: Nomura weighs rebuilding its Hong Kong equity capital markets business, sources say - Reuters</title>
 <link>https://news.google.com/rss/articles/CBMizgFBVV95cUxQUlV2V3N2VEgtZHRCQVRIeFhHaXczcDBFYzBtUmlMNjVxSXVESnpLWnE1cTR3V2E4aEV3b0c4SHlVWVlpTkl3OEotQS1fOHJVazJlZGROUVlzTWRNajJORW9feWQteUVvSXk2QjFiMG1PTGg3alBFZjVFWnFiZUpaVnl1bkhlU0ctTDdSOU4yTWZXemZNdU94TVJSVVc3LV9fRWdXRXhzTGx0emVQai03TTJHT0pGNFlCYS1JMjFnN1B3RVdXbDZJMHN1Nkpldw?oc=5</link>
 <guid isPermaLink="false">4c79dffdb992e0dd2fdd36c96f14c255f0d44b8ef00705cbcfb0d2e3b805a83d</guid>
@@ -1093,24 +1144,6 @@
 <category>business</category>
 <pubDate>Wed, 11 Nov 2026 05:27:00 +0000</pubDate>
 <description>EXCLUSIVE: Nomura weighs rebuilding its Hong Kong equity capital markets business, sources say Reuters</description>
-</item>
-<item>
-<title>Honda recalls more than 635,000 vehicles over steering defect that increases crash risk - Fox Business</title>
-<link>https://news.google.com/rss/articles/CBMiuwFBVV95cUxOaXkwQ21jNk5mZnNWUHFQcmFtdmtYeExkOEh4dk9MUUp4SjJfZEVmUDRNNlVaVEdxVXpwWkZjRHNnckxKODI3Mi1jZFhFRkZqWnltblZPcHJMdXFZUXpaNHA2bVRNdTVXcDRnODdreWlpZ0Vfbi1zUE5tdjcyVHFNdVZyVmxYS2JoSzFzY2d0WXp5bERBS2ZNa2VITVIwT0VUalFqUzZwVkRVTlZjbzVxbnktQmR6aGFOQmQw0gHAAUFVX3lxTE5Yb3p5aURMOTIzUnlHcVI3UEZJTTJoa3k1dDhodDJFYjZGbWVnaHMzNHR4amp5TjVQdUppcEF2cTc3UXUtd3RSSVpoQ1daQ3hrbjRhNHZBQ0xwQWZ2T1hWY2wtWEZKTnNjR3E3VWhBUkRjRS1qNzliOURVaTNCYTNnUzFjTVZWYTRXYWNHSTZjZFlzS0FPZ1ZQQkdhU2czVTZraC1rd3Y1SGgtSXEwY1k5ejZmWEJwbE1uTUlva0xCOA?oc=5</link>
-<guid isPermaLink="false">a806d37981254e5f4b82ab997da891681756f192926b34463a82506186806c24</guid>
-<source>Google News Business</source>
-<category>business</category>
-<pubDate>Wed, 11 Nov 2026 01:41:00 +0000</pubDate>
-<description>Honda recalls more than 635,000 vehicles over steering defect that increases crash risk Fox Business</description>
-</item>
-<item>
-<title>Masayoshi Son’s Huge Bet on Electrical Turbines Backfires - WSJ</title>
-<link>https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTTJ1VG9vSXAxbFhBVE5LSTlYTEVZTGFWRUM1ZzgtbGNGLXFTRHVRSWM0MUcwTzJLYXE0NXEya0ZsNUhOMl94b3RHWmVRRnlYekltaF83UWtFRFpFb3BXVm1BUk9NYzlxenAxcnFrYWZPd1lWdENBM2RFZzY1LWp0MWtwZEpCX2RBejNxa0RJRFgxTjdMRWhLcHp1bld4TlhJYnNsNEVocHQ?oc=5</link>
-<guid isPermaLink="false">bc57eaa38779c3bf46fdf1e3a73cee08d3cbc07e1f5e6d41e311f1297a27248c</guid>
-<source>Google News Business</source>
-<category>business</category>
-<pubDate>Wed, 11 Nov 2026 01:00:00 +0000</pubDate>
-<description>Masayoshi Son’s Huge Bet on Electrical Turbines Backfires WSJ</description>
 </item>
 <item>
 <title>Robot vessels take on the dangerous work of mine hunting</title>
@@ -1122,6 +1155,15 @@
 <description>The conflict in the Gulf is an opportunity for the US to test its autonomous mine-hunting systems.</description>
 <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6570/live/e6af84c0-dce5-11f1-b441-2b33b063138f.jpg" type="image/jpeg"/>
 <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6570/live/e6af84c0-dce5-11f1-b441-2b33b063138f.jpg" medium="image"/>
+</item>
+<item>
+<title>‘They would have never done it’: Musk-backed business court lands in Hinojosa’s hands - San Antonio Report</title>
+<link>https://news.google.com/rss/articles/CBMiiwFBVV95cUxPcWxGMG1UV2tZTDlRcUJ5WUY0bVR4NUtRaDUtckhSRzRvVDBtV2RqOFF2TEl4MmJCZ0FoRUE2dXo3ZEpOemFEa21KOW1JZS1yNjFReXlrXzZWU25paWNlcUs2UWY4UzV3d0NXTFlSY2Z4d3BaZUFmS0FtWmJyTGpEWXFtVUVZTGp2U1Nn?oc=5</link>
+<guid isPermaLink="false">c4f4e439b1ea9fd7815b1ebf5cfa6c00961eef1a6d146e6bbd107e44e05c3ea1</guid>
+<source>Google News Business</source>
+<category>business</category>
+<pubDate>Tue, 10 Nov 2026 23:43:48 +0000</pubDate>
+<description>‘They would have never done it’: Musk-backed business court lands in Hinojosa’s hands San Antonio Report</description>
 </item>
 <item>
 <title>Nvidia hires major US law firm to investigate alleged Chinese spy affair</title>
@@ -1151,6 +1193,15 @@
 <category>business</category>
 <pubDate>Tue, 10 Nov 2026 18:49:52 +0000</pubDate>
 <description>OpenAI rolls out new business profiles, making ChatGPT just a little bit more like Google TechCrunch</description>
+</item>
+<item>
+<title>Introducing Businesses in ChatGPT - OpenAI</title>
+<link>https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1QWl94aW1pbWMtLVFmMnN6d3NRdk5zOGFhNUNYVUJ4dkZtaG14dnpwQ1F3blgzN2hvTm5DeHV4cXV3dVdfS3JxbDVVb21MMG9sWG0tS2NYNUJTREIyYTVGNmFFdTZEdzQ?oc=5</link>
+<guid isPermaLink="false">b81727a3e30ae5a1825501353509e2df3fab977d5f51f44be8d500ef747114c8</guid>
+<source>Google News Business</source>
+<category>business</category>
+<pubDate>Tue, 10 Nov 2026 18:10:37 +0000</pubDate>
+<description>Introducing Businesses in ChatGPT OpenAI</description>
 </item>
 <item>
 <title>Claude chatbot maker set for $1.3tn stock market debut despite 'catastrophic' AI warning</title>
@@ -1330,15 +1381,6 @@
 <description>The quarterly results are the first since Lucid CEO Silvio Napoli, who started leading the company in June, announced a restructuring plan.</description>
 </item>
 <item>
-<title>Introducing Businesses in ChatGPT - OpenAI</title>
-<link>https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1QWl94aW1pbWMtLVFmMnN6d3NRdk5zOGFhNUNYVUJ4dkZtaG14dnpwQ1F3blgzN2hvTm5DeHV4cXV3dVdfS3JxbDVVb21MMG9sWG0tS2NYNUJTREIyYTVGNmFFdTZEdzQ?oc=5</link>
-<guid isPermaLink="false">b81727a3e30ae5a1825501353509e2df3fab977d5f51f44be8d500ef747114c8</guid>
-<source>Google News Business</source>
-<category>business</category>
-<pubDate>Mon, 09 Nov 2026 22:38:57 +0000</pubDate>
-<description>Introducing Businesses in ChatGPT OpenAI</description>
-</item>
-<item>
 <title>Zoe Kleinman: Nvidia CEO's affair will cause ripples across US and beyond</title>
 <link>https://www.bbc.co.uk/news/articles/cj3vqv3nee72o?at_medium=RSS&amp;at_campaign=rss</link>
 <guid isPermaLink="false">a4177bf4c6759b03f7a9a4d266ae38a887d102df5ed3c75d0d34e552c173ca8e</guid>
@@ -1386,17 +1428,6 @@
 <category>business</category>
 <pubDate>Mon, 09 Nov 2026 19:04:02 +0000</pubDate>
 <description>Poppi founders Allison and Stephen Ellsworth are launching Jetty, a hydration brand selling bottled drinks and powders at Whole Foods, Target and Amazon.</description>
-</item>
-<item>
-<title>The facial recognition technology stopping shoplifters</title>
-<link>https://www.bbc.co.uk/news/videos/c5x2v2kpwzgvo?at_medium=RSS&amp;at_campaign=rss</link>
-<guid isPermaLink="false">fdd198215ab44f4a7bfee0131face2734e3cd18a5550a03982a353a81ad54eb1</guid>
-<source>BBC Business</source>
-<category>business</category>
-<pubDate>Mon, 09 Nov 2026 19:00:43 +0000</pubDate>
-<description>Business correspondent Emma Simpson tries out Sainsbury's facial recognition technology.</description>
-<enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/76aa/live/83bb9250-dc6d-11f1-b441-2b33b063138f.jpg" type="image/jpeg"/>
-<media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/76aa/live/83bb9250-dc6d-11f1-b441-2b33b063138f.jpg" medium="image"/>
 </item>
 <item>
 <title>Honda to invest $3 billion in new vehicle assembly plant in Ohio</title>
@@ -1464,17 +1495,6 @@
 <category>business</category>
 <pubDate>Mon, 09 Nov 2026 14:30:01 +0000</pubDate>
 <description>Lilly plans to file by the end of the year for U.S. approval of the daily pill for moderate-to-severe obstructive sleep apnea in adults with obesity.</description>
-</item>
-<item>
-<title>Government's EV targets expected to be reduced this week</title>
-<link>https://www.bbc.co.uk/news/articles/cqkg5g2970epo?at_medium=RSS&amp;at_campaign=rss</link>
-<guid isPermaLink="false">82a1fdfc33e530be68e9da097d3f9621ee8250f92fc5846399535ad23086c39d</guid>
-<source>BBC Business</source>
-<category>business</category>
-<pubDate>Mon, 09 Nov 2026 12:06:22 +0000</pubDate>
-<description>New petrol or diesel cars are due to be phased out by 2030 and by 2035 all new cars must be zero emission.</description>
-<enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b401/live/fd7836e0-dbdf-11f1-b348-cb75a5659779.jpg" type="image/jpeg"/>
-<media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b401/live/fd7836e0-dbdf-11f1-b348-cb75a5659779.jpg" medium="image"/>
 </item>
 <item>
 <title>Restaurant chains refocus on food quality to bring back diners</title>
