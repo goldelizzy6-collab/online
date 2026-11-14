@@ -4,100 +4,783 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
-<title>Listen to Off The Ball</title>
+<title>Listen: Sportsound's Fan Zone</title>
 <link>https://www.bbc.co.uk/sounds/play/live:bbc_radio_scotland_fm?at_medium=RSS&amp;at_campaign=rss</link>
 <guid isPermaLink="false">de851c45da54f2914688d9227927930d4efe441b080710529ae91c473a939498</guid>
 <source>BBC Football</source>
 <category>sports</category>
-<pubDate>Sat, 14 Nov 2026 14:00:00 +0000</pubDate>
-<description>The most petty and ill-informed football show on radio.</description>
-<enclosure url="https://ichef.bbci.co.uk/images/ic/240x135/p0d5ff0c.jpg" type="image/jpeg"/>
-<media:content url="https://ichef.bbci.co.uk/images/ic/240x135/p0d5ff0c.jpg" medium="image"/>
+<pubDate>Sat, 14 Nov 2026 19:00:00 +0000</pubDate>
+<description>Reaction to Saturday's Scottish football as the fans get their say.</description>
+<enclosure url="https://ichef.bbci.co.uk/images/ic/240x135/p0pgfrw8.jpg" type="image/jpeg"/>
+<media:content url="https://ichef.bbci.co.uk/images/ic/240x135/p0pgfrw8.jpg" medium="image"/>
 </item>
 <item>
-<title>College Football Today: Week 11 Scores, Top 25 Games to Watch Now - Sports Illustrated</title>
-<link>https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZzgzeVBnWFkyT3VWXzZlZTNkMDRQZ01Ncll1N2ZpbDB4c19MbmFSMFpUdmNDUUhlR1RtdmZvTmtoVTcxamUzVHJrd0VyRXNUYXl0ZXpGT3VHRUcxZEppMXRLVXJ1WGw2dlNuc0N0ZGJQMGxubzFoUUxJZmMyTmpqM3AtLXpUbXR3MVdpZGYxX1F6QUhYVkRSUlB0MmN4dnh1YVhOVVh1SUd4WkN1Vjkzek1KcjN4aFVM?oc=5</link>
-<guid isPermaLink="false">bef2de646fa51d63fede3180797d20df387eb801794959825e10e9f0c1576856</guid>
+<title>USC vs. Indiana odds, prediction, game time: Week 11 college football picks by proven model - CBS Sports</title>
+<link>https://news.google.com/rss/articles/CBMiwAFBVV95cUxOWThoUk1BdjR6MjFPSFVEd3pPTnFZY1BFX0hMVXhmMkFIR043OFJfM01zR0FJbzZvdGdKanQ1WE9LaGJONWZ4LWJTZVc1bVU3bkRrNmtaT0NMNDNPTXdLaUd0YVR2QjZwb0J2NGJCWlQ3eTU1Y3dmYkVSOGQtWGJtUTFkU2tjUnhlbFdRNmJMbzFhYmFQSHBVQUF3a2YwNFRFLUMxQlJNRm9aalQ3ektueU9lUE1ZV2lJQjhKVk4wQ3o?oc=5</link>
+<guid isPermaLink="false">addebe1db0ffec66e6184a70b0ccdfaa9c9d4b3ea2236401b92587fb7708b754</guid>
 <source>Google News Football</source>
 <category>sports</category>
-<pubDate>Sat, 14 Nov 2026 12:26:20 +0000</pubDate>
-<description>College Football Today: Week 11 Scores, Top 25 Games to Watch Now Sports Illustrated</description>
+<pubDate>Sat, 14 Nov 2026 18:00:44 +0000</pubDate>
+<description>USC vs. Indiana odds, prediction, game time: Week 11 college football picks by proven model CBS Sports</description>
 </item>
 <item>
-<title>Rahm launches ball into water after four-putt double-bogey!</title>
-<link>https://www.skysports.com/watch/video/13612169/dp-world-tour-championship-jon-rahm-launches-ball-into-water-after-four-putt-double-bogey</link>
-<guid isPermaLink="false">ae658c8521866c6f4b09e7e8f5ef81b6aebdbe5e13c869ace765b418c19cbafe</guid>
+<title>Indiana Football vs. USC Live Game Thread: Updates, Highlights, Analysis - Sports Illustrated</title>
+<link>https://news.google.com/rss/articles/CBMisgFBVV95cUxOS0lMakpyeXJ1enlOX3NDVW5DQ3F0VUN0ci1saF81WERkY1hKQ3RoUkpTVUZOb240WHg5NmZXeW15QXZPaUhmUWtuUU1VeFNBYk05V2trWTJJX0Fra0NnM3IyTTkyN1M3Tkx4bnRwdWFlVTRuYW1rSndXSjhlNFVncFpRLVZXckhrLUIxa2R2U1h0eVZaSHM2Zjl3ZzhZYzdhM01XcHVsZERvYjlOLXpab2hn?oc=5</link>
+<guid isPermaLink="false">552f84084c6a9e4eed5b0395fdfe4666f5732535683feb3364e5a2cfc93d203a</guid>
+<source>Google News Football</source>
+<category>sports</category>
+<pubDate>Sat, 14 Nov 2026 18:00:01 +0000</pubDate>
+<description>Indiana Football vs. USC Live Game Thread: Updates, Highlights, Analysis Sports Illustrated</description>
+</item>
+<item>
+<title>Vanderbilt vs Alabama football score updates, start time, TV channel - The Tennessean</title>
+<link>https://news.google.com/rss/articles/CBMi7wFBVV95cUxOYTB6SnZmUlNDaTF0MmJZVEdwZU5LOHFjbXg5ZEkxR3Q5R3JjdEpFSUdTdWtMU3owRV9xU2xoX2NBZTk3RjFNR085SDB0NUVyeDRFMDhqSjktSjN3UGo2dDI2MkRoSFpmUE45SnFYZjJBSjBDVFpHakxieTQ5YUJKSWRuN0lvSHQ5Z2p6WE5PRUFIVWtWcGtqb0JuVkFELTFlX3dYNWZEb05ia1Bfa3UzTTctRmxFVlIyLTdZcmNXcjNKNWhNWWNlTl9rTTA5ZzdySFpnNWdzS3ZFQ3NBV2hsMldMeGFua2U5UWthZEdJTQ?oc=5</link>
+<guid isPermaLink="false">243a58e35e7dc5b51782aaea576fbc9be4f5a73ddbef99d0181c5a8a2c481c21</guid>
+<source>Google News Football</source>
+<category>sports</category>
+<pubDate>Sat, 14 Nov 2026 17:55:00 +0000</pubDate>
+<description>Vanderbilt vs Alabama football score updates, start time, TV channel The Tennessean</description>
+</item>
+<item>
+<title>Alabama makes surprise quarterback move for Vanderbilt game - AL.com</title>
+<link>https://news.google.com/rss/articles/CBMiqwFBVV95cUxNV1VPb2dwX3hoY1ZoVWRaV0ZCbS1fN1BJTG42ZTRhaVlsQWRtYlBMbUtwaGQ1STVBOUJENE9WVGxPb00wc2wzc1pCdE9NUHN0NnAtY2szemhqYkJzdVJXeG5FV0J0SG0ySUh2ZnA5amxFUHc5NjB1SWNKQzJma1pZdkxBSnMzZ0JUOXdkTjlYSGFpV3RXZk0xd2xGSm94M21KMjBCZXd2cEFNLTA?oc=5</link>
+<guid isPermaLink="false">061f5e88cc215a9cef8e34d41940adc00c5abb1ce83edaae65e10565632271d4</guid>
+<source>Google News Football</source>
+<category>sports</category>
+<pubDate>Sat, 14 Nov 2026 17:52:00 +0000</pubDate>
+<description>Alabama makes surprise quarterback move for Vanderbilt game AL.com</description>
+</item>
+<item>
+<title>2026 Alabama Crimson Tide vs Vanderbilt Commodores Game Thread - Roll 'Bama Roll</title>
+<link>https://news.google.com/rss/articles/CBMixgFBVV95cUxPTVlQRHB6dXM2RGgySHVfLTF1X3M3T0luUzN5T1FNNnZyZ1VKb0FTTFZYZDVRaC15SmlleFpHT081ZEZNRkstenAxNkp4VEsxNTFydTRMeDhVVTZJeWNfVW9GWU1HazZZT2pXOFhKWWdya0hGYjVxYTA5TUcyN0NxNV9EUzY1d3plcVVLVUxfV2JBbGI5VVpWYmlHSGlwRWEzMEdkdnRMcHpuY24zb00xanI2TDVXZnVBZmFUdGotcnNFcE5jd2c?oc=5</link>
+<guid isPermaLink="false">5ad8b83ed0b22a10c2d1ca2c13bd8baa77b42cc542b2ff64923315cc8489738b</guid>
+<source>Google News Football</source>
+<category>sports</category>
+<pubDate>Sat, 14 Nov 2026 17:49:46 +0000</pubDate>
+<description>2026 Alabama Crimson Tide vs Vanderbilt Commodores Game Thread Roll 'Bama Roll</description>
+</item>
+<item>
+<title>College football’s soundtrack is fading. Where have the marching bands gone? - The New York Times</title>
+<link>https://news.google.com/rss/articles/CBMinAFBVV95cUxOTGVUUDdBSjdVMEpTY19iRzRtUllfSmRSXzFfWkJNUDNzbUJvaEhqdTNDSDVVNzRMU3dIVUJBVnExakJSMGxKY3FwNXQzczBBeHoxd3NKM1ZuZHo2VDZTc2hQZ2tzSHVveXQ0RUo0VlVnMW1saVJIdFZNYng2VHlnNG11U3FOdi0xeGN0SXZRZENpOWRXbGZLM0d3M0U?oc=5</link>
+<guid isPermaLink="false">d2fefcf8b23606876df275633c7be80b555d16a316127b3f09533036ebbc68dd</guid>
+<source>Google News Football</source>
+<category>sports</category>
+<pubDate>Sat, 14 Nov 2026 17:44:00 +0000</pubDate>
+<description>College football’s soundtrack is fading. Where have the marching bands gone? The New York Times</description>
+</item>
+<item>
+<title>USC football vs. Indiana: Live updates, start time and how to watch - Los Angeles Times</title>
+<link>https://news.google.com/rss/articles/CBMirwFBVV95cUxQS25tVXhTQkIzUk5zTTloaFc0SVNld2d4SW5nUUlZY0xDR2ZDQzhUaTNuWmdScHJmNlBHQWxqUjZsdkwwcTRDQWl0UEVTY3VicmFBR0dXT05LTVlCWWo5enBlY0JRZnZLSjlKYU51TFN3aDBoWEhCSnl6cDM1MzVCUVcxVzFpVURzRFMxUW9OYi12dWZ5Y0JjTGZoQXVXYzBtSHp4R2o2bUl1akpWcG5J?oc=5</link>
+<guid isPermaLink="false">2712f18f228cb64374768c156bf0a2575ebc8d7defce44ca53dbe81047cf0458</guid>
+<source>Google News Football</source>
+<category>sports</category>
+<pubDate>Sat, 14 Nov 2026 17:30:00 +0000</pubDate>
+<description>USC football vs. Indiana: Live updates, start time and how to watch Los Angeles Times</description>
+</item>
+<item>
+<title>Auburn football vs Mississippi State kickoff time, TV update: How to watch - Montgomery Advertiser</title>
+<link>https://news.google.com/rss/articles/CBMi8wFBVV95cUxQbS01VkZKRkcwSG00UzJWaXcxSXByZ0JtdXRVZnZhSDRPSS1GTXN5UTE0djZtNEFhM3RFNFRHYkszbGlxWldIYWY1ZzhwUm1uZVFqdGpTUUtqTE8zZHJsVEFOaXZZTE44SFZrZGkzcGZqS25iamlyMVZQaTZ3eTRCNldkdkxPbjVSNmQzdmR6T0wtNkg2ZHBRSXFsU0xrZ1RzekJNd2g0SThEMS1Kc0RTZ0ljU0xmVk9tZVhXWDkxWkI3SG95NURUWUxETlhxdDh6REduaDMwQ1VURHEwSk9RbC1lcGlSUUVwQ3ZOMnNkNHdMUlU?oc=5</link>
+<guid isPermaLink="false">9bbb63855800f588bb39a20cd4d050d6a1a307b117f3d87e32cdbed87eb0c7c0</guid>
+<source>Google News Football</source>
+<category>sports</category>
+<pubDate>Sat, 14 Nov 2026 17:28:00 +0000</pubDate>
+<description>Auburn football vs Mississippi State kickoff time, TV update: How to watch Montgomery Advertiser</description>
+</item>
+<item>
+<title>Boston College vs. Notre Dame Livestream: Where to Watch the College Football Game Online for Free - The Hollywood Reporter</title>
+<link>https://news.google.com/rss/articles/CBMitgFBVV95cUxOcVFVVVVJSUxvb29KUzc1aDdIUk9RU2hFMWYyOXNRWkVmNG9wd0NESFJiOWlsa3V2eVdJcDA1LU1iTENvSlB4SmJGQ09JUElkaWY4MFh6TVhJSEQ4OHhienljVXVHN0ZKckpYV1F1UG5mVzNWVGtacTNzNFc3OVQ5azI3eE1GSVJvS3pRVFNia29JT0VpRlRIR2Z4dFhLQm1WN2JnbWFwc3dyYkZMZkNyMTJLNmNlQQ?oc=5</link>
+<guid isPermaLink="false">f07cfe9542fc743a5b719a663c38aa3c9ba273e331bb2582e0d0284a1fc430ba</guid>
+<source>Google News Football</source>
+<category>sports</category>
+<pubDate>Sat, 14 Nov 2026 17:26:28 +0000</pubDate>
+<description>Boston College vs. Notre Dame Livestream: Where to Watch the College Football Game Online for Free The Hollywood Reporter</description>
+</item>
+<item>
+<title>Tragedy Strikes Rabun Gap, Georgia Football with Passing of Star Player, UGA Commit - Sports Illustrated</title>
+<link>https://news.google.com/rss/articles/CBMiyAFBVV95cUxPOEdFOFpqbzVWc0NDc1RoWm9uV3BkMVc4cGF5aVBsMnRIcVl6TlZMZW9qc1pIY0piN3lCM2FET3pKUUtwd1BCQjdTUnY5RGxzRlBYMGhSbHdXWHo3ZTZZVEJSYnBmQkhKd3lJWjV5UzZpRjNkS19Sb3AydkI5VTFTakIyRTJjODkxaE1DREpkVFgwZFBrUFZLQnlCUlVWSEF2aS1vX2QzMVlSRG9uMlUyUVlDX2YxTFFmbUJKb0FuWXFnU3JTaXUzMw?oc=5</link>
+<guid isPermaLink="false">f827fa7224e2785e6d63b4b40bc0dd3f1a51b4b3907e03db467df65937ccd323</guid>
+<source>Google News Football</source>
+<category>sports</category>
+<pubDate>Sat, 14 Nov 2026 17:23:53 +0000</pubDate>
+<description>Tragedy Strikes Rabun Gap, Georgia Football with Passing of Star Player, UGA Commit Sports Illustrated</description>
+</item>
+<item>
+<title>Minnesota Football Team’s Flight to Penn State Delayed by Nationwide Ground Stop - StateCollege.com</title>
+<link>https://news.google.com/rss/articles/CBMi5wFBVV95cUxQdmdTcGxsRzkxMVhpZFptQ0prR2d6R1BMUTMxa25pNU4tejIwb29MaWVXWVZfTXJseUtnMGc1dkotY1pOWmE3cW9ZdUk0MHNnOE9yem5rYWRSeUxENElWd3FtSXJKTGN2S1ZNVm9nYWN6cFhJT1JUUjFkMk5sLXNKeno4V0tJRkhFOGd2NlhnRWMxTFFhLWdQWmtsaFlCazhNb2xZWGhlTEJXdTVZMUNwNXA3VUllWDc3VmdKNlhOaHlKSGZZajFGVTNyN0ZXaTRBTUlrUmNvd1hWS05JWF9nNzE2Q2FmZjA?oc=5</link>
+<guid isPermaLink="false">05587220ef1a25bc064d616947a790ca83398216335d01dbe3e0fc02b7bcfe29</guid>
+<source>Google News Football</source>
+<category>sports</category>
+<pubDate>Sat, 14 Nov 2026 17:13:00 +0000</pubDate>
+<description>Minnesota Football Team’s Flight to Penn State Delayed by Nationwide Ground Stop StateCollege.com</description>
+</item>
+<item>
+<title>College football Week 11 top 10 games: Texas-LSU, USC-Indiana and more - The New York Times</title>
+<link>https://news.google.com/rss/articles/CBMikAFBVV95cUxQMGgwRkpMQmZSMWM0VVBJRlY4VDZKZ3g4RGVPVnhYWEExZlFKa1pPb2JrZ1pRcjBubXlEbWphNFh5bms5NERkeHItMGthU0tIZkFpUll3SzNRN3BCSGRqcFpLTUI4RFVyU2xoYTlKX1pDcTBZaElLcDZEOVB6S0MxVEtUVjBJb05ab3R5bV9qU1I?oc=5</link>
+<guid isPermaLink="false">9990eec52dbf887a37ad4e521658ce61ee59bade6c408863c6001f930c40d7f0</guid>
+<source>Google News Football</source>
+<category>sports</category>
+<pubDate>Sat, 14 Nov 2026 17:11:00 +0000</pubDate>
+<description>College football Week 11 top 10 games: Texas-LSU, USC-Indiana and more The New York Times</description>
+</item>
+<item>
+<title>How many college football teams can still win the 2026 national championship? - The New York Times</title>
+<link>https://news.google.com/rss/articles/CBMirgFBVV95cUxOMEVPMXBQTmdtWnlKek1IZ01lM0FLWlpEY1lWOThQZ2dXdVhnSXQ4THV0NEpiTVVPbXZYTDVTR0wwdlFJZ0Z0dWQxdXo3ZE9HTHM2SjB5UXo2LXplYldSWFJPR1dRcW1RZVBrSkcxNUljVlFRYUd4ZkRhWG5QQWdMLU9CVmI2TVd1OWl3N1VPbV9yb0lxeS1xaWtmZ01ZTmN3TEVoSDBoaF9DNkxmRWc?oc=5</link>
+<guid isPermaLink="false">e77796dadb22cf78adc29b726beefd52e44bc9ba0fb13ed32e0e3de81c02b2e1</guid>
+<source>Google News Football</source>
+<category>sports</category>
+<pubDate>Sat, 14 Nov 2026 17:11:00 +0000</pubDate>
+<description>How many college football teams can still win the 2026 national championship? The New York Times</description>
+</item>
+<item>
+<title>Will Gophers vs. Penn State kick off on time? Latest after Friday’s flight delay. - Star Tribune</title>
+<link>https://news.google.com/rss/articles/CBMi1AFBVV95cUxOMEQtcWFvdjI2NkNEREtsT0ZjN2NlZmhMRkpVQ0lncTRINVIxZjR2Q00tVzBuNW1tX3FJNWl3bVpzZldZS3RtUXBjUGlCUTBKQ1o5X183LXRHczZvTUhtQXcyb0ZkbE9rOEFkWUptX2JMWDdHei1BS2RZOTNXUVB5bEo2Q3ZRMU1vZGEySjlnTkR2U29UYlJSeVFpaDZCaWh5azVuaFZrbEpsb0FncldzY2RZaGtKa1oybTZ0UmhPeTVIOGxQXzA5Xy13bnJzQTFhWmhGRw?oc=5</link>
+<guid isPermaLink="false">0ea2f7ca58e7768ac64df436d84bf3ee972841c012b76065783df50eecf29cca</guid>
+<source>Google News Football</source>
+<category>sports</category>
+<pubDate>Sat, 14 Nov 2026 17:10:10 +0000</pubDate>
+<description>Will Gophers vs. Penn State kick off on time? Latest after Friday’s flight delay. Star Tribune</description>
+</item>
+<item>
+<title>Michigan Football’s young edge rushers are a bright spot in a down season - Yahoo Sports</title>
+<link>https://news.google.com/rss/articles/CBMijgFBVV95cUxNTTJEX1RZNERERktNWVc1U1I2RV9oaTgyd2hXcS1pdEZhR3p2R0JhQ3UtOVM0aHhqQk1nNHZLWk5kaWJjWk5SV0I1SGs2OUpTSXdBMVhXMDZLcUZobzM0cTJTOVdKbWtfUDdJNGhqSnlIQUF5dUpTSlYwblZyaEdNbllycWRQYzdNbUNFUkdn?oc=5</link>
+<guid isPermaLink="false">86a960fa5982bcc596b6df148abb6c92691dd5e51678edd97c2b3381579c66cd</guid>
+<source>Google News Football</source>
+<category>sports</category>
+<pubDate>Sat, 14 Nov 2026 17:00:00 +0000</pubDate>
+<description>Michigan Football’s young edge rushers are a bright spot in a down season Yahoo Sports</description>
+</item>
+<item>
+<title>A timeline of Tennessee football's unprecedented trip, flight delay to Texas A&amp;M - Knoxville News Sentinel</title>
+<link>https://news.google.com/rss/articles/CBMi_AFBVV95cUxNU3BWTjhaMkgtc1U0cDg5RHkyaHZtMXZmeDVaa1dhR0ZxZzNGZmo5b3VxSWcwWl80MzFBM05zNFJIU0pSYnRMTXY3WTdGUmJWQjlEa3RpRXc0UGU3R2JLR3B0UExkY0ZqanhDWTFMcENGbTZyLWhEZHBwWXFMMEZMVXp5akpNUVIwb3JZblUwNWRFTlZ5UnU5ekszSHFxSjhUSUxxWWVsWVgxOVc2WGN6ZDBzWmpfY25hT0tDQkxIQWVVTXlJY1ctcnBVYW9fcEswQzhRYy04N3lRVk44ZnE1VW01RTBpQUFucVlaRm5WNzVmakdCcW9nYjJoY1M?oc=5</link>
+<guid isPermaLink="false">8ae6edeb2277b40ac90f6594ac71e6ca5a01642e057b2d76dc4ec92a48af9dad</guid>
+<source>Google News Football</source>
+<category>sports</category>
+<pubDate>Sat, 14 Nov 2026 16:58:00 +0000</pubDate>
+<description>A timeline of Tennessee football's unprecedented trip, flight delay to Texas A&amp;M Knoxville News Sentinel</description>
+</item>
+<item>
+<title>McKenna to defend world title live on Sky Sports on December 4</title>
+<link>https://www.skysports.com/boxing/news/12040/13612036/aaron-mckenna-to-defend-ibf-middleweight-world-title-against-jevgenijs-aleksejevs-live-on-sky-sports-on-december-4</link>
+<guid isPermaLink="false">bf8a86e5a866431ef7c9d4daa68a40634f3d392978c429d52989f37df1b51644</guid>
 <source>Sky Sports Football</source>
 <category>sports</category>
-<pubDate>Sat, 14 Nov 2026 12:11:00 +0000</pubDate>
-<description>Jon Rahm launched his ball into the water after four-putt double-bogey on the 16th hole.</description>
-<enclosure url="https://e0.365dm.com/26/11/1920x1080/skysports-golf-dp-world-your_7406368.jpg?20261114121524" type="image/jpeg"/>
-<media:content url="https://e0.365dm.com/26/11/1920x1080/skysports-golf-dp-world-your_7406368.jpg?20261114121524" medium="image"/>
+<pubDate>Sat, 14 Nov 2026 16:50:00 +0000</pubDate>
+<description>Aaron McKenna will defend his middleweight world title on Friday December 4, live on Sky Sports .</description>
+<enclosure url="https://e0.365dm.com/26/11/1920x1080/skysports-boxing-announcement_7403615.jpg?20261111080504" type="image/jpeg"/>
+<media:content url="https://e0.365dm.com/26/11/1920x1080/skysports-boxing-announcement_7403615.jpg?20261111080504" medium="image"/>
 </item>
 <item>
-<title>Timnath football dominates 3A opener for first-ever playoff win - Yahoo Sports</title>
-<link>https://news.google.com/rss/articles/CBMijgFBVV95cUxQMEtudjRTWGFpekg0R1ZKSklsc1VJQ04yWUgyUngzanZzdnUzcmQyUTFuTUpPV0c4Ql9YbHFhR1ltbmRtSEZXbXpFN242NDZXME9LVlZPQmszdm00eXU3b1dwVDAwU0RlSnY3dUp6SUZwQzM1eWp2VldyczRiSEVheGEya1Y2RmFMQ1VxaGF3?oc=5</link>
-<guid isPermaLink="false">f523e46ae2bc8415a41e9dfb09bd4946d5fa5483e3a2b524c04b533aee379eab</guid>
+<title>How to watch Alabama vs Vanderbilt: Live stream College Football, TV channel - Yahoo Sports</title>
+<link>https://news.google.com/rss/articles/CBMiiAFBVV95cUxPc3JGVVI0Rkp5Tl9OVFYxYTBBOUZYSFd1UDFXSHZENzh2OThvSHA1UFN1QUlETF9SWXdkOGVMelVpWUNIRWFoLUF6RXlLWWRlclNseU9nbGNTMFYyVjYzZENUeFdGSktHTzRsaXM1UVpCa3lWd0E1M0pkWUZNZGk5TU1TSTlxZVpW?oc=5</link>
+<guid isPermaLink="false">b753a0a8d83d6d88dcf1b2e224e5774685446a42c6ce2dfe45d52ee253717802</guid>
 <source>Google News Football</source>
 <category>sports</category>
-<pubDate>Sat, 14 Nov 2026 12:03:59 +0000</pubDate>
-<description>Timnath football dominates 3A opener for first-ever playoff win Yahoo Sports</description>
+<pubDate>Sat, 14 Nov 2026 16:45:00 +0000</pubDate>
+<description>How to watch Alabama vs Vanderbilt: Live stream College Football, TV channel Yahoo Sports</description>
 </item>
 <item>
-<title>3 things to know about Austin Mack before Alabama football takes on Vanderbilt - Yahoo Sports</title>
-<link>https://news.google.com/rss/articles/CBMif0FVX3lxTE00WDhRczBEbDlaWXBiREgtRkJNLVIyUUNQUDFKMFFCZ3c0QXdDSVFYSzduUHpNVTh5bWRPREV3RHZ4aVlGZ1BKaEVmOUh1bmtDOEdvOG4xOVdYTGxWallOeTdJRjRhWDZxRDFUdmlFeEpCUGtVenRiV0xoWUNqRWs?oc=5</link>
-<guid isPermaLink="false">540699bc09477eeaaa1060e28e228ba5310634e88e5eb7aaefe4fb9b7365066a</guid>
+<title>Oklahoma furious over Ole Miss game move to Sunday; SEC threatens forfeit - USA Today</title>
+<link>https://news.google.com/rss/articles/CBMi1wFBVV95cUxPSEQxSmxMNjEzMjRqWmVuc1cyYjh0NXplR2VtVEtlY0Z5T0RMV09sV0k0TnBpNF9LV3FnMjk5UGJQOVhMTE0xSmxDQ2JkcUpQd2U2dzY0M1FlcjRiemVtcHpITVRzX0RjNU1SWmktMlZ6bnQ0VGZQQ082VENHc1hPa2ZrMTFFaW5jdnJOai1YOFJyZTJXSlZpNUhBSWstWnZiZUJxS21NTWZmRUgxZXdWeHZvdG10dE1yNUpZMU9pcTF3Z0U2MzFINnBSZ0RzOEdPczZSX3BrUQ?oc=5</link>
+<guid isPermaLink="false">7fa6f7aa5c403652341e9e4acfc061d989bdb48c58ef3ca8e4b6fa2df67b2434</guid>
 <source>Google News Football</source>
 <category>sports</category>
-<pubDate>Sat, 14 Nov 2026 12:03:00 +0000</pubDate>
-<description>3 things to know about Austin Mack before Alabama football takes on Vanderbilt Yahoo Sports</description>
+<pubDate>Sat, 14 Nov 2026 16:38:00 +0000</pubDate>
+<description>Oklahoma furious over Ole Miss game move to Sunday; SEC threatens forfeit USA Today</description>
 </item>
 <item>
-<title>Why are there football lines at Audi Field during Spirit-Utah NWSL semifinal? - USA Today</title>
-<link>https://news.google.com/rss/articles/CBMizwFBVV95cUxOVm9uTWZiTWVaOFZqTnQ0d1RIbEhjVXNteFBRUkV3UFd3MmhhVE9hUVpiZzFLOHNXcnNkV3I5dllGMVc5azg4dUp1Y05Cd29fTEJtRXJHdjdLM2hxcW5wNDMtX1dOVzVmajdXMzZORGRkSHNpWkZmVl9lSjU3dUpLVHY4TlRXOWt6VDNZWmk4dTl6THhEZ0hoY3NrNHZxVDRxVFdKWWtSR3JMZ0d5TU9FVC0zV1dEeXhndlJtc3A4N2RzRUJqNWJJejZPeS1CbHM?oc=5</link>
-<guid isPermaLink="false">7d9b404afb3dd6f7240771a89a64e25e28dc57326497202c5f63c87b4c636533</guid>
+<title>How to watch Georgia Tech vs Clemson: Live stream College Football, TV channel - Yahoo Sports</title>
+<link>https://news.google.com/rss/articles/CBMihAFBVV95cUxQVk9VVFp6aG9NY1o0U0c3VFdJSk9LbDk2bklFNlVyUVI5T0lNSy1jd3J2M3ZVRkFRUFFXczktX0hHcE9kVjRCN0RiZmQ4bkQ0VzJabjR6NFo3UThuVEZRSWt3X0R1ZG9XMGdWbkdYeVNSV21aRUgyY1g1N3hCdS1uWHV6N1I?oc=5</link>
+<guid isPermaLink="false">19667461532455d2fc67bdc9b13e0d9a6fe3e8e1847765a27964c8c601184532</guid>
 <source>Google News Football</source>
 <category>sports</category>
-<pubDate>Sat, 14 Nov 2026 12:02:14 +0000</pubDate>
-<description>Why are there football lines at Audi Field during Spirit-Utah NWSL semifinal? USA Today</description>
+<pubDate>Sat, 14 Nov 2026 16:35:00 +0000</pubDate>
+<description>How to watch Georgia Tech vs Clemson: Live stream College Football, TV channel Yahoo Sports</description>
 </item>
 <item>
-<title>Penn State vs. Minnesota Prediction, Odds, Picks For College Football Week 11 - FOX Sports</title>
-<link>https://news.google.com/rss/articles/CBMif0FVX3lxTE9aRDlHZTQxbnZidlgzZ05XMkl2Y3dUajg2eER2MXZCSXdlX0tIZFNicjVCM2Q2dFlncENSc3ExWWU5MW5UZUFOQm43T2lnNG9pYzJDUVBES1RETU44c0g4NTJrcXV2ckJsSVpSSUxQVmlxNWlQVE52b3lPWlY3OU3SAX9BVV95cUxPTWszTUZ0WkUzTzF6TnNTTWhGWmpPQjVURVVDUFhaM0hJaW5xWlpOal85LXRMMlB4NXFZSHdSLWQ2a0E3Z1RMdmlkcjF2QW9VQVozVHlQb2ZoNURGbFp4N201X2RsSWtPNHJLLWNWVDBYSHNscU5CTlhqM3lYSFl3?oc=5</link>
-<guid isPermaLink="false">ae293a87f107835b479c75e6640d3aec6eba2f774b11d67a7641c4b4213844e9</guid>
+<title>One of the biggest upsets of the high school football season took place last night in Florida | OutKick - Fox News</title>
+<link>https://news.google.com/rss/articles/CBMikwFBVV95cUxOLWwyVGZvNS1BRFV4VGl2ZlE4aFJvWHNJc2M3SENaei0tSWhYV054Uk91dGdNN1cwMjdPLVhNVzNSbVBwUmthaUNlc2IzV0ROLUJObVFRSHcxNEhqUmFzZzRTTVhZRmhYaEdyZHphckUzN2YzZ0ZvZm9MZjJHdm9xbjVDY2lPSmU2Nkt6M09IRjAtYmM?oc=5</link>
+<guid isPermaLink="false">7e9644bde6965bea98b597ee7b8be18baf6c9c43cca206e58121080d37baef6f</guid>
 <source>Google News Football</source>
 <category>sports</category>
-<pubDate>Sat, 14 Nov 2026 12:00:11 +0000</pubDate>
-<description>Penn State vs. Minnesota Prediction, Odds, Picks For College Football Week 11 FOX Sports</description>
+<pubDate>Sat, 14 Nov 2026 16:30:55 +0000</pubDate>
+<description>One of the biggest upsets of the high school football season took place last night in Florida | OutKick Fox News</description>
 </item>
 <item>
-<title>Michigan State Spartan fans predict football win over Washington Huskies - Yahoo Sports</title>
-<link>https://news.google.com/rss/articles/CBMijAFBVV95cUxONDgyckxTYTRSZ3A1RVNId2M3N2pBc1ZJWU93SXNEYURFRVR5dGVpZzJ0WFdwSXZxNTdOY0RJVW9QVkdBdS1rZlcyWnhpYVlWUFJ1SlVKVFdmMlpWZEFjVHR2S3Bzd2dQQllvSG9UWHQ1RXFTNEQwaXUxODV3MjFQd2drTDI4Mmx0eXdDRw?oc=5</link>
-<guid isPermaLink="false">c506e62670d3c94ba38c6bd8acdb07c6a894a76d919f8cede36b44c4e03f7c5c</guid>
+<title>Tenerife boss says Owono's 12-match ban 'feels light'</title>
+<link>https://www.bbc.co.uk/sport/football/articles/cmjeq0x815zko?at_medium=RSS&amp;at_campaign=rss</link>
+<guid isPermaLink="false">f6355e8f586cd580613a2154781bff044d131ae03320f63417562bcd92bad3bb</guid>
+<source>BBC Football</source>
+<category>sports</category>
+<pubDate>Sat, 14 Nov 2026 16:26:49 +0000</pubDate>
+<description>Tenerife boss Alvaro Cervera reacts to goalkeeper Jesus Owono's 12-match ban as the club prepare for their first game since the death of Jesus de Miguel.</description>
+<enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b213/live/53f770d0-e040-11f1-88e1-eb4e155225b3.jpg" type="image/jpeg"/>
+<media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b213/live/53f770d0-e040-11f1-88e1-eb4e155225b3.jpg" medium="image"/>
+</item>
+<item>
+<title>How to watch Ohio State vs Northwestern: Live stream NCAA College Football, TV channel - Yahoo Sports</title>
+<link>https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcHVkdW5aX2FYc3M0cm5BVEZwZ19LS3Y0ejV5QjZ1Rk9DbWdoNWtyN2E1eXB0MU1tYnY1Y2dIdnJJR1ZDQU9UeDYtRUo1S1NVSmhFZ09ibEFaTEhSei1wR2Zjd216ZGhLM2JKX1lZZnZjYzdHS2JpbzN3QkxlOGJ2TFg1TDZuUTNk?oc=5</link>
+<guid isPermaLink="false">4d0b37ff332cb6e4a00f59d13d3d7de34110d4e08f52c803d7d41d4c3aaf11cc</guid>
+<source>Google News Football</source>
+<category>sports</category>
+<pubDate>Sat, 14 Nov 2026 16:25:00 +0000</pubDate>
+<description>How to watch Ohio State vs Northwestern: Live stream NCAA College Football, TV channel Yahoo Sports</description>
+</item>
+<item>
+<title>What channel is Ole Miss football vs Oklahoma on Sunday? Time, TV schedule - The Clarion-Ledger</title>
+<link>https://news.google.com/rss/articles/CBMizAFBVV95cUxPZ1FkRmVYMlF0ekpZdS1xeGk1X0l1d3hzZ1RsLXNpRWxTWUFvSndwRndjTHA3THNaYWk1UXJyWDZLNFNvMWltbl9NZGlkM01QcVk2MmFlSjlOb0lHVW1VcFdEMVZuTm1NWUxNQ1lBejBqdTNTdjhTdXFwS3RxbTJua1FPQXd5c0xvSlBRVUJpR04xdEZhZlI5dGFIUGFTWV9HYk9OdUpWUGZ1QUJsdWRid1c3ZDh0LWFzN0RzSTF1ck43ZjhhMTh0Q3BNRm0?oc=5</link>
+<guid isPermaLink="false">1a2e266fc964890db1e091eb3d439dbee9e57dc55940dbbe90c3f0f5fc072e0f</guid>
+<source>Google News Football</source>
+<category>sports</category>
+<pubDate>Sat, 14 Nov 2026 16:25:00 +0000</pubDate>
+<description>What channel is Ole Miss football vs Oklahoma on Sunday? Time, TV schedule The Clarion-Ledger</description>
+</item>
+<item>
+<title>Updated College Football Schedule as Ole Miss-Oklahoma, More Games Impacted by FAA Flight Stoppage - Bleacher Report</title>
+<link>https://news.google.com/rss/articles/CBMi0gFBVV95cUxQR2FtQVB3Q3dPTlcwamJKMGVPdUk4cUJyRGw3ZUJQcndGeGl4TjlXVk81eHFwMl9YVjE0dGZwb2Z0MEFoVWN0UjlZcjBhOHExZTdwbVJ5ZzJyV0R2WUdORDRPbUhCdEV6TUozVWpPWVdOQTFKZ0d6RnNDaEI2STZqdTVDeTdfR3p2RHdRdlZuMmNRUTZsSnpMZEw5MlNwT0lLV3U4bE84U1VXclU5SVpnbEZjNTBhQ2dYRDJGbGk4aWNVT2ppU3dna0k1UXZUX3YwVWc?oc=5</link>
+<guid isPermaLink="false">787e7f5c0c941f11f20c460eff42019e63cd8656b56a19839161d39ee096c91b</guid>
+<source>Google News Football</source>
+<category>sports</category>
+<pubDate>Sat, 14 Nov 2026 16:23:07 +0000</pubDate>
+<description>Updated College Football Schedule as Ole Miss-Oklahoma, More Games Impacted by FAA Flight Stoppage Bleacher Report FAA ground stop throws college football into chaos, while the NFL is safe NBC News College football game delays, schedule updates, live scores: USC vs. Indiana, Texas vs. LSU, Utah vs. Arizona and more Yahoo Sports</description>
+</item>
+<item>
+<title>How to watch Texas vs LSU football tonight - Austin American-Statesman</title>
+<link>https://news.google.com/rss/articles/CBMiowFBVV95cUxQYTJxV3o0Z2I3dmVnUFI5Tlo5UUg4bW5DeDVySzlGYzBHR2dSZmQtaVZHMjFXa216UnpHSFl3elIteVV5b2NySnlSZFNxbm9fLTV3aW5PV0F5V3JYNGdwSHRicmpGcU0tM2tRYV81NjQzeDVKUlUzaE9MVUJiTjlyVWJmVU51akoybks0S0dkWF9qeGdkQjJpQ0syTFBCR2xUS3dn?oc=5</link>
+<guid isPermaLink="false">50499c28ea571e20a13d4b385ba9d6d26d71a7b53eabc4607664bcc75b0b169a</guid>
+<source>Google News Football</source>
+<category>sports</category>
+<pubDate>Sat, 14 Nov 2026 16:19:47 +0000</pubDate>
+<description>How to watch Texas vs LSU football tonight Austin American-Statesman</description>
+</item>
+<item>
+<title>9 total college football games given new kickoff times after bizarre FAA ground stop - Yahoo Sports</title>
+<link>https://news.google.com/rss/articles/CBMihgFBVV95cUxNTjBCR1BHYld6djJ5RkhVQTRNdm5YT3pXcUhEcEhoeGt6UEF0eU9UUkJQY2ExWXEyM0VkcVBocXoydXdGYjZzdVZ1RVVodjJZdVplUDhHVG1DRkZmTkFXMWFSajFYb1JoOHc0VzlsWmdjTUt0ZnJLZkd0cEdmeUV5VjFiQV83UQ?oc=5</link>
+<guid isPermaLink="false">a6762d4410923bb1cbbdd979efc4182103dfd8420c01fb579d6bc3b89aa89df4</guid>
+<source>Google News Football</source>
+<category>sports</category>
+<pubDate>Sat, 14 Nov 2026 16:17:54 +0000</pubDate>
+<description>9 total college football games given new kickoff times after bizarre FAA ground stop Yahoo Sports</description>
+</item>
+<item>
+<title>'I just play where the manager tells me to play!' - Walsh</title>
+<link>https://www.bbc.co.uk/sport/football/videos/c6d91n2x0e7ko?at_medium=RSS&amp;at_campaign=rss</link>
+<guid isPermaLink="false">edb753c1bf2a859ed454ba539918fa8efb40348ced1b084bb4401053959d3939</guid>
+<source>BBC Football</source>
+<category>sports</category>
+<pubDate>Sat, 14 Nov 2026 16:17:49 +0000</pubDate>
+<description>Keira Walsh reacts after Chelsea go top of the Women's Super League with a 1-0 win against Manchester City.</description>
+<enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2bbf/live/a45e56c0-e044-11f1-b441-2b33b063138f.jpg" type="image/jpeg"/>
+<media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2bbf/live/a45e56c0-e044-11f1-b441-2b33b063138f.jpg" medium="image"/>
+</item>
+<item>
+<title>FAA grounds flights nationwide, disrupting NBA, NHL and college football travel for the weekend - AP News</title>
+<link>https://news.google.com/rss/articles/CBMiigFBVV95cUxPVUkzUkUtOXFKRWc1dS14cHgwQzhLclZFZjNzZFJkb3R2X0JDSlJaYnR5bE1QbHhtZjhtWDZVN3VaNkNISUtqdkFtUktDMHJ3RHdEajZFLUF4RFdfTm5MaXZzRjJFRXR6UTBYcXVndGtwOGlVbHlLYXd5eFc0THc2d0ZWSUhSaGVjekE?oc=5</link>
+<guid isPermaLink="false">312fad907b3e9075351fa3cb943f7b4fb6742966c7c37ce724b57fb8aba9616d</guid>
+<source>Google News Football</source>
+<category>sports</category>
+<pubDate>Sat, 14 Nov 2026 16:10:00 +0000</pubDate>
+<description>FAA grounds flights nationwide, disrupting NBA, NHL and college football travel for the weekend AP News</description>
+</item>
+<item>
+<title>How to watch Syracuse vs NC State: Live stream NCAA College Football, TV channel - Yahoo Sports</title>
+<link>https://news.google.com/rss/articles/CBMigAFBVV95cUxOSS1Sc2RuODhpTkhoNHZCcDBKeERhNTkzNVljUGdIRjBYdkNTMmNqd3ZWcmpGbzZwX0lFMmF3TWZFcXhkbVpPT3V6ZFRGV0ZHNlg1ZTk3TjR5c0xpclZYUmtiWmwwRHFzZ3hnZlp1V0RrOFRISGcxVTVBRl9SbW5fdA?oc=5</link>
+<guid isPermaLink="false">2634c4ecf7476a916a8e15035a03752c9359095dbd9cefcafa17b51afc41081a</guid>
+<source>Google News Football</source>
+<category>sports</category>
+<pubDate>Sat, 14 Nov 2026 16:10:00 +0000</pubDate>
+<description>How to watch Syracuse vs NC State: Live stream NCAA College Football, TV channel Yahoo Sports</description>
+</item>
+<item>
+<title>Meetmebythesea gives McManus a first Paddy Power Gold Cup</title>
+<link>https://www.skysports.com/racing/news/12040/13612236/meetmebythesea-gives-mcmanus-a-first-paddy-power-gold-cup</link>
+<guid isPermaLink="false">68b7a75f22e07159e7398d650e11ae021175448c8ba336bfd67a7632d4f2b829</guid>
+<source>Sky Sports Football</source>
+<category>sports</category>
+<pubDate>Sat, 14 Nov 2026 16:03:00 +0000</pubDate>
+<description>Ben Pauling’s Meetmebythesea showed his liking for Cheltenham once more and delivered owner JP McManus with his first victory in the prestigious Paddy Power Gold Cup.</description>
+<enclosure url="https://e0.365dm.com/26/11/1920x1080/skysports-meetmebythesea-harry-cobden_7406517.jpg?20261114160529" type="image/jpeg"/>
+<media:content url="https://e0.365dm.com/26/11/1920x1080/skysports-meetmebythesea-harry-cobden_7406517.jpg?20261114160529" medium="image"/>
+</item>
+<item>
+<title>A new No 1? How to stop Lamine Yamal? Tuchel's selection issues</title>
+<link>https://www.skysports.com/football/news/12040/13612238/spain-vs-england-james-trafford-set-to-replace-jordan-pickford-as-goalkeeper-and-how-does-thomas-tuchel-stop-lamine-yamal</link>
+<guid isPermaLink="false">ee095ee1fc95c1fbf30c0f5a1b4bd48027f241a376eb5c573d67595ee983cb90</guid>
+<source>Sky Sports Football</source>
+<category>sports</category>
+<pubDate>Sat, 14 Nov 2026 16:02:00 +0000</pubDate>
+<description>Against the best team in the world, Thomas Tuchel's defensive decisions will be key. And he has many to make.</description>
+<enclosure url="https://e0.365dm.com/26/11/1920x1080/skysports-trafford-pickford_7406536.jpg?20261114162602" type="image/jpeg"/>
+<media:content url="https://e0.365dm.com/26/11/1920x1080/skysports-trafford-pickford_7406536.jpg?20261114162602" medium="image"/>
+</item>
+<item>
+<title>College football Week 11: Live updates, schedule, scores, CFP rankings - NCAA.com</title>
+<link>https://news.google.com/rss/articles/CBMiswFBVV95cUxOUUdVTFlpeUpMVURLSnlTenBSSXZ3M2RBRE0tbUl2UjN0Z2htclYtbzJDWndOVnZ3NHQ3MXlHNUZ1N1JUeFZNaWNXb3V4UEtIcUtWUFpaeE9OTFNsQ0k5ZWVSb3ZxeGh0enNHcXpIU05PXzhrT2JseUtZTEhNaXVqMURKRlRUNDQ0WlJnc0FDcUNPelNHSUtJdzhULWdBZUxSbXg4cUtzd2VmSi1obFhtM1VFQQ?oc=5</link>
+<guid isPermaLink="false">e13af43cfd6857f0c11612ad1a5ccfa9f086362dde57834c3066872618cd8bea</guid>
+<source>Google News Football</source>
+<category>sports</category>
+<pubDate>Sat, 14 Nov 2026 16:01:17 +0000</pubDate>
+<description>College football Week 11: Live updates, schedule, scores, CFP rankings NCAA.com</description>
+</item>
+<item>
+<title>Syracuse football leads NC State after first quarter (live score, updates) - Syracuse.com</title>
+<link>https://news.google.com/rss/articles/CBMiuAFBVV95cUxPelBYNDdwVkFjcENnZTh6dU1QT3NsYkFoWUZSX054aXpuYlhINTJCUjEydU1TTzZkVVJJOGJZUS1fWm5CbDlxVnNLUGpnbkhmRTNSdnhGY2pGNGc5VlZLa21wZFpoUVROaTlCNHlYYXU1aW1YVXk1NkNOZ0ZzNjQ3ZGZSMjVqZGd1R2p6UVN4bDhweDN4cHJSN0NDT013SWpRNWN2REdCUTNDRGJtRHZzVGhGTVRjakZp?oc=5</link>
+<guid isPermaLink="false">6acf6130c8a67106c4a36f81e58f4d6262fdd1b7f0359c52e36b86d06e7dcff2</guid>
+<source>Google News Football</source>
+<category>sports</category>
+<pubDate>Sat, 14 Nov 2026 16:00:00 +0000</pubDate>
+<description>Syracuse football leads NC State after first quarter (live score, updates) Syracuse.com</description>
+</item>
+<item>
+<title>High School Football Star Suffers Fatal ‘Medical Incident’ 5 Months After Announcing College Commitment - People.com</title>
+<link>https://news.google.com/rss/articles/CBMiyAFBVV95cUxNcTBmc3RJRWp5Q3NhNlh2Z3VRWHFuTFFVandfczVnRzNicnhXUVZTMGVDNzl0Rl9RNmFsMk1WZ1FmOV9ZYUY1eFcxNzlydGRTMjhNUm5WcVRBTFpmOVJoS18wY0ZRanREOUJJQzd1THZvUVFDOU5ZQzBGaGVMX2NyeDdhTUhtNTJXc2Nhb2ladGpvWmd0NnlqWkxCSWt2SVhFb3ZRS3lXX3JEd3hmcWJFR3JHMTYzdW50TExSa251MUdLMzl2Rm5sOQ?oc=5</link>
+<guid isPermaLink="false">3172547cd7a702dc9caf5bec3e14d363ff49a21a06df00043ed0ab1023a3c95a</guid>
+<source>Google News Football</source>
+<category>sports</category>
+<pubDate>Sat, 14 Nov 2026 15:54:01 +0000</pubDate>
+<description>High School Football Star Suffers Fatal ‘Medical Incident’ 5 Months After Announcing College Commitment People.com</description>
+</item>
+<item>
+<title>College football 27 sim predicts Georgia-Missouri game - Yahoo Sports</title>
+<link>https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZXBiT0RJc1J1ZWMzVElWZnFuV0RKYkE2MG8tWEwtVWExVkkxeC1tS0Z0TVU1dVhvMExBOUtod3BJVU9vWGdGSUVRUVNERmV1ZE5Xd1Z2OGdhMGJsZ0x3Z21xUkV2ajVmNUtYdnBqTkh4MldJUTFSVlpmNGpILTAzekVOd1lIQkhZ?oc=5</link>
+<guid isPermaLink="false">34e77f2aee72fe67a3b0fe14de3cb97de84edaa9c257f71277fa8d86ff57c105</guid>
+<source>Google News Football</source>
+<category>sports</category>
+<pubDate>Sat, 14 Nov 2026 15:43:14 +0000</pubDate>
+<description>College football 27 sim predicts Georgia-Missouri game Yahoo Sports</description>
+</item>
+<item>
+<title>Sec. Duffy on travel for college football teams after ground stop - NBC News</title>
+<link>https://news.google.com/rss/articles/CBMitAFBVV95cUxOZEtvaVNlaUpWeklDclZlSUVPb2Q5N2NvTTVuOFYxSXJ3LXJETmlGZlg4Q0NXN0RsMG9lMVFkeVY2SUZtYW9aWHQ5ZUQ4SERoSHA2dnFzcFlLNjdqY2duMXBvUDNWX0RpMzBnakR0Z1Z0Uk5kMlRJaDFrSTl1NHBqbmVLWkdUMlZRaTVwajZMbEh1YVVMcmEwckxsYmJITVliSHNtaHlNOWFqSGhpVDFNcDVqaDI?oc=5</link>
+<guid isPermaLink="false">ee8d5a2254babc2637102cb4a919e367a8646177410a0840320ea3c26b16ca58</guid>
+<source>Google News Football</source>
+<category>sports</category>
+<pubDate>Sat, 14 Nov 2026 15:39:44 +0000</pubDate>
+<description>Sec. Duffy on travel for college football teams after ground stop NBC News</description>
+</item>
+<item>
+<title>NFL reassigns 3 officials following nationwide FAA ground stop - Yahoo Sports</title>
+<link>https://news.google.com/rss/articles/CBMixwFBVV95cUxNbHNsOU9XSVFWQ1JLV0RSb19LbjlHQnl6ejJNanVOejVpT0M0VGRfcTFfSm9VR3dQWDNFX2Z0bExnRzMtWlRTeTdUaHdIdVQ1ZXNjWVhpWHd1ejdlaFFZWjd4VGd6WEtUd3BNWll1em5tMUZyaWNOSzVTTFBDS2t6WHNqOEFSVEt5REJlckNSVmwxS2sxS2R5RzlqR0kyY21NZ0cwREdMUzg1MXJ4R0ZDbFM5S3pQU3pKbmRYQ2U5YVVZTVR0bDIw?oc=5</link>
+<guid isPermaLink="false">2a81ec38b9ba349913b2e196565ae0ca642d0a5da49c483e0cecee9bff8b9a87</guid>
+<source>Google News Football</source>
+<category>sports</category>
+<pubDate>Sat, 14 Nov 2026 15:31:17 +0000</pubDate>
+<description>NFL reassigns 3 officials following nationwide FAA ground stop Yahoo Sports</description>
+</item>
+<item>
+<title>After nationwide ground stop, Minnesota football in the air en route to Penn State - PennLive.com</title>
+<link>https://news.google.com/rss/articles/CBMi0wFBVV95cUxNRTdxU0V2UXVjNEZOaVJIZXp4R1c4S1djX0oxRUhzTEx4U2JmcDhIZEk1UExMNXJxWV8zYUR2OHlncnc2OTYtV3BsX3lnYjlJX09mWm0wWE1jQ0RVR0pDRTdrQUFjYjVDMkJWeUFCVHJuczFfMmNSTURmLWhmSzNYeFpYNjdENVJ1ZVdWSFVIQ3lmVjgtQkR1QzF0bmttRExHak93N2JtNGF4TkVxREdVVG81eHVrLWI0aXZTUWRoWmFRaHZuR3NmNEJDUFJURnk1bzdr?oc=5</link>
+<guid isPermaLink="false">2bf537aa20833a0ec9a0dcaf27da13970a79367c75f6d15b9a6a75a2dd95f587</guid>
+<source>Google News Football</source>
+<category>sports</category>
+<pubDate>Sat, 14 Nov 2026 15:31:00 +0000</pubDate>
+<description>After nationwide ground stop, Minnesota football in the air en route to Penn State PennLive.com</description>
+</item>
+<item>
+<title>Nebraska football vs. Rutgers live updates, stats and highlights - Yahoo Sports</title>
+<link>https://news.google.com/rss/articles/CBMiigFBVV95cUxNY1lxMlQzaXgwQjF1dG5WUHdGaEV4NW91YW5iZ3VwOWtLREJpSXIzUzBBdGJnb3VSamx2bDFGVmNwb2trQ1RUcXVMdmhrRnZqVEFfOE1mUjBQcXpLaDZtMkJTYkFOODdTcGxabXd5WnpaMnN6Wk5Da2lDdW9Kb1lLNDdkR25YRWVhbUE?oc=5</link>
+<guid isPermaLink="false">3c96a5fab3d97d261c05aed6aba632211c452e366e716f06ed35ecbadd6acdbe</guid>
+<source>Google News Football</source>
+<category>sports</category>
+<pubDate>Sat, 14 Nov 2026 15:30:58 +0000</pubDate>
+<description>Nebraska football vs. Rutgers live updates, stats and highlights Yahoo Sports</description>
+</item>
+<item>
+<title>Wales in danger of relegation as Norway score again LIVE!</title>
+<link>https://www.skysports.com/football/norway-vs-wales/live/554107</link>
+<guid isPermaLink="false">5806f6ebfb1875ec1162004ec30dd50d025f524efc0dddd7ac10468b56c89c17</guid>
+<source>Sky Sports Football</source>
+<category>sports</category>
+<pubDate>Sat, 14 Nov 2026 15:30:00 +0000</pubDate>
+<description></description>
+<enclosure url="https://e1.365dm.com/26/11/1920x1080/skysports-antonio-nusa-football_7406630.jpg?20261114182536" type="image/jpeg"/>
+<media:content url="https://e1.365dm.com/26/11/1920x1080/skysports-antonio-nusa-football_7406630.jpg?20261114182536" medium="image"/>
+</item>
+<item>
+<title>Ground stop delays Minnesota's arrival for Penn State football game - Centre Daily Times</title>
+<link>https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9VVmxYSzBqLUpVbGFCZm83dXNsUkZKNHU2M2FaZENUd2NyekZUb3l0bEpzRWtyY2k1OEhaR1JPQUdfeU43Wnl3dHdjc1hEa1JqQVN6ZVhndTUxa3pNcHJ4SEZmVUhCMjA?oc=5</link>
+<guid isPermaLink="false">7688a8cd5353e92bdea771964c3c4536f38b0fcf4fde74413b3ca0aac04865a6</guid>
+<source>Google News Football</source>
+<category>sports</category>
+<pubDate>Sat, 14 Nov 2026 15:30:00 +0000</pubDate>
+<description>Ground stop delays Minnesota's arrival for Penn State football game Centre Daily Times</description>
+</item>
+<item>
+<title>Game thread: Iowa State football versus Cincinnati - Yahoo Sports</title>
+<link>https://news.google.com/rss/articles/CBMihwFBVV95cUxNc0FueUg3VXhhY3ZYVzBuenJWaUxMVEFsNnd0QUNBVUh3UlVXMnpnLW5RLWtESDhPWkRpeE5pZTFwTjFSTlk3ZjhubnN3V0NFcnVRWEp5RFVJd3ZSZEs2SjEwVHVCTnJTbHNNeVV6VVVrdDd4bTRycXg3VldWbE1fSF80WEMtWjA?oc=5</link>
+<guid isPermaLink="false">c84b59679af78d16181cab2479d7de83b8f1c4a3685daefb95c9939b812a63a7</guid>
+<source>Google News Football</source>
+<category>sports</category>
+<pubDate>Sat, 14 Nov 2026 15:23:09 +0000</pubDate>
+<description>Game thread: Iowa State football versus Cincinnati Yahoo Sports</description>
+</item>
+<item>
+<title>Ground stop delays Minnesota's arrival for Penn State football game - York Daily Record</title>
+<link>https://news.google.com/rss/articles/CBMi4AFBVV95cUxPTGxITnEtSXJ2RTBRVU1lUlhpWXcwREpabV9NM3lBTmVEbUN1Z053LUNGVGJjWjBIbXRrMnROYXdMYkoxM2xKbmhJelZUY28zN3BHYzVVZlM1SUhuSzdrMV9VSUZHbVpidUFWNk95UGdjcEZzU2FsZmdrT0ZWQmNrNEFwQ21fc2Q5TTNHdk1jM3V0R3RlQVU1bDZFVFRZbERfSjRXUHVhQmYzci1ZYU12TnFSR1dlS3ZGV1Vwd1FIMk1NU0lDMVk0OTlySDlsLTFGUS1aRlJiZzc5YlFGMHMwOA?oc=5</link>
+<guid isPermaLink="false">f9204e94a1c5fdb0ce684b5fdb0ccd426c7181f2894648b5b92ef0f37c0d2d13</guid>
+<source>Google News Football</source>
+<category>sports</category>
+<pubDate>Sat, 14 Nov 2026 15:19:00 +0000</pubDate>
+<description>Ground stop delays Minnesota's arrival for Penn State football game York Daily Record</description>
+</item>
+<item>
+<title>College football AP Top 25 TV schedule for Week 11, updated list of games, kickoff times - Yahoo Sports</title>
+<link>https://news.google.com/rss/articles/CBMigAFBVV95cUxPN0xhbmlMd2ZhV2MyVC1NSWRwcktHbldGU3ViLThSOWNTdEdUU3pTdFhuaGp2VlJJMWdRb1Q3NGt4SVA1Z3E3T043cFdsSFdBMzJlckVudExpajdvaGhpWmJ6eFVweVNnTlRCYnJuXzVOcklOVC1RLUFvcUV2aGdnLQ?oc=5</link>
+<guid isPermaLink="false">17f6f5615de61ef1264234d4f50342359176586011424062e182efad0d29bc45</guid>
+<source>Google News Football</source>
+<category>sports</category>
+<pubDate>Sat, 14 Nov 2026 15:13:18 +0000</pubDate>
+<description>College football AP Top 25 TV schedule for Week 11, updated list of games, kickoff times Yahoo Sports</description>
+</item>
+<item>
+<title>2026 College Football Week 11 Best Bets: 6 picks for Nov 14 including Notre Dame, Utah, Tennessee, LSU - NBC Sports</title>
+<link>https://news.google.com/rss/articles/CBMi6gFBVV95cUxNeFh0OXZDdnNCY0VHTXhKOHFwN0tzTzA5OHRlZkpiZU9iczhKY3dQMTVLOVFEWkw4dEw2QXVndkYyZGhodlZWTEhianVMd1NfUkZZQXYtTVBtX3hWUlF5V2pfZUdtaEUydlZRcXNNQU9CUTBTVHZmb2l5MFY3cVVvVmFMV0YyVUl6Xy1JR1hBSk9pdTdwdGw1OU1qOWpScF9CYVBwYm1EVmpaR3MzMTRyUzZCRW41MTdzU21WMUdhMy1mOG9OcUtLbTQ4b0tqSUVoalZKeXpPOHh4S3hWX2czYjBVZy12NnZIOHc?oc=5</link>
+<guid isPermaLink="false">3517519f867625e306997dd39d0d1f3537fe249c353c6da3350c2c13f8822174</guid>
+<source>Google News Football</source>
+<category>sports</category>
+<pubDate>Sat, 14 Nov 2026 15:11:42 +0000</pubDate>
+<description>2026 College Football Week 11 Best Bets: 6 picks for Nov 14 including Notre Dame, Utah, Tennessee, LSU NBC Sports</description>
+</item>
+<item>
+<title>Former Stoke City manager Thordarson dies aged 71</title>
+<link>https://www.bbc.co.uk/sport/football/articles/c98r7l5yrn6go?at_medium=RSS&amp;at_campaign=rss</link>
+<guid isPermaLink="false">588778398d736bfab2c434de1b7249a6c13b679908656447b5866e9eac860a7f</guid>
+<source>BBC Football</source>
+<category>sports</category>
+<pubDate>Sat, 14 Nov 2026 15:04:59 +0000</pubDate>
+<description>Gudjon Thordarson, who led Stoke City to promotion from the third tier in 2002 and managed three other English clubs, dies aged 71.</description>
+<enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b34a/live/b33c7ec0-e039-11f1-b441-2b33b063138f.jpg" type="image/jpeg"/>
+<media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b34a/live/b33c7ec0-e039-11f1-b441-2b33b063138f.jpg" medium="image"/>
+</item>
+<item>
+<title>3 Keys to Victory: Michigan Football at Oregon - Maize n Brew</title>
+<link>https://news.google.com/rss/articles/CBMi1AFBVV95cUxPSDkyVWJ0a3NwcHlwOGlvRnY5WWI5ZUZ3MlFBZmp1R25xenZuemJYOVY1aWhCWjBlbmwyRFhqckZmQU5VVVZKVEZMNHRReHlSLUlqZDhPNm1WUGRVcEVfQlJ6RzByUS11VmlCUlBFV3RteHdMSDVGbkxJQ1k4c0VWalFad2s4VVVpeFBfRWVORVNETk5SdXduVnRFNnVPZEpCTU1SUXBiR1NVRkJxYzJCam84MURIUWNSdWJkNS1hR2lyM3c4dzdIclpUVUxDRHVoUnJDRQ?oc=5</link>
+<guid isPermaLink="false">c518cdee67b5dc1a57e05d20df0c3572440c34e6ae06c3e985cc618701e36a70</guid>
+<source>Google News Football</source>
+<category>sports</category>
+<pubDate>Sat, 14 Nov 2026 15:00:00 +0000</pubDate>
+<description>3 Keys to Victory: Michigan Football at Oregon Maize n Brew</description>
+</item>
+<item>
+<title>Chacarra reveals plan for 'dream' win over McIlroy and 'Dubai double'</title>
+<link>https://www.skysports.com/golf/news/12040/13612201/dp-world-tour-championship-eugenio-chacarra-edges-back-ahead-of-rory-mcilroy-in-race-to-dubai-battle-ahead-of-final-day</link>
+<guid isPermaLink="false">687fbb36e8fb6882ee7d97a595fc503e4c1086630fd06395d5331ad78320b37b</guid>
+<source>Sky Sports Football</source>
+<category>sports</category>
+<pubDate>Sat, 14 Nov 2026 14:35:00 +0000</pubDate>
+<description>Eugenio Chacarra is eyeing more than just holding off Rory McIlroy to Race to Dubai victory at the DP World Tour Championship, following a strong finish to his third round.</description>
+<enclosure url="https://e0.365dm.com/26/11/1920x1080/skysports-eugenio-chacarra_7406454.jpg?20261114142850" type="image/jpeg"/>
+<media:content url="https://e0.365dm.com/26/11/1920x1080/skysports-eugenio-chacarra_7406454.jpg?20261114142850" medium="image"/>
+</item>
+<item>
+<title>College football scrambles, adjusts kickoffs after FAA groundings, Ole Miss-Sooners pushed to Sunday - AP News</title>
+<link>https://news.google.com/rss/articles/CBMilwFBVV95cUxOWnVrVXZYZzBRaGxzS0JJTGpkekY2d283LURfNU9KV0xzNmMyRm9ocTBKYUpmUGdmSFp4Ukk1U052TnVUV0xvNGJLcm5Od1JuakZWYk9naFUzLV9ia280MnNrX1FJYmw4WjFOT213ajhqNjJmRUk0bmdQU3RWMEMxUl8tUmg4RmFURXFtci1DV3VGckVHcEhr?oc=5</link>
+<guid isPermaLink="false">9abc72eaf00dd680d35ce54d73c41906c8bb7fdba00dd79d0bcfe13c3700535b</guid>
+<source>Google News Football</source>
+<category>sports</category>
+<pubDate>Sat, 14 Nov 2026 14:32:29 +0000</pubDate>
+<description>College football scrambles, adjusts kickoffs after FAA groundings, Ole Miss-Sooners pushed to Sunday AP News</description>
+</item>
+<item>
+<title>WATCH: Steelers 2026 High School Football Showcase - WPIAL Playoff Quarterfinal recap - Steelers.com</title>
+<link>https://news.google.com/rss/articles/CBMiswFBVV95cUxPTjVzVllUSVV2dVQ4bmJfdE9EUDBjTWdpb3dPZ1FCZFZWblh4WVYtaGtDMWRCZ2o3MUJTdzEzR3NpY1JyUWpfNFh6QThLYlNGbjZTOUZFaWs4YmZYSHdVY3BTNEg0ZERQWDVFYXlrUmh4Ul8wUlRTdW1RODFCSmZNUHlnT21ENnVlY3Z4ZUhjVTZRdEtndTZFREV4MXpxaG1wa1hyWTZFWDBqaTZFb21jaVJ1OA?oc=5</link>
+<guid isPermaLink="false">6945e44adec8a0531a4855fd41b941d74d2529ae915abd7e331fa2d7cd7d7474</guid>
+<source>Google News Football</source>
+<category>sports</category>
+<pubDate>Sat, 14 Nov 2026 14:25:50 +0000</pubDate>
+<description>WATCH: Steelers 2026 High School Football Showcase - WPIAL Playoff Quarterfinal recap Steelers.com</description>
+</item>
+<item>
+<title>8 College Football Games Change Kickoff Times Due To Nationwide Ground Stop - Yahoo Sports</title>
+<link>https://news.google.com/rss/articles/CBMihwFBVV95cUxQR2FpdW5kZ0gwZEIxNW5GelRyVE1LTTNxVU9jUlpraVR5T05qdkxoN1o3RlR1cUlBLVliMHhiVFJZbGNXaFZIUXBNYUgxbFlDcW5ITm5UWS1UaWJuQmJMWVhCVTNCUlE4cmp5Y0xENWlLQmFocmtISjNrbkJfS2trM2ZsYm5SeDQ?oc=5</link>
+<guid isPermaLink="false">68b19bff82357cbfa4fc8008392f132c6a52f28de52b6734a8c32586d702cc87</guid>
+<source>Google News Football</source>
+<category>sports</category>
+<pubDate>Sat, 14 Nov 2026 14:24:36 +0000</pubDate>
+<description>8 College Football Games Change Kickoff Times Due To Nationwide Ground Stop Yahoo Sports</description>
+</item>
+<item>
+<title>9 College Football Games Moved After FAA Ground Stop: Here's the New Schedule - Yahoo Sports</title>
+<link>https://news.google.com/rss/articles/CBMihgFBVV95cUxQamRJNGwyTHpLNWZBSnFQNkhzWER5UGRrd21JM3FKVWhrclNCRkxMWDZvSW9abXk1dGZKdUhwMXBPaURNaWV4RXFKWHZnNjRhWU00X1gtTERSWDZnaHBBUlIzNEtNYksxVURQcmVjQ0VlN0dzVTdMN3hpOHh1aHFkY1E1MTk5UQ?oc=5</link>
+<guid isPermaLink="false">9ca926debe97e9eca518a298c855e79fe65ff71813d31ba42763679567d28e30</guid>
+<source>Google News Football</source>
+<category>sports</category>
+<pubDate>Sat, 14 Nov 2026 14:17:38 +0000</pubDate>
+<description>9 College Football Games Moved After FAA Ground Stop: Here's the New Schedule Yahoo Sports</description>
+</item>
+<item>
+<title>Fantasy football Week 10 PPR cheat sheet: Should you start Josh Downs in his first game with Patrick Mahomes? - CBS Sports</title>
+<link>https://news.google.com/rss/articles/CBMi7AFBVV95cUxPMm9tNWxlZml4V05VT2VsbjVteEoyNkNIMzVfQjFNa3o3c3RYZlhvM0xTOUM2X25JZTNOZDExdzFjMUQtLUpleWxrWFVqbWMzX0p0eG5xV0thMmlLaGRYdXAyZEZib044SkRCQjFPY0J1QnNVWC1LTEQyel93eHd1ZEJGQ1NEMlJEel9WaEJhdVh2OXFoV0QxLWI3RXdvLUZPZ0djUjAyUjZsLWxyNDZfaHBGMUZrSVRvUjBjcDlGNFBzT2o5VW9BMDBJZW1aZ2hJMUV2WlNNNUIzWlZQVjRJeVBqeW5mLU5qZzlhaw?oc=5</link>
+<guid isPermaLink="false">2f828669478de6bdb4c2b42b0d1e5c4b038561269f80a4c37468399048167a35</guid>
+<source>Google News Football</source>
+<category>sports</category>
+<pubDate>Sat, 14 Nov 2026 14:17:00 +0000</pubDate>
+<description>Fantasy football Week 10 PPR cheat sheet: Should you start Josh Downs in his first game with Patrick Mahomes? CBS Sports</description>
+</item>
+<item>
+<title>Alabama vs Vanderbilt Prediction, Odds: Expert College Football Picks Week 11 - Yahoo Sports</title>
+<link>https://news.google.com/rss/articles/CBMijwFBVV95cUxPaVUwT0xZQkNtV2pKWFg2ek4zMHJwcXF4Tl9lZE1tTnFiZUdoaTFYNzlPRk85T25GbDB4UXM5eTNaYV9mN0NiNGNjQ3JCMEdKaDhJZXdMYjRzZ1o2XzRzbndrRHNicDZaQnItUE9neDd4V2h1SzFNTENVQXVYMGQ1Sk01RHAtdFZ2R3JDSlZiTQ?oc=5</link>
+<guid isPermaLink="false">e72f03aa43020c510cc7f5c4f47bca3834dea64b8d993530091ca0cebfe892b5</guid>
+<source>Google News Football</source>
+<category>sports</category>
+<pubDate>Sat, 14 Nov 2026 14:15:45 +0000</pubDate>
+<description>Alabama vs Vanderbilt Prediction, Odds: Expert College Football Picks Week 11 Yahoo Sports</description>
+</item>
+<item>
+<title>Immense Wales pull off sensational first victory over All Blacks since 1953</title>
+<link>https://www.skysports.com/rugby-union/wales-vs-new-zealand/report/111689</link>
+<guid isPermaLink="false">3f78f6fcda4d0225f26824bc25865eb298ea719a10700f9449013513e6cefb05</guid>
+<source>Sky Sports Football</source>
+<category>sports</category>
+<pubDate>Sat, 14 Nov 2026 14:11:00 +0000</pubDate>
+<description>Wales pulled off one of rugby's biggest shocks of recent times as immense defence saw them to a 35-28 Nations Championship victory over New Zealand - a first against the All Blacks since 1953.</description>
+<enclosure url="https://e0.365dm.com/26/11/1920x1080/skysports-eddie-james-wales_7406515.jpg?20261114155958" type="image/jpeg"/>
+<media:content url="https://e0.365dm.com/26/11/1920x1080/skysports-eddie-james-wales_7406515.jpg?20261114155958" medium="image"/>
+</item>
+<item>
+<title>Michigan State Football Game Time Changed Following Washington Travel Nightmare - Yahoo Sports</title>
+<link>https://news.google.com/rss/articles/CBMiigFBVV95cUxPQXp5U1RtRzRTNW9BWXNETmtCZzhqUEI1djN5Nk5mVVFLNGFIZVZndE5hVmRTaUhHRTltdS1JMjhvdl8tYWJaQnlrcFdzeUlFWXVhVHFqZHBVektIZWNWRXhRRE5YX0xTam1PX2NBZXpMRVR6OEJLTHdMNHhON3NUV0ZqeURGOUV4UGc?oc=5</link>
+<guid isPermaLink="false">555c69d64d7bb7fb9aa08e42e876fc88aff2adbdc3ed3b33488056f0fe43ec32</guid>
+<source>Google News Football</source>
+<category>sports</category>
+<pubDate>Sat, 14 Nov 2026 14:07:22 +0000</pubDate>
+<description>Michigan State Football Game Time Changed Following Washington Travel Nightmare Yahoo Sports</description>
+</item>
+<item>
+<title>Here’s college football schedule after FAA ground stop affected games, including SEC and Big Ten matchups - AL.com</title>
+<link>https://news.google.com/rss/articles/CBMixwFBVV95cUxOeDg4aDhNckNOR0xZeTBvUjE0WWdhU3VTdE9lMTVFSHVKLS0yWGd1V0w1MU1zUzdtNEVLSllXN1BJQW5zajZZZ2ttY2ZNNjJrdVo0TFVBR2F3eTlwWEkwWXRhWWlOQUotcFY4bWJSVUFjZTRheGFzbmcwX0Q1UHIwYlpxTHlvTnd3SFIzUU44emRPX3NmU2hDRm9tWVNXYmRzc0VfY3ZndDFhN1JOMk5ScUhHdW5Ydnl3Tk4wek5CRVVWd1k0OUtJ?oc=5</link>
+<guid isPermaLink="false">f9ab57f86c9926b513b4ec82f9e7cc6084fc92cdd0f4da2137ac49743068e164</guid>
+<source>Google News Football</source>
+<category>sports</category>
+<pubDate>Sat, 14 Nov 2026 14:02:00 +0000</pubDate>
+<description>Here’s college football schedule after FAA ground stop affected games, including SEC and Big Ten matchups AL.com</description>
+</item>
+<item>
+<title>Wisconsin football vs Maryland score, live updates, highlights, how to watch - Yahoo Sports</title>
+<link>https://news.google.com/rss/articles/CBMijgFBVV95cUxQNHlURVlJQmpsRXpnNUJIczNvUlZvSkEwQ1Atc2kwM0hTcXN0NzZvWndyRTZTX0tYZk85VHgzQ2lsbktfanpKaFhXdFdaYm5nZWVoRWpqMGtoakVVSlF3ckRCOXREZVdtcnV4VjM2eVhQUTh2c2tENVFJbUFrdTctZFkzdHlCZHZrUmpOVnh3?oc=5</link>
+<guid isPermaLink="false">185944d7ca906b19a3a97dc76a5fc25f0566a4ef7e6a80eaf3dfc736461f4d21</guid>
+<source>Google News Football</source>
+<category>sports</category>
+<pubDate>Sat, 14 Nov 2026 14:01:42 +0000</pubDate>
+<description>Wisconsin football vs Maryland score, live updates, highlights, how to watch Yahoo Sports</description>
+</item>
+<item>
+<title>Three Keys and A Prediction: Vanderbilt Football vs. Alabama - Yahoo Sports</title>
+<link>https://news.google.com/rss/articles/CBMilAFBVV95cUxPTmdPYVlsSjlLTUNUeEtwX2RuU2tLWUxicFZhb2VnSzN6MGlwS3RkX0pEVURybVctTGxXeE9EY1FfWWlBNUFLeUVwOW9jczhOcDdmRG5KX201Vl9GVmJQUEJqZldtTGs3VlFQSWdUeWRnNURMRGE1YW56SjZaak1kSXh5T2FYU0h4RHNiMU9yXzVmTVRI?oc=5</link>
+<guid isPermaLink="false">a45018ad3ae8f91e3ce7a3c7fae6633e1b47a8c0abfd9d70d1f36e33538cf990</guid>
+<source>Google News Football</source>
+<category>sports</category>
+<pubDate>Sat, 14 Nov 2026 14:00:09 +0000</pubDate>
+<description>Three Keys and A Prediction: Vanderbilt Football vs. Alabama Yahoo Sports</description>
+</item>
+<item>
+<title>Important Games to Watch: College Football Week 11 - Yahoo Sports</title>
+<link>https://news.google.com/rss/articles/CBMikAFBVV95cUxOZE03a0k4TmxkRU1WYTBubDNKWHBSNGhMXzdrRURERHVZcy01NjEweGpXZlZ5OHRrYUF6RHI3MGx3RllTLWlNS2h1bHMySEVXc3FyNDlQT0hEeHllSW5rbGplcVR3cTV2Mmc5VHZEblM2N3kzN3A1QlhBUGVkc2tpSTByLUdOLVhaaFVkZnNJaGM?oc=5</link>
+<guid isPermaLink="false">5f5498354071f2060ed22ad4d3ad301d335896f31ae87c520efbbcaed44a3439</guid>
+<source>Google News Football</source>
+<category>sports</category>
+<pubDate>Sat, 14 Nov 2026 14:00:00 +0000</pubDate>
+<description>Important Games to Watch: College Football Week 11 Yahoo Sports</description>
+</item>
+<item>
+<title>'Did he mean it? Doesn't matter!' - Watch this ridiculous long-range goal 😱</title>
+<link>https://www.skysports.com/watch/video/13612198/exeter-city-vs-cheltenham-town-did-he-mean-it-lakyle-samuel-puts-exeter-in-front-with-sensational-fluke</link>
+<guid isPermaLink="false">ca55d1dad50896f2b967252c00ab9d2f6bbd5fb706eba21f18a2f9150b09fbbe</guid>
+<source>Sky Sports Football</source>
+<category>sports</category>
+<pubDate>Sat, 14 Nov 2026 13:57:00 +0000</pubDate>
+<description>Lakyle Samuel scored a ridiculous long-range goal for Exeter vs Cheltenham, but did he mean it?</description>
+<enclosure url="https://e1.365dm.com/26/11/1920x1080/skysports-exeter-efl_7406434.jpg?20261114140434" type="image/jpeg"/>
+<media:content url="https://e1.365dm.com/26/11/1920x1080/skysports-exeter-efl_7406434.jpg?20261114140434" medium="image"/>
+</item>
+<item>
+<title>K-State football team flying to matchup hours before kickoff after nationwide ground stop - KMBC</title>
+<link>https://news.google.com/rss/articles/CBMijwFBVV95cUxQcVBRVEFrZTV2YnNxNzc4R2JSZ0JscFRzMDJUeFpYVWhqZ2xEODVuTlJKMk1vZF8yRXhHODVyZnRPdXMwVHY0eWNVUTc1dmFUSzZ1cU5WdFp0bjBhVy1lSjNGVlVlWUhfN0ZxWDdab3padTVzV2lQNmRQZXZRdktwc0h0NUdTYWRRUzJVOFhKYw?oc=5</link>
+<guid isPermaLink="false">b58d66f5792806085804719d92eb9a46c193e77ea8ca539f48c209bb71905ed4</guid>
+<source>Google News Football</source>
+<category>sports</category>
+<pubDate>Sat, 14 Nov 2026 13:52:00 +0000</pubDate>
+<description>K-State football team flying to matchup hours before kickoff after nationwide ground stop KMBC</description>
+</item>
+<item>
+<title>Georgia football commit Marcellus Young Casario has died following a medical emergency, sources say - Yahoo Sports</title>
+<link>https://news.google.com/rss/articles/CBMikgFBVV95cUxNeXM4WncyWHZ3X0R6RDNKbWU0WF9SZWVjaVA5eEl2RWlqbUlwSFZ1aE5PMFB3b056Ym9MaVJZZlFqdE1MbndVaWVqWTB2eV9UVjJGLXB6Zk5adWl0R0RQNTJ6Zl9jaTNxS1RfZzEzUjBycnlJT3NvSklzUHpDWHM4M3Z4OXFQSlo2MFBTWVI5OHg5QQ?oc=5</link>
+<guid isPermaLink="false">9e6206871445e8041eae0fd91f8675a85ed10e13dc8bea6fcfed58d600c0efc8</guid>
+<source>Google News Football</source>
+<category>sports</category>
+<pubDate>Sat, 14 Nov 2026 13:46:35 +0000</pubDate>
+<description>Georgia football commit Marcellus Young Casario has died following a medical emergency, sources say Yahoo Sports</description>
+</item>
+<item>
+<title>IHSA Football Playoffs 2026: Final scores and results from the quarterfinals - FOX 32 Chicago</title>
+<link>https://news.google.com/rss/articles/CBMipgFBVV95cUxNajdjN05KbHZJelVYUmlubGNROGVZTTdSNkJTOHA5bkE2T1FhV2R4TUhyWlhhSDlnRTVOTWlaUUdScDhlVFN5YTNBc1ZIVk9uRXZSeXJINGFDdHpkWWFuRUEyb2t3azJpXzJSVXBVTGVvbUQ5NVU3SFFzdzRuYVlYRXpJNmxaNUM1R2dvUUoySFBwVV8yVFlZSE9RUzhDTEo5eGl0am5n?oc=5</link>
+<guid isPermaLink="false">bfe504b442025446d494400f968e234352162b03aa2564a5f136ccedc1d55ef8</guid>
+<source>Google News Football</source>
+<category>sports</category>
+<pubDate>Sat, 14 Nov 2026 13:46:31 +0000</pubDate>
+<description>IHSA Football Playoffs 2026: Final scores and results from the quarterfinals FOX 32 Chicago</description>
+</item>
+<item>
+<title>McIlroy backed for Race to Dubai 'reset' - can he overcome Chacarra?</title>
+<link>https://www.skysports.com/golf/live-blog/12040/13611918/dp-world-tour-championship-rory-mcilroy-eugenio-chacarra-set-for-final-day-battle-who-will-win-the-race-to-dubai</link>
+<guid isPermaLink="false">edcbfd6e99c6d3b5c0a17372b7a3b4cc7764cf9a8130a1db9112f7accf8e459f</guid>
+<source>Sky Sports Football</source>
+<category>sports</category>
+<pubDate>Sat, 14 Nov 2026 13:40:00 +0000</pubDate>
+<description></description>
+<enclosure url="https://e1.365dm.com/26/11/1920x1080/skysports-golf-rory-mcilroy_7406414.jpg?20261114134218" type="image/jpeg"/>
+<media:content url="https://e1.365dm.com/26/11/1920x1080/skysports-golf-rory-mcilroy_7406414.jpg?20261114134218" medium="image"/>
+</item>
+<item>
+<title>How to Watch Iowa State Football vs. Cincinnati: Preview, Television, Start Time - Sports Illustrated</title>
+<link>https://news.google.com/rss/articles/CBMixAFBVV95cUxPMTROTXJPOFZ2cGU5LUgwaHFfcktWQ3Y1MDNvdFFpU04zbEh6MFp1UWI4eGgtOER2RHR2elJTS094OTRrcEJJM3QtME5feUY1MDFvN1JCb1p1MzFHZVlXejdLMkN4bEFySWhEdVVHaUhWbUJwTVJkaExicWVVYkR5U1l3d3RhNm14T25MbkdPQlh2ZktIN2wyWWIwLVg0bVBZYjVZVFFDdmo2V1VZZmxoUVJfcThQNFAwaWJUNFVBYnZlTEtn?oc=5</link>
+<guid isPermaLink="false">be352fb2ff1add0a1d022bf3fb3fe2ba2d7343a4ca8394893b0d495f329c6ae7</guid>
+<source>Google News Football</source>
+<category>sports</category>
+<pubDate>Sat, 14 Nov 2026 13:30:00 +0000</pubDate>
+<description>How to Watch Iowa State Football vs. Cincinnati: Preview, Television, Start Time Sports Illustrated</description>
+</item>
+<item>
+<title>Rory falters as Hatton holds narrow lead heading into final day in Dubai</title>
+<link>https://www.skysports.com/watch/video/13612191/dp-world-tour-championship-day-three-highlights</link>
+<guid isPermaLink="false">ab7d4ec396325be6381ed4593635a96c61fbd5e4168700a7a597dde8d34ebdda</guid>
+<source>Sky Sports Football</source>
+<category>sports</category>
+<pubDate>Sat, 14 Nov 2026 13:25:00 +0000</pubDate>
+<description>Highlights of the third round of the DP World Tour Championship at the Jumeirah Golf Estates in Dubai, the United Arab Emirates.</description>
+<enclosure url="https://e1.365dm.com/26/11/1920x1080/skysports-dp-world-tour-hls_7406405.jpg?20261114132445" type="image/jpeg"/>
+<media:content url="https://e1.365dm.com/26/11/1920x1080/skysports-dp-world-tour-hls_7406405.jpg?20261114132445" medium="image"/>
+</item>
+<item>
+<title>'Expect a better Rory tomorrow' - McGinley analyses McIlroy's up-and-down round</title>
+<link>https://www.skysports.com/watch/video/13612185/dp-world-tour-championship-paul-mcginley-analyses-rory-mcilroys-up-and-down-round</link>
+<guid isPermaLink="false">95919024cded08db408f9b84a3249ae103fce6a1d6456abc0e5cac094a9f79be</guid>
+<source>Sky Sports Football</source>
+<category>sports</category>
+<pubDate>Sat, 14 Nov 2026 13:11:00 +0000</pubDate>
+<description>Paul McGinley reviews Rory McIlroy's mixed day three of the DP World Tour Championship.</description>
+<enclosure url="https://e0.365dm.com/26/11/1920x1080/skysports-rory-dp-world-tour_7406397.jpg?20261114131327" type="image/jpeg"/>
+<media:content url="https://e0.365dm.com/26/11/1920x1080/skysports-rory-dp-world-tour_7406397.jpg?20261114131327" medium="image"/>
+</item>
+<item>
+<title>DP World Tour Championship: Pairings, tee times for final day</title>
+<link>https://www.skysports.com/golf/news/12040/13612182/dp-world-tour-championship-tee-times-full-r4-pairings-and-uk-start-times-for-final-round-of-race-to-dubai-finale</link>
+<guid isPermaLink="false">facc7cbb60fef95de446150437ae16560c86806bf2e765ebc6223e2f7ae044af</guid>
+<source>Sky Sports Football</source>
+<category>sports</category>
+<pubDate>Sat, 14 Nov 2026 13:00:00 +0000</pubDate>
+<description>Pairings and tee times for the final round of DP World Tour Championship, held on the Earth Course at Jumeirah Golf Estates, Dubai.</description>
+<enclosure url="https://e0.365dm.com/26/11/1920x1080/skysports-jon-rahm-golf-dp-world-tour-champ_7406406.jpg?20261114132454" type="image/jpeg"/>
+<media:content url="https://e0.365dm.com/26/11/1920x1080/skysports-jon-rahm-golf-dp-world-tour-champ_7406406.jpg?20261114132454" medium="image"/>
+</item>
+<item>
+<title>Michigan Football legend goes off on Kyle Whittingham: ‘It’s bad, fellas’ - Yahoo Sports</title>
+<link>https://news.google.com/rss/articles/CBMiigFBVV95cUxPMWJ3RlRKdXkzT2dQdUs4WDdjdFc4WkE1aGQ5V2pXeXJYLWkyTW0yTi1zYmtYZkN1Ynkwb0p5andpdFBNNks0VEhtVlNfWDdBZUdoLXFlSlpEX1h5al9ScEJHd194QWZsSEx0WXYzU0p4S1JqN0tqaGNYM0QwWmJnSDNMTjdsYUFMdmc?oc=5</link>
+<guid isPermaLink="false">18750a09f886fe0578f66098edad5726b3060ea1bcb6a5a265b8b112894f170f</guid>
+<source>Google News Football</source>
+<category>sports</category>
+<pubDate>Sat, 14 Nov 2026 13:00:00 +0000</pubDate>
+<description>Michigan Football legend goes off on Kyle Whittingham: ‘It’s bad, fellas’ Yahoo Sports</description>
+</item>
+<item>
+<title>Which college football start times were affected by FAA ground stop? - Yahoo Sports</title>
+<link>https://news.google.com/rss/articles/CBMiigFBVV95cUxQWTBOdEYwNkhLUWJFM2dLRnQyZHdBeS1PUXkyR3pHRlIyTHVQamkyTTRHUU5NZ1QzZUxCUll0NEJ5VkwtSC1hRFBJYnNWMFlqTThkT3lvRXdlR1YyQWlrclNaalNPWDJhekJIUW1oSEhWRWdCSU5BeW1zemlzaF9zclVYTi1fM0toZFE?oc=5</link>
+<guid isPermaLink="false">7a3dd843e91e33cb585e3904764062bc5a68a91b06fcd672414e796d845288b4</guid>
+<source>Google News Football</source>
+<category>sports</category>
+<pubDate>Sat, 14 Nov 2026 12:59:36 +0000</pubDate>
+<description>Which college football start times were affected by FAA ground stop? Yahoo Sports</description>
+</item>
+<item>
+<title>Tennessee-Texas A&amp;M football injury report - Yahoo Sports</title>
+<link>https://news.google.com/rss/articles/CBMiigFBVV95cUxPSU1rQXE0VGxsSkdJWllBNXJfNXljU2ZtMEs5cXdLUUc2LThKbk4zT2Q4TXNJZE5sSkdBdUR3VHBKV2xJa1lKenRWaFZRZnF6VjNReW84VG5IUkZzQmk2azc1UjFWWGE0d3MwaXNXWDB5TkxZTmFkRjhCWEJMNlI0WDg1VEp0VDVza0E?oc=5</link>
+<guid isPermaLink="false">e67ac4cc946a3f3e21e56039223c0db91a32005f3d0779993c4ca4f07a775e43</guid>
+<source>Google News Football</source>
+<category>sports</category>
+<pubDate>Sat, 14 Nov 2026 12:57:45 +0000</pubDate>
+<description>Tennessee-Texas A&amp;M football injury report Yahoo Sports</description>
+</item>
+<item>
+<title>Joseph scores his FIFTH as England move to 78 points vs Japan LIVE!</title>
+<link>https://www.skysports.com/rugby-union/live-blog/12040/13612004/wales-vs-new-zealand-england-vs-japan-live-nations-championship-updates-latest-scores-team-news-commentary-from-cardiff-twickenham</link>
+<guid isPermaLink="false">61dfa957b359777a38f54c822f97ed2530c44fcc6912d44a580a0a092f10bfe5</guid>
+<source>Sky Sports Football</source>
+<category>sports</category>
+<pubDate>Sat, 14 Nov 2026 12:45:00 +0000</pubDate>
+<description></description>
+<enclosure url="https://e2.365dm.com/26/11/1920x1080/skysports-will-joseph-england_7406606.jpg?20261114174658" type="image/jpeg"/>
+<media:content url="https://e2.365dm.com/26/11/1920x1080/skysports-will-joseph-england_7406606.jpg?20261114174658" medium="image"/>
+</item>
+<item>
+<title>Saturday Sports: NFL regular season action; college football playoff format expansion - NPR</title>
+<link>https://news.google.com/rss/articles/CBMixwFBVV95cUxQemFDSXV6OUx0clBRVXE1RUlRVFdBSElfVi1jZ3pyQkprR0FHbUcxN0RCZy1lUDRVQi1DeHpyMHdwdGFXYnBGaVFnbUoyS2ZfdEJFbVoxRWlGY0ttWDFKWG8tQlVuUFR6X3hDZDFPS09LWlZoT2NyNDU2LUI4T29va0VzUWx6eDJpZGJvUVNrc0s4MHV6dVlaZG05aWMwSzBkM2Y0ZHlsVHlQYV93VEswSVNBTGFyOGpDQmJwek9qdTV0dWw5Tkh3?oc=5</link>
+<guid isPermaLink="false">5348195a398d331bfbf209b0a844f39cfc4801d995573e52f5956026688287dd</guid>
+<source>Google News Football</source>
+<category>sports</category>
+<pubDate>Sat, 14 Nov 2026 12:40:20 +0000</pubDate>
+<description>Saturday Sports: NFL regular season action; college football playoff format expansion NPR</description>
+</item>
+<item>
+<title>Utah vs. Arizona: How to watch tonight's NCAA college football game, where to stream and more - Yahoo Sports</title>
+<link>https://news.google.com/rss/articles/CBMi2AFBVV95cUxNRDBkc3loR3FOTFFMUVFoUmVjbk9XcUNXbS1FNmRNTTN6ZGlYRmJVUXNOVlBKOUdnUEtyZEJEN1JLNEFCNlpPSlFCa0l0TUdGLWZWVXA5VlBjVzB1RVNGbXkxM3hRXzZhdXlCWWU5aFhPRnkyaWQxSVlsVEEtbUwxOHh0djRIRkU0OXNEVkFfRV9FQmpCYTkzWGYxRkk5VC1iR1hFQlQzVjBwYjQ3OHZoUXg4Sm1BcWR5QTlMSkJyMFpkbDk1Y01vRFZSRDR3U3RQbkZRM2pQMVI?oc=5</link>
+<guid isPermaLink="false">3d5afa639dc0d469d4b1dceb2b1083d2568ac9ac28fea73e46706e58ebcce9f4</guid>
+<source>Google News Football</source>
+<category>sports</category>
+<pubDate>Sat, 14 Nov 2026 12:40:00 +0000</pubDate>
+<description>Utah vs. Arizona: How to watch tonight's NCAA college football game, where to stream and more Yahoo Sports</description>
+</item>
+<item>
+<title>Longhorn football, other teams make final travel plans after FAA ground stop is lifted - WFAA</title>
+<link>https://news.google.com/rss/articles/CBMi0wFBVV95cUxPWnRzU0xQTDlHaGh3Vng2ZmZINm1kTVh3Y1VqRXRDSVB4dFdva3V5WnpXZ0FvMEhxWTVnVnZYbGRZU3Fnb2tjeVdIR3FxdTRKYmE0cThFRnFCYzRmeVNtTEJ0eUk1Y2NMY0RQV3VSa1B4UDZnRndlbngwY3FuSXlOY09NNXl0Um9lLUotdTdXeXJleGIxVUt6ZTZwS2s4TjBXbFZJM1gxWUdfNzFVYlRiaWpnMDJQS0RnSWlteng2ZHR4Q0o3U1c2X2Iwa1hWTk1VS0hF?oc=5</link>
+<guid isPermaLink="false">b7bdbdbe6b00a4c056b9f2fc9236534d6e435ec1ad1ab946d32effc4c6420aaa</guid>
+<source>Google News Football</source>
+<category>sports</category>
+<pubDate>Sat, 14 Nov 2026 12:36:32 +0000</pubDate>
+<description>Longhorn football, other teams make final travel plans after FAA ground stop is lifted WFAA</description>
+</item>
+<item>
+<title>Takeaways from Colorado football's upset win over No. 14 Houston - Yahoo Sports</title>
+<link>https://news.google.com/rss/articles/CBMikAFBVV95cUxNVWNZLTRwcUtLZHRNTGNpaUhPN1hUSFNQa21GYVhYVzRRcVBTR0RhNmx1cUdDZFlDMGZEcEFoeDkxLTdkVXVRaXZIanFPM1VmS1FjSEo5b1BxcUlBRWNFaHl6QXdhcmxHSlVkRFdPUTkxWHlGMGVuQjdEamlyb3Z0WXZOM212bWxWRjZsTkVCQXE?oc=5</link>
+<guid isPermaLink="false">85f3653f0e14c7fd5b217be0684729ed88346fb5b64232bb38363415b873a5bc</guid>
+<source>Google News Football</source>
+<category>sports</category>
+<pubDate>Sat, 14 Nov 2026 12:31:15 +0000</pubDate>
+<description>Takeaways from Colorado football's upset win over No. 14 Houston Yahoo Sports</description>
+</item>
+<item>
+<title>Arizona State football vs UCF TV channel, schedule, how to watch today - Yahoo Sports</title>
+<link>https://news.google.com/rss/articles/CBMihAFBVV95cUxQRFFzQ2RQMElITV9NNnQ0UmxKR2dqMkVOTklxaFlvaFllSzRBLUtlclRGcl8tSWRIdzdmcldDYUNwYTE0b3F6YU1NZDBrWXhtNEROQS1lV0h5T0YtbmpuREc1MENZdy1HOTVFZV8yVmpDcDhjTnBGV2JLeHVsSnliYnRPeE0?oc=5</link>
+<guid isPermaLink="false">72823c4e07d86f88ca1b89af9ad3adad4dc1dc3e6d20069303c856a65bc2508c</guid>
+<source>Google News Football</source>
+<category>sports</category>
+<pubDate>Sat, 14 Nov 2026 12:31:08 +0000</pubDate>
+<description>Arizona State football vs UCF TV channel, schedule, how to watch today Yahoo Sports</description>
+</item>
+<item>
+<title>2026 Iowa high school football playoffs: Watch Saturday's semifinals live - KCRG</title>
+<link>https://news.google.com/rss/articles/CBMipwFBVV95cUxObFE2bVpTYWJMdXc2Mlpock9VVFlpRjBGZEFPd29kYms3eXBXX2dROGZjdGgzcEU4a1VMUlBOVG13bEVNNmdwMUJCekZvZWZiODZmVnpRZXJjZ1huS19mclNvaDdObl8ta2JTSjVheEpZZ1lLWGI4eVFINVhJZTVFZjdlbTB1Z3U2QkhObW5pYnV1ejhmSmRIbS1wVFdwNVVGTkpIM3RaQQ?oc=5</link>
+<guid isPermaLink="false">cbecd0d56b8fa84a532c0d8521ab7a429ab36f40f8bf467451dcda425edb769f</guid>
 <source>Google News Football</source>
 <category>sports</category>
 <pubDate>Sat, 14 Nov 2026 12:00:00 +0000</pubDate>
-<description>Michigan State Spartan fans predict football win over Washington Huskies Yahoo Sports</description>
+<description>2026 Iowa high school football playoffs: Watch Saturday's semifinals live KCRG</description>
 </item>
 <item>
-<title>Hatton leads Perez as McIlroy stumbles in Race to Dubai finale LIVE!</title>
-<link>https://www.skysports.com/golf/live-blog/12040/13611918/dp-world-tour-championship-third-round-live-latest-scores-highlights-as-rory-mcilroy-and-tyrrell-hatton-battle-for-lead</link>
-<guid isPermaLink="false">4953b40ae4065d5b1255c22f80f8674178168068929ad9c3f5f3be59265e2676</guid>
-<source>Sky Sports Football</source>
-<category>sports</category>
-<pubDate>Sat, 14 Nov 2026 11:45:00 +0000</pubDate>
-<description></description>
-<enclosure url="https://e0.365dm.com/26/11/1920x1080/skysports-rory-mcilroy-golf_7406309.jpg?20261114100621" type="image/jpeg"/>
-<media:content url="https://e0.365dm.com/26/11/1920x1080/skysports-rory-mcilroy-golf_7406309.jpg?20261114100621" medium="image"/>
-</item>
-<item>
-<title>UCLA football takes down Illinois, takes off for historic 10-0 season start - Daily Bruin</title>
-<link>https://news.google.com/rss/articles/CBMirAFBVV95cUxQRlFyS1ZJdnlOT3B0dlIzOFVkVWt2R0tYNkJFN0pOTUJETENUd2FNWkttNk53YTJ4WU5Dd1hBOFVmbGdnVEIzS3QtbnlnTjdIOE5lc1RIVERsSGZVWDZPTW9nWG03dWFFcUJlQnRyOUVoQzZVeUZMS1ZudHBoOHhVdkFGdnppQkxVOFhiWkExNlQ0Yzg2YmduU1BZSlZHUkZONEVtbzZJMDVRMkp0?oc=5</link>
-<guid isPermaLink="false">10a6b082ae15b4a8f5374d5e8eb2ed2a4d0f1465c5c5d1ef09fd32fb2672a727</guid>
+<title>USC vs. Indiana: How to watch today's NCAA college football game, where to stream and more - Yahoo Sports</title>
+<link>https://news.google.com/rss/articles/CBMi1AFBVV95cUxPWFJnSEQwQm1oSm5pZTFGeVpmRElqMm1uMkpHOFdyaEFBVXcyVmZDUk9QVmVCNlRtdTh4NFRqMVFWZGUzOG1SdDN0bTNPR1JZVnVlU040WWM2SndnZENvRXFrUzRxSkxBRDNyM0ptT0ZEeFpTTktuZlRRcEt0WlQ5Wnp0d0I3OVNRQTFjUGVmYzZDbW9HeGlVaElXN205YW9qWG5vWUZLSnp4NkoyQWMxMEV5SS1nVVpXa2FDRmZkZ09GbW12MUFLeVhMWGFTcUVaQTIxWA?oc=5</link>
+<guid isPermaLink="false">4ef828773110a44d2cb181e8805c05fc29300e03d3554368122a5332c340183d</guid>
 <source>Google News Football</source>
 <category>sports</category>
-<pubDate>Sat, 14 Nov 2026 11:40:37 +0000</pubDate>
-<description>UCLA football takes down Illinois, takes off for historic 10-0 season start Daily Bruin</description>
+<pubDate>Sat, 14 Nov 2026 11:42:00 +0000</pubDate>
+<description>USC vs. Indiana: How to watch today's NCAA college football game, where to stream and more Yahoo Sports</description>
+</item>
+<item>
+<title>FAA grounds flights nationwide, disrupting NBA, NHL and college football travel for the weekend - CNBC</title>
+<link>https://news.google.com/rss/articles/CBMifEFVX3lxTFBnMHZuWHQ2ZTVjWU9YSzlVd3Q2S1pJQWh3WUVMdEhpOU9CcDc3bmk4VHhwSVRyRlNGOTZfODVLc0VRdEtVSXN4a0FHRThOUTlHMVZhNkNZN2dORjN2QXVmeURXdE9KMW9kQVU3OWczUk9tTi12QlRPRl9lT2nSAYIBQVVfeXFMT1lpRXhXSll2aUZnSHVkUGwzanNmS3FrNXNsamR5clFNN1NNVHZkTzVNT1hrS0hQc0lXSmtwdzlTYzhtSjlUVEZLZzFfeExRT05SN1c5cG9WSTNjcUdXVnV0RHZCVk1FQ1FlZDlIYmxOM3JhLVh6Rm1NNVU1SG53SlZ5dw?oc=5</link>
+<guid isPermaLink="false">f9082e5f83d6dd4b570f09eab46418a07ed5f85100fd987703fe1ddff61903e1</guid>
+<source>Google News Football</source>
+<category>sports</category>
+<pubDate>Sat, 14 Nov 2026 11:32:34 +0000</pubDate>
+<description>FAA grounds flights nationwide, disrupting NBA, NHL and college football travel for the weekend CNBC</description>
 </item>
 <item>
 <title>How Minnesota’s football team turned an unspeakable tragedy into a lifelong promise - CNN</title>
@@ -120,42 +803,60 @@
 <media:content url="https://e0.365dm.com/26/11/1920x1080/skysports-harry-brook_7406339.jpg?20261114113715" medium="image"/>
 </item>
 <item>
-<title>WSL LIVE! Chelsea vs Man City plus Man Utd vs Palace on Sky!</title>
-<link>https://www.skysports.com/football/manchester-united-women-vs-crystal-palace-women/live/575822</link>
-<guid isPermaLink="false">a3c896ba5e82d85d1ba8f961c409b196c609589556b8c16b1780fd8e295b038f</guid>
+<title>Texas Tech vs Oklahoma State Prediction, Pick, College Football Odds for Saturday, November 14 - Yahoo Sports</title>
+<link>https://news.google.com/rss/articles/CBMigwFBVV95cUxOejlYYWtoRVJORU1aQVU1TEViUGlFVTFMOHRjWmxzZUt3c1JyNGpDejRNT2xGQ2VscnRZWFp3VlhxS3hlOUtGRWdqaENOUktvVDQ0WWNMa2tYVHgxSnRGZzM0Nm14T2V2Ulh4bUROamppYXNpNndHVGh5bWVsRFlfb2ZqUQ?oc=5</link>
+<guid isPermaLink="false">5d10c658e7d2cb60f4fb78510d378ee8bf8f5d5787e2a193cbb9ea1039deec2a</guid>
+<source>Google News Football</source>
+<category>sports</category>
+<pubDate>Sat, 14 Nov 2026 11:27:30 +0000</pubDate>
+<description>Texas Tech vs Oklahoma State Prediction, Pick, College Football Odds for Saturday, November 14 Yahoo Sports</description>
+</item>
+<item>
+<title>South Carolina vs Arkansas Prediction, Pick, College Football Odds for Saturday, November 14 - Yahoo Sports</title>
+<link>https://news.google.com/rss/articles/CBMijwFBVV95cUxNUVRjQ3JJd0NsSGd1elJlTm90ZVZKeEJuVWRCRFlGR1NIeXBoczJPejV0Ri1pSG0xTG1Ed1N6eUxrTEthaWR4VzRIQ3FSdkZscDZ6bl9UcktPMHNjdVNNT1plX2x6NUhYdi1IbVJKSUI4QUM2d05hU0UyTkZaTkxKbXY1M3Bsb2xVcklJSy1kYw?oc=5</link>
+<guid isPermaLink="false">4a4b6e98aa71c90339fb55ec7ee3bc8e9ad00500218a8f60463afdd62a371980</guid>
+<source>Google News Football</source>
+<category>sports</category>
+<pubDate>Sat, 14 Nov 2026 11:25:07 +0000</pubDate>
+<description>South Carolina vs Arkansas Prediction, Pick, College Football Odds for Saturday, November 14 Yahoo Sports</description>
+</item>
+<item>
+<title>Flights ground stop lifted: College football games rescheduled due to FAA stoppage - USA Today</title>
+<link>https://news.google.com/rss/articles/CBMi1wFBVV95cUxNOHNfVUZLbmdhaG9MLWpsMGg0a21TUE9jYXlIWC1FSmxRLU8xT1NNd3FQVUNzYWhqM19TZnk3Y3hFMXJOVVZxODFMSDB3NEVMaVlfUi01X01nbGV3dm5EakpObjdtX3d3QnYzUXFHT09fRjFlb1NybUV5emhvNG0wd0FBZEFlNjBPdW40a3FRc0toRTZVQS1LSk53WjhLX0xPSUY0TjBTN1pDaC1NZ1VrbUtiUUJOek5laU9RNUtDX0tUUEJFWTR3ckFYQTAxanhWLVJma1JhNA?oc=5</link>
+<guid isPermaLink="false">c5e59aae3f5e6591479d2e3d251c3be153ae915ea0f037e203567ddc0622779e</guid>
+<source>Google News Football</source>
+<category>sports</category>
+<pubDate>Sat, 14 Nov 2026 11:21:49 +0000</pubDate>
+<description>Flights ground stop lifted: College football games rescheduled due to FAA stoppage USA Today</description>
+</item>
+<item>
+<title>Chelsea hang on for big win vs 10-player Man City as Man Utd beat Palace</title>
+<link>https://www.skysports.com/football/chelsea-women-vs-manchester-city-women/live/575819</link>
+<guid isPermaLink="false">c1154e6259cadc2618e857818421d851eeee9f40af5d58aa4fc79e73d66194a2</guid>
 <source>Sky Sports Football</source>
 <category>sports</category>
 <pubDate>Sat, 14 Nov 2026 11:15:00 +0000</pubDate>
 <description></description>
-<enclosure url="https://e2.365dm.com/26/11/1920x1080/skysports-wsl-womens-super-league_7401923.jpg?20261109100347" type="image/jpeg"/>
-<media:content url="https://e2.365dm.com/26/11/1920x1080/skysports-wsl-womens-super-league_7401923.jpg?20261109100347" medium="image"/>
+<enclosure url="https://e2.365dm.com/26/11/1920x1080/skysports-ayaka-yamashita-wsl_7406494.jpg?20261114151752" type="image/jpeg"/>
+<media:content url="https://e2.365dm.com/26/11/1920x1080/skysports-ayaka-yamashita-wsl_7406494.jpg?20261114151752" medium="image"/>
 </item>
 <item>
-<title>What channel is Ole Miss football vs Oklahoma on today? Time, TV schedule - The Clarion-Ledger</title>
-<link>https://news.google.com/rss/articles/CBMizAFBVV95cUxPZ1FkRmVYMlF0ekpZdS1xeGk1X0l1d3hzZ1RsLXNpRWxTWUFvSndwRndjTHA3THNaYWk1UXJyWDZLNFNvMWltbl9NZGlkM01QcVk2MmFlSjlOb0lHVW1VcFdEMVZuTm1NWUxNQ1lBejBqdTNTdjhTdXFwS3RxbTJua1FPQXd5c0xvSlBRVUJpR04xdEZhZlI5dGFIUGFTWV9HYk9OdUpWUGZ1QUJsdWRid1c3ZDh0LWFzN0RzSTF1ck43ZjhhMTh0Q3BNRm0?oc=5</link>
-<guid isPermaLink="false">1a2e266fc964890db1e091eb3d439dbee9e57dc55940dbbe90c3f0f5fc072e0f</guid>
+<title>What time is Oregon football vs. Michigan today? TV channel, streaming, how to watch online - OregonLive.com</title>
+<link>https://news.google.com/rss/articles/CBMizgFBVV95cUxNajAyZ3d6dHZ6NTF6dWFadDVpeEQtYVdwOU5UM2JVR1V2MnFmODhlTkZuMlZBNjVwQUNjdTNmTnpOZkVrTFRBelozdHI2U1JOSFFaWHQybDhUNlBCS29LOFFtcVhCa3AtN1pqdVRlX241a1B2cXNnakozb2NnRk1Zb0xqbVF5akNBSWktbVVsN21vSlgtTm1OeHhmNWR3R2xLcEFsdkVMc2JlTlRsNEhPRjdrclVxaVhKOVZoaTBGRjBpOTFDNklHUDMwSUFDdw?oc=5</link>
+<guid isPermaLink="false">eaaf4093bb6673be5360dc2b67ddd36a5d2801e76d489342f5284dffbfb61580</guid>
 <source>Google News Football</source>
 <category>sports</category>
-<pubDate>Sat, 14 Nov 2026 11:02:00 +0000</pubDate>
-<description>What channel is Ole Miss football vs Oklahoma on today? Time, TV schedule The Clarion-Ledger</description>
+<pubDate>Sat, 14 Nov 2026 11:13:00 +0000</pubDate>
+<description>What time is Oregon football vs. Michigan today? TV channel, streaming, how to watch online OregonLive.com</description>
 </item>
 <item>
-<title>Mississippi State football vs Auburn start time, predictions, live updates, score, TV channel - Yahoo Sports</title>
-<link>https://news.google.com/rss/articles/CBMijgFBVV95cUxPUzU4bG5YeFFrSGltbld0RXFuU01sOEFzV1h3dXFxVjNMWW94Q2FYX0RzOEVfNFo2bWFlaDVPOUs5M0Z6OGw0eGpqLV9CT3B0VlNsdVlzemxZQVFjajJIX0JyZ1BWdkhDRGZkbWdBa3ZUNXNKRHhhd3NWTjdWX21qdks5X3lNbHVzcnVFZGRR?oc=5</link>
-<guid isPermaLink="false">6b6e25a4ea4dfdd8d695534104f93b9dd17f31df231b14e9c6d08618edf61a7b</guid>
+<title>College football games today: Week 11 scores, schedule for top 25 games - Yahoo Sports</title>
+<link>https://news.google.com/rss/articles/CBMiigFBVV95cUxPWWtDUGtNVzlEMmdranZVVDRodjVKU1RLRFVQemEtRVh6RUdqVFRMSDlkbnlSdGFvQ3YzSUFjTTJRMEhCQk9XVE9OV3FLNV9MWU9PUTVoYTJXVTJOdlBNVDNtNzNiUWljbDNFaWxqN2w3MHpEVDVNbHlZM1dWT21CWUNFVnNjT2V4N0E?oc=5</link>
+<guid isPermaLink="false">2e5298d26de8716d51b2c9ed930b692d73f697f784bec8f96bc4c4104a524bb2</guid>
 <source>Google News Football</source>
 <category>sports</category>
-<pubDate>Sat, 14 Nov 2026 11:01:18 +0000</pubDate>
-<description>Mississippi State football vs Auburn start time, predictions, live updates, score, TV channel Yahoo Sports</description>
-</item>
-<item>
-<title>Penn State football vs Minnesota: Follow Week 11 Big Ten matchup - York Daily Record</title>
-<link>https://news.google.com/rss/articles/CBMi-wFBVV95cUxNWmZxend3WWdBWXNHRFdkNEVZWmlBWlZCaWtlQXlpcFZaRUwwdC0yY2pyXzJNUlhGUjN3dk5WS3dfZWFwWkp5bUtjOEprMDYxeldFWkNOZE5Md1JNcVFTRkJPWXRvUVprZ09fRWw0dVNnYlI4M3hxNk91RXhrWXNzcTRIcGVSLUpTd2lQamgycHlQUzRZejQwZ1BvZkw5dWZIdWtiMWJsMzBOR21fTFRic0JrM05KNWxVSWFNQnBlVmFGU2lfRTdadHFGWTNlTF9oUk85cEtZU0drLXN4eWEyckNBQ2ZmSFlXR2JiTWlqX052aTZNN3NBRmxhTQ?oc=5</link>
-<guid isPermaLink="false">45d77db755cf4796f3b220a33694befefe685200c8fae53233c57662e97699b7</guid>
-<source>Google News Football</source>
-<category>sports</category>
-<pubDate>Sat, 14 Nov 2026 11:01:00 +0000</pubDate>
-<description>Penn State football vs Minnesota: Follow Week 11 Big Ten matchup York Daily Record</description>
+<pubDate>Sat, 14 Nov 2026 11:05:34 +0000</pubDate>
+<description>College football games today: Week 11 scores, schedule for top 25 games Yahoo Sports</description>
 </item>
 <item>
 <title>‘They just continue to show up’: How Minnesota football became family to a community shattered by a school shooting - CNN</title>
@@ -167,13 +868,13 @@
 <description>‘They just continue to show up’: How Minnesota football became family to a community shattered by a school shooting CNN</description>
 </item>
 <item>
-<title>Arizona football vs. Utah: Game time, TV schedule, odds, streaming and more - Yahoo Sports</title>
-<link>https://news.google.com/rss/articles/CBMihAFBVV95cUxPMC1XcXZUMk1fY1p5Y29KcUdpUWNNcUlkOTYyZEo3U1VuaDE1Tzd6T0FqajhLQ2s5OHlSWlkzSmtPRFhpQjJpc3VKVTd0Q0xuTG5VT04xRzRIS3ZuLUlmSnlNQ2hZS3ZOek5Cb1l3VHpNdGFOal9BdDh4UW1ESURYTmdseUY?oc=5</link>
-<guid isPermaLink="false">96e09656198b5a0a3feeb1eb5aaadf1454a9425fa65695c7403d56f4ad25713f</guid>
+<title>Arizona football vs. Utah: Game time, TV schedule, odds, streaming and more - Arizona Desert Swarm</title>
+<link>https://news.google.com/rss/articles/CBMi2AFBVV95cUxQdXBTSWtseThmYlFEY3ZfdjVfNjQ1WFo4R3VJTklraFZackQ3ajVnUEhnSGxySTVwOHBDTHB1Q0Mzb25KLWxuRDNyQlhvVWJ4R0hNOTJWNGdINTBLMVNPWHBxM3NpSUFlZ2JXLWRYX3ZwWUdxTGdwRy1lV2t3bV9yMFFGcnpMQTRKX19JcVRfNlhNLTFDSUZ6YnQ3OEF6YVVLcHVIV3lPd1JvZ2dXX2owajlka3dmQVAxVVFQU19JZVhTcUh2YjF2UkJ4SEgzUDhrRnA5N0RFNko?oc=5</link>
+<guid isPermaLink="false">359940f5c638051e82dbdb2cc4d1f22f19b79ada7c98b729ed92f654239baf39</guid>
 <source>Google News Football</source>
 <category>sports</category>
 <pubDate>Sat, 14 Nov 2026 11:00:00 +0000</pubDate>
-<description>Arizona football vs. Utah: Game time, TV schedule, odds, streaming and more Yahoo Sports</description>
+<description>Arizona football vs. Utah: Game time, TV schedule, odds, streaming and more Arizona Desert Swarm</description>
 </item>
 <item>
 <title>Ole Miss vs Oklahoma Prediction, Pick, College Football Odds for Saturday, Nov. 14 - Yahoo Sports</title>
@@ -185,42 +886,33 @@
 <description>Ole Miss vs Oklahoma Prediction, Pick, College Football Odds for Saturday, Nov. 14 Yahoo Sports</description>
 </item>
 <item>
-<title>Rory magic! - McIlroy makes wonderful eagle to leapfrog Hatton</title>
-<link>https://www.skysports.com/watch/video/13612147/dp-world-tour-championship-rory-mcilroy-leapfrogs-into-the-lead-with-an-eagle</link>
-<guid isPermaLink="false">6554e1885d9a60064cbcd0088dcd14d30188651edad0d52a4883772dacba488d</guid>
+<title>Le Tissier hits stunner to mark milestone in Man Utd win</title>
+<link>https://www.skysports.com/football/manchester-united-women-vs-crystal-palace-women/report/575822</link>
+<guid isPermaLink="false">58b0d78ec075fb71e856d3c223fe7ae8beaccf6f6796f3a2e736a04118547b05</guid>
 <source>Sky Sports Football</source>
 <category>sports</category>
-<pubDate>Sat, 14 Nov 2026 10:28:00 +0000</pubDate>
-<description>Rory McIlroy leapfrogs into a share of the co-lead of the DP World Tour Championship with a wonderful eagle at the par-five seventh.</description>
-<enclosure url="https://e1.365dm.com/26/11/1920x1080/skysports-rory-golf_7406321.jpg?20261114103302" type="image/jpeg"/>
-<media:content url="https://e1.365dm.com/26/11/1920x1080/skysports-rory-golf_7406321.jpg?20261114103302" medium="image"/>
+<pubDate>Sat, 14 Nov 2026 10:54:00 +0000</pubDate>
+<description>Maya Le Tissier marked her 150th club appearance with a stunning strike as Manchester United moved fourth in the WSL with a dominant 2-0 win over Crystal Palace.</description>
+<enclosure url="https://e2.365dm.com/26/11/1920x1080/skysports-wsl-womens-super-league_7406398.jpg?20261114131527" type="image/jpeg"/>
+<media:content url="https://e2.365dm.com/26/11/1920x1080/skysports-wsl-womens-super-league_7406398.jpg?20261114131527" medium="image"/>
 </item>
 <item>
-<title>VIDEO: Millikan at Barstow, CIF Football - The562.org</title>
-<link>https://news.google.com/rss/articles/CBMifkFVX3lxTE9ZSnh4M2ZvWjZPbXBPbWU0cGx5TS0xMllxdnhlSDVjVEtFQzJSb053SjJiNU9DYkRLM2tRR0Q4UGpuMk1qeVZlMGdDWnJHT3o2V1lWYmR1eEhzWEF5dzFtLVR3aFdWQnVOT3dybjZvZmdEMmJnOGxWVG5PbnhRdw?oc=5</link>
-<guid isPermaLink="false">5906e5987e1bb8c2ea99c80533396e0591998020329f5f007290aaa16f0a9f4f</guid>
+<title>Highlights - UCLA Football vs. Illinois (Nov. 13, 2026) - UCLA Bruins</title>
+<link>https://news.google.com/rss/articles/CBMikAFBVV95cUxNMHhuMms2NXRmMHJYbUJkaDJMdnJIT3g0akxDRWVCdmlwN2oxRllwVXUySGQ1QW13SWJEVU9KZ2lCazJpN2NYZFNvalZNVEFoTGlENmdRbE11eDRUN0Y1c2NHWERrR3Faa01ydnQ3SnY4OWNaeG4tdUREMVE2Sm9nOVN1Z1RxaGdxUWtFd0gtaGY?oc=5</link>
+<guid isPermaLink="false">90dd0ece88da2ff0edc4c9818028a100b5a37e82e457274cdb35f04032a475d1</guid>
 <source>Google News Football</source>
 <category>sports</category>
-<pubDate>Sat, 14 Nov 2026 10:25:03 +0000</pubDate>
-<description>VIDEO: Millikan at Barstow, CIF Football The562.org</description>
+<pubDate>Sat, 14 Nov 2026 10:05:52 +0000</pubDate>
+<description>Highlights - UCLA Football vs. Illinois (Nov. 13, 2026) UCLA Bruins</description>
 </item>
 <item>
-<title>Michigan State football picks vs Washington: 2 in a row for Spartans? - Detroit Free Press</title>
-<link>https://news.google.com/rss/articles/CBMixwFBVV95cUxQQWd6ZWJaeUpnSlk4Q25XeEtMckVQdjZVaTZ3d1Q1ZVJ6RlVSUzVfdi03SFY4SlI0bmVtZGZCVV9QTnRfaVRSbG1xeUw3Q1V4WXZfekVJbWlaelFTdGI1VDdhMlgyM1l2dTQxSExsTEY1MlJRMGMxbXlybnd5VUlkY3BlZjNzLXk4WGZMZUNoSzI1YnhyVlBaMEh5aGVEVlh2eWwzR3lWdkpOVThWdzNCQ1BPLWVnSXVUVG9UZ2YxWl94YUlJSm5B?oc=5</link>
-<guid isPermaLink="false">e942db72078a6da1751299daaa3f14b55da4c0cf2ec7744f079a563c7b42cfc8</guid>
+<title>Where to watch Tennessee-Texas A&amp;M football: TV, channel, streaming - Yahoo Sports</title>
+<link>https://news.google.com/rss/articles/CBMihAFBVV95cUxQbU5yVk5UQUJOUW1MSUxxV0RRVWZ2bkVUbnhqdWxzSTVyT25WSnhZS2drVW9xcXhpU01CR2N4N2xPUm1la0ZUOUQtcHk1S2ZuUlRlb1FLZmlRN1VaR2xteGc0Vmd1cnRUQ3Bvc1hmaTY2cDJnUzI3ejV1TUJNejl5SUpJczk?oc=5</link>
+<guid isPermaLink="false">c23eec14d8ede2b629e140c4cabbd3f023e4b209052d8aeda668dc959f328ad7</guid>
 <source>Google News Football</source>
 <category>sports</category>
-<pubDate>Sat, 14 Nov 2026 10:05:00 +0000</pubDate>
-<description>Michigan State football picks vs Washington: 2 in a row for Spartans? Detroit Free Press</description>
-</item>
-<item>
-<title>What channel is Penn State football vs Minnesota today? Time, TV - York Daily Record</title>
-<link>https://news.google.com/rss/articles/CBMi4wFBVV95cUxONVhoX1lIWlBMVjNqR0FTRGVOV1ZrZHRPZDFnRHFvb1VPbW95ZHI5aGhOazNPUTdUN01rX1VkUU1JeWRlbnFoVDBFbmJScTR3blBNTHRzeXBobDNFWXRtR3hRa255X0ttSzV6OVcwTGxKQm1ISUFSNWhyZjZhREgwYTJFNG1mWWZDM2JsQzZRbXIwLWJEMUw0MGg5M2pRVmQzZlBFLWFCSlpRTENUV0loV0ROYXh2U0g3MVBSNC11WUVLbDlzZnc1Z21BNzk0VURaTW1xVF9wNmFtRl9sSS1qXzB5WQ?oc=5</link>
-<guid isPermaLink="false">703c5612a834aa397312e8ec5c47c4d073484c50b09cd0bbf3ba70615c51ae36</guid>
-<source>Google News Football</source>
-<category>sports</category>
-<pubDate>Sat, 14 Nov 2026 10:02:00 +0000</pubDate>
-<description>What channel is Penn State football vs Minnesota today? Time, TV York Daily Record</description>
+<pubDate>Sat, 14 Nov 2026 10:04:11 +0000</pubDate>
+<description>Where to watch Tennessee-Texas A&amp;M football: TV, channel, streaming Yahoo Sports</description>
 </item>
 <item>
 <title>Ohio State football vs. Northwestern: Game-Time Decisions for the Buckeyes against the Wildcats - Cleveland.com</title>
@@ -254,58 +946,15 @@
 <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fc1c/live/9874d100-df7b-11f1-b844-3146c4983677.jpg" medium="image"/>
 </item>
 <item>
-<title>No. 4 UCLA Football Defeats Illinois, 22-14, to Remain Undefeated - UCLA Bruins</title>
-<link>https://news.google.com/rss/articles/CBMiowFBVV95cUxNUnFKV0lEUC1IVGhESTRtS2hNbTd5VmF2elV1UWNTMjV6YmhXNGxiUmJZLUwwcU5LZFNoUTdnR2V5WUljMzFGeXVtNm5ScWRJOUN4a1VNNlFsMGdIUGNyNS1JczB3dDZucVo2TVBIbHdEejRSMzQ1bl8zMzIwVWpSMTVTenEyYmNtUWQxbDRQQnRwRnJBUE01T04zOUlQRXBUOTY0?oc=5</link>
-<guid isPermaLink="false">d10bfda288ea95b98e477b2128233df82559f44705f46595e392516be312ec90</guid>
-<source>Google News Football</source>
+<title>Tuchel to remind England of anti-racism protocols before Spain game</title>
+<link>https://www.bbc.co.uk/sport/football/articles/c60mdzn2dk1eo?at_medium=RSS&amp;at_campaign=rss</link>
+<guid isPermaLink="false">f2eb3b3ea5545637baf82eaedeab59392087cc490208caade3c1b844c7304325</guid>
+<source>BBC Football</source>
 <category>sports</category>
-<pubDate>Sat, 14 Nov 2026 09:44:46 +0000</pubDate>
-<description>No. 4 UCLA Football Defeats Illinois, 22-14, to Remain Undefeated UCLA Bruins</description>
-</item>
-<item>
-<title>VIDEO: Long Beach Poly vs. Edison, CIF Football - The562.org</title>
-<link>https://news.google.com/rss/articles/CBMihgFBVV95cUxNeEVERGU4aHhKSHZjUGItQkRQSnZ3LWRvdmQtb3lZYTlPZjRsX2UzQTZaNWhqZ203eUdqTjdlbXpKQW5nM0JNeHJXR2RDakplRWVKZGlPa1hYeDhUZzRsaDVaTmMzRW5oNjdOTXluY3pOVUg2bGhPa09PcUtQU0RkcWdxd0JDdw?oc=5</link>
-<guid isPermaLink="false">91df30f245975e74dc7d21107b77fb63aabaea26a2c7d070f67db726a6969194</guid>
-<source>Google News Football</source>
-<category>sports</category>
-<pubDate>Sat, 14 Nov 2026 09:40:55 +0000</pubDate>
-<description>VIDEO: Long Beach Poly vs. Edison, CIF Football The562.org</description>
-</item>
-<item>
-<title>How To Watch, Listen &amp; Follow: No. 15 USC Football at No. 6 Indiana - USC Athletics</title>
-<link>https://news.google.com/rss/articles/CBMihwJBVV95cUxQMGxCU3BBU3lGSTgzZ2t3SDB4TzhSbmVtR1NHc3QtZTZJakFiSklMTU9GTDJlQ2U4Y0NVeUVHTFB3bUZyM1NST0NROTU4SkExMDZNdVo1WmJCMjlKODRkWEJESHRtNktnMmhPVWpTXzNWZVhuUTktWHpCaVRlNEdidHE3Vi15SHMzaHNkNFl4dlIyRHNBbTZrdzhfUWViRVp5eUNQUGRoMHNfeWVqRXNqZ25xNHotbEFBSEF6YlVKeVRxZnJIcC1DSTNNbnVnd2xZNDdlTlEwanQ0SmtsNmtnaVo2UEF0a1Z4VVFuUmd2bXRFeFJ3TFcxWWc3Sm92SDNVQkNpX0o2Zw?oc=5</link>
-<guid isPermaLink="false">41ddb9907fb4357f6ef8a435f98bf2fee083ef3e7cc78d271360d8ad2ca1ac16</guid>
-<source>Google News Football</source>
-<category>sports</category>
-<pubDate>Sat, 14 Nov 2026 09:31:19 +0000</pubDate>
-<description>How To Watch, Listen &amp; Follow: No. 15 USC Football at No. 6 Indiana USC Athletics</description>
-</item>
-<item>
-<title>Snohomish football falls in state round of 16 - HeraldNet.com</title>
-<link>https://news.google.com/rss/articles/CBMiiwFBVV95cUxON0o2UEU1UjJZVzBaZTVoUW1EMmxJRWNndUEtTTViWmRmaUh4T2x6ZmZaYU1uMUl0eWgyTThLQU1OSWVyekhPeVZsSkZiYTBkY0IyRE9LdFVZb21SS0ZYbG1YYU1td0dnMDM3TWhRNGFreHhPZ0x4LTFnZjRmLS1ua01XcVo1TVFFdnE4?oc=5</link>
-<guid isPermaLink="false">985d8d2d859cfba6e8d5dd7c70c834b6a619cb52a75829d9f22145a7680260cd</guid>
-<source>Google News Football</source>
-<category>sports</category>
-<pubDate>Sat, 14 Nov 2026 09:26:13 +0000</pubDate>
-<description>Snohomish football falls in state round of 16 HeraldNet.com</description>
-</item>
-<item>
-<title>High school football playoffs: Kingsburg gets gift; McLane and Kerman advances - Fresno Bee</title>
-<link>https://news.google.com/rss/articles/CBMihwFBVV95cUxPaVpiRm9mLVN4SXphY3lLd1RqTHpNY0hVNXh3eW9GdVduRjRnUmV3WFlIOXg5aGl6aTFkZm55T1c1V085X04tclpJa0hBRC1yaTVueE5YTHc4NnNMS2I3S0FrbUs3Q2d6VkJESnZtREJkVlRybjM4WWwtLV9xaGRlTzU3a3h2aTDSAYcBQVVfeXFMT0VRdkxhNzFXZmpPUEZ3bkhZYTZmQzB3UUNDTzNQaDdZdnc0RGk1eVFzblRfeE93bWxCRmVWenNFUzRLdlcyZnVzMnFhdV82T3lQLTVlMHVIdXVtMTVsYmNLLXpsUkd1WjZUMGM5X0JTVTdvTEZPV041UDJqb0lSLUx4Y21ZUnhZ?oc=5</link>
-<guid isPermaLink="false">f0ae63a5cc63e2c60e261cd3e0a06d6454ab8ecb5a439a96d8ac41eb3dd18181</guid>
-<source>Google News Football</source>
-<category>sports</category>
-<pubDate>Sat, 14 Nov 2026 09:13:51 +0000</pubDate>
-<description>High school football playoffs: Kingsburg gets gift; McLane and Kerman advances Fresno Bee</description>
-</item>
-<item>
-<title>CIF Football: Millikan Escapes Barstow With First Quarterfinal Win Since 1980 - The562.org</title>
-<link>https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBMbFBWV0xidUc5M0ZhX1ZWTFhuSy1ENXU5QzNrQ2pqVFhXUHE0bTRuN0NNSW54eTJxX3JHTzFjRnZZb3QwQWozMkZKME9YcW9MSUVRU2NSRC1EZFV5VTFzZ2xvWDBkdXc?oc=5</link>
-<guid isPermaLink="false">abaf81c4cba4325b91884910e3782f5936c650e281ecb515d0055c5273e138a2</guid>
-<source>Google News Football</source>
-<category>sports</category>
-<pubDate>Sat, 14 Nov 2026 09:04:34 +0000</pubDate>
-<description>CIF Football: Millikan Escapes Barstow With First Quarterfinal Win Since 1980 The562.org</description>
+<pubDate>Sat, 14 Nov 2026 09:13:30 +0000</pubDate>
+<description>Manager Thomas Tuchel will remind England's players of Uefa's anti-racism protocols before Sunday's Nations League fixture against Spain in Madrid.</description>
+<enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cc84/live/b9694be0-e005-11f1-b441-2b33b063138f.jpg" type="image/jpeg"/>
+<media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cc84/live/b9694be0-e005-11f1-b441-2b33b063138f.jpg" medium="image"/>
 </item>
 <item>
 <title>Who would make your England-Spain combined XI?</title>
@@ -350,24 +999,6 @@
 <description>District Championship Football Live Updates Ozarks Sports Zone</description>
 </item>
 <item>
-<title>Kansas State-TCU football game remains on despite FAA travel disruption - Yahoo Sports</title>
-<link>https://news.google.com/rss/articles/CBMihgFBVV95cUxQcTVJMjVyV0ZmU2tydXJnbWdCekQ3UlBESVF1bTBxLVhpQmpBYkVWTGFfR3RBdmFBbzZ1bzdGbU9kMHVMZHRTeG9Ec0EtMjhXWmRHQmg3dERDdnpPUzdsUHUxbHR5eUlUbThYM29BVVhGTEpPTl91ZXloZjNHT09sRzZDdWdKZw?oc=5</link>
-<guid isPermaLink="false">a57cb952acecf0e30588518b68f64b4b50fe03378bfca0e3a351f43ca611f2f7</guid>
-<source>Google News Football</source>
-<category>sports</category>
-<pubDate>Sat, 14 Nov 2026 08:14:32 +0000</pubDate>
-<description>Kansas State-TCU football game remains on despite FAA travel disruption Yahoo Sports</description>
-</item>
-<item>
-<title>Colorado football stuns No. 14 Houston, keeps bowl hopes alive - Yahoo Sports</title>
-<link>https://news.google.com/rss/articles/CBMihAFBVV95cUxQU0F1QVJQTzFLN0FIc21BNlhBaUg2WE5kM0hjcTVRd2RZVmlWeXlCWkJVT1Y0NHBnUmZTbXJudWtPTHM3R1VJRG02UHZRWEVkbjNnalhiZ2lWYWItZVBrTUVWMi02YnhxTk5ham1QME1XcTd2dnFSRXhRVmN3aFNzcW8tcHY?oc=5</link>
-<guid isPermaLink="false">2115f64851a30f642e65bac23b1f687d7e75cad36de39ca81722dbe83acb2ca5</guid>
-<source>Google News Football</source>
-<category>sports</category>
-<pubDate>Sat, 14 Nov 2026 08:06:10 +0000</pubDate>
-<description>Colorado football stuns No. 14 Houston, keeps bowl hopes alive Yahoo Sports</description>
-</item>
-<item>
 <title>FAA ground stop triggers widespread travel chaos as teams scramble ahead of games - The Athletic - The New York Times</title>
 <link>https://news.google.com/rss/articles/CBMipAFBVV95cUxNLUUwNW41dlI0RkZFWHlqVGtVWi1JVU1mVnM2djJUYVRnaEdKS3MtajhyMVJxTDVwTUNHWGJ3X2pjdjd5LXRrRXhhNDhkVVJUUXZFWVB1UVlwRkwtN1RRZGVFZXZrYjU4YjZYd2ZmbjB5eU5EcG9zUDQ3aDQ0OGkzdWFETTk4WGVqOTNyLTRGREJqUmNCaEZseFZsVmg5MDNqZnd5aQ?oc=5</link>
 <guid isPermaLink="false">78fa4ba5a0f6f364572693295125bc117251016b73395c7d6f0ba76899f91e92</guid>
@@ -388,6 +1019,17 @@
 <media:content url="https://e1.365dm.com/26/10/1920x1080/skysports-david-warner-australia_7381543.png?20261020115016" medium="image"/>
 </item>
 <item>
+<title>Six goals to go - will McGinn catch Dalglish &amp; Law?</title>
+<link>https://www.bbc.co.uk/sport/football/articles/cke89156y10zo?at_medium=RSS&amp;at_campaign=rss</link>
+<guid isPermaLink="false">8a2127dc8674ab6d25e0942b37b5fe22e75fb8ca412839ff1d539502e2bb0379</guid>
+<source>BBC Football</source>
+<category>sports</category>
+<pubDate>Sat, 14 Nov 2026 07:49:46 +0000</pubDate>
+<description>After drawing level with Hughie Gallacher on 24 Scotland goals, will midfielder John McGinn reach Kenny Dalglish and Denis Law's record tally of 30?</description>
+<enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/da36/live/75be3ea0-e000-11f1-a3e2-bfb07c67d49c.jpg" type="image/jpeg"/>
+<media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/da36/live/75be3ea0-e000-11f1-a3e2-bfb07c67d49c.jpg" medium="image"/>
+</item>
+<item>
 <title>Big 12 Football Schedule Adjustments for Saturday, November 14 - Big 12 Conference</title>
 <link>https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNWpxV05VSXhMQi1XelJPTldYc1ZNQWt1cFhoRnYwYi1NbnZzaTVwRW14d0xRalo5QjFsZUdvQ1YtR25OWVUxRTRCTzZVd2dKQmx0UklIZVlEVjlSbV9LVzN2dkVYWENUTUpFZzF6Yk9aT2tLVjRvV1UtTlkteHpsVFp0VWVFS3FZcUNMZGUzQXJtdHNNcjU3MHNMSjl5bzJrc056SGdLZGJodw?oc=5</link>
 <guid isPermaLink="false">e0af7a3d0841dd39a006d80ef2de70c9070fedeac7dba7c16d161b17ca488584</guid>
@@ -406,44 +1048,6 @@
 <description>How a Friday Groundstop Threw College Football Saturday Into Chaos WSJ</description>
 </item>
 <item>
-<title>Goalkeeper Owono given 12-match ban after De Miguel's death from collision</title>
-<link>https://www.skysports.com/football/news/12040/13612118/goalkeeper-jesus-owono-given-12-match-ban-after-tenerife-forward-jesus-de-miguels-death-following-collision</link>
-<guid isPermaLink="false">9c70867e94ba6c996782bea51d3f18a1082b2e3cfafb0baa07e9d9ea44ad2884</guid>
-<source>Sky Sports Football</source>
-<category>sports</category>
-<pubDate>Sat, 14 Nov 2026 07:22:00 +0000</pubDate>
-<description>FC Andorra goalkeeper Jesus Owono has been suspended for 12 matches for his challenge of "excessive force" which resulted in the death of Tenerife forward Jesus de Miguel.</description>
-<enclosure url="https://e2.365dm.com/26/11/1920x1080/skysports-jesus-owono-andorra_7397054.jpg?20261104170145" type="image/jpeg"/>
-<media:content url="https://e2.365dm.com/26/11/1920x1080/skysports-jesus-owono-andorra_7397054.jpg?20261104170145" medium="image"/>
-</item>
-<item>
-<title>Ole Miss-Oklahoma game pushed to Sunday after FAA ground stop causes travel issues for Rebels - USA Today</title>
-<link>https://news.google.com/rss/articles/CBMi2AFBVV95cUxNVTJnTjVZTEhJa19jNlNKZmlZTFBhVnBqbE1KTmlIR0Flc2hvYURudEdzUzk3bkVBSHlDWURRci1OTVpRRElzdEx4dUtQeHlzYUdHZWtZbFNKXzh1OVZ0TFo2VG5pcEhtZ2Z3aFBOOWJlWGpuWjVDRERuamVyaXJHZzdxeXhoTXZ3dEs3QjVpR2tkOTdWVmFXZFdBaDVBcTNXZUFNd29qbGN1RlNsWmtFdWFYMzRRYWVRYlpneXl2SFlxWlp0M2k2Ymoycjh3M1FjT3pKal9XX1A?oc=5</link>
-<guid isPermaLink="false">b666626840494f2719a55c3453c1350774548fc3fe37ac9dbf52f36cc04b5ea8</guid>
-<source>Google News Football</source>
-<category>sports</category>
-<pubDate>Sat, 14 Nov 2026 07:11:00 +0000</pubDate>
-<description>Ole Miss-Oklahoma game pushed to Sunday after FAA ground stop causes travel issues for Rebels USA Today</description>
-</item>
-<item>
-<title>College football scrambles, adjusts kickoffs after FAA groundings, Ole Miss-Sooners pushed to Sunday - Yahoo Sports</title>
-<link>https://news.google.com/rss/articles/CBMilwFBVV95cUxPcjhoc3BYekpLMEItNk11c1k1NzlDS0xZZUp3clFyWV90X1BHbGkzdkN6QmNraENMcnhVMi1NOGNKNzB1UlJsZC1GRU85MXROZ3NSc2NHOFNlcnljcThQSE9YdGFWS1N0UXpnV3ZOTXJfSEk2OVE3dkV0cEpJLUtXNzFvR1VWdENtYm10RmQ3TlJVanJBMkFv?oc=5</link>
-<guid isPermaLink="false">b5fa93bd07244e73b01d09a1f28bcaa3607bdc221363c1d89bd627eae24439bf</guid>
-<source>Google News Football</source>
-<category>sports</category>
-<pubDate>Sat, 14 Nov 2026 07:08:05 +0000</pubDate>
-<description>College football scrambles, adjusts kickoffs after FAA groundings, Ole Miss-Sooners pushed to Sunday Yahoo Sports</description>
-</item>
-<item>
-<title>Oklahoma AD Roger Denny blasts SEC after game vs. Ole Miss pushed to Sunday under threat of forfeit - CBS Sports</title>
-<link>https://news.google.com/rss/articles/CBMitAFBVV95cUxQRGx4YklQV24yLV9RWEEzTHFqVTFvM1J0SVM2eFVKb1g4ck0xRkZ5Tm5TMVNqalVhbHF2bzlxaVVrd215eWJCc0hOR0dsWjdWNzQ4UW5jR3MzVkRCOFloakx0WHY1YkptMnJ1QTdrTFlNb2F3d1JqQnJ0aU00SzYxS3ZlTEs2M2JoQ0lnVE9nRGpvYzBfQ0tMRjhLRFlmWEY4SjBWcXVzOFUzTWhPTFJNdEFTNk0?oc=5</link>
-<guid isPermaLink="false">09a4919ee58fcbdff2d5242e77d8079f47d520a77defa1f85041f38acf20ce45</guid>
-<source>Google News Football</source>
-<category>sports</category>
-<pubDate>Sat, 14 Nov 2026 07:05:00 +0000</pubDate>
-<description>Oklahoma AD Roger Denny blasts SEC after game vs. Ole Miss pushed to Sunday under threat of forfeit CBS Sports</description>
-</item>
-<item>
 <title>Adames fights Warburton as Bentley targets 2027 bout with champion</title>
 <link>https://www.skysports.com/boxing/news/12040/13612025/carlos-adames-fights-gerome-warburton-as-denzel-bentley-targets-shot-at-wbc-middleweight-world-champion-next-year</link>
 <guid isPermaLink="false">8042d3e8edae29edd0d6bb9c20e0f8442bc5ebbf7945ddceb233f33cf74e4951</guid>
@@ -453,42 +1057,6 @@
 <description>WBC world champion Carlos Adames fights Wales’ Gerome Warburton on Saturday, live on Sky Sports Mix from 4pm.</description>
 <enclosure url="https://e1.365dm.com/26/11/1920x1080/skysports-carlos-adames-gerome-warburton_7406042.jpg?20261113200008" type="image/jpeg"/>
 <media:content url="https://e1.365dm.com/26/11/1920x1080/skysports-carlos-adames-gerome-warburton_7406042.jpg?20261113200008" medium="image"/>
-</item>
-<item>
-<title>FAA grounds flights nationwide, disrupting NBA, NHL and college football travel for the weekend - AP News</title>
-<link>https://news.google.com/rss/articles/CBMiigFBVV95cUxPVUkzUkUtOXFKRWc1dS14cHgwQzhLclZFZjNzZFJkb3R2X0JDSlJaYnR5bE1QbHhtZjhtWDZVN3VaNkNISUtqdkFtUktDMHJ3RHdEajZFLUF4RFdfTm5MaXZzRjJFRXR6UTBYcXVndGtwOGlVbHlLYXd5eFc0THc2d0ZWSUhSaGVjekE?oc=5</link>
-<guid isPermaLink="false">312fad907b3e9075351fa3cb943f7b4fb6742966c7c37ce724b57fb8aba9616d</guid>
-<source>Google News Football</source>
-<category>sports</category>
-<pubDate>Sat, 14 Nov 2026 07:00:00 +0000</pubDate>
-<description>FAA grounds flights nationwide, disrupting NBA, NHL and college football travel for the weekend AP News</description>
-</item>
-<item>
-<title>High school football: Friday’s playoff scores - Los Angeles Times</title>
-<link>https://news.google.com/rss/articles/CBMixgFBVV95cUxQUVFUNGYxbUEtNW1RNXVLVlhtLXlpNWVDOVh5SzJ2ZVVEa0tYcU5xMXNadnVjMy0wTU5uVnZoY28tbnJUV05Fa0lOVzg0ak9uUEg1X1hBMmRWZFpJS3pYRkxuaUhOcXBGOHhOckVsX0hCeGliSWxUTXc4YVduMVVpcUVMMkF0WVVha0h1MVBfX1gxdVROMk5WLVI5ZzVNNFZIUllCMXFkMnpSSVBkSldvX1BDTGFQTGxjT1RNWi1uWVRiMFJrWEE?oc=5</link>
-<guid isPermaLink="false">0571a710a8600ea3e49874d77a304bf7eade0a99cd8c67d68232e82f276e7e6b</guid>
-<source>Google News Football</source>
-<category>sports</category>
-<pubDate>Sat, 14 Nov 2026 06:53:10 +0000</pubDate>
-<description>High school football: Friday’s playoff scores Los Angeles Times</description>
-</item>
-<item>
-<title>SEC football game moved to new date due to travel issues - PennLive.com</title>
-<link>https://news.google.com/rss/articles/CBMiowFBVV95cUxQbnl4WVFOd1lzbHU5T3h1c1Z1NWxFdVlIemZfUXZrVTMxSTFsRTN0Rm5xbHZDMVhObTdCQjNzNGlPbDNnYm5jVlEteS1uUkVwU2Y5ZVo5Z2R0QnRnUjZVQWFOcDg4T2JrUFUtTUQxV1hCUG1jeTVDSnpaSGFnSHR5NTFHOWxfblJhNE9TeVF3STM4bkJMdW92bFlPb2RlLUdoZ0dZ0gG3AUFVX3lxTE5NOGVxTVdwcmpuWm9ndFFhY3k2SkVDdXQ1Y0lVdVNGWjhEempyNTNRaHZWWGowRzN0VWVCTE9WOE84WVZWdFNaM1VlTjB5Zko3Z20zRUZBUXhkeE5GUE9BcHdjdmJuWjFVZHBqUVFxNzJpYWN2WkoydUluNHVXYjJvcmhCTm04akZaQjRSd2hqX2RRUVpYcE91LV90X1gtcWt4QzJWdURDTm90cGhncF84QTAtcE12MA?oc=5</link>
-<guid isPermaLink="false">29536bde6b00040376f895cdd69cfae3a71a3eefd0e7315343d02d7a702f01e4</guid>
-<source>Google News Football</source>
-<category>sports</category>
-<pubDate>Sat, 14 Nov 2026 06:43:00 +0000</pubDate>
-<description>SEC football game moved to new date due to travel issues PennLive.com</description>
-</item>
-<item>
-<title>Updated college football schedule: New kickoff times after FAA flight stoppage - USA Today</title>
-<link>https://news.google.com/rss/articles/CBMivgFBVV95cUxOTi1Tc241bHh3MTlBeUdHMDVlTkVSYWc4NGhMUHJNakhmV1Q1eHRxX1dFQ0ZKbmplSHY2ZnZzdnltbVlqdlBCOEktb1hxZGFsLU92eEpMWXVNOG85dWJrWlNsRWhLX0hYanBVMVdVQWIwbi1OV19VUlpvTnV4UFNUYm5vYWZadWhMeENVcXNIZDNUaXJwTXloblJNd1hJeUpWUTd5aTQyZFNCaklYRmxpYWZaR2NHLWlNT2doTEVR?oc=5</link>
-<guid isPermaLink="false">d105612d2b95821a67bfc70ed88a876e3ea5f1506dd4165a56b640aae342711b</guid>
-<source>Google News Football</source>
-<category>sports</category>
-<pubDate>Sat, 14 Nov 2026 06:39:53 +0000</pubDate>
-<description>Updated college football schedule: New kickoff times after FAA flight stoppage USA Today</description>
 </item>
 <item>
 <title>How a reunion with scout Bompastor solved Chelsea's striker issue</title>
@@ -502,24 +1070,6 @@
 <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5264/live/26ec7c50-deb7-11f1-93e1-3b657b665bcf.png" medium="image"/>
 </item>
 <item>
-<title>Deion Sanders' Colorado football team gets signature win in shocking upset of Houston: 3 takeaways - DNVR</title>
-<link>https://news.google.com/rss/articles/CBMiiAFBVV95cUxPblAtSmxQZlF0VXJ5blpnNUJwVUx3MW9zeG1jbDF2am5Ld0VsbHVlZnpQanhSWGhNVkkzVnF5TVFpUTI2Z0V6U21wTENsTWVHNkFxUTdYcWlWR1RfaXhqZllJQ2dpNFJmN0ZkQ29hOTNHTUJOeDdTcGJ5RDRvVXZPNloxWmNUZll3?oc=5</link>
-<guid isPermaLink="false">5450192a6a3e11d7313647ee748a94e592093b0cc97a5baeda79d70764f261e0</guid>
-<source>Google News Football</source>
-<category>sports</category>
-<pubDate>Sat, 14 Nov 2026 06:35:17 +0000</pubDate>
-<description>Deion Sanders' Colorado football team gets signature win in shocking upset of Houston: 3 takeaways DNVR</description>
-</item>
-<item>
-<title>Nationwide flight grounding disrupts football games this weekend - WBAL-TV</title>
-<link>https://news.google.com/rss/articles/CBMilgFBVV95cUxNVjN2OEZIeDh4czQ5eml6aUEtTGFFWi16RlppbjRUamQxZ2pDMmlUNXlHODM4bEFlMUNlNmRCbjBpSU5GdjJKY3FmMTVFdnNDbW0wWVhVRUdDampkMk9pbmp3b0dwR1k2STUxMHphTjZoVVkxZEZDRXg0UFJTT2dobDNWai0xdUlQa1VqRUpqMnV2NUg5ZUE?oc=5</link>
-<guid isPermaLink="false">77717e18833ccb9c8054ace61bf25739faffe570d0aa04fde1cfb408feea4d9a</guid>
-<source>Google News Football</source>
-<category>sports</category>
-<pubDate>Sat, 14 Nov 2026 06:29:00 +0000</pubDate>
-<description>Nationwide flight grounding disrupts football games this weekend WBAL-TV</description>
-</item>
-<item>
 <title>Who am I? Plus today's other quizzes</title>
 <link>https://www.bbc.co.uk/sport/football/articles/c6n83ld3le95o?at_medium=RSS&amp;at_campaign=rss</link>
 <guid isPermaLink="false">40009cb601487cb818805b21c12d76ac8cc7d55e829ae44b365cc92b97937cd3</guid>
@@ -531,51 +1081,6 @@
 <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fbf/live/38bd3c70-bda7-11f1-bc2e-018d645d8d21.png" medium="image"/>
 </item>
 <item>
-<title>Football’s Start Time Altered for Rice - Tulane University Athletics</title>
-<link>https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRTVOTmtNSFd3QlFQM2tPLVZabllkWS1lbHRZcVlMbnlfaDlrZzdyZGkyUkhobW1tQ1JRYWtQNHh1Yll4bWg3ZVU0STZ5clNFQWlpRjZYYUhrZTd5T2FwX3RhZ25hX2VObEs5ZTdvRnJYcHN6Q0RPUy1FZmNTTzNxSUxmOFRweW9I?oc=5</link>
-<guid isPermaLink="false">7175008818511a48085c48d387877eacf173e54fbf04f19f12c7739e86bfcce5</guid>
-<source>Google News Football</source>
-<category>sports</category>
-<pubDate>Sat, 14 Nov 2026 06:25:44 +0000</pubDate>
-<description>Football’s Start Time Altered for Rice Tulane University Athletics</description>
-</item>
-<item>
-<title>Why Ole Miss football's game vs Oklahoma moved to Sunday - The Clarion-Ledger</title>
-<link>https://news.google.com/rss/articles/CBMizAFBVV95cUxOU0ZwR05fdHFMWTBublllTmY3MXlVU2lTRzJtZG5pZXNHQ1pTUkpfTWVmTE01ZGxVaXRLNnFtNXd0NENSU3JFeFJ4Y24yNzk2VHJGczBXWDhVRldDQ2tkYTk4ejlTTkppOFg3ZnhPa1l6WnBYSno1WjNodWZWajl0MUsxWnF5V3M1bTFnaDQ1OVFSUUt5X0VrWFQxb3RnMVJWbHZ2MzR1b3NzczhTQl9wcGZDb3NRZGhpNVlOMGJnbVlHMVFWcm9TeHFHV0U?oc=5</link>
-<guid isPermaLink="false">41bc06ee6a2feff465a47ba8d4abe77d997ca5a35700e4d393cc0e3f69d33196</guid>
-<source>Google News Football</source>
-<category>sports</category>
-<pubDate>Sat, 14 Nov 2026 06:24:04 +0000</pubDate>
-<description>Why Ole Miss football's game vs Oklahoma moved to Sunday The Clarion-Ledger</description>
-</item>
-<item>
-<title>Evergreen football remains perfect in knocking out defending 3A state champs - CHSAA</title>
-<link>https://news.google.com/rss/articles/CBMiswFBVV95cUxQTTg3WkZBLVREbUtRVWhJNXJONDdlRFh1QV9RV3d2bjI4cThuOVE4TkpvSTZYQXVGeFpqRkRBdFJURFV5YUNlMG1HaFo5QUlwczZ3TUgteHdiMi1fT3ZNbC15WVViMkp6emNoWU54TXlPR3lRZ3loYVkzalV0dWFGZXNmRlhQMjExS1pnNUV4dWJuN1padFluNUQzdTZqdU5EeFhNQWdyTTRvMkExeHp4RkFnQQ?oc=5</link>
-<guid isPermaLink="false">bf8836c66c60aabbf873931941486d40615e47c6701bcc86d5d3b230eaccc636</guid>
-<source>Google News Football</source>
-<category>sports</category>
-<pubDate>Sat, 14 Nov 2026 06:23:13 +0000</pubDate>
-<description>Evergreen football remains perfect in knocking out defending 3A state champs CHSAA</description>
-</item>
-<item>
-<title>Illinois Fighting Illini vs No. 4 UCLA Bruins Highlights | FOX College Football - FOX Sports</title>
-<link>https://news.google.com/rss/articles/CBMiYkFVX3lxTE1zaTRUZHNzS0ZaS2NHOEgtUmlzNXBFUmFrSVJ4elNBSHRNSUl5ZFNyLVc4bWtRZEkwdGV6c0FoejZySWkzVkVlR2xIamd0Sk8wd1lrb1ZZM0lUeFo0Q1RjLVln?oc=5</link>
-<guid isPermaLink="false">8ea3500e1cb5cfe984fef4428395ff1ac54c8921b0e3074c994ac42cb4ea53fd</guid>
-<source>Google News Football</source>
-<category>sports</category>
-<pubDate>Sat, 14 Nov 2026 06:19:22 +0000</pubDate>
-<description>Illinois Fighting Illini vs No. 4 UCLA Bruins Highlights | FOX College Football FOX Sports</description>
-</item>
-<item>
-<title>Ole Miss football vs Oklahoma game moved to Sunday after FAA flight delay - Yahoo Sports</title>
-<link>https://news.google.com/rss/articles/CBMihAFBVV95cUxPaHhYSHpWSllkMWllYVhPaFZWRVBoMjdtR1JLc01vTEdRbml1QXhYWi1KejlEWERFQ1cwajZvMFNxRnlnVUFPX2RLZElRc0VUejNsUDN0X21UNng0TUxpaHM2RXNyX2EyQWo4UkY0RFZCRDNqbzI2QlFvbE0yT2pNQ1dDQlY?oc=5</link>
-<guid isPermaLink="false">db8824e829cead94f218c6e6b4888220ef80ad22f13ec77a5052e3c67c754853</guid>
-<source>Google News Football</source>
-<category>sports</category>
-<pubDate>Sat, 14 Nov 2026 06:05:00 +0000</pubDate>
-<description>Ole Miss football vs Oklahoma game moved to Sunday after FAA flight delay Yahoo Sports</description>
-</item>
-<item>
 <title>College football picks: Predictions against the spread, odds, betting lines for top 25 games in Week 11 - CBS Sports</title>
 <link>https://news.google.com/rss/articles/CBMiygFBVV95cUxPd3lfY1c5bXlsQlQydEFUY21SVUw1Sk1KOE5oZUFmYnBDOTg0bXhOMEp0N01jQ0NpaHp3eG53eXpPbUcxd1pyTWo1UnVOWFZOWERvaEhrdHdaMzF6dXNuY2p3aF92Z0JyYkFxVmNGaXJzUUwwOGRFRGtWbjZJOTFET0djNUxjNlk1Y3dOeVA3STFiZFRSeWpWQzh3QlFVV3hzbnZpc3pHQnBsdXI2SHMwSEo1aUlyNzNsRHB1MUVVSGJvVS1FalhiaVd3?oc=5</link>
 <guid isPermaLink="false">5d143d13382449bd0129d8132f0f25ba94ded86dd147a2a1b843b1c1737f38fc</guid>
@@ -583,15 +1088,6 @@
 <category>sports</category>
 <pubDate>Sat, 14 Nov 2026 05:41:00 +0000</pubDate>
 <description>College football picks: Predictions against the spread, odds, betting lines for top 25 games in Week 11 CBS Sports</description>
-</item>
-<item>
-<title>Utah, BYU football games face travel disruptions from nationwide FAA ground stop - KUTV</title>
-<link>https://news.google.com/rss/articles/CBMisAFBVV95cUxNNG1GMWxpbVBEdDlrUkdvY0k0UjQ3M2JvMWpQQ1NkOGtoY055cWhSQV9hSUVFUUFxR3RLYmw4YkdHdjZ6aUpyQjR3OVYxSVY5Q01mM3luVHZILTB3S3ZQYTVEVXY3ajNPZW1zR0h3bGRHcXViMUJnWlhWa3M5Rl9Ua1VmSWVOV0N6TXZXZE1UcWdxRm9aalIxMGxTSndFSGRPNGhNOHluT3NfSnBsdWIwNw?oc=5</link>
-<guid isPermaLink="false">c7649106cba3c02d53620b0541100be5a48e3ba6993146f51c1b8cc724671d4b</guid>
-<source>Google News Football</source>
-<category>sports</category>
-<pubDate>Sat, 14 Nov 2026 05:11:37 +0000</pubDate>
-<description>Utah, BYU football games face travel disruptions from nationwide FAA ground stop KUTV</description>
 </item>
 <item>
 <title>Final scores for Week 11: Playoffs of Arkansas high school football - THV11</title>
@@ -603,24 +1099,6 @@
 <description>Final scores for Week 11: Playoffs of Arkansas high school football THV11</description>
 </item>
 <item>
-<title>Flights ground stop lifted: College football games rescheduled due to FAA stoppage - USA Today</title>
-<link>https://news.google.com/rss/articles/CBMi1wFBVV95cUxNOHNfVUZLbmdhaG9MLWpsMGg0a21TUE9jYXlIWC1FSmxRLU8xT1NNd3FQVUNzYWhqM19TZnk3Y3hFMXJOVVZxODFMSDB3NEVMaVlfUi01X01nbGV3dm5EakpObjdtX3d3QnYzUXFHT09fRjFlb1NybUV5emhvNG0wd0FBZEFlNjBPdW40a3FRc0toRTZVQS1LSk53WjhLX0xPSUY0TjBTN1pDaC1NZ1VrbUtiUUJOek5laU9RNUtDX0tUUEJFWTR3ckFYQTAxanhWLVJma1JhNA?oc=5</link>
-<guid isPermaLink="false">c5e59aae3f5e6591479d2e3d251c3be153ae915ea0f037e203567ddc0622779e</guid>
-<source>Google News Football</source>
-<category>sports</category>
-<pubDate>Sat, 14 Nov 2026 04:54:00 +0000</pubDate>
-<description>Flights ground stop lifted: College football games rescheduled due to FAA stoppage USA Today</description>
-</item>
-<item>
-<title>Football At MSU Moved To 2:30 p.m. PT Kickoff On Saturday - University of Washington Athletics</title>
-<link>https://news.google.com/rss/articles/CBMimAFBVV95cUxPQ2MwdGVtV0hBUUJrTDFOcXFmSDNHMWh2dEVkQkw2NktqMERCOWlyV0hOYjZKZWhCQ3pnQlhtdUlVSGF3di12VDRRTUJZM1FidFNMVUhITVh5RnoyUGw3OVNpZ0twQ3IxOEhlM2czNjl0U0VZdUVFSy1XSThQYWpBLTlPSnk3bUJ2T0loY3o5ZVRON2R0YWl1aw?oc=5</link>
-<guid isPermaLink="false">e2092c08dd10fe1f1afd24ba503e9fc92a0628f766fb68ecb936654d21b47385</guid>
-<source>Google News Football</source>
-<category>sports</category>
-<pubDate>Sat, 14 Nov 2026 04:51:28 +0000</pubDate>
-<description>Football At MSU Moved To 2:30 p.m. PT Kickoff On Saturday University of Washington Athletics</description>
-</item>
-<item>
 <title>College football teams scrambling to find alternate travel plans after FAA lifts ground-stop order - CBS Sports</title>
 <link>https://news.google.com/rss/articles/CBMipwFBVV95cUxONV9HVkdIcU93bVBJd1hqV0xzNjBhY3VmaEd2bjNKb2J4cjVDU1hZbzFKMzVsZFEzSWJ5T0RuNjBVT3U0V05EWmJCdmV4LTB5ekFtZF9jZ0hIai1QS2F6N1NBTnR6V0FPb1hnZ2h4MmtVa0tQM1VJeDcxeUs1Rm9VdGJCUEpKekZZSTNlOUZaNFk2QUxJMHFBN1dkT1d2aVA0a1hZSml6cw?oc=5</link>
 <guid isPermaLink="false">367c3b878eb92cfab42e28b17d3e5bdb207bbbd76d341a419de085e293e5f38e</guid>
@@ -630,67 +1108,13 @@
 <description>College football teams scrambling to find alternate travel plans after FAA lifts ground-stop order CBS Sports</description>
 </item>
 <item>
-<title>SEC issues statement on all flights grounded, door open to rescheduling football games - USA Today</title>
-<link>https://news.google.com/rss/articles/CBMizgFBVV95cUxOUXRDeWg5VGI5VFZBQ3lHdUlCalFKdXVyOVUtR3c4RTFKTjVyZDFfLW1LdG82eEsyajJFVEwtSVpPYnd2emFKUVAxbDlSczJJV3JxNVJWZUdvQllWTks2M3Rzb1pnc1AzY2gwcGlxY1FiWDhSbjVHZG9qWkVxdlBsZk1BUGVwV3MyR0YxWTdzYTNXR0JJcklIY3dUN1gxUWpIZVQ1b2dwaU5fYUNMNExGY3dua016ZXh1ZlZkcEE3b0FTTzcxYUNFQjhyU0MzQQ?oc=5</link>
-<guid isPermaLink="false">12a4b5628d31b2c5bfc9109da191b38429426a351a5716f61d19fbd86031c2e5</guid>
-<source>Google News Football</source>
-<category>sports</category>
-<pubDate>Sat, 14 Nov 2026 04:45:00 +0000</pubDate>
-<description>SEC issues statement on all flights grounded, door open to rescheduling football games USA Today</description>
-</item>
-<item>
-<title>UW football resumes travel, flies to Michigan after FAA nationwide ground stop lifted - KOMO</title>
-<link>https://news.google.com/rss/articles/CBMihgJBVV95cUxOVU5PWGVoRDVURi1QWUV0OXBBYlJTbGUybFlUX3Z5UFpEdVp4NjBvM3NKR1N5ckwtdS14RTJGR25uSndsbWx5UFRteG8tS1VURndJaFpHX3JEZlRqMk1TQXdJZVVuU05CakJNb1hIN1ItNHRwODJtbldseGRDeTktUTRpcWp3bk1TbU84NUNsX2RyRkdQdUJFZk9YdnVSWkdGZ2tFNm92VTdMS09ROEdDU1dpTWR4LXJNXzgtZnhVdGI4T2k5S1RrdXZ4QmozRVJSZ04xdV9idERQQ2ZOa3QzV2JDbGc4LWM0MkE4eF9KN0JsVFBKZUVIVDNoT01mUkdaSHZPWmVR?oc=5</link>
-<guid isPermaLink="false">3484871020c8e59bcf953e5c3d2ffa38c06ee3ec8173c6009456f8bfe8b3e86d</guid>
-<source>Google News Football</source>
-<category>sports</category>
-<pubDate>Sat, 14 Nov 2026 04:36:24 +0000</pubDate>
-<description>UW football resumes travel, flies to Michigan after FAA nationwide ground stop lifted KOMO</description>
-</item>
-<item>
 <title>Marcellus Young Casario, Georgia football commit from Nova Scotia, passes away - 247Sports</title>
 <link>https://news.google.com/rss/articles/CBMirwFBVV95cUxPc0VWY2YycW1FVVNFZWNWMV9tU0ZjS2VsbjVwMnBuT2U2NExDLW44TnA0YjBxWVZzNmRpSEx5RjVUU3ctZkt0RHlTakxTT1NIWFNRTmpOM2hIOS1CNTkwZWY1VUowcy1CLTd4aURON3E0a3o5VFhiRU9nUHQwNm9fdzAxUDFsMEhxNEFMLWEtMDdkSWxTYkI0b3VJaHNQcWR2S1EwUlR5TWtDcG9Ja1RV?oc=5</link>
 <guid isPermaLink="false">df936d8b7e9718c27edc3d4f1ada07c73cb84fec345991515baa5b57e0e9a09e</guid>
 <source>Google News Football</source>
 <category>sports</category>
-<pubDate>Sat, 14 Nov 2026 04:32:43 +0000</pubDate>
+<pubDate>Sat, 14 Nov 2026 04:31:17 +0000</pubDate>
 <description>Marcellus Young Casario, Georgia football commit from Nova Scotia, passes away 247Sports</description>
-</item>
-<item>
-<title>Nationwide flight grounding could disrupt OU football game plans - KOCO</title>
-<link>https://news.google.com/rss/articles/CBMipgFBVV95cUxPeE8xTjdIaWpmN3EzenNVenlCT255VWxpN0djZjlWT0djT3V1THh6NzdubEJNLVc2ZVpuZVF5emczRmpzX2NCWXFPc05hOEo2WWkzLTJpUUh2OGVnRXRSSlBmTzlQY0xJbWNDa3B0Vjd4ZEQzM05IV3ZzYXZpd2FhRmJsaUR4bXotZFBGOEo5Smdjclo3VFV3cUtLVzZKZVJJZ0dIMUZB?oc=5</link>
-<guid isPermaLink="false">207e596471df05b30bd3713da73a3876f0aeaaadd78ce9a60ad2ddd2f43e60cf</guid>
-<source>Google News Football</source>
-<category>sports</category>
-<pubDate>Sat, 14 Nov 2026 04:27:00 +0000</pubDate>
-<description>Nationwide flight grounding could disrupt OU football game plans KOCO</description>
-</item>
-<item>
-<title>Football 2026: Scores and Recaps from Friday, Nov. 13 quarterfinals - Minnesota State High School League</title>
-<link>https://news.google.com/rss/articles/CBMirAFBVV95cUxQOWNSV00zTkZjdmJYd0pKVEhidE1GZlpvMEt0MGV1WXlZVXV2T25CRjR1Sm8yVFBVZnRvTkNRUWdtZU1pNXFmRTdzZk9aR0ozT0VYcjl1TXpCNzhTQ011TXVmeDQ1UWtucTk1TVA3UDZaZUVheTBTYUsybG9vMTlEYU9vNFRidXlGWkotUVFBRDMzQ2EzVWxPY080Tm1vYVM3aDlNYWhLc0lhQnlE?oc=5</link>
-<guid isPermaLink="false">53a32d23b503be1781fcd24fe33e72707f67c4f4d2f1a5414bd44980788871a7</guid>
-<source>Google News Football</source>
-<category>sports</category>
-<pubDate>Sat, 14 Nov 2026 04:20:57 +0000</pubDate>
-<description>Football 2026: Scores and Recaps from Friday, Nov. 13 quarterfinals Minnesota State High School League</description>
-</item>
-<item>
-<title>Utah Football Game at No. 23 Arizona Moved to 8:30 p.m. on Saturday - University of Utah Athletics</title>
-<link>https://news.google.com/rss/articles/CBMiowFBVV95cUxOWWwwTnFRenJTcTNnTmJfLWpMVFFSVVNJNk9QQkYyaUphSWtTWTd5Qno0dlFSSUVGeW1hVkxXMU9MX2l1X3A5SUlrMHRsVHkyX3l2Z0owQ1BpMVJiUWtLcDB2OEpXb0RrU2ItUHNLZEhRSkdsSVkzaHBTRVk3eFVkejdET25wNGRfMmRxbTRJOG5yc3JHVXdnYmFXREhQWk8taGlj?oc=5</link>
-<guid isPermaLink="false">b05249bd8436902889d46590b7daa6f084be97f6846f2427a6927362c6a6886f</guid>
-<source>Google News Football</source>
-<category>sports</category>
-<pubDate>Sat, 14 Nov 2026 04:20:25 +0000</pubDate>
-<description>Utah Football Game at No. 23 Arizona Moved to 8:30 p.m. on Saturday University of Utah Athletics</description>
-</item>
-<item>
-<title>Watch: WBTV Football Friday Night game coverage - Nov. 13, 2026 - WBTV</title>
-<link>https://news.google.com/rss/articles/CBMingFBVV95cUxNMzF3eVdRVWVSSXpsbUZRTDkxaDRUZmNYLVhXNC1EdXFYNDNYM0pfX0tSUHlhbkVRN1FQX0ZuWnBkV1JYUmV3TjM1MzgwNFJDcGNxZUkxSXN2RlRwYUtvYVoyMnZrMGIyUUVXLUdsYklETllxOFc4SEhITkhTanlaVnZMXzhwbVBndWROOWp4SVZQUlJYOHJCU1BxcG9adw?oc=5</link>
-<guid isPermaLink="false">fea33a8a67d630e63c078ff075dcd80f61275e60058d6b1b849c588a505b43e5</guid>
-<source>Google News Football</source>
-<category>sports</category>
-<pubDate>Sat, 14 Nov 2026 04:19:00 +0000</pubDate>
-<description>Watch: WBTV Football Friday Night game coverage - Nov. 13, 2026 WBTV</description>
 </item>
 <item>
 <title>Utah, BYU game times pushed back after FAA ground stop delays flights - The Salt Lake Tribune</title>
@@ -711,33 +1135,6 @@
 <description>Football Kickoff Moved to 5 p.m., Women's Volleyball and Women's Basketball Times also Moved BYU Athletics</description>
 </item>
 <item>
-<title>College football on TV today: Saturday, Nov. 14 - Yahoo Sports</title>
-<link>https://news.google.com/rss/articles/CBMiiwFBVV95cUxOUVU2X2hXVDZ4bG4wQzVsU2dmRnIxYTZXc0dLWWQyNnRBMFMtYjZWMGlJWHdmejdrR0I2Zlpnc3ItcGFhQlY0NE5kUVNMb0tMOUx2TnpJZi1Sd1Y5RnlQaEFBWjNkcDBWdl94SnFWYUM1LWZGbFdRdkU1anh5dy1XNGFpNEI2MVFacnVV?oc=5</link>
-<guid isPermaLink="false">fa8a083f59ef483e24ab56d229aff9f147523914a95edb9caaaa9aefa8136342</guid>
-<source>Google News Football</source>
-<category>sports</category>
-<pubDate>Sat, 14 Nov 2026 03:55:26 +0000</pubDate>
-<description>College football on TV today: Saturday, Nov. 14 Yahoo Sports</description>
-</item>
-<item>
-<title>Prayers Pour In as Georgia Football Commit Dies Unexpectedly Months After Kirby Smart Recruited Him - Yahoo Sports</title>
-<link>https://news.google.com/rss/articles/CBMijgFBVV95cUxONUhoRGFvQ0RNVmRJcEFzaFlwUDN6My1JaGhEampNeXRCUUJxV29rZkVmLWdoZk9aR3BleWJCeUhTUWR0eWFRa0tqLTBKQWQtS0xaMWRITzl5eGZNR3pPeUtiT0pkZ1IxV2tCbUNKY2RBYW1lSGRRdnRLeEJTaEtGOWw4WkY1Z3E2NnhrVjJn?oc=5</link>
-<guid isPermaLink="false">9b45dc570e3749b5660c9d5972d734ef3ccd6a22643448ce5629ef150e3266d3</guid>
-<source>Google News Football</source>
-<category>sports</category>
-<pubDate>Sat, 14 Nov 2026 03:51:00 +0000</pubDate>
-<description>Prayers Pour In as Georgia Football Commit Dies Unexpectedly Months After Kirby Smart Recruited Him Yahoo Sports</description>
-</item>
-<item>
-<title>The 2026 State Football Finals are set - https://www.boundwisconsin.com/</title>
-<link>https://news.google.com/rss/articles/CBMie0FVX3lxTFBKaDB0eG1qWGhvV05KT2VNeWd4N01JQVVCdE9kVzVVRklGWFp4N3FkREJ2eWNKWU0wejQzb2dXR3RfVWFWVTlaNXM1c2dWNVE1M0k0NjVJVVJZeFNvQlNUbGY3WnJ6VTRPa1RwRGJ4dGhMb0JteFF6bV9TRQ?oc=5</link>
-<guid isPermaLink="false">ca7b48ee6a1a038d792dd121d2615fbcce0cfd091a1eee8d5f9488d54b545d7e</guid>
-<source>Google News Football</source>
-<category>sports</category>
-<pubDate>Sat, 14 Nov 2026 03:50:06 +0000</pubDate>
-<description>The 2026 State Football Finals are set https://www.boundwisconsin.com/</description>
-</item>
-<item>
 <title>Some college football teams are in flight limbo after FAA issues nationwide ground stop. Here's what to know - Yahoo Sports</title>
 <link>https://news.google.com/rss/articles/CBMikwJBVV95cUxQSHo4cUs0LTBhZkRrb3JKODJpSWRjVFJnQlZUVjI3NEhjaUpyR19OenVKUzdVN0NrUUdjVm5UbU9wXzBaNDd2MTMtV1B1U085em1meFdaeW1xcm1YNVdFM3FETU9PZmtWRGU1Qi04OG5SZkgyemxvWU9aN2M1UFNFcXJFRmJqNGpGOUNEOTFmLUJxMFRuQnBhY3pDdkc3LVpyOWY0cTc5aWJybEhPYUkxT01QMG9Uc2FySUdsQkRKam4zNm9IWEJUdWszUVV3ZDF0VXJoZ1llNkRUZXVoaEdrakdDdldhakgwY2l2RHFXTHBLd21Ed2Y1SEltdWtRSnpOTlc0RE9vSEhTaXRFREtlZ0k4aw?oc=5</link>
 <guid isPermaLink="false">630ffa99f36f561e74827b9ab31bb4d79b61592cedf8023cc27af979b5dcdd3f</guid>
@@ -756,58 +1153,13 @@
 <description>Follow Live: Pitt Football vs. Florida State PittsburghPanthers.com</description>
 </item>
 <item>
-<title>Ole Miss flight for OU football game on hold after FAA ground stop: Latest travel updates - The Oklahoman</title>
-<link>https://news.google.com/rss/articles/CBMi2wFBVV95cUxQUEM5MXNNVGIxMmNjUXFKUmk0VGtmNTBWeDRHd0NLQnhDekMwN0xQYmMwRzVZa0prVHRtU29oMzk2anZ0YUU0UWVnS2txcHNjY1hOc0M4MnpBQnNUMkZQNVFMTU1uZVNGLTJaMmV1R0J0cmhEUVJackNGYnFWSFFTbk0ySEd1WGtOWmlCZWJtLUwtQXh0NXlaYTAyNVJ0bDZkOTBsQlZXX0oxTXRmZjAtSVpyem5KRUF3UGVJbFhzVW9reHRTaDJUM3JaMGFybHZsUFNJTkl3bjFnRGc?oc=5</link>
-<guid isPermaLink="false">c2a3e98d04db9c8549ae0e5fb83c1babd77312c3b4710e3cc6832c91551fb280</guid>
+<title>WVU vs. Kansas Game Time Changed to 3:30 p.m. on ESPN2 - West Virginia University Athletics</title>
+<link>https://news.google.com/rss/articles/CBMinwFBVV95cUxORGI2ZUZCSFVWM3NIdXNtT19yanV6TWtrWkdvMnVBSUhna2ZtU0NTYV8xZzROZlJrV2wyR3ljdXd3cjBsNk9kUnE1d1hsSG1ZUEw4eVNCMjhmcnlWSUpLM0ktYS1WdHNWSENjT1ZTZ3dXS0ZINGVLUVJ2em96Y1FZUGhJVTY0OHFGX3lRQmdsY3lCSlNyeVlfUTVpMHBZVTQ?oc=5</link>
+<guid isPermaLink="false">c1a56c3034ff53ca011d285a063e196d4577434ed2be56e5e73e12aa236afecb</guid>
 <source>Google News Football</source>
 <category>sports</category>
-<pubDate>Sat, 14 Nov 2026 03:33:02 +0000</pubDate>
-<description>Ole Miss flight for OU football game on hold after FAA ground stop: Latest travel updates The Oklahoman</description>
-</item>
-<item>
-<title>Lakeland stuns No. 2 St. Thomas Aquinas on walk-off TD in OT - USA Today</title>
-<link>https://news.google.com/rss/articles/CBMi4wFBVV95cUxOMUNsMldQQWJ2YnBNSnNZQUpmN0VmZlU1SU1WZUFtQzhOelBnOHlRMm5oa1pFQ0ZOWklRdUhNYjNSeHQ3WlNCaGNFbTVQeC1paU8xRHQxX0VJdWdBd2t1Y1VXYzRFQzlxYUhWWEEyNUFnVGE2MGp6N0NGVUVhYmNSVmlIbEwtVzBlWEZMMU5TRVRIZ2VBQ1dXeS1HVEdhdkVYUEozTG9HNHI1WnJxUzAybkl0TFZ3YmRGeWRDazVxUnFLdEM0b3VWS21jTldmc1o2Z2lxdEQ1NG5sV2VkVnN1N3lRYw?oc=5</link>
-<guid isPermaLink="false">682015de8ffa9c806032615db1c1c44c049aef60effcd27900036ab273d6451c</guid>
-<source>Google News Football</source>
-<category>sports</category>
-<pubDate>Sat, 14 Nov 2026 03:33:00 +0000</pubDate>
-<description>Lakeland stuns No. 2 St. Thomas Aquinas on walk-off TD in OT USA Today</description>
-</item>
-<item>
-<title>Michigan high school football final scores in regional finals - Detroit Free Press</title>
-<link>https://news.google.com/rss/articles/CBMiowFBVV95cUxNODZJcE1IcFlWZ1R5ZjBMellhYXA0Ymc3d2g4bk16YmNUSkd0U0ZKNDJ1VmtZOWpGR1JvTk00bW5kUzVhcGRXRGgtV0dmU3lnMFZyYzc2UjNldEpTWFlOLXJqb3hVdVRhTXVMRXBvMnJaN0NiMmd5dTZlTEg0bkdtclVhZ0d2cHJVOURjSXFDeVdsSDVWWFZaM3MtM3NVdTVsM3Vn?oc=5</link>
-<guid isPermaLink="false">a6acb6ebbfc8bd6fffc6ca09699d4b8b63fad03cb0af250df11e686d80c2b938</guid>
-<source>Google News Football</source>
-<category>sports</category>
-<pubDate>Sat, 14 Nov 2026 03:23:00 +0000</pubDate>
-<description>Michigan high school football final scores in regional finals Detroit Free Press</description>
-</item>
-<item>
-<title>Game on as scheduled for Tennessee football vs Texas A&amp;M despite flight delay - Knoxville News Sentinel</title>
-<link>https://news.google.com/rss/articles/CBMi9wFBVV95cUxNdnZVcG1IOTFaNGNXeURydExhN0t4UndhVXhEYkZ4MXg4czF3TDNhREZ3WGMwVGhsQTlaeHZLbF9icWo3ZlBaOWhhUEZ0YWRZaWFRTk5mWE1TQlhHelNoWV90NDRXbU40cmFDT0RGcC13Uk41UUw2R3k4cER3V2hfbDlraDlxVV81OWZMemtaUjZYa2p2dWtVRTZPamZqdmZCZ2VOU05ReUtzYXVFcFpWeFpvRlhZemRtR0FSamZ1dm9oMEFnVzNyVlEwSUxNdEM4ZWpiTl8tYXhjeVNUV2gxOVJvZEVJVk9BLWxJRm5la0NINHJlNTVr?oc=5</link>
-<guid isPermaLink="false">2395e56011374d2bc93a2b6de1e18da9b88ab596c3bc0b567fdd0f7c79b00e44</guid>
-<source>Google News Football</source>
-<category>sports</category>
-<pubDate>Sat, 14 Nov 2026 03:21:26 +0000</pubDate>
-<description>Game on as scheduled for Tennessee football vs Texas A&amp;M despite flight delay Knoxville News Sentinel</description>
-</item>
-<item>
-<title>Football Game Time at Tulsa Moves to 7:15 PM ET - Florida Atlantic University Athletics</title>
-<link>https://news.google.com/rss/articles/CBMijgFBVV95cUxPV29FLTZ6UWlzN2ljd2tWU0RURk9mMWNYNWZxVmlnOExsMzVXNTRyNUxGemtubUQ5eGo5OHctc3dpZ0FzWm4ySFhPbXhJYnh3NFhUSWg2d2hkMGFzUVYwaGpfU25KM3U1b1JRaE9rREY1S0I3c1M3UUctNTZuT0FvUjdUTjFVS0lEanpiSzl3?oc=5</link>
-<guid isPermaLink="false">72b6b99795283a9317b529cc97ec630a4bf0a9732d285ab3a88558067c19d0ac</guid>
-<source>Google News Football</source>
-<category>sports</category>
-<pubDate>Sat, 14 Nov 2026 03:19:13 +0000</pubDate>
-<description>Football Game Time at Tulsa Moves to 7:15 PM ET Florida Atlantic University Athletics</description>
-</item>
-<item>
-<title>Indiana high school football regional championship scores | Friday, Nov. 6, 2026 - WTHR</title>
-<link>https://news.google.com/rss/articles/CBMiowJBVV95cUxPZzNnd3I2MGI1aWtmSUktRzhyM1RIUmRoV1pxYW94T28wWTY1T2o3UmJITlpYWDI1aGkwNjdQdllzWm04YW1BWWZKREllN2xOdlk1c1JHcDBycVZ6REk5bmNTQm9uVEVHOVRkT1U0Y21pUmlsMVZOMDFWaTRvWC05U0IwbXF1djNLdXlIQ1hsbk1XajNDclV5VFkzcVctMXV1Y1R6eHM5T2JQcF9DakgtNXBFUWdNOE5tLW1oNHRPVzlUNGttaklpY1JBTzFvQzRJNUpuYmlzZnVQMnFYeDFlOWxGSXVwM2hxOVBXcVV1UUxQSW9VVVJ4UGJHcUJ6ci1pTFVyYWlFS0JpdVo5NFpZRVZWSzlLQ0UwT0RLS3MwV3hmLWM?oc=5</link>
-<guid isPermaLink="false">597055daccc8a5e15273b5d8a701bb474a3df41da1e7d57fd5696595405a16e5</guid>
-<source>Google News Football</source>
-<category>sports</category>
-<pubDate>Sat, 14 Nov 2026 03:14:00 +0000</pubDate>
-<description>Indiana high school football regional championship scores | Friday, Nov. 6, 2026 WTHR</description>
+<pubDate>Sat, 14 Nov 2026 03:18:14 +0000</pubDate>
+<description>WVU vs. Kansas Game Time Changed to 3:30 p.m. on ESPN2 West Virginia University Athletics</description>
 </item>
 <item>
 <title>SEC Adjusts Football Kickoff Time As State Hosts Auburn - Mississippi State - Official Athletics Website</title>
@@ -815,35 +1167,8 @@
 <guid isPermaLink="false">5ba18a895e673a6c74c3898417268c823e33126c8df447248ab336b425f9ef67</guid>
 <source>Google News Football</source>
 <category>sports</category>
-<pubDate>Sat, 14 Nov 2026 02:52:18 +0000</pubDate>
+<pubDate>Sat, 14 Nov 2026 02:53:28 +0000</pubDate>
 <description>SEC Adjusts Football Kickoff Time As State Hosts Auburn Mississippi State - Official Athletics Website</description>
-</item>
-<item>
-<title>Football kickoff at Mississippi State moved to 3:15 PM - Auburn Tigers - Official Athletics Website</title>
-<link>https://news.google.com/rss/articles/CBMimgFBVV95cUxQUnRwa1JQNU9pX255ZURBQUdhcWZfR2IwTTVIVlhYMkhjMjVsU3paYkloUHJFVmRBbTZkZ29XOFhKdU9DOHhmVkZudjlRc2pRYjJGTGpEWHI2WFk4bXZTT2dxRHFYNndoOC1yR0t5U1VaWENxTlVsN1BuM0RYQTBKSWZDOFMxMloyY3ZsYzFEOG1CTHdpME5pXzB3?oc=5</link>
-<guid isPermaLink="false">b39d40b1da0ebdd819366940c803d2629d87177414e806323ca78be23d16a5d9</guid>
-<source>Google News Football</source>
-<category>sports</category>
-<pubDate>Sat, 14 Nov 2026 02:52:05 +0000</pubDate>
-<description>Football kickoff at Mississippi State moved to 3:15 PM Auburn Tigers - Official Athletics Website</description>
-</item>
-<item>
-<title>CIAA® Announces 2026 Football All-Conference Teams and Individual Awards - Central Intercollegiate Athletic Association</title>
-<link>https://news.google.com/rss/articles/CBMixgFBVV95cUxQc0NlRWl1Vi1ueXZESTNpWGtHREY2bTIxbWtjTkttOGNsOWl6WkE0SExvYzVDLW5HX2Zzak1VWG5YZWpjb04waFVZdU1hNGNxSzhwQUliRHVaY2tNeEtvdldKT0JObUlVZ1BaandIVWNyS0hPcmV1T0x3TXRjV2ZkQ1NQQmVTZGR3TWhSUzdxeE9UVmJ2eS12RVJFdW5iQ3JBTEFVaDZiX3Jkb0l1amFVbjN0V2xxOXBWd1pXX2ZyTXE4LUcwLXc?oc=5</link>
-<guid isPermaLink="false">eaab6f444b945310e8ebfd576ead24746ba0d557fd8e96022292cd02b15e9667</guid>
-<source>Google News Football</source>
-<category>sports</category>
-<pubDate>Sat, 14 Nov 2026 02:42:13 +0000</pubDate>
-<description>CIAA® Announces 2026 Football All-Conference Teams and Individual Awards Central Intercollegiate Athletic Association</description>
-</item>
-<item>
-<title>College Football Teams Caught Up in Nationwide Flight Stoppage - Front Office Sports</title>
-<link>https://news.google.com/rss/articles/CBMiowFBVV95cUxPYkJwLXRSOFVSQnV0OUR5ZHMxNHNZV1lVd2pWRkRwVTdha3dqZ29rZHRLNXRsTmJSY3dHekNLSGJySW5CbDhiTXhtX0RhcmtHZnFOU2NuM1Z3N1BSSXpOb2tNOGhXZEtHT3d6N0dIRVNLQkxYaFZBdFRfOG51aWhxdmZNN1JTSmtnWUhlU05haTVRbEZXNlRHd0djTTNLT2x3Q1pV?oc=5</link>
-<guid isPermaLink="false">abae7708c1a2f52ff7d7956aa8aca1fa5284603a982ea64500164c48392bf41a</guid>
-<source>Google News Football</source>
-<category>sports</category>
-<pubDate>Sat, 14 Nov 2026 02:21:48 +0000</pubDate>
-<description>College Football Teams Caught Up in Nationwide Flight Stoppage Front Office Sports</description>
 </item>
 <item>
 <title>Big 12 To Monitor Saturday’s Football Schedule - West Virginia University Athletics</title>
@@ -855,58 +1180,22 @@
 <description>Big 12 To Monitor Saturday’s Football Schedule West Virginia University Athletics</description>
 </item>
 <item>
-<title>Tennessee football team’s travel plans to Texas A&amp;M impacted by FAA ground stop - 247Sports</title>
-<link>https://news.google.com/rss/articles/CBMi0wFBVV95cUxPNjE1YUZERTBwSXExQnJISWJVUXRsNHlmdEktaU0xNWlUY29KTmI0TG8tQ3plVzBSU2hKMm1nTk9hbHktVml5Q2dBeWt4aFlWU1JBMC02U0J3MTMweXk1ZEI0VV9zTXhsdW1WbkJqVzVjUU1lUFZDMVVIWi1xLUlRSmg4OTVCb1BqWk14ZjFBdXk3SVRoOXdFSmQydm8xRHNYWllwbkVlT2xUa2RpeVdZdkt3YzU3Um4tNWpnZnprS0hOVTFGdFYzQ012aVBhSTBwbG9B?oc=5</link>
-<guid isPermaLink="false">1820e27b0eef459781fba3e6253f68e9d0982ca7fdc7d3010bff082a7857888a</guid>
+<title>Undefeated NY high school football team kicked out of playoffs over 53-second mistake - New York Post</title>
+<link>https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTW9oNUtTYkJINFZZeF9Eb05rLW1SWU1FS0ZvVDZIaXR5aFAyOW9qSWI0YXRGOHdzeXVLUTRfX2NKWjhRZUhCcjVVRXpSenpGanRicnJndXh1T3hnMWVwOTNta254S0EzV1F3SXdVNWc4MkNkallNUE5vdU1mVTNYTFlkNWRYOVl1d1hJM2sySHhGOVg2a1VwaXFKUzJYajIwZXVWUWJZRnZPUQ?oc=5</link>
+<guid isPermaLink="false">c17a481d61ebf0d97f3a3aa689e40139a358940d61305017aaf68308cef2e9dd</guid>
 <source>Google News Football</source>
 <category>sports</category>
-<pubDate>Sat, 14 Nov 2026 01:53:13 +0000</pubDate>
-<description>Tennessee football team’s travel plans to Texas A&amp;M impacted by FAA ground stop 247Sports</description>
+<pubDate>Sat, 14 Nov 2026 00:47:00 +0000</pubDate>
+<description>Undefeated NY high school football team kicked out of playoffs over 53-second mistake New York Post</description>
 </item>
 <item>
-<title>Temple Football vs. UAB Remains Unchanged Ahead of Saturday’s Contest - Temple University Athletics</title>
-<link>https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNTFXRHgxUG9nLVFiZ25pVWw1T01ldUxSRkQ0U1lXVE9SZkJkQ1Z1c2hrMTFCWnJFTGJEaDUwbmFGa1F6ZmdNWktJSGYxOVNYYzVLM202WlZjNjFDMzhYWFg0YzhyZlN0M0IwWUlQTDdBLUo5WDd6eWdaSnJFNlpscElWMHJDRXMwTVRtcWNEQi1NRjd6cjM3RTY1YXZIQ2ZvUS1MNXp6RUY?oc=5</link>
-<guid isPermaLink="false">1b19e22490b736e90e4bd5102d8b91d7ae21f619d3d20bfac65e595a5d7f0b33</guid>
+<title>NC State football head coach Philip Rivers five-year contract details released - 247Sports</title>
+<link>https://news.google.com/rss/articles/CBMi4gFBVV95cUxNUk0tS3RNWGh4U0ZGN1YxZmJBVlVTemZDT1BOdXZNbHBSS1VfMGVvVVRtOWtFeW45N0Fkb3F6X0doU0xseHZiaEUzVnFTbTF0OE5pN0JNdHRKV0l1SGZ2TFUwTmZ5bmNVV3hoSGp0R0dlVG9MdWVFWWFQRDBBZFRQS0U0aFEwazFDRDlXN3hjNHNsYmhDSHdMdi1PcE9VbXlEa0VtdlY2S3YyVDJFSVpWc3lrNkRGYjVrS2hSZm1takM3NGI5RjVaOWtfZ2pOa1NmSWxva0JfcUJUWTlMMl9VT09n?oc=5</link>
+<guid isPermaLink="false">f417a820947f8423ca5045b3179977aad816fd0a7498697fc416d1e138bfaf75</guid>
 <source>Google News Football</source>
 <category>sports</category>
-<pubDate>Sat, 14 Nov 2026 01:47:48 +0000</pubDate>
-<description>Temple Football vs. UAB Remains Unchanged Ahead of Saturday’s Contest Temple University Athletics</description>
-</item>
-<item>
-<title>Friday Football Frenzy: Scores and highlights for Nov. 13, 2026 - WLOS</title>
-<link>https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZ1F1Q2ZRNU91MnBVbnBrbm1iZkltUDRxb2hJSFNsdkwwb1l1YXlRT1FtX3ZpcF83clhCT05uTjdhc1MzbnJmNHVsSHl3djlrT1JxNjFDMzVSUXR2MVNxRUwyQXFhNWM0LWhBOC1MSFFFbW1WVm4yX0stZ0dmR0ZjQ3BFUDJJMm9tZXRfQUVOdENkMWpIY2tua0JRY05kNWV2RzZsZC1LM24wLXk2bTI0aGdtX3BQcl9EQ29ST2tBcjE?oc=5</link>
-<guid isPermaLink="false">fef7a4734a01ae73eef72af1248871da6d07da8391611dc1e805368bb7a5ea04</guid>
-<source>Google News Football</source>
-<category>sports</category>
-<pubDate>Sat, 14 Nov 2026 01:23:35 +0000</pubDate>
-<description>Friday Football Frenzy: Scores and highlights for Nov. 13, 2026 WLOS</description>
-</item>
-<item>
-<title>#9OT Football Scoreboard Week 12, 2026, Bi-District playoffs - KTSM 9 News</title>
-<link>https://news.google.com/rss/articles/CBMingFBVV95cUxOWXZ5THFYdnhSUVVkN25xcm45QkFCQzJDT2RYUmFDZ0ZOTXRWM19uQXVZV2hSNlJrblJUY1EyTjFMVjhWN2ZQdzllMHlqUzg4aG5acjhncmhEQ3Z5MDludUZTVjhKZVR2YV9OcjZLWVlUMlo0aEdZMWoxUGxyZXY5S0ZxV09lVkVlU054WmRlZ3RlSXotU0hUUVJPM2lvQdIBowFBVV95cUxNNEZ3NGdBOFJYZmFKaXhmREJHZFl0SmwzMzZfSDBRQVh0T3hoMVJRcjlsOWZDTFpHUEVDUzg5UGVyLVlLbDRGZEI4VVlZTnVpRkdlYmtZWUhWbFRhYldiaDY1UWRuR1o2MmE2cmZ5SHlBbFZJbE13eEFrWHN4U3dLcWlpSDYxMWRFZmNPZHpaWE5uYjlmNHc1a25odmhfbEc1Q01J?oc=5</link>
-<guid isPermaLink="false">5b926d2ac51649ea5f04b00d03caffc2300a9c7ffdfe35ae6698944afd61417a</guid>
-<source>Google News Football</source>
-<category>sports</category>
-<pubDate>Sat, 14 Nov 2026 01:10:13 +0000</pubDate>
-<description>#9OT Football Scoreboard Week 12, 2026, Bi-District playoffs KTSM 9 News</description>
-</item>
-<item>
-<title>The Big 12 may alter its football schedule amid FAA ground stop - Deseret News</title>
-<link>https://news.google.com/rss/articles/CBMioAFBVV95cUxQOWlreDcza0w4ODVUc1RyS2VVY3VwSVltcUpDeEpyUHEzc1FrVXBGdWgxTGNXQ09KRmZ3RFFZWkNlakZZR1pKcFppZTRDcG9UT1V2elNuUVhESW1PTGp0dUZoTlpTZEI5Z2FwNkhQX2NWcXFNLVVQUWZYd0loc1RXdDVFUF9CUU5IOEV5NzUwcklkRFhXX3JwTURSYkxjQ2lD?oc=5</link>
-<guid isPermaLink="false">f6efa517e46f30315ab8fc5f009c767429346583766b954fc22edc782448b91b</guid>
-<source>Google News Football</source>
-<category>sports</category>
-<pubDate>Sat, 14 Nov 2026 00:57:00 +0000</pubDate>
-<description>The Big 12 may alter its football schedule amid FAA ground stop Deseret News</description>
-</item>
-<item>
-<title>SCORES: See latest scores for Cincinnati, NKY high school football games - WLWT</title>
-<link>https://news.google.com/rss/articles/CBMioAFBVV95cUxQc1Q4YVdHLS1KWjBkR25lbjAtc1NtMmZPZmgwZU5fR2RlZGh4QzQzbm1NOUdlWVZEUDBNaHhQUmRTSGMzdTR1YmxvclRKMGdzWm9acXMtT3dkTjB5VU9QbDB3QU5JdUNDS3hSLVl3TE9IR3JSUjJmOXVmQTFNZWkwNHB5NTI4NUpVN0k5SldIVFRPNENrbnF2NnFRRVVPM1ZQ?oc=5</link>
-<guid isPermaLink="false">1e22cca4fe9687b845e86ac551d7907ed98326a062a96cc2a25bf87aab2cd3a3</guid>
-<source>Google News Football</source>
-<category>sports</category>
-<pubDate>Sat, 14 Nov 2026 00:46:00 +0000</pubDate>
-<description>SCORES: See latest scores for Cincinnati, NKY high school football games WLWT</description>
+<pubDate>Sat, 14 Nov 2026 00:41:49 +0000</pubDate>
+<description>NC State football head coach Philip Rivers five-year contract details released 247Sports</description>
 </item>
 <item>
 <title>Big 12 Conference Statement on Travel Disruptions for Football - Big 12 Conference</title>
@@ -916,73 +1205,6 @@
 <category>sports</category>
 <pubDate>Sat, 14 Nov 2026 00:36:31 +0000</pubDate>
 <description>Big 12 Conference Statement on Travel Disruptions for Football Big 12 Conference</description>
-</item>
-<item>
-<title>Utah football team grounded ahead of Top 25 clash at Arizona - Arizona Desert Swarm</title>
-<link>https://news.google.com/rss/articles/CBMipAFBVV95cUxPQnBjcDJzUkxZUG04NndKblQtcXQ0elhndVJNSFkzUHZBelNxQUJHVGYxOVJySjJMd3pRMklveGItR21UdElsLVRCU3RfZVUtQTh0Q2hVakRZMTBaVm5pQWRlbUNHeFU2LUl0b2NLTzh0alozd1IyMlN5YlpRY3RCT3VrX1BfdG1yRDZCaHdMeG9aMlotOTB1dXdnc0NWbzdicV9fOQ?oc=5</link>
-<guid isPermaLink="false">bf5001cb72e301720b63266bd4eaeacdac3015cb0799848c2189e2dd8b622545</guid>
-<source>Google News Football</source>
-<category>sports</category>
-<pubDate>Sat, 14 Nov 2026 00:15:00 +0000</pubDate>
-<description>Utah football team grounded ahead of Top 25 clash at Arizona Arizona Desert Swarm</description>
-</item>
-<item>
-<title>5 Most Overrated Teams In College Football Playoff Rankings After Week 10 - Sports Illustrated</title>
-<link>https://news.google.com/rss/articles/CBMi4AFBVV95cUxQUDVSTlpaZDIyZDZFdTBRRTd2b2ZuaENndUt6cVlOZVBPMm9za3dRbWUtRXl2V01rQmlsek5DVHZrMFdldExYRUpxWGdMR1JxWlBQenBIUkhBcF9FbWNHZ0ZvVThkNldUYy1QM210elAxQlFHZG5jTjlpdGczZFlKZjQxSzBRclhNWENtcDNveTNxWkI1ZGVsRE9rVGdGRy1WZy1nR1h0dUhhQ2hmMHJ2T2xfMUd5T3J3YXVTSkhwTlJPVTYtYzBQRFFXWUV3ekpyeEYxWjVncFl1cHdpR0lLWg?oc=5</link>
-<guid isPermaLink="false">077abb8490414c80a0a5a5368598c7301df5d534ec77d05e298fa67159bc0091</guid>
-<source>Google News Football</source>
-<category>sports</category>
-<pubDate>Fri, 13 Nov 2026 23:46:14 +0000</pubDate>
-<description>5 Most Overrated Teams In College Football Playoff Rankings After Week 10 Sports Illustrated</description>
-</item>
-<item>
-<title>WTA Finals: Svitolina defeats Sabalenka to reach semi-finals</title>
-<link>https://www.skysports.com/tennis/news/12040/13612096/wta-finals-elina-svitolina-defeats-aryna-sabalenka-to-reach-semi-finals-as-mirra-andreeva-overwhelms-diana-shnaider</link>
-<guid isPermaLink="false">423cd0bad96f2b85a1af14d7423fb28540bb7e40a4fd5bf819338a6c07d98ff6</guid>
-<source>Sky Sports Football</source>
-<category>sports</category>
-<pubDate>Fri, 13 Nov 2026 23:43:00 +0000</pubDate>
-<description>Elina Svitolina defeated Aryna Sabalenka over three compelling sets to reach the semi-finals of the WTA Finals in Indian Wells.</description>
-<enclosure url="https://e1.365dm.com/26/11/1920x1080/skysports-elina-svitolina-karolina-muchova_7406212.jpg?20261113233529" type="image/jpeg"/>
-<media:content url="https://e1.365dm.com/26/11/1920x1080/skysports-elina-svitolina-karolina-muchova_7406212.jpg?20261113233529" medium="image"/>
-</item>
-<item>
-<title>Minnesota Football Team’s Flight to Penn State Delayed by Nationwide Ground Stop - StateCollege.com</title>
-<link>https://news.google.com/rss/articles/CBMi5wFBVV95cUxQdmdTcGxsRzkxMVhpZFptQ0prR2d6R1BMUTMxa25pNU4tejIwb29MaWVXWVZfTXJseUtnMGc1dkotY1pOWmE3cW9ZdUk0MHNnOE9yem5rYWRSeUxENElWd3FtSXJKTGN2S1ZNVm9nYWN6cFhJT1JUUjFkMk5sLXNKeno4V0tJRkhFOGd2NlhnRWMxTFFhLWdQWmtsaFlCazhNb2xZWGhlTEJXdTVZMUNwNXA3VUllWDc3VmdKNlhOaHlKSGZZajFGVTNyN0ZXaTRBTUlrUmNvd1hWS05JWF9nNzE2Q2FmZjA?oc=5</link>
-<guid isPermaLink="false">05587220ef1a25bc064d616947a790ca83398216335d01dbe3e0fc02b7bcfe29</guid>
-<source>Google News Football</source>
-<category>sports</category>
-<pubDate>Fri, 13 Nov 2026 23:42:59 +0000</pubDate>
-<description>Minnesota Football Team’s Flight to Penn State Delayed by Nationwide Ground Stop StateCollege.com</description>
-</item>
-<item>
-<title>Svitolina claims semi final spot after tough match with Sabalenka</title>
-<link>https://www.skysports.com/watch/video/13612094/aryna-sabalenka-vs-elina-svitolina-wta-finals-highlights</link>
-<guid isPermaLink="false">79e37e89a20f575f53ba73ae8163bb954f8f6f06de5868d874f63fcbbbdb8c64</guid>
-<source>Sky Sports Football</source>
-<category>sports</category>
-<pubDate>Fri, 13 Nov 2026 23:39:00 +0000</pubDate>
-<description>Highlights of Aryna Sabalenka against Elina Svitolina in the WTA Finals.</description>
-<enclosure url="https://e0.365dm.com/26/11/1920x1080/skysports-tennis-wta_7406217.jpg?20261113234201" type="image/jpeg"/>
-<media:content url="https://e0.365dm.com/26/11/1920x1080/skysports-tennis-wta_7406217.jpg?20261113234201" medium="image"/>
-</item>
-<item>
-<title>Auburn football forced to alter travel plans after ground stop issued - WBRC 6 News</title>
-<link>https://news.google.com/rss/articles/CBMioAFBVV95cUxOYlFqeFctM2VmYmxzRk9RWFN3UUw4WGdjczh4ZkxjTnFvYWo5aDJ2NElhNTkxdWkyV0RIOVc2UWpPRkVjSHVrLTk1NFV0ckZmVlltRWZualpEcnZvOVRZaFlsSk84bFp3M3o3VGpYMEFkZ1VyRWhMTmFYbDBHbGMwSHhVRUxsRG9wUUZ0VkRkcHJrdzNPVjFOOFJTeVVIXy16?oc=5</link>
-<guid isPermaLink="false">34557db0ecb8b29e79768d3366081a8024601abb255f83ccc8f958c36f1ff7b3</guid>
-<source>Google News Football</source>
-<category>sports</category>
-<pubDate>Fri, 13 Nov 2026 23:37:00 +0000</pubDate>
-<description>Auburn football forced to alter travel plans after ground stop issued WBRC 6 News</description>
-</item>
-<item>
-<title>Texas football’s flight to LSU grounded amid nationwide FAA halt - KXAN Austin</title>
-<link>https://news.google.com/rss/articles/CBMiswFBVV95cUxOOFhYU1Y3Vy0tcFowWXFQYXNncE9vR19yZVJmRFoxSmZWVFhKd3NzczIzSGNxZ2RnWnJvWW5fbXZHb2dMWHRObzNhXzBoNWJzd1EySXJ1bklZRFFjU2dtQVZ6aWM2bmhGNmpSNVREWWFVZk5FaGltZ01qcC1ibktNenBIbjBJNGNGR0swaWMxb19pMXFqSXVzUkxpWFBvU0daajVhUnplTndweG9UWkVhX1BVa9IBuAFBVV95cUxPdkUyc2lzUzB6aWxBaE5GXzktdmpJWm43R1lSZDFzb0lRTWxlRk9rMXBIZGNZSmJQSXBabmQ4RlRXRzdKUUgzam5ZU1V2UE5LalpnUWg3bGJZMEc1SlJhVkdfSW1WS2JnbFVwMjhkckpwWHFGSHkweUVhMnB5U0pxaDVhTVN2RmZhYVRFRlRKbFAtVW13NHRYdXNWY0t6cFcybzYyb2tqSHh2NDVhRnFmRmZucHRSOTls?oc=5</link>
-<guid isPermaLink="false">1e44c1dca9d58e82871c7dfc093181900a2ddc7a986f26a2a93b27b54e2fb884</guid>
-<source>Google News Football</source>
-<category>sports</category>
-<pubDate>Fri, 13 Nov 2026 23:15:41 +0000</pubDate>
-<description>Texas football’s flight to LSU grounded amid nationwide FAA halt KXAN Austin</description>
 </item>
 <item>
 <title>FAA ground stop throws sports world into travel chaos ahead of weekend games - ESPN</title>
@@ -1005,71 +1227,15 @@
 <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/79f8/live/229b49c0-dfab-11f1-be1f-9dae57fabf82.jpg" medium="image"/>
 </item>
 <item>
-<title>FAA ground stop leaves Oregon State scrambling to reach Boise - OregonLive.com</title>
-<link>https://news.google.com/rss/articles/CBMiuAFBVV95cUxNX2dCV09FTUlDdTBNOTFabmRmTEttbHA2WkRxTEpzd0w1OG94OGM5dkZIUUtnUnFzUDJkdm1JbzhjVmJhLVF6RGFtcGdxbzhyYlFrNlFWNkpuV1VVUmh4dEs2cENLY1N6NTJnUXpZV29EUTV2aEYtTFh4Ukp4OFNJQTNsNWFhbW52ZVFNdEplZk91WWtoUXVZUEE1czNHQ0k4SnZObFVQZVEtRlktSXl3R25oY0RaWmJ1?oc=5</link>
-<guid isPermaLink="false">b1605c6ad460e0fd340e26c29995a99378593f149fddc749645b1b5f9e98c231</guid>
-<source>Google News Football</source>
-<category>sports</category>
-<pubDate>Fri, 13 Nov 2026 22:53:00 +0000</pubDate>
-<description>FAA ground stop leaves Oregon State scrambling to reach Boise OregonLive.com</description>
-</item>
-<item>
-<title>FAA ground stop lifted on Friday night, but some college football teams still scrambling to travel - Fox News</title>
-<link>https://news.google.com/rss/articles/CBMiwgFBVV95cUxPX20yY2FhQmtOUUJjM0d2QzZmeGxDaHZsWFQzZ2V6aEJQNFEzbm5BOGJCWmJzakJVeW5fUmlObVRlTkFzQWdjaGRiY0N6Z01qVnUwQkJGUlhLU2NxSnREX3FHeVowcFJQUk9WNEpFdnRoX0FsNlBiMUdEY1owT0Z0aFBfSGQxc19RMUpZZ1pNOERzOC0wWXY4TnNzVGFBR2lCYVF0Zk9POXRFSEtQSlNldVF2c21QQzM4aWg2MDBxWFhidw?oc=5</link>
-<guid isPermaLink="false">b6a158bd9a74dfcb465517d3901c053f75dc753cac7efdac4cc164b539c80d2f</guid>
-<source>Google News Football</source>
-<category>sports</category>
-<pubDate>Fri, 13 Nov 2026 22:51:29 +0000</pubDate>
-<description>FAA ground stop lifted on Friday night, but some college football teams still scrambling to travel Fox News</description>
-</item>
-<item>
-<title>Choi pushing for first LPGA win at The Annika as Korda drops back</title>
-<link>https://www.skysports.com/golf/news/12040/13612080/the-annika-hye-jin-choi-shares-lead-as-she-seeks-first-lpga-win-while-nelly-korda-drops-four-shots-back</link>
-<guid isPermaLink="false">79ed4cff0f5a92effaca092b540385724a07e2cf4e27f9398d059020d2815b3d</guid>
-<source>Sky Sports Football</source>
-<category>sports</category>
-<pubDate>Fri, 13 Nov 2026 22:51:00 +0000</pubDate>
-<description>Hye-Jin Choi opened with two bogeys, made up ground with a 15-foot eagle putt late and finished with a three-under 67 on Friday that gave her part of a three-way share of the lead at The Annika.</description>
-<enclosure url="https://e1.365dm.com/26/11/1920x1080/skysports-hye-jin-choi-the-annika_7406201.jpg?20261114072740" type="image/jpeg"/>
-<media:content url="https://e1.365dm.com/26/11/1920x1080/skysports-hye-jin-choi-the-annika_7406201.jpg?20261114072740" medium="image"/>
-</item>
-<item>
-<title>Utah football team’s flight delayed as FAA grounds planes - Deseret News</title>
-<link>https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaDJzVTNoMHNlU2RJVXNYWkFxOTBhbzRJTy1mMklmeWpFTjE1TV9wa2FQQVVzaVB3WU5qTnhDamdtNG1sR0VuMUFDcmZOSm1lcDFFUnNSekVtQXhIT2JzWXZTNEhKbHI1SDNUa3UxQUNMS2g5ejBQR0pIZG9FZU5kZ1h4amlhQ2dlblRDSGNpM1FaYWdQWGwtODliVlVNZWFLekpJczRZZDQxX0k?oc=5</link>
-<guid isPermaLink="false">93960d91a1a01075e34cdec42dca26333d7fd581c2c8d7d99cf6dd0b484a842a</guid>
-<source>Google News Football</source>
-<category>sports</category>
-<pubDate>Fri, 13 Nov 2026 22:50:09 +0000</pubDate>
-<description>Utah football team’s flight delayed as FAA grounds planes Deseret News</description>
-</item>
-<item>
-<title>How many college football teams can still win the 2026 national championship? - The New York Times</title>
-<link>https://news.google.com/rss/articles/CBMirgFBVV95cUxOMEVPMXBQTmdtWnlKek1IZ01lM0FLWlpEY1lWOThQZ2dXdVhnSXQ4THV0NEpiTVVPbXZYTDVTR0wwdlFJZ0Z0dWQxdXo3ZE9HTHM2SjB5UXo2LXplYldSWFJPR1dRcW1RZVBrSkcxNUljVlFRYUd4ZkRhWG5QQWdMLU9CVmI2TVd1OWl3N1VPbV9yb0lxeS1xaWtmZ01ZTmN3TEVoSDBoaF9DNkxmRWc?oc=5</link>
-<guid isPermaLink="false">e77796dadb22cf78adc29b726beefd52e44bc9ba0fb13ed32e0e3de81c02b2e1</guid>
-<source>Google News Football</source>
-<category>sports</category>
-<pubDate>Fri, 13 Nov 2026 22:43:51 +0000</pubDate>
-<description>How many college football teams can still win the 2026 national championship? The New York Times</description>
-</item>
-<item>
-<title>College football Week 11 top 10 games: Texas-LSU, USC-Indiana and more - The New York Times</title>
-<link>https://news.google.com/rss/articles/CBMikAFBVV95cUxQMGgwRkpMQmZSMWM0VVBJRlY4VDZKZ3g4RGVPVnhYWEExZlFKa1pPb2JrZ1pRcjBubXlEbWphNFh5bms5NERkeHItMGthU0tIZkFpUll3SzNRN3BCSGRqcFpLTUI4RFVyU2xoYTlKX1pDcTBZaElLcDZEOVB6S0MxVEtUVjBJb05ab3R5bV9qU1I?oc=5</link>
-<guid isPermaLink="false">9990eec52dbf887a37ad4e521658ce61ee59bade6c408863c6001f930c40d7f0</guid>
-<source>Google News Football</source>
-<category>sports</category>
-<pubDate>Fri, 13 Nov 2026 22:43:42 +0000</pubDate>
-<description>College football Week 11 top 10 games: Texas-LSU, USC-Indiana and more The New York Times</description>
-</item>
-<item>
-<title>Goalkeeper involved in fatal collision gets 12-game ban</title>
-<link>https://www.bbc.co.uk/sport/football/articles/cm98xy2j8k1ko?at_medium=RSS&amp;at_campaign=rss</link>
-<guid isPermaLink="false">9e46e1b97c8ad9401a02105d86cadad4faeeea511345ed7d938d92afe31a24eb</guid>
+<title>Fitness obsessed &amp; 'control freak' - what can Man Utd expect from Pochettino?</title>
+<link>https://www.bbc.co.uk/sport/football/articles/c85y13pv69xwo?at_medium=RSS&amp;at_campaign=rss</link>
+<guid isPermaLink="false">01312df55683151f4295b9fae523a0002f14fbcf81c3c4448309b2c6a4c34b9c</guid>
 <source>BBC Football</source>
 <category>sports</category>
-<pubDate>Fri, 13 Nov 2026 22:37:30 +0000</pubDate>
-<description>Jesus Owono is given a 12-match suspension by the Spanish football federation's disciplinary committee after his challenge which resulted in the death of Jesus de Miguel.</description>
-<enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e32e/live/2f147b80-dfa7-11f1-a701-fddedf244c16.jpg" type="image/jpeg"/>
-<media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e32e/live/2f147b80-dfa7-11f1-a701-fddedf244c16.jpg" medium="image"/>
+<pubDate>Fri, 13 Nov 2026 22:53:17 +0000</pubDate>
+<description>What can Manchester United fans expect from their new manager Mauricio Pochettino? BBC Sport gets an insight from Toby Alderweireld, who played under him at Spurs.</description>
+<enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8125/live/1aaff900-dfb9-11f1-b154-657b8bcda5ea.jpg" type="image/jpeg"/>
+<media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8125/live/1aaff900-dfb9-11f1-b154-657b8bcda5ea.jpg" medium="image"/>
 </item>
 <item>
 <title>'If that penalty is given against you, you're furious'</title>
@@ -1081,24 +1247,6 @@
 <description>Sportscene pundits Leanne Crichton and Scott Brown discuss the penalty award that led to Scotland beating North Macedonia.</description>
 <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb69/live/58b9cb60-dfb2-11f1-a701-fddedf244c16.jpg" type="image/jpeg"/>
 <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb69/live/58b9cb60-dfb2-11f1-a701-fddedf244c16.jpg" medium="image"/>
-</item>
-<item>
-<title>Washington football en route to Michigan State after FAA ground stop lifted - The Seattle Times</title>
-<link>https://news.google.com/rss/articles/CBMivAFBVV95cUxPQzVuWURQSkt2dW50V0pmQ1NMTm5hT3lWUVlnbURaVXVHSzFLdkpYbkQ5ZUdFRW1vZ01QaXdsbG52a1h3N2lBbThsblg2d3VSZEdwNHh0UUROSnhBUnFVOGNRSlBTX3V6bGJGaVdZR21Rd05tczRkVUcxY0hVQks2dEV3MHN1VmZkODZXUTRWMU82b0ktRXE0Wm1vM3F4c2VQMVBXNE9fTUhfWHk2M3M4N3ZhTlVsc2wzYjZ5TQ?oc=5</link>
-<guid isPermaLink="false">6d6e3c8684ef33ca9ce273b4567ef615ab10ed580b3553340b5e4692c128df6c</guid>
-<source>Google News Football</source>
-<category>sports</category>
-<pubDate>Fri, 13 Nov 2026 22:31:05 +0000</pubDate>
-<description>Washington football en route to Michigan State after FAA ground stop lifted The Seattle Times</description>
-</item>
-<item>
-<title>Texas football team grounded ahead of LSU game amid nationwide flight halt - WAFB</title>
-<link>https://news.google.com/rss/articles/CBMipwFBVV95cUxNWFR6SE1ObzctU0FqVmd2NENpeVhuY3lWNW1nWFpvRUVxajZXSVE0TEphY3U2ek9TVWc5T1RYdGV2QzlBV0s2RjlLRFRzaXotbWFHMUVWVnltZFpMZTVaTkpMSDd0VVBKQ0daRGRNcXotZFUxaGhZZm5oeDRjMHJJOHhwSmF0MEQ4UGNyaXg0bFM1T2MxUDJ6UHJMQnBBRWkzNHpza05Naw?oc=5</link>
-<guid isPermaLink="false">b5998173143034bb12b4ce5e34d1fcbf4783f088a2f8bb16ba72b028c2912295</guid>
-<source>Google News Football</source>
-<category>sports</category>
-<pubDate>Fri, 13 Nov 2026 22:31:00 +0000</pubDate>
-<description>Texas football team grounded ahead of LSU game amid nationwide flight halt WAFB</description>
 </item>
 <item>
 <title>France put injuries behind them to stun Springboks</title>
@@ -1145,15 +1293,6 @@
 <media:content url="https://e0.365dm.com/26/11/1920x1080/skysports-john-mcginn-scotland_7406088.jpg?20261113211951" medium="image"/>
 </item>
 <item>
-<title>Curt Cignetti taunts the CFP committee and then gets obliterated, Cam Skattebo freezes &amp; Gracie Hunt checks in - Fox News</title>
-<link>https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdjBBOUJwSG0zNHVKdzh3U0hIYTBSUElYWWM3V1J5bWloZU4xa0lxemNzQXdRTGpyb3NOYktFYnNlQnBoNWNVcmEwNWVfQmZ4Ym44ZkhDZjRNVDBhdFBZVDZJcGdVV1NtQ3d0NFJSQm84STFkS2g1cWhpSVZpVHdvSzk2cGZwWm5nZXdFSzEtbjhBV2xQWC1zbGwzUDNqMzVkVUNicXlvX1ZBbndKUXpIRm84VXZjNlBOMTVMbkI4OTJOa3c?oc=5</link>
-<guid isPermaLink="false">2b861460ae8d2f5d2bd5f1a770932ed84a4adc4cf8d8bf6a3022e3c3708afff0</guid>
-<source>Google News Football</source>
-<category>sports</category>
-<pubDate>Fri, 13 Nov 2026 20:35:49 +0000</pubDate>
-<description>Curt Cignetti taunts the CFP committee and then gets obliterated, Cam Skattebo freezes &amp; Gracie Hunt checks in Fox News</description>
-</item>
-<item>
 <title>'It's a shootout' - Wales out to derail stuttering Norway</title>
 <link>https://www.bbc.co.uk/sport/football/articles/ck9871qr76gmo?at_medium=RSS&amp;at_campaign=rss</link>
 <guid isPermaLink="false">73aae2a9ca29286ad0aa08eb4cae61e6b09875637febdd71b6afa18217939890</guid>
@@ -1187,33 +1326,13 @@
 <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2095/live/4cd65a80-df75-11f1-b844-3146c4983677.jpg" medium="image"/>
 </item>
 <item>
-<title>Riley determined to prove himself a world champion in waiting</title>
-<link>https://www.skysports.com/boxing/news/12040/13612006/viddal-riley-determined-to-prove-himself-a-world-champion-in-waiting-in-european-title-fight-against-seydi-coupe</link>
-<guid isPermaLink="false">bd00c44bad3acb679d71dfea447db502fce995823c67069946d3988e2fd56c3b</guid>
-<source>Sky Sports Football</source>
-<category>sports</category>
-<pubDate>Fri, 13 Nov 2026 17:53:00 +0000</pubDate>
-<description>Viddal Riley will put himself on a path to a cruiserweight world title shot, if he can defend the European championship against Seydi Coupe on Saturday.</description>
-<enclosure url="https://e1.365dm.com/25/05/1920x1080/skysports-viddal-riley-boxing_6908248.jpg?20250506164612" type="image/jpeg"/>
-<media:content url="https://e1.365dm.com/25/05/1920x1080/skysports-viddal-riley-boxing_6908248.jpg?20250506164612" medium="image"/>
-</item>
-<item>
-<title>Rivers Named Head Coach for NC State Football - NC State University Athletics</title>
-<link>https://news.google.com/rss/articles/CBMihwFBVV95cUxNeFd3VHJCbWg0bkJweFhqV21EQy1xQ2RRbk82b0FuT1IzYzFnTEJjUnN6MTducjFfQ2o4aEZQemszRGRteGNDMHFBRUxqcVdBeGtyU2J3bzRuQ0lhTDBYX1Zqa0RNVFppRF9CcEsyWG4zcmNWNXZWX2xkNGREeHNlaUJGODVEdTA?oc=5</link>
-<guid isPermaLink="false">c39534484cbd7155bcc1b4dbbe7607581c28c5b755c494037d6720096c877b35</guid>
+<title>No. 4 UCLA Football Defeats Illinois, 22-14, to Remain Undefeated - UCLA Bruins</title>
+<link>https://news.google.com/rss/articles/CBMiowFBVV95cUxNUnFKV0lEUC1IVGhESTRtS2hNbTd5VmF2elV1UWNTMjV6YmhXNGxiUmJZLUwwcU5LZFNoUTdnR2V5WUljMzFGeXVtNm5ScWRJOUN4a1VNNlFsMGdIUGNyNS1JczB3dDZucVo2TVBIbHdEejRSMzQ1bl8zMzIwVWpSMTVTenEyYmNtUWQxbDRQQnRwRnJBUE01T04zOUlQRXBUOTY0?oc=5</link>
+<guid isPermaLink="false">d10bfda288ea95b98e477b2128233df82559f44705f46595e392516be312ec90</guid>
 <source>Google News Football</source>
 <category>sports</category>
-<pubDate>Fri, 13 Nov 2026 17:27:07 +0000</pubDate>
-<description>Rivers Named Head Coach for NC State Football NC State University Athletics</description>
-</item>
-<item>
-<title>College football games this weekend: Top 25 schedule - ESPN</title>
-<link>https://news.google.com/rss/articles/CBMipwFBVV95cUxNa2txSWtWOE9sc0VpOUpfa3ZDc0tpLUdXeFdyZTN5bm9aaTJtcWJwbUxHb1V3NV9oV3RhXzBRNng1LVZlaWh2Mmp0Uk5VYlIxX01pZVdKY2NsRHJBYWpkTi0zYkdKU3E2bzJIdG94QUhIbjlOZDhvZ01YQl9lc3I3QzBGUV8yRjExVC1xTGFSTTJ2Sm84NlFCU2k2NE1jSEVhWnQ0amhLTQ?oc=5</link>
-<guid isPermaLink="false">e7e476ca81fe43d05fddcc1fc42bf0cadff2137640ed55a67f8322814decb85b</guid>
-<source>Google News Football</source>
-<category>sports</category>
-<pubDate>Fri, 13 Nov 2026 17:27:00 +0000</pubDate>
-<description>College football games this weekend: Top 25 schedule ESPN</description>
+<pubDate>Fri, 13 Nov 2026 18:00:00 +0000</pubDate>
+<description>No. 4 UCLA Football Defeats Illinois, 22-14, to Remain Undefeated UCLA Bruins</description>
 </item>
 <item>
 <title>NC State officially hires Philip Rivers as football coach - ESPN</title>
@@ -1236,48 +1355,6 @@
 <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aec0/live/fd14b290-e25e-11ef-a819-277e390a7a08.jpg" medium="image"/>
 </item>
 <item>
-<title>Oregon, Houston headline best uniforms of college football Week 11 - ESPN</title>
-<link>https://news.google.com/rss/articles/CBMiqgFBVV95cUxNLVJDQnlJakFFRDNMU1FoLUJsRlZ6TjdSR3h5QVpoenFSa1N5UGxZWHh5R0RQeFViOEZsSG9oVmZVdklaQUtsOENPVWpMSUZjUVVHT1pnUzlaYlpKYWg5MkdNWGRtNGRPbUp2WDVaYUduQ3lnQ0J3XzN0VFh2ZGJmYXVqV2dBb0pxYTV2c3ljR2s0by1XbEU0VUd6aHBYbW9ubjIyVmZuZFo1dw?oc=5</link>
-<guid isPermaLink="false">9aef916309dc37bea5637b8c3e33ced4b74ed0e8be54db8d75316b0d0d789cc4</guid>
-<source>Google News Football</source>
-<category>sports</category>
-<pubDate>Fri, 13 Nov 2026 16:50:52 +0000</pubDate>
-<description>Oregon, Houston headline best uniforms of college football Week 11 ESPN</description>
-</item>
-<item>
-<title>'Memories flood back' - Rochdale &amp; York meet again after title drama</title>
-<link>https://www.bbc.co.uk/sport/football/articles/ck1l05drreqqo?at_medium=RSS&amp;at_campaign=rss</link>
-<guid isPermaLink="false">2bfc45fcc843d4c94d5275f1d8ff2f882bdf831b35096f42e5ad6473b82d2ba5</guid>
-<source>BBC Football</source>
-<category>sports</category>
-<pubDate>Fri, 13 Nov 2026 16:39:00 +0000</pubDate>
-<description>A look at how Saturday's opponents Rochdale and York City have acclimatised to League Two after their famous final-day National League title decider.</description>
-<enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/81d4/live/0b137b00-debc-11f1-b441-2b33b063138f.jpg" type="image/jpeg"/>
-<media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/81d4/live/0b137b00-debc-11f1-b441-2b33b063138f.jpg" medium="image"/>
-</item>
-<item>
-<title>Dupont: We kept intensity up whole 80 vs Springboks - 'Huge for us'</title>
-<link>https://www.skysports.com/rugby-union/live-blog/12040/13611964/france-vs-south-africa-live-nations-championship-updates-latest-scores-team-news-commentary-from-stade-de-france</link>
-<guid isPermaLink="false">e1879645be415614dcd125dd9f628fc0646d5beb78b6c6c49922d316eec524f4</guid>
-<source>Sky Sports Football</source>
-<category>sports</category>
-<pubDate>Fri, 13 Nov 2026 16:12:00 +0000</pubDate>
-<description></description>
-<enclosure url="https://e1.365dm.com/26/11/1920x1080/skysports-dupont-france-rugby_7406060.jpg?20261114075544" type="image/jpeg"/>
-<media:content url="https://e1.365dm.com/26/11/1920x1080/skysports-dupont-france-rugby_7406060.jpg?20261114075544" medium="image"/>
-</item>
-<item>
-<title>Football Daily</title>
-<link>https://www.bbc.co.uk/sounds/play/p0pmwxf4?at_medium=RSS&amp;at_campaign=rss</link>
-<guid isPermaLink="false">ce0c842e69853e856dbef9ecb496a0dfb35004dacc4faab066e0851ad05db3f6</guid>
-<source>BBC Football</source>
-<category>sports</category>
-<pubDate>Fri, 13 Nov 2026 16:05:00 +0000</pubDate>
-<description>The Commentators' View team describe a special night for Harry Kane at Wembley.</description>
-<enclosure url="https://ichef.bbci.co.uk/images/ic/240x135/p0pmwxgk.jpg" type="image/jpeg"/>
-<media:content url="https://ichef.bbci.co.uk/images/ic/240x135/p0pmwxgk.jpg" medium="image"/>
-</item>
-<item>
 <title>Tearful Pochettino on 'difficult' decision to leave USA for Man Utd</title>
 <link>https://www.bbc.co.uk/sport/football/articles/cmd61qne8352o?at_medium=RSS&amp;at_campaign=rss</link>
 <guid isPermaLink="false">2865e7970ab09789ba1668c638709e59de9744c7350cd8877915744f060ff357</guid>
@@ -1289,61 +1366,6 @@
 <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fcb8/live/8a5ea400-df72-11f1-b844-3146c4983677.png" medium="image"/>
 </item>
 <item>
-<title>England respond to Jones' mind games ahead of Japan match</title>
-<link>https://www.skysports.com/rugby-union/news/12040/13611936/england-respond-to-eddie-jones-mind-games-ahead-of-japan-match-in-nations-championship</link>
-<guid isPermaLink="false">74e9e12837a7627b6d062ab7238239dfd9a4fdc5acb76d3c78abf0aea5b913f4</guid>
-<source>Sky Sports Football</source>
-<category>sports</category>
-<pubDate>Fri, 13 Nov 2026 15:07:00 +0000</pubDate>
-<description>England have hit back at Eddie Jones' claim they could be vulnerable to an upset by Japan on Saturday because they have one eye on their upcoming game with New Zealand.</description>
-<enclosure url="https://e1.365dm.com/26/05/1920x1080/skysports-eddie-jones-2025_7247557.jpg?20260513140054" type="image/jpeg"/>
-<media:content url="https://e1.365dm.com/26/05/1920x1080/skysports-eddie-jones-2025_7247557.jpg?20260513140054" medium="image"/>
-</item>
-<item>
-<title>Tearful Pochettino admits he 'couldn't say no to Man Utd'</title>
-<link>https://www.skysports.com/football/news/12040/13611887/mauricio-pochettino-new-man-utd-head-coach-in-tears-as-he-labels-leaving-usmnt-toughest-decision-of-career</link>
-<guid isPermaLink="false">260806e506c6a82787a3c54342e6243cf594e9121cd32ccd7b3cffb7eff7933a</guid>
-<source>Sky Sports Football</source>
-<category>sports</category>
-<pubDate>Fri, 13 Nov 2026 15:00:00 +0000</pubDate>
-<description>An emotional Mauricio Pochettino said that leaving his role with the United States was the "toughest decision of his career" but admitted he couldn't turn down the chance to become head coach of Manchester United.</description>
-<enclosure url="https://e2.365dm.com/26/11/1920x1080/skysports-mauricio-pochettinp_7405898.jpg?20261113153009" type="image/jpeg"/>
-<media:content url="https://e2.365dm.com/26/11/1920x1080/skysports-mauricio-pochettinp_7405898.jpg?20261113153009" medium="image"/>
-</item>
-<item>
-<title>Jonbon records Shloer Chase hat-trick at Cheltenham</title>
-<link>https://www.skysports.com/racing/news/12040/13611929/cheltenham-jonbon-records-shloer-chase-hat-trick-for-nicky-henderson</link>
-<guid isPermaLink="false">aa17fe661ac745585b21efe32c134d87303105a6571d7e47e9764a22117aa2e7</guid>
-<source>Sky Sports Football</source>
-<category>sports</category>
-<pubDate>Fri, 13 Nov 2026 14:46:00 +0000</pubDate>
-<description>Harry Cobden made his first ride on Jonbon in public a successful one as the odds-on favourite landed a third Shloer Chase in gritty fashion at Cheltenham.</description>
-<enclosure url="https://e1.365dm.com/26/11/1920x1080/skysports-jonbon-racing_7405880.jpg?20261113145202" type="image/jpeg"/>
-<media:content url="https://e1.365dm.com/26/11/1920x1080/skysports-jonbon-racing_7405880.jpg?20261113145202" medium="image"/>
-</item>
-<item>
-<title>Palace latest: Eagles hold further Frank talks</title>
-<link>https://www.skysports.com/football/live-blog/12040/13279298/crystal-palace-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights</link>
-<guid isPermaLink="false">ac3624a8c6684bbe14e88d2df502c4318f36b5606eb21675a2674c41348c3be0</guid>
-<source>Sky Sports Football</source>
-<category>sports</category>
-<pubDate>Fri, 13 Nov 2026 14:25:00 +0000</pubDate>
-<description></description>
-<enclosure url="https://e1.365dm.com/26/10/1920x1080/skysports-crystal-palace-transfer_7386995.jpg?20261025174919" type="image/jpeg"/>
-<media:content url="https://e1.365dm.com/26/10/1920x1080/skysports-crystal-palace-transfer_7386995.jpg?20261025174919" medium="image"/>
-</item>
-<item>
-<title>Odegaard backing Norway to avenge Wales defeat</title>
-<link>https://www.bbc.co.uk/sport/football/articles/cmq8lx38zwn4o?at_medium=RSS&amp;at_campaign=rss</link>
-<guid isPermaLink="false">c1c1878dffb4bed671cf82079ee65bd79f5606742df8b4bc6a811217f4c2294e</guid>
-<source>BBC Football</source>
-<category>sports</category>
-<pubDate>Fri, 13 Nov 2026 12:43:51 +0000</pubDate>
-<description>Martin Odegaard backs Norway to brush off snow disruption and avenge their defeat by Wales when they meet again in Oslo on Saturday.</description>
-<enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f735/live/7bd2f050-df52-11f1-a9b1-e15cbae383e5.jpg" type="image/jpeg"/>
-<media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f735/live/7bd2f050-df52-11f1-a9b1-e15cbae383e5.jpg" medium="image"/>
-</item>
-<item>
 <title>How Ferguson-inspired Pochettino can succeed where Carrick failed at Man Utd</title>
 <link>https://www.bbc.co.uk/sport/football/articles/cm2kljzkw77ko?at_medium=RSS&amp;at_campaign=rss</link>
 <guid isPermaLink="false">113581c3e4cb142914184c21a6e134ce08b3259db46f44ed6654bd78d64edfb5</guid>
@@ -1353,17 +1375,6 @@
 <description>With Mauricio Pochettino set to become Man Utd manager, we analyse if he can clear the tactical hurdles others haven't.</description>
 <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f043/live/468fa2e0-dddf-11f1-b465-b9821c2582d4.jpg" type="image/jpeg"/>
 <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f043/live/468fa2e0-dddf-11f1-b465-b9821c2582d4.jpg" medium="image"/>
-</item>
-<item>
-<title>BBC to show Dover v Leicester and Salisbury v Blackpool</title>
-<link>https://www.bbc.co.uk/sport/football/articles/c64gndwd2l0xo?at_medium=RSS&amp;at_campaign=rss</link>
-<guid isPermaLink="false">63425f39de4003c5bc5ba8140dab32d3b6396fe6db8f17d4252100ecaa371d01</guid>
-<source>BBC Football</source>
-<category>sports</category>
-<pubDate>Fri, 13 Nov 2026 10:49:07 +0000</pubDate>
-<description>Non-league clubs Dover Athletic and Salisbury will stage the BBC's two chosen FA Cup second-round ties next month.</description>
-<enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1c9a/live/02556c50-df4b-11f1-a48c-75dd2efdacb5.jpg" type="image/jpeg"/>
-<media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1c9a/live/02556c50-df4b-11f1-a48c-75dd2efdacb5.jpg" medium="image"/>
 </item>
 <item>
 <title>The club preparing to play again after the death of a player</title>
@@ -1386,17 +1397,6 @@
 <description>Manchester United captain Bruno Fernandes rejects the club's second contract offer, with his current deal due to expire at the end of the season.</description>
 <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9f4c/live/65464ec0-df45-11f1-a48c-75dd2efdacb5.jpg" type="image/jpeg"/>
 <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9f4c/live/65464ec0-df45-11f1-a48c-75dd2efdacb5.jpg" medium="image"/>
-</item>
-<item>
-<title>Beckham to be inducted into US Soccer Hall of Fame</title>
-<link>https://www.bbc.co.uk/sport/football/articles/cmx295q05l7eo?at_medium=RSS&amp;at_campaign=rss</link>
-<guid isPermaLink="false">6026eddae764cf53e08dda9d5ce3a4356a80da0e6c2634189348ae92a7919502</guid>
-<source>BBC Football</source>
-<category>sports</category>
-<pubDate>Fri, 13 Nov 2026 08:22:34 +0000</pubDate>
-<description>Former England captain David Beckham is set to be inducted into the United States' National Soccer Hall of Fame as part of its 2027 class.</description>
-<enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c236/live/1d957c40-df36-11f1-86fa-cbe84eade4f1.jpg" type="image/jpeg"/>
-<media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c236/live/1d957c40-df36-11f1-86fa-cbe84eade4f1.jpg" medium="image"/>
 </item>
 <item>
 <title>Who makes your Northern Ireland XI against Ukraine?</title>
@@ -1443,17 +1443,6 @@
 <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/87f4/live/e4ed5c50-ddeb-11f1-9204-cdcddf7d901c.jpg" medium="image"/>
 </item>
 <item>
-<title>'A lie' &amp; 'nonsense' - Palmer committed to England, says Rogers</title>
-<link>https://www.bbc.co.uk/sport/football/articles/c6e9kjne5y8vo?at_medium=RSS&amp;at_campaign=rss</link>
-<guid isPermaLink="false">7e7e9e247d3f91ab09d0c038fb858ded442cb2b02f04488d73498ce5858c16f9</guid>
-<source>BBC Football</source>
-<category>sports</category>
-<pubDate>Thu, 12 Nov 2026 23:09:07 +0000</pubDate>
-<description>Morgan Rogers says any suggestion Cole Palmer is not committed to England "is a lie" and "nonsense".</description>
-<enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8b18/live/725b0530-dee9-11f1-8111-290450ddba8c.jpg" type="image/jpeg"/>
-<media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8b18/live/725b0530-dee9-11f1-8111-290450ddba8c.jpg" medium="image"/>
-</item>
-<item>
 <title>Where does Kane rank among all-time England greats?</title>
 <link>https://www.bbc.co.uk/sport/football/articles/cxj0lvqpn94qo?at_medium=RSS&amp;at_campaign=rss</link>
 <guid isPermaLink="false">c4036daef07946f6777255588224a5cd4e51300eaffe4915ff3c6967414be1b7</guid>
@@ -1465,15 +1454,15 @@
 <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5525/live/60ecddc0-de97-11f1-a701-fddedf244c16.png" medium="image"/>
 </item>
 <item>
-<title>Gritty Arsenal show different side in Barcelona draw</title>
-<link>https://www.bbc.co.uk/sport/football/articles/cqe85vym242jo?at_medium=RSS&amp;at_campaign=rss</link>
-<guid isPermaLink="false">b33aababa9616a0d91f16eeebdb266e3efe52baab2244c9b8ee76b8b1775ea04</guid>
+<title>SFA in talks with Boston officials over biennial friendly match</title>
+<link>https://www.bbc.co.uk/news/articles/cqdr1jd5mpp5o?at_medium=RSS&amp;at_campaign=rss</link>
+<guid isPermaLink="false">776a251dc36acbcdc302d3fd3a73e134ed64569a784812938ed6f214daa49eab</guid>
 <source>BBC Football</source>
 <category>sports</category>
-<pubDate>Thu, 12 Nov 2026 21:50:59 +0000</pubDate>
-<description>Could a resilient draw against European champions Barcelona be a turning point in Arsenal's season?</description>
-<enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6057/live/b497a8a0-dede-11f1-a75a-dbf83836672c.jpg" type="image/jpeg"/>
-<media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6057/live/b497a8a0-dede-11f1-a75a-dbf83836672c.jpg" medium="image"/>
+<pubDate>Thu, 12 Nov 2026 21:16:56 +0000</pubDate>
+<description>Discussions take place between Scottish football governing's body and a delegation of state senators to build on bonds forged during the World Cup.</description>
+<enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/51fa/live/0eea4910-687a-11f1-be92-f5f7087bcfc7.jpg" type="image/jpeg"/>
+<media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/51fa/live/0eea4910-687a-11f1-be92-f5f7087bcfc7.jpg" medium="image"/>
 </item>
 <item>
 <title>Arsenal dig in for draw at Barcelona to extend unbeaten start</title>
@@ -1518,17 +1507,6 @@
 <description>Boyhood Birmingham City fans Jude and Jobe Bellingham could become the first brothers to play for England for 19 years.</description>
 <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c945/live/c3116c40-dce0-11f1-a8e1-e3454837ffc6.png" type="image/jpeg"/>
 <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c945/live/c3116c40-dce0-11f1-a8e1-e3454837ffc6.png" medium="image"/>
-</item>
-<item>
-<title>How 'Barca way' continues despite big-name exits</title>
-<link>https://www.bbc.co.uk/sport/football/articles/c5vg23nmgp2yo?at_medium=RSS&amp;at_campaign=rss</link>
-<guid isPermaLink="false">aaa46279069a7b0ea90cd2d4bfc084fc3e5b236a1605f9afac52bda948c01088</guid>
-<source>BBC Football</source>
-<category>sports</category>
-<pubDate>Thu, 12 Nov 2026 06:41:09 +0000</pubDate>
-<description>Arsenal face a much-changed Barcelona in the Women's Champions League on Thursday - but how have the Spanish giants coped so well with losing key players?</description>
-<enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/64ad/live/0b486200-dddd-11f1-b465-b9821c2582d4.jpg" type="image/jpeg"/>
-<media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/64ad/live/0b486200-dddd-11f1-b465-b9821c2582d4.jpg" medium="image"/>
 </item>
 <item>
 <title>EFL warn clubs over mocking Southampton and Spygate</title>
@@ -1586,17 +1564,6 @@
 <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7dc1/live/d2819320-d9f8-11f1-84c1-dbcae60402d7.jpg" medium="image"/>
 </item>
 <item>
-<title>Historic winners &amp; 50-yard screamers - best goals from FA Cup first round</title>
-<link>https://www.bbc.co.uk/sport/football/videos/cq5yny8g5g2ro?at_medium=RSS&amp;at_campaign=rss</link>
-<guid isPermaLink="false">ea26d6f5e86c4f1fb7eff1d8c8d87c23271587428a6de1fb6c28d63416df7736</guid>
-<source>BBC Football</source>
-<category>sports</category>
-<pubDate>Tue, 10 Nov 2026 06:35:30 +0000</pubDate>
-<description>Relive all the best goals from the first round of the FA Cup, including Seung-woo Yang's goal for Wimborne Town and an effort from the halfway line by Crewe's Charlie McNeill.</description>
-<enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5d01/live/fd81f310-dc5c-11f1-b441-2b33b063138f.jpg" type="image/jpeg"/>
-<media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5d01/live/fd81f310-dc5c-11f1-b441-2b33b063138f.jpg" medium="image"/>
-</item>
-<item>
 <title>Cast your vote for BBC Women's Footballer of the Year 2026</title>
 <link>https://www.bbc.co.uk/sport/football/articles/cj20velkgnypo?at_medium=RSS&amp;at_campaign=rss</link>
 <guid isPermaLink="false">4b2c2d25d81918f05f5ac5a54c7e6290bce9644970eb0fe7106b37d8fd10edd1</guid>
@@ -1606,28 +1573,6 @@
 <description>Voting is now open for the BBC Women's Footballer of the Year 2026, with five players on the shortlist.</description>
 <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3773/live/8814cc60-dc43-11f1-93e1-3b657b665bcf.jpg" type="image/jpeg"/>
 <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3773/live/8814cc60-dc43-11f1-93e1-3b657b665bcf.jpg" medium="image"/>
-</item>
-<item>
-<title>Plymouth Parkway beat Berkhamsted to reach FA Cup second round</title>
-<link>https://www.bbc.co.uk/sport/football/videos/cqm24237y5z5o?at_medium=RSS&amp;at_campaign=rss</link>
-<guid isPermaLink="false">0ecdd2e52fb092946ec8fe47fbf40ee71b4f197c883cbb26bf5b88dcd950d035</guid>
-<source>BBC Football</source>
-<category>sports</category>
-<pubDate>Tue, 10 Nov 2026 00:13:13 +0000</pubDate>
-<description>Two Andrew Neal penalties sew Plymouth Parkway earn a first-ever trip to the second round of the FA Cup after a coming from a goal down to beat Berkhamsted 2-1 in extra time.</description>
-<enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2f85/live/a1c20d10-dc8b-11f1-b441-2b33b063138f.jpg" type="image/jpeg"/>
-<media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2f85/live/a1c20d10-dc8b-11f1-b441-2b33b063138f.jpg" medium="image"/>
-</item>
-<item>
-<title>Every goal from the Women's Super League - matchweek nine</title>
-<link>https://www.bbc.co.uk/sport/football/videos/cm4g1g3p2qngo?at_medium=RSS&amp;at_campaign=rss</link>
-<guid isPermaLink="false">0b5ceee6b6322ecaa4248eb863bfcf62bf647d39e6d81064b8bf075c12298174</guid>
-<source>BBC Football</source>
-<category>sports</category>
-<pubDate>Mon, 09 Nov 2026 15:25:55 +0000</pubDate>
-<description>Watch every goal from across the WSL in matchweek nine, from a London City Lionesses first-half wonder goal to Khadija Shaw's first hat-trick of the Women's Super League season.</description>
-<enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5fdc/live/037938d0-dc4b-11f1-93e1-3b657b665bcf.jpg" type="image/jpeg"/>
-<media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5fdc/live/037938d0-dc4b-11f1-93e1-3b657b665bcf.jpg" medium="image"/>
 </item>
 <item>
 <title>Which Premier League players are set for yellow card suspensions?</title>
@@ -1641,17 +1586,6 @@
 <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4573/live/ecda7500-dc20-11f1-a701-fddedf244c16.png" medium="image"/>
 </item>
 <item>
-<title>What can you read into Premier League table after 10 games?</title>
-<link>https://www.bbc.co.uk/sport/football/articles/c91463n3mlzlo?at_medium=RSS&amp;at_campaign=rss</link>
-<guid isPermaLink="false">ac5f1a2d8992557ba802aa0ec58e2adc91647c27c4642bfa140cafec98a1f8ee</guid>
-<source>BBC Football</source>
-<category>sports</category>
-<pubDate>Sun, 08 Nov 2026 19:40:34 +0000</pubDate>
-<description>With 10 games gone in the Premier League season, BBC Sport looks at what history tells us we can read into the table at this stage.</description>
-<enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e2dd/live/fb15a380-db97-11f1-a42b-dbe60e973664.jpg" type="image/jpeg"/>
-<media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e2dd/live/fb15a380-db97-11f1-a42b-dbe60e973664.jpg" medium="image"/>
-</item>
-<item>
 <title>'I can't believe he is one of us' - inside Salah's life in Trabzon</title>
 <link>https://www.bbc.co.uk/sport/football/articles/cmwyqzy934lxo?at_medium=RSS&amp;at_campaign=rss</link>
 <guid isPermaLink="false">c3b2da823da1c8f09c14463bb91a5520ff18cd95198789fdd2989522b5cde5fb</guid>
@@ -1661,17 +1595,6 @@
 <description>BBC Sport travels to Turkey to watch Mohamed Salah play for Trabzonspor and discover how the 'Egyptian King' is settling into life by the Black Sea.</description>
 <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/054e/live/566a97f0-da93-11f1-8206-e519d24a9ca2.jpg" type="image/jpeg"/>
 <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/054e/live/566a97f0-da93-11f1-8206-e519d24a9ca2.jpg" medium="image"/>
-</item>
-<item>
-<title>'The worst conditions in my 35-year career' - commentating in the FA Cup fog</title>
-<link>https://www.bbc.co.uk/sport/football/articles/cqev3rdvyvm1o?at_medium=RSS&amp;at_campaign=rss</link>
-<guid isPermaLink="false">3ee1d415dc067a9dccfe578b7b9f895e425acf93c19e75cfcb4b45fb53ddbd53</guid>
-<source>BBC Football</source>
-<category>sports</category>
-<pubDate>Sun, 08 Nov 2026 00:17:56 +0000</pubDate>
-<description>BBC Sport commentator Steve Bower gives an insight into trying to commentate when thick fog engulfs a stadium and you can barely see the action.</description>
-<enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4e50/live/d7267220-db00-11f1-969c-27c4482e95aa.jpg" type="image/jpeg"/>
-<media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4e50/live/d7267220-db00-11f1-969c-27c4482e95aa.jpg" medium="image"/>
 </item>
 <item>
 <title>Who is close to a yellow card suspension in Champions League?</title>
