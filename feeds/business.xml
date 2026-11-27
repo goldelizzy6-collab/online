@@ -4,91 +4,854 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
-<title>Renters are now a national political constituency that can influence elections</title>
-<link>https://www.marketwatch.com/story/renters-are-now-a-national-political-constituency-that-can-influence-elections-8f028445?mod=mw_rss_topstories</link>
-<guid isPermaLink="false">01219eafd0efac1afdd50779f4338e3cb2c727ceb17821d9eaffeea657498190</guid>
+<title>Person found dead near Forest Park business, police say - Atlanta News First</title>
+<link>https://news.google.com/rss/articles/CBMioAFBVV95cUxOdWZYcjV1Wk5aeGRiek81dHBNajZTUlpNamVMVzJKdHB4bGVxbUU2UnFlN0RnenFPZnRaUThZdEhyS01CNjJWSGp6QkpPSUpBcW53c2RxdVREMGlTaGJncXFaZzRCM3FhMWFJZ1ljLWNUb29MMEVBVHhvZElkZENILWFKQk9aMmM0cTBHeXNZN29zZUJEWUtlaDc3eUhURU56?oc=5</link>
+<guid isPermaLink="false">dcb207ddd9915f1c52ffc46de96a112e7abb34f5235f066498c1458208aa7950</guid>
+<source>Google News Business</source>
+<category>business</category>
+<pubDate>Fri, 27 Nov 2026 22:16:00 +0000</pubDate>
+<description>Person found dead near Forest Park business, police say Atlanta News First</description>
+</item>
+<item>
+<title>Opinion | Democrats have a chance to support small businesses - The Washington Post</title>
+<link>https://news.google.com/rss/articles/CBMinwFBVV95cUxOaHJpWmNOS1JaR2ZNX0RVdVM0VU1GS1NiOXJRQTNZM2NjZnV6VEt0TGdsT0dBUndmYUEtT1lYX0RSLTE2akdITWNvVVg5eTd5RXozSF96dWY4cnV5Q2ZRV2VBc3c3UTh4N3BpTmR5WlM4YW5tQVZ4SVBvTzF3Um1nSlNROUZ2aFpJRldjUjZGSlR2bWM2R01FVGVkVWk5TUk?oc=5</link>
+<guid isPermaLink="false">b64c8770a2d2cfdea5832777d08be021bb5deea18337050358556bf75761141b</guid>
+<source>Google News Business</source>
+<category>business</category>
+<pubDate>Fri, 27 Nov 2026 22:14:24 +0000</pubDate>
+<description>Opinion | Democrats have a chance to support small businesses The Washington Post</description>
+</item>
+<item>
+<title>Downtown Spokane businesses to offer free swag bags on Small Business Saturday - KXLY.com</title>
+<link>https://news.google.com/rss/articles/CBMi6gFBVV95cUxPNG54QkFQWFVSN2dLc0NfOHNCLVNnTVVLNUhGMGh6eVNyajhPSlVhdWVQMnVjNXJnWUtUMGo2a0dfQnFabS11MmNqajM2VHFiZVphMTczNTNYVHREb1lraWxWZkJvUWpTcHBlbTNqbHpja0E3NHJYeFdxOVFYWXJjd2wxT1JuLUFzWmhjTEhZMnRnZ004Zlljd1I1djdIQWpoSDBKQkhnZDU3VmZIRnl5NDk4eWN1MFNlaFhuNWwxN2pSMkdLb2RuQ1JmYmJrZ1R6RlFweEhCazZpNkt6OHEtNTJSdk5TZ1MzY1E?oc=5</link>
+<guid isPermaLink="false">46208596f4bb550ae66e0e9ab5c26634dd8805a6fac56afec18195a9644f5277</guid>
+<source>Google News Business</source>
+<category>business</category>
+<pubDate>Fri, 27 Nov 2026 22:10:10 +0000</pubDate>
+<description>Downtown Spokane businesses to offer free swag bags on Small Business Saturday KXLY.com</description>
+</item>
+<item>
+<title>12News Small Business Special - 12newsnow.com</title>
+<link>https://news.google.com/rss/articles/CBMiuwFBVV95cUxNaUZVcm5iMHdJOFNmdVVlN05qSXU1T2FoYmpNRGozOE1Dc1l0VVNPYzFUTWRPNWQxY0k4ZHA1MDVEU0FXNzFOWVNXVlU5U2ZCaUxsWHUzb0V1UVdraXJLOEZzWUZES0NQbzBKNFVUVVRiMWdDcFVyVE1VSG8xcmdTVGZFd2syYWc5NDVPTUJ3R255ZWJEZ19mLTdBQVc2dFpmd01tanZIdVFQajdBdGFWNVk4ZWFrNjkwZWlj?oc=5</link>
+<guid isPermaLink="false">901866f2a82cf2b55e1c133a7274a6356f3f0a6912522c18734f140f7e38a099</guid>
+<source>Google News Business</source>
+<category>business</category>
+<pubDate>Fri, 27 Nov 2026 22:06:03 +0000</pubDate>
+<description>12News Small Business Special 12newsnow.com</description>
+</item>
+<item>
+<title>Downtown Spokane Partnership, STCU celebrating ‘Small Business Saturday’ Nov. 28 - KREM</title>
+<link>https://news.google.com/rss/articles/CBMi7gFBVV95cUxPbTJLTlgwXy1TUDZDR2FLWjVkQzl2WTcwZTM2T0hCYU9BdVNkOGduYi1iSzJtbEpFSFNhenN4NmtVSm5yWXNuaHRfZG42XzRTckRVcFpPYVhtVmh6Z0lDT0ltbUhGdjNVclQ4Snk4NS1yWjJZRjd5Y2tqbmFUZGhFbDlRLVhNZVVrU2lNaldNS19pLWxiZ1FrSHBZZ2pQQklhNGtKSGdXOWFsd0toTXlFb3RIbXdMX2ZSaU5JNGFCZkZ4dEJvbnlRLTZUdWhwVnRyTm8tYUNQOE9ydEpFZ1M3WGV3Ri15YmtwRWRmU3hB?oc=5</link>
+<guid isPermaLink="false">dcd0a918220ec589ba783eba134398ebc0c9b2332aaae5c6ed274f5f0c128f6a</guid>
+<source>Google News Business</source>
+<category>business</category>
+<pubDate>Fri, 27 Nov 2026 22:04:00 +0000</pubDate>
+<description>Downtown Spokane Partnership, STCU celebrating ‘Small Business Saturday’ Nov. 28 KREM</description>
+</item>
+<item>
+<title>Inflation has shoppers hunting for value. That bodes well for Black Friday</title>
+<link>https://www.cnbc.com/2026/11/27/black-friday-2026-inflation-value-deals.html</link>
+<guid isPermaLink="false">637377960abe6da95a4d28d9727598f614c01e6070c9396122768a1026140e18</guid>
+<source>CNBC Business</source>
+<category>business</category>
+<pubDate>Fri, 27 Nov 2026 22:00:57 +0000</pubDate>
+<description>Even as consumers face macroeconomic headwinds, retailers are expecting robust holiday spending through Black Friday and beyond.</description>
+</item>
+<item>
+<title>Downtown Augusta businesses ask for community support on Small Business Saturday - WRDW</title>
+<link>https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdExGUnJxemF3OG9xOFdCNW9hbTFSMGRTdmJtWEt2V0VoRjNjT0ItVzJ4akI5RUJPQU82TnlsLVFfT3hHXzBVeV96S1F4R2lEZ3FJbklIQzd5aHJMc2pwNG1LN2V4dVMzOWVFZTJ3R2NJOEhGM1BuWjY1TTVHdjZ2WEJaMk9KWWE0ckVIQldUakk5cjQtZjY4YW5DTHkxSHpFaUZJV3pCSlBDZ9IBvgFBVV95cUxPc0FnNXVHOXRibUNEeDFmSjdPMEh4X3p3WXk4LVQ2ZXlaY0dnUlRPczVIRU9hTV9reWEweExMSER1ZExKN2N1MTBUcEtKdGRIQTQ3ZmRQclpnQWJ5bERRVjBzLTdSU3gyLTVkNGhwRFRTWTZPblhGS3JwNTgzZEJ4VXJ5SEV2aFFyWkZnWnlMTlNnM3hLU19tNTNhNVdxbFhUY29OTDViNlpNenVFWEVuQTZBX2lNcEVicUJkU3d3?oc=5</link>
+<guid isPermaLink="false">d38b6c5bdc72318adc3ae216294f2ae4f30d97c11bdb5255f75d701d1a11795e</guid>
+<source>Google News Business</source>
+<category>business</category>
+<pubDate>Fri, 27 Nov 2026 21:52:24 +0000</pubDate>
+<description>Downtown Augusta businesses ask for community support on Small Business Saturday WRDW</description>
+</item>
+<item>
+<title>Triad businesses prepare for Small Business Saturday - WXII</title>
+<link>https://news.google.com/rss/articles/CBMilwFBVV95cUxQVFVQOHRnR0MyTExMTVBtRjI4SHlYOU8xWTVPQUNXT2cyclV3UEEyTm1KY1M4MGJQcGVzZ3NpWGc4UGVyNUttd3VrOW9DNFQzNml6bnc2LUdvX1ByZGNEbDY1VEZtUFNjLWhsZGkxVHp4NDZ5TlhNbVZrUjBaQ2psSVdUMUdhcmQ5dVZwRVN3OFZEblBWOGFJ?oc=5</link>
+<guid isPermaLink="false">fd41d4113a95d7c7124ce59f23c6eb18e3c1c725571a0dd33b3f9da9614b007a</guid>
+<source>Google News Business</source>
+<category>business</category>
+<pubDate>Fri, 27 Nov 2026 21:24:00 +0000</pubDate>
+<description>Triad businesses prepare for Small Business Saturday WXII</description>
+</item>
+<item>
+<title>Small business owners urge shoppers to spend at Grand Strand stores - WMBF</title>
+<link>https://news.google.com/rss/articles/CBMinwFBVV95cUxNRkxPc05vRFAtNXFjd1JVYjJ3ZC1IbFFMbTZRdlpUSktjZEx1Z3AtSWgwLVpzUEpDYzdLRm5Kbm1BdXNQamMxN3pvVkdOWnNhX0pqdUVUcm5IbkhfQzRvRFR5RkVzVlo4TndySHAweE5hcS1jZ0hxS3kwaGFMTi1kcXVJYVJ3SjhMcnlWdEVIOTRTczQxQTFjZG5wZEwtNWfSAbMBQVVfeXFMUEtyVUF0NXB1Rk1XNkRmc05YZkRZRkl6OXdPNk9fNkx6YmJVMXI3UGRHN3lKRTFCUlVmZUt1dDQ0aldMd3ZIM2FuR2xJX1Z6SmkwTFFoSklhQkFicC1aN1RWMENBVl8tVTBERjVfd1p4UTloS0ZjUmFLYTQ5dGdfU2x2NkpRaXhMcEU4TENFY1FoMEcyZ084amFldW96aXc0bVEtU0hUdWJMeVNTbk5ad0VBUXM?oc=5</link>
+<guid isPermaLink="false">1b30d2eca8945a28e06e8b1461e9da675fda01e6d540002cf17be8c2f09e4e0a</guid>
+<source>Google News Business</source>
+<category>business</category>
+<pubDate>Fri, 27 Nov 2026 21:21:00 +0000</pubDate>
+<description>Small business owners urge shoppers to spend at Grand Strand stores WMBF</description>
+</item>
+<item>
+<title>Small business owners urge shoppers to spend at Grand Strand stores - KOLN | Nebraska Local News, Weather, Sports | Lincoln, NE</title>
+<link>https://news.google.com/rss/articles/CBMipgFBVV95cUxNTDRsemxlSDJneE9wUDQzT0ZIV0xLUy1fdFJJcHhTUXhtUXRFNjIzUG5ONHVXenR2ZW4wZzBpMXFsSXhDX0RnRTFOV24wakdBNkJqamdjYVZzZDBnWW9vVWFvam9iQWFTU3p0RWRGS1N6RTlMRjFCd0F4M3ZndUNrZHhUTjdyQk91dDNyb1lNSWVMLTE1TnJCLWJrVUZVYTMzWTZhNGVR?oc=5</link>
+<guid isPermaLink="false">540dc87e14d43e7a5c16c40011425466e20b41a9a5056f147cbbdff71245fce6</guid>
+<source>Google News Business</source>
+<category>business</category>
+<pubDate>Fri, 27 Nov 2026 21:15:48 +0000</pubDate>
+<description>Small business owners urge shoppers to spend at Grand Strand stores KOLN | Nebraska Local News, Weather, Sports | Lincoln, NE</description>
+</item>
+<item>
+<title>Open for business: Burton Fire District installs Santa Mailboxes ahead of Christmas holiday - WTOC</title>
+<link>https://news.google.com/rss/articles/CBMitwFBVV95cUxObnpZd0x6dXh0cVVPUFNMWjV0ZUZ0YkNYWFFNTjFlakFjSlllZU0tUVVJTDJrdmx3R2lmeTNGYVBpWERrVFQ5UFBKdXRHSWVRYWc1VDZkb19VTFRqTVU2R25YVlZXS3M5aS1RWEZ2UGpEXzl0UFgwdEFDQm41UV9xM2pBbERNOFJiSUI3WXczTVpkZ0FzVFgzY2ZxQUpNVFBFYUJwSkFPeTRoLXYwM1FyYThtT1Z4eDjSAcsBQVVfeXFMTlR5YWU4VXI1VWt3emNnR0ItN3hOUHVOY2szUy1sazFBMnRPdE1ISnNLdXZDNG1QX0EyLUVrVHpNLTA5bFdxbU42bXlZZzM5ZFlXZFVBdXNJdjZhRFFzbFdYaFh1cjdfUVY2SDRaUGVJM3lQaGsxcHVabHVodG9UUW5WM2VEWVVkbDBoS0hOT0dqd2tJMm5OLVJSQ0E1NnExVFpLc2JlbWg2a3VuYzMtNjJZalNaclhvbXNTSUVObm10eXVBQThlR25Gdmc?oc=5</link>
+<guid isPermaLink="false">d2398ed6d14e5f910b5d8bf582cbdceddef6903110675fb184e9b4303f5500d4</guid>
+<source>Google News Business</source>
+<category>business</category>
+<pubDate>Fri, 27 Nov 2026 21:13:00 +0000</pubDate>
+<description>Open for business: Burton Fire District installs Santa Mailboxes ahead of Christmas holiday WTOC</description>
+</item>
+<item>
+<title>Small business owners feel the squeeze as Trump proposes new round of tariffs - ABC15 Arizona</title>
+<link>https://news.google.com/rss/articles/CBMitgFBVV95cUxQMW16UWZjVlAzQnZNcTVBZ0NzbXZJaUdmeExiaHc2VU1IRlUzcG43UUpIeWhLTjRkQ05xNEptaVV1NElzME1xakZBWkRoWjliUUhsTG1nbEtHN0p3aWJ3eVVVenN3LUFRTHNIaklKakhNWXFxVmJydmtWZ2RhSEtObVJnWGUzMGhhaDE0ZEpiQUJ2MXhDNWNjNGp0SldVTnExdTU2Wm85ZGM2WEhIN0tlaHNSZVJnUQ?oc=5</link>
+<guid isPermaLink="false">19a923639bb5269dea56c077a24bb7bdf451d879cb7d9b470cbf67f27c7c43c9</guid>
+<source>Google News Business</source>
+<category>business</category>
+<pubDate>Fri, 27 Nov 2026 21:10:51 +0000</pubDate>
+<description>Small business owners feel the squeeze as Trump proposes new round of tariffs ABC15 Arizona</description>
+</item>
+<item>
+<title>Fergusons Downtown spotlights Small Business Saturday shopping and holiday fun - KSNV</title>
+<link>https://news.google.com/rss/articles/CBMirgFBVV95cUxQb1lBM2RxNDNxZWtBWVVmZ21UTG9yZW91SkRVdG5yeHU1VG9UWjI4eEMxQ1h5UXpCR2gyWGpmTkRLeW9fVjkzTWpUSTFiMFVuazBqT2VGQ0RKMjlsTFFzSzFfNlBTemp0YmlrenBCaG5XSm1wYkN3Q1RjRklBUVkxelk4NlJlZzZfMjQ3cWZwZHU2NmtQaTNmQUNFR2N1N2JlTFB0UFFQZEhEcjJBQlE?oc=5</link>
+<guid isPermaLink="false">392d698f3bcc060a108d1ba57f6aee4cf3181e4872d00cb21be62ebebca7ffa3</guid>
+<source>Google News Business</source>
+<category>business</category>
+<pubDate>Fri, 27 Nov 2026 20:57:59 +0000</pubDate>
+<description>Fergusons Downtown spotlights Small Business Saturday shopping and holiday fun KSNV</description>
+</item>
+<item>
+<title>Small Business Saturday Comment Available - NFIB</title>
+<link>https://news.google.com/rss/articles/CBMiigFBVV95cUxNTXM2V09oWWdqTWgyc1dpT0VaRlpkeVpsYU9yMWdsNGxhczdnQXV4WkhvbkFaN3dfZGxIZ1o0T1Y0Y0ppc1VRQ0ZiVkVwYU82OHNKZzk5NDZHeW9PMnZuLTBxRjJ1OWZpOG9rQ0ZVbWhxV1FFNGtKN05TZWpGa3JFeWxTQ3J1WVo3aFE?oc=5</link>
+<guid isPermaLink="false">0b6df4bfbaf333b73a59086ab565adb2c8900afe9981c2774a4b0306b3f72258</guid>
+<source>Google News Business</source>
+<category>business</category>
+<pubDate>Fri, 27 Nov 2026 20:57:22 +0000</pubDate>
+<description>Small Business Saturday Comment Available NFIB</description>
+</item>
+<item>
+<title>Amazon Business Adds Business-Only Seller Deals to Black Friday and Cyber Monday - Distribution Strategy Group</title>
+<link>https://news.google.com/rss/articles/CBMivwFBVV95cUxNNUkzS253QzBGamE3QVNaSnZqRlh2a25BeTAycjV1QUlqN1h0TGNMdWd5WUhaUVB3SHlUM0Z4X3VNdjNHU3dkTmowRzNtdWl5ekpiVGJwc0gtamZQZE5ZTzF2cVVTakF6NUJQX29xVVFNc0pNN3pFRkZ0WDFsRUxZQjhRRFdCRTY4Q1FDXzNrNm1rM1RtLXZicDJLRHhoV2QzX2p5S2t2LUR0T2FFZnhvenJHbGVfVFl2M05qWlpZSQ?oc=5</link>
+<guid isPermaLink="false">b43f04f172f33274139dab5e761a6f056960e9d4c95018d4c4e7c1a5ebec5905</guid>
+<source>Google News Business</source>
+<category>business</category>
+<pubDate>Fri, 27 Nov 2026 20:50:10 +0000</pubDate>
+<description>Amazon Business Adds Business-Only Seller Deals to Black Friday and Cyber Monday Distribution Strategy Group</description>
+</item>
+<item>
+<title>Is AI‑assisted thinking devaluing business degrees? - Phys.org</title>
+<link>https://news.google.com/rss/articles/CBMifEFVX3lxTE5JbXBhWldKYThGS3VjLWJpSC02REVINFZCUzY1bTRaUXN5d1djeUZGRVV0cXhUM0hQRG1SQmFkN3A1WWV0Wk5mRjY2LXZiUU9ETW9OQzhvOFkxNVE5bXF2emRQOEtpQmJ2OGctbnZDTlZGWWxDYnVnTGE0S1Y?oc=5</link>
+<guid isPermaLink="false">a905397547b472fbecbb5c3ae510a8c13ad1e37c9306fa1a48c3d53ef4e54d34</guid>
+<source>Google News Business</source>
+<category>business</category>
+<pubDate>Fri, 27 Nov 2026 20:40:06 +0000</pubDate>
+<description>Is AI‑assisted thinking devaluing business degrees? Phys.org</description>
+</item>
+<item>
+<title>Fountain Square shops to celebrate Small Business Saturday after construction struggles - Fox 59</title>
+<link>https://news.google.com/rss/articles/CBMisAFBVV95cUxObEpweEtYRk00VDhua2VmSXo0UjZCODJlVjNtU2xPMjRpZ0JFTTdsOUhTM0lsSk5tcEVMN1FrbVJKN0JPUGhWN1hLZ0pEUjQzTjNQeUQ2cXR2WVF5VzhPVTdFYUQ3c0NxRFhXTEFQcEZBWGFzdV81TGZFN3RReW1ESHB5V0RoemJxQzJQT0xvR3VjMWI1TkRwUlFGOUNsVDlaenItRkVOV25PS1JmaWRPTtIBtgFBVV95cUxOMFBrZ0VNdFNuNEdEOGFVc0NhaVFvd0ZEaE9OQ0REdDAyVDZKUUxjRk5sZmJwZEktcGcyM0N5M256Q2dWQlphR0c0anZiZWV6OUZDeFFDVlNLT2pWekp3TkdmejQzeURfWk0zZGl0RkQyamhSMlF0ZW9fMmo5NlNkeFcxRnZFUUVCcGJOTHJSaUJuMGVWWFFzS3lUVXk2ams5THdkUXBvZGxnOHZ2YUQyWjU1LThQdw?oc=5</link>
+<guid isPermaLink="false">cbaae4c7fd0079bfe15add42f91ae4fbbec3ac43096fb2a05c20006701395fee</guid>
+<source>Google News Business</source>
+<category>business</category>
+<pubDate>Fri, 27 Nov 2026 20:22:24 +0000</pubDate>
+<description>Fountain Square shops to celebrate Small Business Saturday after construction struggles Fox 59</description>
+</item>
+<item>
+<title>These stocks soared the most during a wild week highlighted by Huang’s return to Nvidia</title>
+<link>https://www.marketwatch.com/story/these-stocks-soared-the-most-during-a-wild-week-highlighted-by-huangs-return-to-nvidia-578b3f9a?mod=mw_rss_topstories</link>
+<guid isPermaLink="false">0bb0f0cba6df3a2d32184f5a6fe032da45ff9d2bce5feff69ba86f4f1d96d471</guid>
 <source>MarketWatch</source>
 <category>business</category>
-<pubDate>Fri, 27 Nov 2026 13:30:00 +0000</pubDate>
-<description>Renters backed Democrats 61% to 31% in the midterms, a 30-point margin, according to YouGov.</description>
-<enclosure url="https://images.mktw.net/im-73428075" type="image/jpeg"/>
-<media:content url="https://images.mktw.net/im-73428075" medium="image"/>
+<pubDate>Fri, 27 Nov 2026 20:16:00 +0000</pubDate>
+<description>Nvidia’s stock soared this week, but was still down nearly 28% for November and 21% for 2026.</description>
+<enclosure url="https://images.mktw.net/im-70107432" type="image/jpeg"/>
+<media:content url="https://images.mktw.net/im-70107432" medium="image"/>
 </item>
 <item>
-<title>I've traveled around Asia to countries like Japan and Thailand. They were nice, but the place I loved most surprised me. - Business Insider</title>
-<link>https://news.google.com/rss/articles/CBMikAFBVV95cUxQcG5zNEVha2taeUFZbmNMNERnd2tZeWJYSFF3ZHlxbUJCRmtZRk92a2ZQcWowR0JPTjJTS1d6bTF3YVZRckIwYTViTXNxTVE0RmFibERoTDViQzkyak4wREs2V2NsUkRaUGV3RnBCRnZoajRFQTdyN0ZpazQ2d2JHU2RETU9EMnNjTEJMR1FMRHA?oc=5</link>
-<guid isPermaLink="false">1ad8e2e4f9481eda4f78e56c28895e0c01cff7ff81ee7ea86158e2e1c7bb80b9</guid>
+<title>Video: SFPD car crashes into Mission District business - KRON4</title>
+<link>https://news.google.com/rss/articles/CBMilAFBVV95cUxQUmNydlpvZWVnamFoN1NSV2FUZHRJN3FfSE1Td2s2Sk5aaVI5OVd2Nm5SWFl5R0hETEVQMWUzVXJNRFB2WF9kREVYVUNxN2VNT21BeXRqOWFYSmVqbjFMSEdDQnBDdU15TmhkcWlnTG5aaldUYnk2V0o1NVMtSGpXWENBMGpDT0VlYlpzMHByeVRfRnJ60gGaAUFVX3lxTE4yMmVncXZMekREb081Y2dsM21WOHJJWGp5WHpfQVdHZTFzVWVZalBTWFVVdVlKSkpuUmlZc2VnTmNMb3B3cVpjU3JPYWlmREdFNzltVnNPVWQ5SW9IRWEtMHEycmFhRlpPci1ROTFUREZuenJwTzB2ZXRyemhyU3Eyd3Y1QzNCSFk5Yk9rY3liSjhEdHNJdThxTmc?oc=5</link>
+<guid isPermaLink="false">bdb2c91a3eb9308e8b4c3af15e7edb4061cd37ed24e9006d9eda01252b98ae55</guid>
 <source>Google News Business</source>
 <category>business</category>
-<pubDate>Fri, 27 Nov 2026 13:28:00 +0000</pubDate>
-<description>I've traveled around Asia to countries like Japan and Thailand. They were nice, but the place I loved most surprised me. Business Insider</description>
+<pubDate>Fri, 27 Nov 2026 20:07:21 +0000</pubDate>
+<description>Video: SFPD car crashes into Mission District business KRON4</description>
 </item>
 <item>
-<title>New-home sales just hit a 2026 high as builders dangle low mortgages and Black Friday deals</title>
-<link>https://www.marketwatch.com/story/new-home-sales-just-hit-a-2026-high-as-builders-dangle-low-mortgages-and-black-friday-deals-291a3b62?mod=mw_rss_topstories</link>
-<guid isPermaLink="false">6d36b6852478a26343aaf71fd88a2696135ba20126945a9cee34178149ab68ac</guid>
+<title>Morgantown area businesses preparing for Small Business Saturday - WAJR</title>
+<link>https://news.google.com/rss/articles/CBMimAFBVV95cUxOVTJmWUVkdGg5QUJhN2FNdEhLTWVmMS1TVDdLQXA5cnhSQmhTc0tTRTV0R3VtN2pNWm9HQ3lkci1fM0xFb2xUVFpLbjF5eVdYN0FzYVFaMlZGb0lmUUx4dU9OQ3VCN194am1sc01DVjZ5TlBkS1FFS3RoaERLUHN3UHc5R2wySkoyUHBYckNhcGxBZWU0bzZObA?oc=5</link>
+<guid isPermaLink="false">e84b0a27fc3f5ab917d1629fbf9e6a2d2d5b625297134a4056fe578cd3210847</guid>
+<source>Google News Business</source>
+<category>business</category>
+<pubDate>Fri, 27 Nov 2026 20:00:59 +0000</pubDate>
+<description>Morgantown area businesses preparing for Small Business Saturday WAJR</description>
+</item>
+<item>
+<title>I moved from California to Texas and helped others do the same. After the blue wave, I'm heading to Florida. - Business Insider</title>
+<link>https://news.google.com/rss/articles/CBMirwFBVV95cUxQcE5kN0h0c3lnejhhN0pqaW4yal9icUZVMms2NURteUFfNkZLZWpwdF9pMzZ3VkFyUFJCS2FvUGRTckZOMDhiRlE2YmVLWi1aOTFJRDRrdUhnY18xTW80ZmVpOEdBdnhkY3ViRGxQMVlmTEo5VHNwZ3plYUNYRjZmUDJWeFlsMFlyRXY2eFVqcm45Vlh1LXpRN04wZC1sX25pODJ1RjZ4NkRwRmhSSlVV?oc=5</link>
+<guid isPermaLink="false">9532de1aa3f0403efceb0b9d9c0381bd1ae900d460c6470780a44145a6b5966e</guid>
+<source>Google News Business</source>
+<category>business</category>
+<pubDate>Fri, 27 Nov 2026 20:00:00 +0000</pubDate>
+<description>I moved from California to Texas and helped others do the same. After the blue wave, I'm heading to Florida. Business Insider</description>
+</item>
+<item>
+<title>OpenAI countersues Apple in ongoing trade secrets fight - CNN</title>
+<link>https://news.google.com/rss/articles/CBMibEFVX3lxTE5XTW11Wi1QV2lsNzVvRlYyVklERHdsUkxKLXdRbjRjbDk2eC1UYmM1LXNZN2FPdEdhRC1lci1SYU56M3ZSOWMxM3p6OXB0c2h0dTFVVjBHSWNVSEZJSnNuSnBJMU5HZGd6STY3Sg?oc=5</link>
+<guid isPermaLink="false">98db07730d5b25d69e501990630af6908bc20902bdb638314eac3ea5343b1860</guid>
+<source>Google News Business</source>
+<category>business</category>
+<pubDate>Fri, 27 Nov 2026 19:58:31 +0000</pubDate>
+<description>OpenAI countersues Apple in ongoing trade secrets fight CNN</description>
+</item>
+<item>
+<title>Coming next year: Medicare Advantage plans without drug coverage for almost 640,000 people and fewer choices for the rest</title>
+<link>https://www.marketwatch.com/story/coming-next-year-medicare-advantage-plans-without-drug-coverage-for-almost-640-000-people-and-fewer-choices-for-the-rest-25242d69?mod=mw_rss_topstories</link>
+<guid isPermaLink="false">527a2f79d9cf79969de2f071398d51bdea1c188e24c5a8b9d33e33c71a342f98</guid>
 <source>MarketWatch</source>
 <category>business</category>
-<pubDate>Fri, 27 Nov 2026 13:22:00 +0000</pubDate>
-<description>Sales of newly built homes surged to the highest level of the year in October, as home builders offered aggressive discounts to buyers.</description>
-<enclosure url="https://images.mktw.net/im-829639" type="image/jpeg"/>
-<media:content url="https://images.mktw.net/im-829639" medium="image"/>
+<pubDate>Fri, 27 Nov 2026 19:55:00 +0000</pubDate>
+<description>Medicare Advantage is starting to lose its all-in-one benefit.</description>
+<enclosure url="https://images.mktw.net/im-30802072" type="image/jpeg"/>
+<media:content url="https://images.mktw.net/im-30802072" medium="image"/>
 </item>
 <item>
-<title>Kalshi pushes 'microinsurance' for small businesses as sports contracts hit roadblocks - CoinDesk</title>
-<link>https://news.google.com/rss/articles/CBMiwAFBVV95cUxQby03VlF0Yy1pbmtqb01BZF9hX1VkYnJLSFN1MkdxMnR6WVh1blhsSFFMVUdfR0JZN0ZZZThRR0xxOGhrTElGNDhkWDdIakp5YXBTd1p3UTFFQmw5UGNrdnFVc2N5bHp4Vm51MGF0UVBXbHRUMmc2bW1CYWRhVUc4V3lOWjMyT0dORGVQQnRaRjlxeFdERkd1TUR3ck5uNWNpdFVuT2pvd1paMFdkSFZMSTdfWEJLR0VCZ0VxOC04TlQ?oc=5</link>
-<guid isPermaLink="false">534bf4f9a3606629f5cab359ed6de18a6716265be47fc30273b75e4ed6370482</guid>
+<title>Black Friday, Small Business Saturday deals, and holiday events around Las Vegas - KSNV</title>
+<link>https://news.google.com/rss/articles/CBMirgFBVV95cUxPVzV1dzRUd2xTVVpCNVhEWjZDN01jMzA2cFU1ejF5WVFEWnZKb3dSRUZCOWx6UDdSaXlNX21ZbEU1Nm9pTVhnZG5zaGhZbUZkZmZldnJEdU5LOE11TnFVVjlObmxWNzVMMnZwZmRoWWNDWXA3MG0wWWpzRnUzNm9lS1plYjVoU2ZjbEZkVDU2ZzBoNWh5NkoxY0duLUp4RDRfRlNLdF9xQ2V1NXR6YlE?oc=5</link>
+<guid isPermaLink="false">4bd175433903c50cda0aec87ec421ca46c87934a7506d40913e40d2f481e2803</guid>
 <source>Google News Business</source>
 <category>business</category>
-<pubDate>Fri, 27 Nov 2026 13:19:10 +0000</pubDate>
-<description>Kalshi pushes 'microinsurance' for small businesses as sports contracts hit roadblocks CoinDesk</description>
+<pubDate>Fri, 27 Nov 2026 19:52:47 +0000</pubDate>
+<description>Black Friday, Small Business Saturday deals, and holiday events around Las Vegas KSNV</description>
 </item>
 <item>
-<title>We are living in perilous times if Nvidia CEO Jensen Huang dictates your 401(k) balance</title>
-<link>https://www.marketwatch.com/story/we-are-living-in-perilous-times-if-nvidias-jensen-huang-dictates-your-401-k-balance-e0942d1e?mod=mw_rss_topstories</link>
-<guid isPermaLink="false">3ee7d1ee2ee61d832adcd908f9c79d85c179c44e207724aff3ad08185b80010e</guid>
+<title>Downtown Las Vegas offers free parking for Small Business Saturday on Nov. 28 - KSNV</title>
+<link>https://news.google.com/rss/articles/CBMiqwFBVV95cUxPenRsUW5MV2RxMFMyRW5mV0lVMkU4Z1hnVWx3QXhNQ040NGl0YW1CbUszRVp0NXBVX2x3aHVPMkYyWUdpM1hEUjBDWG56cEoycWFUb19KMDR2MWZmejg4QTRsQVd1dUVULXVwcklXQUcxallCUkM0djRQcDhPU2VlRUJuUHVoc1FpZG8wR3NGOXY4NXRSaDltMmYzNGlSaWNZYk9SY3BDZW9FOW8?oc=5</link>
+<guid isPermaLink="false">d8714198b088eb3926cfc28cf03b693cc4b21d7be87551e41162ead628451969</guid>
+<source>Google News Business</source>
+<category>business</category>
+<pubDate>Fri, 27 Nov 2026 19:37:03 +0000</pubDate>
+<description>Downtown Las Vegas offers free parking for Small Business Saturday on Nov. 28 KSNV</description>
+</item>
+<item>
+<title>Small Business Saturday puts New York businesses in the spotlight - PIX11</title>
+<link>https://news.google.com/rss/articles/CBMikwFBVV95cUxQQ3E3dm1xNzkxT25FN1c2OWdUak9QaWYwSFMxNUMyaE9TeVc3STBydlZZTEpJUlEyaEQ1MEFBUjFhMDkxenNCeHdTTjFTY18yQ0VzRE95RjVkWFVqS1pRTUxDYkxWanVKX1BybDRaUUhRRnh3dFFyWEJRUVc0dmpWaWFwbmhtd0MzbWJTbEgxSjY2X2_SAZgBQVVfeXFMTmw4QlVjLVFpa1g2SUJ6R0FYdVByR3lfbVh1MFZFbWRwenNJb3RPXzE2Q09Oa3NZV0hiT0RUbFVhY0xVNUh4dGNVcnRyZ25qbWxwMUhDNzllQWNCZzhXMk96QzFYQmZxSGFQaXN3QWk1R0pCcDVZR0RKdzdYbnFfWEd4ZUpEZmdVSHIwS2RwM21IRlRBYldOQ1U?oc=5</link>
+<guid isPermaLink="false">7db56eb48c5e6b8834712b1e737b727463759746f0667d182db3d86c5e64344f</guid>
+<source>Google News Business</source>
+<category>business</category>
+<pubDate>Fri, 27 Nov 2026 19:36:01 +0000</pubDate>
+<description>Small Business Saturday puts New York businesses in the spotlight PIX11</description>
+</item>
+<item>
+<title>Celebrating Cheryl Casone's 20th anniversary at FOX Business - Fox Business</title>
+<link>https://news.google.com/rss/articles/CBMiW0FVX3lxTE5PcVREMHhEWGlScGxWWWZySHRLdjBKMVZTTTZheldVdmZJWUNLRVgwYVBGeXRTMjlSOWZ0M2FDZlJibEoxQlU0Ymo4VExZcFJTOWZJYVIxNmZ4Q0U?oc=5</link>
+<guid isPermaLink="false">930da3d1ee08d2ebc26d5a37fdbb53cf10379bf4bf7e0b4d0bc7d728fd6ee597</guid>
+<source>Google News Business</source>
+<category>business</category>
+<pubDate>Fri, 27 Nov 2026 19:21:41 +0000</pubDate>
+<description>Celebrating Cheryl Casone's 20th anniversary at FOX Business Fox Business</description>
+</item>
+<item>
+<title>Futures Jump As Nvidia Rebounds - Investor's Business Daily</title>
+<link>https://news.google.com/rss/articles/CBMiuAFBVV95cUxPeUU4bHFkdWpWVkxfdkdoMXhBYnRBRk9zeXhmZzJJekt3N3Fua09tUGQzdGpQNGFIUFNjNzZBZHVRSWV2UV92cEhnd2NQTnIwMVZ2bnpGdl9sd1JLMF9WaTV6dUFMcThzOEt0ck1Jb0hQLUxPdGlRWkhsYmU0ZnB3N0NlUjhWRFZOV0xZa0VhU3F3T3FGbXhwTVpTVk5WaFJmczRPeklNQmctcU5haUJpaHZmaERSd3BJ?oc=5</link>
+<guid isPermaLink="false">2cd5540d358f9cf3926b99e392b09d47ae5d852922cb82ce157fcfee859e63d1</guid>
+<source>Google News Business</source>
+<category>business</category>
+<pubDate>Fri, 27 Nov 2026 19:10:00 +0000</pubDate>
+<description>Futures Jump As Nvidia Rebounds Investor's Business Daily</description>
+</item>
+<item>
+<title>Greenville City Council Advances Falls Park District - Greenville Business Magazine</title>
+<link>https://news.google.com/rss/articles/CBMipgFBVV95cUxQWEVfZGNJbWZ1NzJZVjd0NS00U2JLOG1BSFRDRHRtbHE1SVhsZnlTQnM2UU5PTTd2b0hYX21GVU85eUdJVy1jOU4wTWQwMmZUZF9lSmJlWE03bzFucndJYl9mdEN0TTg0MElIY3Q2NXdiX3EwR2gxMjA3SFc2QjM1dmVQa1drZl91OHVHV2p0MHYtLU1wUXV1a19Ma25EYkJoUlFSV0Jn?oc=5</link>
+<guid isPermaLink="false">f90ee291c7b4020042934c7bd29d39752728844aebc99215b719fd5f0cbe196e</guid>
+<source>Google News Business</source>
+<category>business</category>
+<pubDate>Fri, 27 Nov 2026 19:08:49 +0000</pubDate>
+<description>Greenville City Council Advances Falls Park District Greenville Business Magazine</description>
+</item>
+<item>
+<title>Texas Democrats and business leaders are in their honeymoon phase - Politico</title>
+<link>https://news.google.com/rss/articles/CBMilgFBVV95cUxOZ3Y4b2FoS1FndERKWTNkdkMtc2FFQVdxX2pkSmlaUjBnM1RnUU1VbHQ2ZjU5ZHdYcFFhWXdpSldPQldBcTBjTzc3ZHlBVUF0RTRpM0xJVUVKUEVTY2NSYy1veGtRT3JDRDhXY0VxQnFneEplQy0tVml5clBseUtWazVqejgyLWtRdXlsVjhFcUItQmpMNEE?oc=5</link>
+<guid isPermaLink="false">782d87405250503f8cd32480ac31aae805b259aac95f624cd0d2811c3e5021d9</guid>
+<source>Google News Business</source>
+<category>business</category>
+<pubDate>Fri, 27 Nov 2026 19:00:00 +0000</pubDate>
+<description>Texas Democrats and business leaders are in their honeymoon phase Politico</description>
+</item>
+<item>
+<title>Local shops gear up for Small Business Saturday - Valley News Live</title>
+<link>https://news.google.com/rss/articles/CBMijwFBVV95cUxQcmZ2Z1oxQkh2eW5Ib3U4WE8wRFo3VUVPbmFsOW9Ic3VXU0thM1NscnczSklzWHZoWXI0UXRRbm9MVzhuMDhwVjNZcGk4YWFZaTZyRnJpaHFMOFAwRzBMSTVidVJvQVpRMDd5MDRBTjdaenVvNHlrLTY3dWlwelo1dU9vU0Z2Ql85VFZVczlPVQ?oc=5</link>
+<guid isPermaLink="false">589402a86955db9787ca00aa7c615c6c8cce49f437b52bd7f3e157426bbdd27a</guid>
+<source>Google News Business</source>
+<category>business</category>
+<pubDate>Fri, 27 Nov 2026 18:58:00 +0000</pubDate>
+<description>Local shops gear up for Small Business Saturday Valley News Live</description>
+</item>
+<item>
+<title>Joe Manchin’s New Business Partner Is a Pipeline Boss He Helped in Congress - Sludge</title>
+<link>https://news.google.com/rss/articles/CBMirgFBVV95cUxPMlRqUjdUWjhYMFpCUXlvckZsSEEyTGljTm1oYlpkRmNwRm5rSXRZRENUQkc5NlVWOFFLOG5IaFJLZVI3Z0RITkVRd1R4TUQ3anY5eER0YzVMUFVhdzctUThIZ2wyT2JZd0FDZkdRWnhmY0tEZkZZRERaYXQ1Rmpub1ZVbXdpWnhwaVhrM1Y5MWRGeWRvUUpQRTVBcnpkc0ZLY1E4NHZuT3I2Q205SkE?oc=5</link>
+<guid isPermaLink="false">d67222a96427877e12da168b8b593f670111f5a46c4960c669bc9a50e70a50ca</guid>
+<source>Google News Business</source>
+<category>business</category>
+<pubDate>Fri, 27 Nov 2026 18:55:57 +0000</pubDate>
+<description>Joe Manchin’s New Business Partner Is a Pipeline Boss He Helped in Congress Sludge</description>
+</item>
+<item>
+<title>Economic Rundown: Stronger Growth, a Brighter Consumer Outlook, and Stubborn Cost Pressures - Small Business &amp; Entrepreneurship Council</title>
+<link>https://news.google.com/rss/articles/CBMiUkFVX3lxTFBzUFNwaWVpRm01alQyUTgtdWthTmFJZW05a3R5SVhSLW5TblFDaXZZSHlscG5Za250Q3Y0MFR0WlBrY3pKbGNUV3Z3Z093VmtSU3c?oc=5</link>
+<guid isPermaLink="false">a618b7e198b2244801d3b09465f60998f176565ae3b5d281c3475c381ee173d6</guid>
+<source>Google News Business</source>
+<category>business</category>
+<pubDate>Fri, 27 Nov 2026 18:54:24 +0000</pubDate>
+<description>Economic Rundown: Stronger Growth, a Brighter Consumer Outlook, and Stubborn Cost Pressures Small Business &amp; Entrepreneurship Council</description>
+</item>
+<item>
+<title>Restaurant openings, closings and other Thurston County business updates - The Olympian</title>
+<link>https://news.google.com/rss/articles/CBMibEFVX3lxTE12NFUzenh6RkpoN1JZOXJ1dnE1VG1LZGlwc2NtcHZzWDZ4Y09oRF9UZWFGaDUtUWhYTmhsNlFiYk1aMjNxTDFZeXFQMS1FaFh3TTFXdHpYWGJZeXdaYVlWUnN4SEtkTHcyb1JrdNIBbEFVX3lxTE9zeWNuX3lFOVNJMzJKTW9HdE9Bc005TE1MZk0tOVpPMTEzU1dvd3JwNnVRNDBjYXVDTFliSjJqeXNBLUpfdGdPYjhHMWo2RUlZTDQyUEs2WUJlY2FrTnlQS2dBT21DZWg4b2JGZQ?oc=5</link>
+<guid isPermaLink="false">1deee4183af027a9cfcd167d5e09c9ecabd78bd214e7fcefbcf75f7a80941805</guid>
+<source>Google News Business</source>
+<category>business</category>
+<pubDate>Fri, 27 Nov 2026 18:49:30 +0000</pubDate>
+<description>Restaurant openings, closings and other Thurston County business updates The Olympian</description>
+</item>
+<item>
+<title>The warnings behind this week’s stock-market rally</title>
+<link>https://www.marketwatch.com/story/the-warnings-behind-this-weeks-stock-market-rally-86e5319c?mod=mw_rss_topstories</link>
+<guid isPermaLink="false">7c5c2b3e3f3dfda28c22acba6497ea5fdccc3cb2a0da0c415a33483713bbfe4c</guid>
 <source>MarketWatch</source>
 <category>business</category>
-<pubDate>Fri, 27 Nov 2026 13:15:00 +0000</pubDate>
-<description>Why did a futurist with Huang’s prescient vision build a company where all roads lead to him?</description>
-<enclosure url="https://images.mktw.net/im-58425830" type="image/jpeg"/>
-<media:content url="https://images.mktw.net/im-58425830" medium="image"/>
+<pubDate>Fri, 27 Nov 2026 18:40:00 +0000</pubDate>
+<description>Also in Weekend Reads: Important tips for Medicare enrollment, how to spot online shopping scams and marital advice from The Moneyist.</description>
+<enclosure url="https://images.mktw.net/im-85185426" type="image/jpeg"/>
+<media:content url="https://images.mktw.net/im-85185426" medium="image"/>
 </item>
 <item>
-<title>Chanel’s CEO Leena Nair makes the case for human made ‘beauty and creation.’ In an era of AI saturation, her $19 billion-a-year business depends on it - Fortune</title>
-<link>https://news.google.com/rss/articles/CBMihwFBVV95cUxNRFV6dktEa2VaSjNRa096dGtyU1dvSkJ0YnZoRjM5aklvb0N5OU90dGswejlmTjhkRkJlOW9vUmM2NXl4Rjk3ZGhmSU9yQzd3OFNsU2h2MEJWSVFIeXFMM1ZpeU5EM3ZfRWYzWjd6YlA0Yzc0Q2RfY0NpVk0zelZVUmFxaEcyUEE?oc=5</link>
-<guid isPermaLink="false">215767e841a2f4d2f9899efb0020acc9e735ac4a99bcd0824aed0ab5cc6832a6</guid>
+<title>Small Business Saturday boosts local shops - The Record Courier</title>
+<link>https://news.google.com/rss/articles/CBMilAFBVV95cUxQN1R0ZDZNMkxfVVAtZER4MGhxQndZTUc2S0ZOUkd0ZW0wVkV2X3hOUUxwaWpqYUxHRWxJdGd5M21SN2lFemlXckFGVHh3SGN6Y09wNTlDYWlONlYxRVZJdmJVTlVqck5aOFRYeW5TNGQzUzB6UDFsMEtPV3VzRGhXczJweVZVeGYxSEZqTDd1OFhhWWRw?oc=5</link>
+<guid isPermaLink="false">cb691e639edcf96903c31689cf8422b28235a7ffa318624140275c4a8474ef38</guid>
 <source>Google News Business</source>
 <category>business</category>
-<pubDate>Fri, 27 Nov 2026 13:13:00 +0000</pubDate>
-<description>Chanel’s CEO Leena Nair makes the case for human made ‘beauty and creation.’ In an era of AI saturation, her $19 billion-a-year business depends on it Fortune</description>
+<pubDate>Fri, 27 Nov 2026 18:38:57 +0000</pubDate>
+<description>Small Business Saturday boosts local shops The Record Courier</description>
 </item>
 <item>
-<title>Katy Black Friday, Small Business Saturday Deals - katy magazine stories</title>
-<link>https://news.google.com/rss/articles/CBMikAFBVV95cUxPeGNtMkRTZkpWbFRmNGtnS0p5amNvUkJ1SnpOZkJJQUxXYjdpaWhJRkxjX0hOTVBpcDZBdHJ6REZobWtYX2JVN3gteWlqNWlsY0FLRDlEZWdDNWRLZVc4bU1BNFF4NTBmYjdYNUR5N1Ywem9MNU5wOEU3YlhfR184Z0s5bE13TkhQdlBsVzEwdUw?oc=5</link>
-<guid isPermaLink="false">eb1eb21625ec48cb2fd167d4faa6063ae93da9eb5f78bf59231cbb99a8f232e0</guid>
+<title>Small Business Saturday: Shop Local, Shop Renton - City of Renton (.gov)</title>
+<link>https://news.google.com/rss/articles/CBMiowFBVV95cUxQMmk3Vzk3Y0VMSTBPdWhxdWFOclpENVN2ZGVMZy11aUF1TjBmenpSV0tyckFMb0J3QTlHbC1JdW8wS0lNYWREazJwVEp0aFh6THBwSWxwYk1kcXRGYU1rWDJfYy1UazdlUUQ3NEo1R0Ffd01FdFhjZG9TeHlDczQtVVphZjhzNGNlVzZ0UHpBaFpyby1HZHZHbE82TUpEdHFFWnhr?oc=5</link>
+<guid isPermaLink="false">dd3db5e07a1df2ca32310a88bce0b6122a40ffb24083000e6bc4e3d5133e1cfe</guid>
 <source>Google News Business</source>
 <category>business</category>
-<pubDate>Fri, 27 Nov 2026 13:06:48 +0000</pubDate>
-<description>Katy Black Friday, Small Business Saturday Deals katy magazine stories</description>
+<pubDate>Fri, 27 Nov 2026 18:36:24 +0000</pubDate>
+<description>Small Business Saturday: Shop Local, Shop Renton City of Renton (.gov)</description>
 </item>
 <item>
-<title>Grand Forks retailers prepare for Small Business Saturday - Grand Forks Herald</title>
-<link>https://news.google.com/rss/articles/CBMiowFBVV95cUxNOTFCZFFGWldObzNfZDdvazFkcC1wRkxUZ251QURnME5BWkxhQnZKRXJkeS1JWGM5TzllTDJMbkJvNVRmb1NrNEN2Y2JWalVRTHdKdU1kV1hhX1dEd0dLdWp3RHhaZjl2aWdJTGhTV1FLWTcySGhiYTRyUXVDZ2hGcEZWYzZSTE40ZElKcWxLM3lTaTRVY3pOQ0FkT2FiU09iNGQw?oc=5</link>
-<guid isPermaLink="false">95b5fccf435997a7414dd85c6cf02163d4a5948515f46bb3c20b8f48f7e4898f</guid>
+<title>‘Shopping small is an investment in the places we call home’ - Reading Eagle</title>
+<link>https://news.google.com/rss/articles/CBMioAFBVV95cUxQdEZ5YXZ3RjVUUlBELWd6dVl6LTlva3lzS0h2djNLUTVhV1FDZnpoMnNHcm95TEN6eG04NWdHZ3JqT0tfckthUGl4OXBlbExrQ0hqRVV5bjVPUkNtOUM1MnFwb3hUMXVUeUxBUlhGcnBYZjV0WU1qeUxweUE2OWdtWUNUNTdnRE9yb2s2YzA5eDNEVzVrX1dreWJaZk9PWHlf?oc=5</link>
+<guid isPermaLink="false">5012a6fcc5e43e9b4db9e66f983377598d34291d82afae16e0863681256eb7c2</guid>
 <source>Google News Business</source>
 <category>business</category>
-<pubDate>Fri, 27 Nov 2026 13:04:02 +0000</pubDate>
-<description>Grand Forks retailers prepare for Small Business Saturday Grand Forks Herald</description>
+<pubDate>Fri, 27 Nov 2026 18:30:25 +0000</pubDate>
+<description>‘Shopping small is an investment in the places we call home’ Reading Eagle</description>
 </item>
 <item>
-<title>Small Business Saturday is this Saturday, November 28! From local restaurants to neighborhood shops and services, small businesses are the heart of Brooklyn Park from creating jobs, growing our economy in our community, and making our city unique. Eve - Facebook</title>
-<link>https://news.google.com/rss/articles/CBMi3gFBVV95cUxPYmtKR244YjNxZW15em1PNnNsNVpvbFJLTWp6M0FGYUtzbk12ZFVyVXlwdGF2Tk1jVXJIZnFBeTlqR2E4bzJBSE04ZV95MHMzdnRwYlR3TjVhcEpaZGhZcHZKVm5KeVdTY2w5azAtNS1wQ044QVA3RDZhbmpZR3dfRHZhQ212bXNhRE5KYWt6c1ByNkpZOEJFN2VweVFJZE9Wazh6Ulp4YU9BNG5QRWE2aGJ5UXFRMXdqbTFXS0k3bTFGVE95SnVXbkI3MkJXWU5QdkZld2VfTk5ydEo0T0E?oc=5</link>
-<guid isPermaLink="false">dfe952a08adfe01f39bb0269c11cb24f72a66308f18738db8fe090317f9d0737</guid>
+<title>Decatur Square shops prepare for Small Business Saturday - FOX 5 Atlanta</title>
+<link>https://news.google.com/rss/articles/CBMiZEFVX3lxTFAtU1VSNl9oOFc1c0txeDBjQ0R1MkJVdHNlN1VkeDNZM3o5SEhLbXVMT0dOa0k5eUZHYWU5a1MwbXo5MWFhdEQ5UGcwaW4wSTIwazJOWjlYSFFzcjFoQkxYX3k3MHbSAWpBVV95cUxONFhwa0I2d3VqcGVRQS04RUV5R1pSaURKdDBTcVd3bHdQN3pZeUU4ZzQzc2NlbjVEYlJNc3gwMXFiS2VRS2dKRWoxcmhSUHp2WVNtWU9tbWVMVmFpNEV5TlEtUG9Bb1A1R3pB?oc=5</link>
+<guid isPermaLink="false">2154badd5622496c484bc7717be44f5ce5b4b6d7424bb78f80c153df3f0b3a2e</guid>
 <source>Google News Business</source>
 <category>business</category>
-<pubDate>Fri, 27 Nov 2026 13:03:18 +0000</pubDate>
-<description>Small Business Saturday is this Saturday, November 28! From local restaurants to neighborhood shops and services, small businesses are the heart of Brooklyn Park from creating jobs, growing our economy in our community, and making our city unique. Eve Facebook</description>
+<pubDate>Fri, 27 Nov 2026 18:26:39 +0000</pubDate>
+<description>Decatur Square shops prepare for Small Business Saturday FOX 5 Atlanta</description>
+</item>
+<item>
+<title>Quantum Is Almost Here; Do We Really Need It For Everyday Business? - Forbes</title>
+<link>https://news.google.com/rss/articles/CBMivAFBVV95cUxPZ2JjamxNYjZjb2hyRXE1cFdweENkRGhrU1pfV1NseEFjY2doclh6SEQ2eF9hcHNTbG9ZNjVEZDBhaWI3c2FwbnQ0WG5UVXhkQjcyX1VaR1VKZVNzd21sT3BPM2V0UnF0amc0U2xGc2tGLTZoclp5UFp0TjBabjMxZm1ZR0EycXJjVnI1RVdvWnZYVkZfdDRPaEx0SHRrR2ZFWGJvNGpmNF9TS0xsNldOQU1GeFhaZmVIOU1pWQ?oc=5</link>
+<guid isPermaLink="false">5f9541922bf139346f99e72b41d7a86c5946ecf98ad6503300fead36838e4d5f</guid>
+<source>Google News Business</source>
+<category>business</category>
+<pubDate>Fri, 27 Nov 2026 18:16:40 +0000</pubDate>
+<description>Quantum Is Almost Here; Do We Really Need It For Everyday Business? Forbes</description>
+</item>
+<item>
+<title>Sarasota Children’s Museum unveils renderings - Business Observer</title>
+<link>https://news.google.com/rss/articles/CBMikwFBVV95cUxOTmM5VjU1c2Q5eGVsYTVuVHlXdFdOSzJTcTBCTUxLUEZiVE1WMTdGSDJpOHBtQVhoSHdWaGR6ZDhHakItQTJ2RnNJWlFrQnJXeXhENEZtSHdtV0ZuNEQyRElpLTF1bFZmeXlYZF9tZGpoTDg2OUxianNUdUhPNVBfaUpYT3ZaZXBtMGtmNnhUUHJZR0k?oc=5</link>
+<guid isPermaLink="false">e02bbf4b3ae9ba51ac11e184f2b93f1cbf110fbf82d1260dc3d59a9ffa33060b</guid>
+<source>Google News Business</source>
+<category>business</category>
+<pubDate>Fri, 27 Nov 2026 18:13:00 +0000</pubDate>
+<description>Sarasota Children’s Museum unveils renderings Business Observer</description>
+</item>
+<item>
+<title>Small Business Saturday Means Big Business For Main Street - Forbes</title>
+<link>https://news.google.com/rss/articles/CBMisAFBVV95cUxNZnlBLTJCVGZpZzR2aDhEMUdMVWkxLWt6a1ljT0RRVDJmRWVFdERGcmgxTEdRYWNNNzQzQTh4N1RXMGNwOWx2U1JpWFVIb1ZWSUhJbGhJdGpGZnBvUF9ZOUZtQ2p2RDBVSU8yQ3dYUVdtaU5PTFBlWkVSc0xqcXlDYXNsdVRvQjNMUy1Nc3BPSHhZeTdVbXIzVm1xWTFkMnVjTi0xMkdyVjgwVDhmenJKNA?oc=5</link>
+<guid isPermaLink="false">bdc111547d24c8a007eb6aa62c62971ef617ea2b180a10ad6c1a16bb37751be4</guid>
+<source>Google News Business</source>
+<category>business</category>
+<pubDate>Fri, 27 Nov 2026 18:12:56 +0000</pubDate>
+<description>Small Business Saturday Means Big Business For Main Street Forbes</description>
+</item>
+<item>
+<title>Small Business Saturday: Decatur shop features local makers - FOX 5 Atlanta</title>
+<link>https://news.google.com/rss/articles/CBMilgFBVV95cUxQNkx6YTgwa3lUemM5MFRmTThGREs2TmZxQmk1Z3BmUlJUNEN5VWg0bVZSTXBudWt5Rzl6Rzd4dEljR0Q1N0Z1cG9kVkI1XzNUclNtdVBUZUdTNDJxLWdEdmx4WWFxV2F0SkRieWFVNExqZ2xQcnpYQy1YRmpXOTQ2RGx3UzM0a1pzb0ZyMWdJc3RnR1NIR3c?oc=5</link>
+<guid isPermaLink="false">371b77bb006aba1fd3494059811215133740be6154662df9f35d168b7df06bed</guid>
+<source>Google News Business</source>
+<category>business</category>
+<pubDate>Fri, 27 Nov 2026 18:04:45 +0000</pubDate>
+<description>Small Business Saturday: Decatur shop features local makers FOX 5 Atlanta</description>
+</item>
+<item>
+<title>Illinois Local Holiday Market celebrates Small Business Saturday with more than 70 vendors, entertainment, and family fun - NPR Illinois</title>
+<link>https://news.google.com/rss/articles/CBMi_AFBVV95cUxQR0hjaEpsNk5lRG9VdHhkS0FGN3Jmdk4yTDJUR1pjOXRNN2VlSnJVQU40eFlYVGFQa3dobUhzSkNQMjQ3UXlWS250WENDSVZ2TFYzbTBqdVNETnAyV1hEZU9YQVRrT0dUU3dVaTRPWjNfaHZ2endXNmtvaGFCd3lyZ1F4c21tUGxoX3VMNWRQa0hSMXctcWFkcDZTSnFXUERBVVFxd3NsUG9iTHh6T0E4d2E0Vm5Fa1ZGbV9Id01iU2FRNEs1VVpGbEktcnBkSE90ZW9DRVFsTmdEVzI0QUlJcUZGMzlKMnVrRDZZMUd3ZHA2eTJITUJqblNzLWI?oc=5</link>
+<guid isPermaLink="false">01b022411d2c8efe0e9e2339442af4ecf7ba58c04068d8096dc4d2c1a68fcc35</guid>
+<source>Google News Business</source>
+<category>business</category>
+<pubDate>Fri, 27 Nov 2026 17:36:52 +0000</pubDate>
+<description>Illinois Local Holiday Market celebrates Small Business Saturday with more than 70 vendors, entertainment, and family fun NPR Illinois</description>
+</item>
+<item>
+<title>Clearing out my parents’ house was a legal nightmare. How can I downsize without putting my kids through the same ordeal?</title>
+<link>https://www.marketwatch.com/story/clearing-out-my-parents-house-was-a-legal-nightmare-how-can-i-downsize-without-putting-my-children-through-the-same-ordeal-6537d804?mod=mw_rss_topstories</link>
+<guid isPermaLink="false">d452306d9d9910cf8fdb9c871a052f1bf6075a4ba95c5eaca2f9f487faaad5c4</guid>
+<source>MarketWatch</source>
+<category>business</category>
+<pubDate>Fri, 27 Nov 2026 17:31:00 +0000</pubDate>
+<description>Some countercultural advice this Black Friday: stop buying stuff, plus other rules for downsizing.</description>
+<enclosure url="https://images.mktw.net/im-71398430" type="image/jpeg"/>
+<media:content url="https://images.mktw.net/im-71398430" medium="image"/>
+</item>
+<item>
+<title>Does Amazon’s Profit Hang On One Business? - Trefis</title>
+<link>https://news.google.com/rss/articles/CBMipAFBVV95cUxPeVYyQzlsQ3VpaU1kYlhEZ1FwY1VUZ0ZhNy1KWk02QTdxRUVrVlE1c25yYkx6aUpHeWRTQ1RfOHFvd1pBQVZKSzh5RjEwdjVpcWVZLXZTVXpEUnBpTVF2UGxWdV9PdnhZSlFrSWxabHgxb0JQV0ZxSEV6TjJkT2U5Nm1lY1JSd2ZoME1fcWlJbzlaYzdyaXhTSnV0dmlRWU43d19jXw?oc=5</link>
+<guid isPermaLink="false">f06859c561380612ae16b2136b6daca3a292ecbdfbd7944b8338d0444262fa2f</guid>
+<source>Google News Business</source>
+<category>business</category>
+<pubDate>Fri, 27 Nov 2026 17:30:52 +0000</pubDate>
+<description>Does Amazon’s Profit Hang On One Business? Trefis</description>
+</item>
+<item>
+<title>Man indicted in alleged assault at Halfmoon business - NEWS10 ABC</title>
+<link>https://news.google.com/rss/articles/CBMikAFBVV95cUxQY1YxVVM1cGtvUDQxU2pOTDFqODR0WnJCdEZYeHpTeGZmejlVb2FLUXlLalFqalFBTW1aNTFSeURWZG44N1p5VmV3b3NzSXZtQ3k5Z0o2THhuNG9rY09wZkZIUWM2dEpxSWo3N1UtdGZVbk1OYXFRZElzMi1ESF93YVlzNldBVXdacDctcEl4bjLSAZYBQVVfeXFMTWtqSlpfOU1mMGtXV1BDRE0xQl84amttS0xfYUx0cGNpWlB1OTVLaHNZWnhCN1NaTmY4emE4dDJDenJBSmZOM0FmeUhyMWV1OHdValdPZTk4S2duWHVXY01YTUZ1ZUFzQVpCNnFaU0lKLU96TXUtcm1ld1RESlBKRUQwRmpvSFota3ZOZUM4ZGtvRXB3MzN3?oc=5</link>
+<guid isPermaLink="false">e031b299acd465299f3f67be49b0341f14f2248550139567344b9503d374e566</guid>
+<source>Google News Business</source>
+<category>business</category>
+<pubDate>Fri, 27 Nov 2026 17:25:07 +0000</pubDate>
+<description>Man indicted in alleged assault at Halfmoon business NEWS10 ABC</description>
+</item>
+<item>
+<title>NBC is reviewing its ad process after a commercial calling for an end to US aid to Israel drew backlash - Business Insider</title>
+<link>https://news.google.com/rss/articles/CBMiiwFBVV95cUxNREhlVmw4MU5FWmxMQ29IQzM4UU5uWHlUMmNPM21Sel9Uei00ZFN5WDA1M1RhNUtsTFNQdUVraXlVcENIOGZCcVRlYTZsY3dPZUhsYkVTa3BIa2V0NFljalRqVGU2V19KWnBhcnJhbUE3SFY2Mll3N3RzeGctbFFCcFJTcGpwMHd0dk84?oc=5</link>
+<guid isPermaLink="false">1a595644e3a0e3921fd31a09f32a58d75d56867dd14211721f2a7c3d31061879</guid>
+<source>Google News Business</source>
+<category>business</category>
+<pubDate>Fri, 27 Nov 2026 17:19:00 +0000</pubDate>
+<description>NBC is reviewing its ad process after a commercial calling for an end to US aid to Israel drew backlash Business Insider</description>
+</item>
+<item>
+<title>Governor urges New Yorkers to shop local on Small Business Saturday - Orleans Hub</title>
+<link>https://news.google.com/rss/articles/CBMilgFBVV95cUxNUFBoMmpHaFZWLUxHZ3BFV2I4ejlnMVc5VTJOTmNhQnJZdVVDakw3NmV3LV9QUkRGSnRUeHVZU2tRbjJWQWdHcEFjSzVfOVJOWjVWYjRNZk9ZY082RUFXWm5wV3ZNQ2hlWXVHdEJxQVVmeWhlREQ4VzRvRGMyVVVzTF85dkVkS1pMcG45b3lraFA2YnJaUVE?oc=5</link>
+<guid isPermaLink="false">e37fb46fe76a6ea19fb18ec808c567024ffc33c4b1852f709ea52f1dd1592058</guid>
+<source>Google News Business</source>
+<category>business</category>
+<pubDate>Fri, 27 Nov 2026 17:17:48 +0000</pubDate>
+<description>Governor urges New Yorkers to shop local on Small Business Saturday Orleans Hub</description>
+</item>
+<item>
+<title>Laredo Chamber of Commerce offers chance to win prize for Small Business Saturday purchases - KGNS</title>
+<link>https://news.google.com/rss/articles/CBMiswFBVV95cUxPOGFNZjM5YmhSbFJRNFh5aE9QcUYwNjB3eVhmd3h2ZmZhanUtb3lwa1ZEZWtTVktJcG05NW9MRFl2Uk1yOHc0cC1FX05CY2RJdHVwQVFPWWJQWWRhakx3WVRZLU1mUFU4NU9ia2syeEJuU3dDWDZUN3dhSGZVNjRhUkx5VkRhVVI2b3FnMkRUOFRPalE5eDl4LUpaMWlsbjA2TV9jbzUyN2hjTzhtRGNPa1J1d9IBxwFBVV95cUxPbFlnbTZPVHlMd2t2UEVsVmxMdExROFBlNnBmMkZaT21id1ZRYVh2cVd4V3FUalFmbHFFWS0xOExFVnhKeXE2X21jTUN4ejUyMVdCdXItdDBkTDM0Zm5oR3EyNDNKSXNEMUlsc1JzazkyXzd4TEhfcVc3ZHI0RG1SSVhUamM3czM4RVhpeVVNSUc5NjRmWTJ3V0JDaFBUd3VDZS1EQUZNSzU5NC0wSi15Q0d4QkRtVFpuYVJPb1lVaHU4czJMVENN?oc=5</link>
+<guid isPermaLink="false">faa93e2414d0a178bb20b48da7177d95b9a047fcc9658f76b0ef6c34835a690b</guid>
+<source>Google News Business</source>
+<category>business</category>
+<pubDate>Fri, 27 Nov 2026 17:15:00 +0000</pubDate>
+<description>Laredo Chamber of Commerce offers chance to win prize for Small Business Saturday purchases KGNS</description>
+</item>
+<item>
+<title>Small business Saturday - KGNS</title>
+<link>https://news.google.com/rss/articles/CBMibkFVX3lxTE5FVTBXU0kxeU5jeFBOTzY4dDNhTEp2dXpqVkhxbkt0TWpveS1ZRTBBX2J0LWVLT0czUGtaQWhLZV9HZUJ3NkVmZmJrbl9sRUJsZ2FkWGJTbllhdDNKRU05bHlOZ2pya0hfRnZ2VThR?oc=5</link>
+<guid isPermaLink="false">5f071930677a4fb14338ecd7f1f22902e4abb7e4c0bc6b2fd4ce9020324aef89</guid>
+<source>Google News Business</source>
+<category>business</category>
+<pubDate>Fri, 27 Nov 2026 17:09:42 +0000</pubDate>
+<description>Small business Saturday KGNS</description>
+</item>
+<item>
+<title>Small Business Saturday encourages residents to support Lexington shops - WKYT</title>
+<link>https://news.google.com/rss/articles/CBMiowFBVV95cUxQR2wwM29kU2JaYWZVMGwxU2xYVkVLbzhqRjdyZTZ2ZXBFdWQtQXpvNFBoNlFZbS1KdmhpZXd3Z3BPc1dqRll0QnEtM3NuQzVRWDRDc2xVdkRYOVV3V3NkMVFRM3NPNExSejItUzNrenhPNGR3NjRmVWZvUHZ1VzR0YXNucmUxeEl3SUJpUXJDZjlNQnBuU0ZCWmdndWpuZldvbnF3?oc=5</link>
+<guid isPermaLink="false">ca88d43ffd19a59758e6eb296a5ff613c7311df22dd64951b1c3dd355495b8e0</guid>
+<source>Google News Business</source>
+<category>business</category>
+<pubDate>Fri, 27 Nov 2026 17:09:00 +0000</pubDate>
+<description>Small Business Saturday encourages residents to support Lexington shops WKYT</description>
+</item>
+<item>
+<title>12 days of sardines and Croc charms: Are Advent calendars getting out of control?</title>
+<link>https://www.marketwatch.com/story/12-days-of-sardines-and-croc-charms-are-advent-calendars-getting-out-of-control-81f24548?mod=mw_rss_topstories</link>
+<guid isPermaLink="false">fc455e28f03d578ec02334e4acba6529c6270f82540bf26ab87b2285dc01934b</guid>
+<source>MarketWatch</source>
+<category>business</category>
+<pubDate>Fri, 27 Nov 2026 17:04:00 +0000</pubDate>
+<description>Luxury Advent calendars in particular — which can run hundreds of dollars — have seen a spike in sales. Here’s why.</description>
+<enclosure url="https://images.mktw.net/im-44503864" type="image/jpeg"/>
+<media:content url="https://images.mktw.net/im-44503864" medium="image"/>
+</item>
+<item>
+<title>Pizza Hut cofounder Dan Carney dies, nearly seven decades after first launching the business - ABC News - Breaking News, Latest News and Videos</title>
+<link>https://news.google.com/rss/articles/CBMilwFBVV95cUxNT0h3Nmg2N3BZU1ZVTDBCZVFvRlhpRGR4QTBZZU03aFJmeVdlanpJaFN1emVfaV80V3JBY3Iya01KNnE5YWtDMG5US2NVLUFXVVFTTmJCMjNCN093UFBOdVlXak5uQjJveFV1Wk9VWHhFN2t1cjVpSkprOHNuRVJrdkdIOUdWczFwQ0RGa1haR2tmQ2xOT19r0gGcAUFVX3lxTE50anRPSTQxMGRvcjd4SVBBSEZrV0hYR29zeDloRF9lbGVQSXZOQnBHb1BVdl9lMDBqZEdfeWpsR253T2ZSbl9yVW9ZaDZodjNyLW9ZYXNfRTlXZlJOcTg0LURaeEx1LUVsVWxOZEd4d01wTWJtWTRRRHF0NFFoZVIxMmQ5M0VhdTdhcHB5SnZ4akloNW8wZGJ4QThZUw?oc=5</link>
+<guid isPermaLink="false">f77c23af99499ca29f98241fba8695d5ed6001c140492823698a99283ce5cad1</guid>
+<source>Google News Business</source>
+<category>business</category>
+<pubDate>Fri, 27 Nov 2026 17:02:46 +0000</pubDate>
+<description>Pizza Hut cofounder Dan Carney dies, nearly seven decades after first launching the business ABC News - Breaking News, Latest News and Videos</description>
+</item>
+<item>
+<title>Three Wichita moms turn mahjong hobby into nationwide business - KWCH</title>
+<link>https://news.google.com/rss/articles/CBMimwFBVV95cUxNZjRGeTF5NVo4d1BvUEc3SGpmMGhsSG1XODY0OTFvUzBDcU00NW90RnBsel94UmFxNlF0dm1Xa2lqRHdxNVgyZkU2anVyckNVU0dvc1p5VTlNcTFTUEtaUFhQalYxR1lqeEdzTVFZWHlxMFVBc3hkZzRzZHZINThkVXIxUFRnbTdTbXFxLTZQRHR5bkpCaFp1aXFiUdIBrwFBVV95cUxQZmx3M0RKaGJqQlFpYzdjT2dFMl9RRFpWVmZPYVNubzV3bzdlSFZVWkp1MzV3QmtvVFRZNHVsSFZXR241TFVvQ2JtNW9zS1o4OU1VMXpDTUZtZUlPbHVtbUE0WHFVUlVhQmxRS2hOcU8wX18xbkVqRjBPdDlMeHFsMkppeVF2Rkhmb1c0c3l1TlM4eHQ4LTg2cHdUekQ0elA0bWNrTk5yLVVESjlDUjFz?oc=5</link>
+<guid isPermaLink="false">c6e06f3357bb341ee2caca374238a64f8049492964a326b88778d3c3208ba6aa</guid>
+<source>Google News Business</source>
+<category>business</category>
+<pubDate>Fri, 27 Nov 2026 17:01:00 +0000</pubDate>
+<description>Three Wichita moms turn mahjong hobby into nationwide business KWCH</description>
+</item>
+<item>
+<title>Marion County Chamber encourages shoppers to support local businesses on Small Business Saturday - WV News</title>
+<link>https://news.google.com/rss/articles/CBMilgJBVV95cUxOaV9CcFZSNnNqMFkxRGxrcmdRZzVlcmdHSThlQ3NieXBrRkd0TElRdENYVlVkcVJ4enUxS0pMa0FIMG81NnB6N0lBR1dFTVgzc19WQVZfU3E2ZHdZT0VCa1ZnSFJFbkdKS3B3TzJoV3BVNF9RRFM0cDJpNE5BY185RUxTVlJtRXZxaHdPdW1YaVlneERUX3ZkRFAzTUlGYmMwd0ROMHdmWmJpWHFmaGpjcmFuQUoyeGoxaXY0X29sbVlrMTdjb3h5SXlhRmJxNTk5a0JCOGtWWk9QS2c3SUtCWUlWMmRUbkVnWE1SQzRrNGFyUTVpa25YRWxsWWlaS2VLc3NQS0NaQk1xWks0MGdFMHR4RVN1UQ?oc=5</link>
+<guid isPermaLink="false">fe61cd5d2d437b6eba2066ec200976fd60f7b9e9ef2d48a611156c0d1f2cf07f</guid>
+<source>Google News Business</source>
+<category>business</category>
+<pubDate>Fri, 27 Nov 2026 17:00:00 +0000</pubDate>
+<description>Marion County Chamber encourages shoppers to support local businesses on Small Business Saturday WV News</description>
+</item>
+<item>
+<title>Small Business Saturday in historic downtown Escondido - cbs8.com</title>
+<link>https://news.google.com/rss/articles/CBMi4wFBVV95cUxQdVJvbkZBZGV6UDlOanpQMzhSWEpueUVYTkFMWFdPcVRVNmVEWjJMOE1CR05wU0czLXROUEEwM2pmdnQyUnhiZ1VVTWE1VklkOHU1VzVOUDlRUVRPUVFydEZBaEM4R1l6THIyQnBOUEJqczZPTWF1dXd2VEhBaWNmdWMxMHJlNUZIYklhQnFvWXI4ZVZZbS1uWFZ5cjNjZUlQZGl6TjZBOWFOYkpYdE5GR1ZBRlZiMXY0eDdaU3ZDdEY3c1pDT2FZb1pEWmQ1c0tTWFVEeDJWZWpBOTVRQm94SGprRQ?oc=5</link>
+<guid isPermaLink="false">aa0d6972a6d9c6741422501260f0b7cc773ec96eb47442b3de5c79134d9da305</guid>
+<source>Google News Business</source>
+<category>business</category>
+<pubDate>Fri, 27 Nov 2026 16:50:00 +0000</pubDate>
+<description>Small Business Saturday in historic downtown Escondido cbs8.com</description>
+</item>
+<item>
+<title>Shop 605: Shake Rattle &amp; Sew - SiouxFalls.Business</title>
+<link>https://news.google.com/rss/articles/CBMiZEFVX3lxTFBsQm81aXRNeVJraFN6UVd0bnd4b2s5dFRSR1FuY1VxTzJxOGM5RTFyVk1GdEozeDBmcVY2TGZuX3NELS1rTW1kbWZDU0tOSjNSOWR6WjVfam1vVWpZSkdjd01YQ3I?oc=5</link>
+<guid isPermaLink="false">8820cc82b489760f18b21a9520be4ceb6c9084613cd8a10b296321939fb32ade</guid>
+<source>Google News Business</source>
+<category>business</category>
+<pubDate>Fri, 27 Nov 2026 16:38:04 +0000</pubDate>
+<description>Shop 605: Shake Rattle &amp; Sew SiouxFalls.Business</description>
+</item>
+<item>
+<title>Stocks rise as traders try to close out a wild Thanksgiving week on a high note - Business Insider</title>
+<link>https://news.google.com/rss/articles/CBMipwFBVV95cUxPV2lZVUtsTE5UNjlaaVNiWGdJUURSVTlkNGY4LXpNYnNaS21pajlQemw2YWFhRG1LQUVyVG8wWENtNHN3dE1xUWxfLTFoUkJYWExiV1Q2Y09yODFmWE5tbjhTUFlIMWQtQUdtQVpIZ1hlUFNsMXNYcHFFenh4TE84enhqR2RXNExWekozNnJKcXAweU91ZWM2enlmT25USUlMak8yUmhoYw?oc=5</link>
+<guid isPermaLink="false">694e23d2adb2edb33e5c10f0f7e273fe080ad115c8bcc14e4f623a92b8b25f65</guid>
+<source>Google News Business</source>
+<category>business</category>
+<pubDate>Fri, 27 Nov 2026 16:18:00 +0000</pubDate>
+<description>Stocks rise as traders try to close out a wild Thanksgiving week on a high note Business Insider</description>
+</item>
+<item>
+<title>After the frenzy of Black Friday fades, shop Iowa’s small businesses on Saturday - Radio Iowa</title>
+<link>https://news.google.com/rss/articles/CBMitwFBVV95cUxONm9DY09xQjdIMGp5dTByeTBGdHBhZ3B6M2ZWZE1ucS1qQkFGczg4dkYwUWZyalI5ckRiYWtDN08xVGNmMmhHY2VFVy02Sm9OT2VZT0JfMUZ4U0FaY0J4eHN1aXl3Q1FEVFl1TWJSa3N6YnJmSlhHTDV1ZDRQSFRWSkhlV2ZVcmlTLXliWmh2QWNBQnRhZ3plN25aSjM0VVp4SFZnN2FQMVBsdUtwckpvbFJQWk14ekU?oc=5</link>
+<guid isPermaLink="false">364f7636c5b13f3bdcc76b72e2be290741bcd234eebe2acd37a1883909ca6441</guid>
+<source>Google News Business</source>
+<category>business</category>
+<pubDate>Fri, 27 Nov 2026 16:06:04 +0000</pubDate>
+<description>After the frenzy of Black Friday fades, shop Iowa’s small businesses on Saturday Radio Iowa</description>
+</item>
+<item>
+<title>Will new energy fixes cost more in January?</title>
+<link>https://www.bbc.co.uk/news/videos/cwjd7y4jk581o?at_medium=RSS&amp;at_campaign=rss</link>
+<guid isPermaLink="false">79656fdd26d2e6ca9423dd7a8ec3c804df51a0ca7548dc6f8b0fcf361d82903a</guid>
+<source>BBC Business</source>
+<category>business</category>
+<pubDate>Fri, 27 Nov 2026 16:05:32 +0000</pubDate>
+<description>Energy bills will soar by 26% for millions of households in January after a surge in gas prices sparked by the Iran war.</description>
+<enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e16/live/61435b70-ea7a-11f1-99b6-a35a62fa4264.jpg" type="image/jpeg"/>
+<media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e16/live/61435b70-ea7a-11f1-99b6-a35a62fa4264.jpg" medium="image"/>
+</item>
+<item>
+<title>I got sick of spending money on Christmas gifts. Now, I travel with my kids instead. - Business Insider</title>
+<link>https://news.google.com/rss/articles/CBMimAFBVV95cUxPODQ1QkNXWnFGcVJOcXJVWndEVFFzOHRJWXdBUGNpb0FwNzcwS1JkaW5HZ21zRmlkQXlnN29TTENUOW1VelM4RTNabmxwMWpiaDI2aG03MndhV1NUMG0tV1BMYUpFMzNhNUpDNUdwbzFaRzMzSjZ6enlUWWRXbHFXSU92amNvUkFVc2oxUEx5SVhKQVNLbU84UQ?oc=5</link>
+<guid isPermaLink="false">c5f2ba44a6c766de6b2901ad13cb9c06c252958f7129586c17553aeb1b741ebc</guid>
+<source>Google News Business</source>
+<category>business</category>
+<pubDate>Fri, 27 Nov 2026 16:02:00 +0000</pubDate>
+<description>I got sick of spending money on Christmas gifts. Now, I travel with my kids instead. Business Insider</description>
+</item>
+<item>
+<title>A 66-year-old nurse is facing down retirement with just $500 saved. Who’s to blame?</title>
+<link>https://www.marketwatch.com/story/a-66-year-old-nurse-faces-retirement-with-just-500-saved-whos-to-blame-4249a0fd?mod=mw_rss_topstories</link>
+<guid isPermaLink="false">11de40ee42792e7419ae8b9cce8b97ef9a6369ff1f5fe14a3b70f137e44d62ed</guid>
+<source>MarketWatch</source>
+<category>business</category>
+<pubDate>Fri, 27 Nov 2026 16:00:00 +0000</pubDate>
+<description>“Retirement is a financial status, not an age.”</description>
+<enclosure url="https://images.mktw.net/im-83830528" type="image/jpeg"/>
+<media:content url="https://images.mktw.net/im-83830528" medium="image"/>
+</item>
+<item>
+<title>I’ve been married for 58 years. It’s ‘our’ money, not ‘his’ and ‘hers.’ Why do so many couples keep their finances separate?</title>
+<link>https://www.marketwatch.com/story/ive-been-married-for-58-years-its-our-money-not-his-and-hers-why-dont-others-feel-the-same-c5745889?mod=mw_rss_topstories</link>
+<guid isPermaLink="false">321dfa810ce6f5a9dfae6b6bbbd9dd2ad85b8fe6f89c6c55912d641c9d5e06cd</guid>
+<source>MarketWatch</source>
+<category>business</category>
+<pubDate>Fri, 27 Nov 2026 15:45:00 +0000</pubDate>
+<description>“My wife stopped working outside the home in 1970.”</description>
+<enclosure url="https://images.mktw.net/im-86538053" type="image/jpeg"/>
+<media:content url="https://images.mktw.net/im-86538053" medium="image"/>
+</item>
+<item>
+<title>Downtown Kalamazoo shops to donate 10% of Small Business Saturday sales to animal shelter - WWMT</title>
+<link>https://news.google.com/rss/articles/CBMitwFBVV95cUxQVEtRWl9BRFVHWGtpLUhuR21iQ2YxVlVrZGJNY211aXVnLU5KRHlYbEdfTDZUYUF1MnNPRjljcEZPWDZUOW1BRGRZSUlMMDFWb3dBMmpVMHdOMzRzQnFYU0FUdml5WUJKR0hHdDMtUmo5NUFod1ZIbmVLYThlXzFxbFhsU0JzZ3lKT1BPOTVKWExJOUhRWEZTT1hwWk81djBkOE44WVozS0VjX2RiNmQ3d3BVclBNY3M?oc=5</link>
+<guid isPermaLink="false">ec78bd6783c029e985dfe2b19a5f1aa0fb6b8ef095ad04da0bc3dec655d6504c</guid>
+<source>Google News Business</source>
+<category>business</category>
+<pubDate>Fri, 27 Nov 2026 15:44:26 +0000</pubDate>
+<description>Downtown Kalamazoo shops to donate 10% of Small Business Saturday sales to animal shelter WWMT</description>
+</item>
+<item>
+<title>GSP Hires Aviation Consultant to Pursue International Cargo Business - Greenville Business Magazine</title>
+<link>https://news.google.com/rss/articles/CBMiuwFBVV95cUxOXzFpQTVSTW1lb2Itb2c0SEpDelJiRG0tU1VpVHVfbFdMZFlsMnNBSHRaaWUxVXBac0Z2dWtRb2Q1RHFMWVk0Q1Bkczl2MnIwWHRwdVF1NU04RGQwZzVXbi1sd3hsQWluNHJQdDBlWVA4OHR3aTJ0Y05nTUpvR3ZQQ2pFYWltSzBMZEp2SmZEYkI4YzQtYmhaQmlKdDZScXdQanRXR2pEWUNWSGhXSmRSZFhaMG9Lc2pMeUVj?oc=5</link>
+<guid isPermaLink="false">2c35895d5ac13bfd29d62551cc615abcba31f9c8c6b828c6c60ba4f12dd1189d</guid>
+<source>Google News Business</source>
+<category>business</category>
+<pubDate>Fri, 27 Nov 2026 15:43:05 +0000</pubDate>
+<description>GSP Hires Aviation Consultant to Pursue International Cargo Business Greenville Business Magazine</description>
+</item>
+<item>
+<title>OneZone honors two ‘Distinguished Women in Business’ - Current Publishing</title>
+<link>https://news.google.com/rss/articles/CBMilwFBVV95cUxQQVJlV1RlNHVtUmw5MlFJWkwtbVEzYUxXNnI1LXBPaGxqZjJwYnRFZFBzOG5EXzRtTzA2WUp5ZXp1cTlKV0FSVHlUZlduc2dNMnlhSUtzOXQ3SC1kZXU2M3FpejduOGF4bHppeGVYV1RRRjdra1h3ai02Ujk3SzVUTW15bVh0TW9qb0R3OFEtSlJaMzBhc2w0?oc=5</link>
+<guid isPermaLink="false">8eb3a84071eca276e58d8176d497481172be5de7ef6bd21dcb28aac379902293</guid>
+<source>Google News Business</source>
+<category>business</category>
+<pubDate>Fri, 27 Nov 2026 15:33:46 +0000</pubDate>
+<description>OneZone honors two ‘Distinguished Women in Business’ Current Publishing</description>
+</item>
+<item>
+<title>My husband secretly sends his ex-wife $1,500 a month after she lost her job. We have $2.4 million saved. Has he lied by omission?</title>
+<link>https://www.marketwatch.com/story/my-husband-secretly-sends-his-ex-wife-1-500-a-month-after-she-lost-her-job-we-have-2-4-million-saved-has-he-lied-by-omission-ede1972a?mod=mw_rss_topstories</link>
+<guid isPermaLink="false">1b620e6afc9deb8ac89d5e7b135802805ba7eb0a63987dc33975174cbb61c69d</guid>
+<source>MarketWatch</source>
+<category>business</category>
+<pubDate>Fri, 27 Nov 2026 15:30:00 +0000</pubDate>
+<description>“He explained that he wasn’t trying to hide the payment, but his former wife lost her job in a medical billing company.”</description>
+<enclosure url="https://images.mktw.net/im-93318812" type="image/jpeg"/>
+<media:content url="https://images.mktw.net/im-93318812" medium="image"/>
+</item>
+<item>
+<title>The top 4 ways to support small business year-round, not just on Small Business Saturday - NBC News</title>
+<link>https://news.google.com/rss/articles/CBMihgFBVV95cUxOOXI3Z1lqbERvZlVCSWhBYXQwZDBiQ0NwWjFOYXRBZFdNNDU5UzEzZk9yV0pMdDNuMzE1NjVSV0UxVkJtVVdYT2ptbXVGTXFQVTZrUFRtcm5CLVJhS19DVEVHVmRlQWtlXzRNWENYMlpSekNzTkdILWdSbFNmdnV1VmRFbU1zdw?oc=5</link>
+<guid isPermaLink="false">5db26eea6ec23e2259f733239da5326153bce40285f5586eb8337a3f38e41f54</guid>
+<source>Google News Business</source>
+<category>business</category>
+<pubDate>Fri, 27 Nov 2026 15:15:18 +0000</pubDate>
+<description>The top 4 ways to support small business year-round, not just on Small Business Saturday NBC News</description>
+</item>
+<item>
+<title>Small Business Saturday in Charlotte - City of Charlotte (.gov)</title>
+<link>https://news.google.com/rss/articles/CBMif0FVX3lxTE8wTmp6OGFOOE85MkxfSzl0V2Z1M2lTLVg1U2oycEFlLXRTRXpnNVBwVHNrVExraHdqeE5oTldDaEstcVAwdXFBUEJNSVVGX3d3TXpvajlrbDRoXzJNTFM0bkU3dG0zX1hSZjNZa2NpemZUNTZfX0E4TW5MMUx3eGc?oc=5</link>
+<guid isPermaLink="false">63d24aa7f8b882995528ca738112bab5c41c1a2d0d469c1843b318e1489d0ef6</guid>
+<source>Google News Business</source>
+<category>business</category>
+<pubDate>Fri, 27 Nov 2026 15:09:37 +0000</pubDate>
+<description>Small Business Saturday in Charlotte City of Charlotte (.gov)</description>
+</item>
+<item>
+<title>My friends play ‘credit-card roulette’ to see who pays for dinner — but one ‘winner’ still Venmoed me afterward. Should I say something?</title>
+<link>https://www.marketwatch.com/story/my-friends-play-credit-card-roulette-to-see-who-pays-for-dinner-but-one-winner-still-venmoed-me-afterward-should-i-say-something-0a657eee?mod=mw_rss_topstories</link>
+<guid isPermaLink="false">10f64b8d199dc8c0148dc02d53fbad34d5986a80b36e1f497e09ae3e14e05d4e</guid>
+<source>MarketWatch</source>
+<category>business</category>
+<pubDate>Fri, 27 Nov 2026 15:04:00 +0000</pubDate>
+<description>‘I was stunned! I’ve lost my fair share, and won my fair share, and truly believe it all evens out over time.’</description>
+<enclosure url="https://images.mktw.net/im-71588524" type="image/jpeg"/>
+<media:content url="https://images.mktw.net/im-71588524" medium="image"/>
+</item>
+<item>
+<title>Artificial intelligence usage is exploding, yet spending is stalling. Why a foundational rule of economics is breaking.</title>
+<link>https://www.marketwatch.com/story/artificial-intelligence-usage-is-exploding-yet-spending-is-stalling-why-a-foundational-rule-of-economics-is-breaking-9c7ad4b3?mod=mw_rss_topstories</link>
+<guid isPermaLink="false">d725aa602d59ea9fade03e086465f4a37a364d497293fbfaebd2f4ad428b8a8b</guid>
+<source>MarketWatch</source>
+<category>business</category>
+<pubDate>Fri, 27 Nov 2026 15:01:00 +0000</pubDate>
+<description>For frontier model lab developers, the increased consumption of AI tokens (the means by which they get paid for their compute) is a positive. However, they don’t seem to be generating revenues from it at the same rate.</description>
+<enclosure url="https://images.mktw.net/im-21556022" type="image/jpeg"/>
+<media:content url="https://images.mktw.net/im-21556022" medium="image"/>
+</item>
+<item>
+<title>‘The fun day’: Sacramento shop owners eagerly await Small Business Saturday - Sacramento Bee</title>
+<link>https://news.google.com/rss/articles/CBMiakFVX3lxTE5uZ3dIVndfTnVWWGRaaWZFNmZqV0JVbVE3aXlERG9fLVVyeG1aS3VmNGoyQk8wY2w3bUh6cHptb1dtTHNxTFV5bGtmdU9sZXdYa1dVMmR0RWxhU1h0ZXNMRDFWTXZ3akRrdlHSAWpBVV95cUxNRnRUcnlhOXB0YzlobUV5bTI2TVJsSU9tWGd4cF9oOVItVTJiS09vQy1XMjBEUUpzYkVxX3NwdzFpTURrWTFNMWFxcklKVXp0T2dkWV9JYWNqUGJoNzR3SXlSUzBQaFhXZ0Zn?oc=5</link>
+<guid isPermaLink="false">3f723862e815b6f4296a5e27fdb9937f0f75ac61e176ce85c2c669ccae6fd758</guid>
+<source>Google News Business</source>
+<category>business</category>
+<pubDate>Fri, 27 Nov 2026 15:00:00 +0000</pubDate>
+<description>‘The fun day’: Sacramento shop owners eagerly await Small Business Saturday Sacramento Bee</description>
+</item>
+<item>
+<title>Chamber Chairman Warned of Moratorium’s Business Recruitment Implications - Tallahassee Reports</title>
+<link>https://news.google.com/rss/articles/CBMitgFBVV95cUxONkhKREZfMkhxMVJiSnZlckowV1VmQ3BzbVlJTTNFb3gxRDRsemNfTUxGeWYtVWl1UFg2bVViWnpSMzJCRTFwVEF4TTZKWFdoalBDaXZSY1lTbUZoMG9PNkI5dmFmaENDWVYxNUNXYWpPZjk0VjBkTHU2OFZuSTExNWJ6a0p1ZE1XVktRbi1ranJRZHhSVWRKeUFxTDY3ZVRwbUN2WkdyX3hjU21aV3JuWnlsRkhLdw?oc=5</link>
+<guid isPermaLink="false">78c70f76fa50372cee5b7a4ba03b943825916ccfffa1c46b537d636887ebf831</guid>
+<source>Google News Business</source>
+<category>business</category>
+<pubDate>Fri, 27 Nov 2026 14:57:53 +0000</pubDate>
+<description>Chamber Chairman Warned of Moratorium’s Business Recruitment Implications Tallahassee Reports</description>
+</item>
+<item>
+<title>Business leaders encourage shoppers to get out on Small Business Saturday - WV MetroNews</title>
+<link>https://news.google.com/rss/articles/CBMirgFBVV95cUxObUdJalktelFrOGVsc0NZUHl5UURCLVRYLUZYU1lrVUZHSWJjd3pRSkFpSi1lRFdlSnFYUU9CSDdNOEd3eDEwOExCNXM3M2tjRXg0Z1hJZHJ1a1NhQWZOQ1pscFhEU0xtUzA0TVZ3OHM3eUVtNF9fcV9xaDRiaV9HMVhScjlqNEZNTVpQcElFcXhQVHBEOEdSd1g5cS1FWHRmZmdjM1FBcXdjSE1qTEE?oc=5</link>
+<guid isPermaLink="false">0c4f5475db8b7d124eedf670f84293160d73e5bab0b015094feea5daadc74e94</guid>
+<source>Google News Business</source>
+<category>business</category>
+<pubDate>Fri, 27 Nov 2026 14:51:08 +0000</pubDate>
+<description>Business leaders encourage shoppers to get out on Small Business Saturday WV MetroNews</description>
+</item>
+<item>
+<title>Shopping specials set for Small Business Saturday - Boston News, Weather, Sports - WHDH</title>
+<link>https://news.google.com/rss/articles/CBMifEFVX3lxTE5hTEMxWVRxR0ZDQzZZTE1pUnU4elFDbXhGZDc0WHQxS1oxaDhZWlp1ZFJrQzZ3Z0hVR1lzX2JVcTVVZ2VWSHc0M29xNEJVMzhCVExuNVBPYng5UXg3SjBMOUVEWk9PTFp3Zzl1eDA5N2FFQzdkUFJYcUxldWI?oc=5</link>
+<guid isPermaLink="false">9a246295187d2dd7c78f6b98e7be8ffda4630856716344728170d9311e6e0b33</guid>
+<source>Google News Business</source>
+<category>business</category>
+<pubDate>Fri, 27 Nov 2026 14:43:25 +0000</pubDate>
+<description>Shopping specials set for Small Business Saturday - Boston News, Weather, Sports WHDH</description>
+</item>
+<item>
+<title>Borrello continues tradition of visiting merchants on Small Business Saturday - Olean Star</title>
+<link>https://news.google.com/rss/articles/CBMitwFBVV95cUxNTnluVkowWFdvbjQ4LXNOTXFzOENyRkxwRDNRSE9pWE9NRkMyR0pqd21IOVF5Z3BDcG92R0g1bXdhM0tXYXRXdW1OckJrSzlONTJMdG1tbnpMWXRXSDNON0RFbEt3TVpELTBXS09VejlTQ2dhM2JISHFhbV9FNHdIU3ZMbHI5bEpITjU1NHgwZnRFRGtsVlRZVWxFam01ZksyU2lZaHByVmtTclpHM1hDcGszM3lOYTA?oc=5</link>
+<guid isPermaLink="false">f605389d52a0533d1e44c00609fa3bc64e7c9eab7fdf0986e2cef6e240b3af33</guid>
+<source>Google News Business</source>
+<category>business</category>
+<pubDate>Fri, 27 Nov 2026 14:40:22 +0000</pubDate>
+<description>Borrello continues tradition of visiting merchants on Small Business Saturday Olean Star</description>
+</item>
+<item>
+<title>Wisconsin BBB offers tips for Small Business Saturday shoppers - WSAW</title>
+<link>https://news.google.com/rss/articles/CBMilgFBVV95cUxPMzZ6QkEwYm13bTl5aTNxRkY4MUdGRkRBWVFnaGhudGljOTRHampxM0JaZlh1d3hoSzROS1JRZ2tTTDc1VXExTVh4cWUxSnZSdkRZMTVRMWxrRS02c3p5SjhuVmVOMEtkUW1qQU56VlNoXzIzNmRneTlLekRwOHdkejZfam9ERzhTLVFSc3N3MXpWaERiYmfSAaoBQVVfeXFMUFc5d2VxczByOEdZeUtrWjBFRjIzS0RMQ1JQQmUwMDhDSXNzcjRRYWpxaVpsMVkxcUR0VXFDZnhieXdPUl9NbHY2alVsaDV3TE80VEpFbWZEWjQ3cjc1a2IxT2wtcFdwakcwRVJlRFlFazhaTENyMEhtSER6Rjl0V2kycldkVWJCM1AtRkRvbmlNQ2JXNUg0R3lsSkpxa3NILTR3YU9GVExQZXc?oc=5</link>
+<guid isPermaLink="false">53b350fa06c9091a781955bab0a6b874ccc3cae1f69133128d0cf0d6389dde05</guid>
+<source>Google News Business</source>
+<category>business</category>
+<pubDate>Fri, 27 Nov 2026 14:39:00 +0000</pubDate>
+<description>Wisconsin BBB offers tips for Small Business Saturday shoppers WSAW</description>
+</item>
+<item>
+<title>OKC Plaza District shop owner calls Small Business Saturday their 'Super Bowl' - KOCO</title>
+<link>https://news.google.com/rss/articles/CBMiowFBVV95cUxQRTN4c2VPbzhFSDNrY19IdW9QUlh4bXR3V256Njd1VUliUlhYRlpoVzJGanhXc0F1d2NoSkpIbDk0WlVrVUprLVlmRGV6Y0dTQk12SDBId2lVY0xoRktScENYTmlIenZXTGw2Qk12UUFlYjNwSTB6SWRUamVSZVFkM3ZCOGRYQzkxLV9WRWkxWDhiTXl0cElWVmVHZVVibE84ZlVv?oc=5</link>
+<guid isPermaLink="false">f18b062827ae2654e84730e4c7bea7361d4dea89b5f81e3f4ed3e517a3e37307</guid>
+<source>Google News Business</source>
+<category>business</category>
+<pubDate>Fri, 27 Nov 2026 14:37:00 +0000</pubDate>
+<description>OKC Plaza District shop owner calls Small Business Saturday their 'Super Bowl' KOCO</description>
+</item>
+<item>
+<title>Vienna Insurance enjoys 15% profit growth - Business Insurance</title>
+<link>https://news.google.com/rss/articles/CBMigAFBVV95cUxOX3h3TmFBRkpxRTZRbGNjem9oTFFvQ2FacVNMc2Z1LVg2elVuQjI2MWtHSEdpYUpld2N3djhIeWpkVENVTW0ybGxPTVcyQlJuSXRxX3diTmVXeFlXMGhodm5falJHcjlCTU11TkpjenVicEtBOGFSVmo5RjhQVU1JMQ?oc=5</link>
+<guid isPermaLink="false">c95adbcf3ea2b42956cfe7d67702d2a877bd99110c97feb3c511ced928531dd8</guid>
+<source>Google News Business</source>
+<category>business</category>
+<pubDate>Fri, 27 Nov 2026 14:19:17 +0000</pubDate>
+<description>Vienna Insurance enjoys 15% profit growth Business Insurance</description>
+</item>
+<item>
+<title>Oil prices are again rising – here’s why - CNN</title>
+<link>https://news.google.com/rss/articles/CBMib0FVX3lxTE5pWERQc1hkMjdnNVdlT2laUE80aXpVRV9GV3o5ZE9lb0lKbng3WFRTUGp0X3c2eG1hSmVkSkFSUUcwWEx3REFpUmdweERDY0ZITkR5cmFaS094dHB6SjFsLU5DbDUzM2JEVmFjX2habw?oc=5</link>
+<guid isPermaLink="false">2cd90411aa96901be6e609d851869741af7e3216306e1e6c116de6033710da9b</guid>
+<source>Google News Business</source>
+<category>business</category>
+<pubDate>Fri, 27 Nov 2026 14:16:48 +0000</pubDate>
+<description>Oil prices are again rising – here’s why CNN</description>
+</item>
+<item>
+<title>Austin small businesses urge shoppers to buy local this holiday season - Austin American-Statesman</title>
+<link>https://news.google.com/rss/articles/CBMiogFBVV95cUxQUURrQ081c09vbjNqdS1DNlNGX0NaUDBjUklsRGlIanA5QUpVSk9hSlZxdFM0ZVBYa0ZtV3JDdmxGT1F0Skw1bl80aDkySEtyUWQxNHFoUGdnb200aDN3cENGQXRWOUM3XzNIT3NRc3Z6ODhvVFFBUUNBeXFVa1p1UFFnY0dSZHczcVFnQ1A2Vmo3eWh0Um5CYnAybG9USXZidWc?oc=5</link>
+<guid isPermaLink="false">5bb23bef08edc87ab08cfc0cadab943ba6279f62257946ee14c718dada8685d4</guid>
+<source>Google News Business</source>
+<category>business</category>
+<pubDate>Fri, 27 Nov 2026 14:10:28 +0000</pubDate>
+<description>Austin small businesses urge shoppers to buy local this holiday season Austin American-Statesman</description>
+</item>
+<item>
+<title>TROY student entrepreneurs to compete for more than $10,000 in Business Idea Pitch Competition on Dec. 2 in Hawkins Hall - Troy University</title>
+<link>https://news.google.com/rss/articles/CBMiYEFVX3lxTFBWZGU3Rm5zMW8zWGN4cG5ZLWJQSENDN1A5RFVIN2RKUG1XcEUxcnk4NHpydXU5cEhtNnQ5cnF2YW4tWFhiS2R6ZXQ4UDdDRWdCT1lQeU5pc2dxcGdUM3dSWg?oc=5</link>
+<guid isPermaLink="false">c9dd0862dc3e0365bf2d7fba379bcb628b74f35e66b26baf9ceb697e5ad4dc5f</guid>
+<source>Google News Business</source>
+<category>business</category>
+<pubDate>Fri, 27 Nov 2026 14:02:31 +0000</pubDate>
+<description>TROY student entrepreneurs to compete for more than $10,000 in Business Idea Pitch Competition on Dec. 2 in Hawkins Hall Troy University</description>
+</item>
+<item>
+<title>2026 Rural Business Initiative grantees announced - Business Record</title>
+<link>https://news.google.com/rss/articles/CBMiiAFBVV95cUxQT2J4SDJkbU9TSUFaTktGMU5yeWlXemFiZ3BSenFBTVduV0RYbkYwSDBUMjllOHh1ZENHTEV0VGFBN05jT3Y5N2dibnBlakRrbWhQa28wcnY5cXpHQTN3MEhvUWdTT3FlVkh5N05EXzAtVGo3WVRWdkVBcE15ZlBnSmdCdE9ZaWUz?oc=5</link>
+<guid isPermaLink="false">373762a1ec4711e35dcc6f9d7da48ebe05dba9f7ce41eef5ad2fa0dfe2946bdc</guid>
+<source>Google News Business</source>
+<category>business</category>
+<pubDate>Fri, 27 Nov 2026 14:02:16 +0000</pubDate>
+<description>2026 Rural Business Initiative grantees announced Business Record</description>
+</item>
+<item>
+<title>Executive Summary: Helping Americans Build Wealth Through Small-Business Growth - Center for American Progress</title>
+<link>https://news.google.com/rss/articles/CBMivAFBVV95cUxPNHVkQmtDcTBYWHY3VU9WQ1Y1SEZLWVBxaWM5c0VtakthZllEMkZxWGFiR0kwWUFXcW1SbE5EV0RrX0Nsd0ZiWDR5X2hlcW9nMGhFUWU0bnQ0TndNWFNKTllNa3o0UmZJaXpTd0VXWWtEQzRENWVsV1RLd09OeU1xZDA1WTJ6ZThNUU9nb1g5dHZ6U1FFSlJMbEFYVWUtWjFUOWI4QmVYRDFrajROZGpZdmdOcGVrbHBkbGpodQ?oc=5</link>
+<guid isPermaLink="false">a5d164321bfea130907e0051fbaac6a51bc710546dab201fddb768b714966321</guid>
+<source>Google News Business</source>
+<category>business</category>
+<pubDate>Fri, 27 Nov 2026 14:02:12 +0000</pubDate>
+<description>Executive Summary: Helping Americans Build Wealth Through Small-Business Growth Center for American Progress</description>
+</item>
+<item>
+<title>Supporting Small-Business Growth Can Help Americans Build Wealth - Center for American Progress</title>
+<link>https://news.google.com/rss/articles/CBMiqgFBVV95cUxNcm5DcXEwTl9OSzZ1WU0xZGpTS2dra20weGhhT3A4WmwxOE5wRXIwZXZ3VS1ta2JROVFwY1U1QTRIeXhSYnpvWGE4akVCWmdWYmo0M2tIcWJTUFZYblo4dm10b1E1WDF3d3dZdXpuRVprZ0FQTXJ3ckNnZDNZbzVzMTNmN3RZdm12TkVkY2RDbjl2VDVZU2V4UXE2QXFNcVBUQ3VEcFNMdXpxQQ?oc=5</link>
+<guid isPermaLink="false">635b446b101aa61dc7e393faeab3584e95fc13cdd38f2c204176c2b4b0ad7789</guid>
+<source>Google News Business</source>
+<category>business</category>
+<pubDate>Fri, 27 Nov 2026 14:01:50 +0000</pubDate>
+<description>Supporting Small-Business Growth Can Help Americans Build Wealth Center for American Progress</description>
+</item>
+<item>
+<title>IEDA Board approves assistance for four startups - Business Record</title>
+<link>https://news.google.com/rss/articles/CBMiigFBVV95cUxPM3dOTU9IRV9ZU1JOaFE3U2ZYVkN6UUxSMGVCSTRCaXN3T25PWWlZX0NWdEMzTnhHelBBbVdHclZjbVhLMUtnZ2xDY2lDTjJKeF9SZ05iMV9wUHo2Z0R0aXo2aGNUMnM1VTItS2F5UGxVdmZRTHJselJia2NERVRPQTVTVWdGUEtkalE?oc=5</link>
+<guid isPermaLink="false">179d5a8ded04b3e09a721225e0cd615265f50d0faef4505af014b15a78aea48a</guid>
+<source>Google News Business</source>
+<category>business</category>
+<pubDate>Fri, 27 Nov 2026 14:01:20 +0000</pubDate>
+<description>IEDA Board approves assistance for four startups Business Record</description>
+</item>
+<item>
+<title>Shop 605: Real Deals - SiouxFalls.Business</title>
+<link>https://news.google.com/rss/articles/CBMiXEFVX3lxTE9TMDJFNnhZbEpDcU5rbjQ5NGRMUWEwdlhaYXd6Y0tLRFJtbDRITl9fdEN0a1ZaNC1ZU3JDVHY0NVR5UDE4RVdVTjgzS0xJWldPaVoyLVU1dnRMOWRC?oc=5</link>
+<guid isPermaLink="false">b5f70e5ddf431297362c550aac0e43f3eb57f28a3a4d11984af171fb6d2cca61</guid>
+<source>Google News Business</source>
+<category>business</category>
+<pubDate>Fri, 27 Nov 2026 13:56:02 +0000</pubDate>
+<description>Shop 605: Real Deals SiouxFalls.Business</description>
+</item>
+<item>
+<title>Black Friday opens for business despite holiday stresses - Charleston City Paper</title>
+<link>https://news.google.com/rss/articles/CBMiogFBVV95cUxNaXdGT0thNHVCZnowbXhSVFEtV2NsV2hJTkQyTlhuM1F1aXF3ZmFnOTJvS09BU0tfS081dXhNSFdneW9BMUpSMmZydDdBdGZMdkxtdU1vS05VNl9XRGE3Wmc0LW1LcFJtUWUwcktvWEJfUkxmYXBfT0N1cldvb0RQN19pMHpGcE50UE9ZLVdZdVVQcUlLbUVKTXR2UVdtLWowWXc?oc=5</link>
+<guid isPermaLink="false">a2d4966a96b416b85f0b4097ef69ca6b397e5b4b0113bc8deb03e0465ace1364</guid>
+<source>Google News Business</source>
+<category>business</category>
+<pubDate>Fri, 27 Nov 2026 13:54:17 +0000</pubDate>
+<description>Black Friday opens for business despite holiday stresses Charleston City Paper</description>
+</item>
+<item>
+<title>Norse Atlantic once offered $99 flights to Europe. Now it's fighting to avoid being the 2nd big airline casualty of 2026. - Business Insider</title>
+<link>https://news.google.com/rss/articles/CBMiqwFBVV95cUxONGJmNDdjX2R5Rk4wZU9YT2NHM2lfTEphVnI4Y25KYTNJcjltT1dKNXI5WEVZUWxkM2pYb3pkUjRnMFUxWnZLZk8xNXhiWkdnellZNFNjQnliSTNlbVA4NUlsWERjVU9KdTh5YV9VUURhNTJaclZEUk9lZXhfOW9LWVNiQXItTTlKZ3k2U2JhU2EtejhBUmJTcG1KTDBlVFBiZUhxN3N4WmUxMGc?oc=5</link>
+<guid isPermaLink="false">e45b7a53dd86386b4db73a922771757d088fa9080e82c84bcc6874c291eac52c</guid>
+<source>Google News Business</source>
+<category>business</category>
+<pubDate>Fri, 27 Nov 2026 13:51:00 +0000</pubDate>
+<description>Norse Atlantic once offered $99 flights to Europe. Now it's fighting to avoid being the 2nd big airline casualty of 2026. Business Insider</description>
+</item>
+<item>
+<title>We couldn't agree on a vacation for 13 people. Then the 8-year-old twins suggested something unexpected. - Business Insider</title>
+<link>https://news.google.com/rss/articles/CBMilAFBVV95cUxOVUZqUEJrX0E4aVVFbXBlXzQwMlowdkNfVDJkLVVIWTkzd0xtZ0ZaX2dYLWlGazAtMWRiX01PNXl5TkVNZ2JRRkloa29XM24zR0YzS2VfZUFmUEFyN0dmaEdUU2JSZnF0Y1NCbWlqZWg4bW9mRzJGM3lmRnhzLVVwNTFPYWpxWHpqanlkUDFQS0o0Mi03?oc=5</link>
+<guid isPermaLink="false">30b227f9629b13c2aa4d7504c9c5b2b8d9ebe60c8335ca08168078d3be40edfc</guid>
+<source>Google News Business</source>
+<category>business</category>
+<pubDate>Fri, 27 Nov 2026 13:47:00 +0000</pubDate>
+<description>We couldn't agree on a vacation for 13 people. Then the 8-year-old twins suggested something unexpected. Business Insider</description>
+</item>
+<item>
+<title>Reported Air Force One hack sharpens focus on cyber dependencies - Insurance Business</title>
+<link>https://news.google.com/rss/articles/CBMixgFBVV95cUxOdktVNnhnZ01YalFIaUs3TzVYVE8zT3gwa2YxUTl3em5BUDZzNHJaNm1DdGVUWWlBbkprcDlFSGxlYUpvWUpmYjl2VDZKMXJsR2JIcGdRNVpaWHhtOGp6MFhidnVsaEhBQ1gwbmk4bUQ1YWNtUmpvRThuS3JmaWNkMzhuUjNrLWo0ZjV4QW10LWJnUnluSlY2aVlrcG55Zk1hUVRYck5aTkNvNEFzeFpGY19wMmFvdV92LUZuM1Y3UmE2X1V6aEE?oc=5</link>
+<guid isPermaLink="false">f2ab489cb226dbb399b8ab6660ad58cf8e760eaf1ac4651e6c2ca86a80fb9a42</guid>
+<source>Google News Business</source>
+<category>business</category>
+<pubDate>Fri, 27 Nov 2026 13:44:17 +0000</pubDate>
+<description>Reported Air Force One hack sharpens focus on cyber dependencies Insurance Business</description>
 </item>
 <item>
 <title>Business Briefs: Nov. 27, 2026 - Greenfield Recorder</title>
@@ -100,33 +863,13 @@
 <description>Business Briefs: Nov. 27, 2026 Greenfield Recorder</description>
 </item>
 <item>
-<title>FOX23 talks with a small business owner during Black Friday in Jenks - KOKI FOX 23</title>
-<link>https://news.google.com/rss/articles/CBMingFBVV95cUxNcTlOU3IzOUR3RUFCWGtTaERUT19TNkxiTnZRbFZLZklZQ3NyZ05GQnpJTzR2X3pIbTQ3ODgwcVZOQ3lGRnNBWndPR192VXhkMzdwaDNoSzZPd3JjR2g1R1l1THNjRU9CcjVZSnlia0hCOHFyZGdtdDRXWXRVWk1iS1lCcW5CYnZMS1JQOVlZWVN3N3JLa2lxZDNBR2VoQQ?oc=5</link>
-<guid isPermaLink="false">8798d3d7dbf03a82f9b60ea4e7d81330a9a11e48a1ca68f0a55b497a2699881d</guid>
+<title>Here’s where to celebrate Small Business Saturday around Tacoma - Tacoma News Tribune</title>
+<link>https://news.google.com/rss/articles/CBMicEFVX3lxTFAxOEFlS3RZNUl3NUNIOEtYd3hadVBJMUhBbnhOY0JJbUxxaUcxQnlxSW9SaXRxQ3phbVFWelZ4SGtVcmNtOFd5bUdEZDluZ2tLdWVRVmQtOVJ6UFBmY244WndCamw4bXZCc2ZxVjJCbnnSAXBBVV95cUxNYnJSa1RuOU5yMklKRTJtSGZ4SkRCYTBZa1AxRDUzNWlnanl1bWFySnU5azhPRFRqYUhPbjFqcnpNaUJITkF1eHEtekdZQlQyb3lpNkZpTkFfMnQyYWo1ZEhhUjFOYWQ2c002SU9WUXJH?oc=5</link>
+<guid isPermaLink="false">92721dbd7c337c1c102a79b049a07502a880657e44d1c5c0511aac443f408a63</guid>
 <source>Google News Business</source>
 <category>business</category>
-<pubDate>Fri, 27 Nov 2026 12:59:07 +0000</pubDate>
-<description>FOX23 talks with a small business owner during Black Friday in Jenks KOKI FOX 23</description>
-</item>
-<item>
-<title>Local shops to take a look at this Small Business Saturday - FOX19 | Cincinnati</title>
-<link>https://news.google.com/rss/articles/CBMijAFBVV95cUxNS2dMVWFsekxHVUprY29SZnNTcnczY0JUa3JuSnAtTkxWNTZINElFSVRwMDlBSEl3ZkVPaU5VSzk5Rkp0am45QTlFc05ENEpLS196bUhwZEtteHFkdG9sX3dXWk1pWENjOXRYMU42eThNR0lpYkRLRXVTV0p1bFhDS21TdGUxMDkxdEJkUg?oc=5</link>
-<guid isPermaLink="false">34017f14d95e1cdea8664783e6905c3e7d1e3f8aebaeec9cd2264168b2d5950f</guid>
-<source>Google News Business</source>
-<category>business</category>
-<pubDate>Fri, 27 Nov 2026 12:44:00 +0000</pubDate>
-<description>Local shops to take a look at this Small Business Saturday FOX19 | Cincinnati</description>
-</item>
-<item>
-<title>How to spot Black Friday shopping scams like ‘bogus boutiques’ and AI-generated product images</title>
-<link>https://www.marketwatch.com/story/how-to-spot-bogus-boutiques-and-other-black-friday-shopping-scams-86cc182d?mod=mw_rss_topstories</link>
-<guid isPermaLink="false">1d701ddfa9ce5bccbecdd3ae12f049dcadd8ba697861c1fae98da1c1e455fa22</guid>
-<source>MarketWatch</source>
-<category>business</category>
-<pubDate>Fri, 27 Nov 2026 12:42:00 +0000</pubDate>
-<description>AI tools have made it even easier for scammers to create fake storefronts and misleading product listings.</description>
-<enclosure url="https://images.mktw.net/im-85895280" type="image/jpeg"/>
-<media:content url="https://images.mktw.net/im-85895280" medium="image"/>
+<pubDate>Fri, 27 Nov 2026 13:00:00 +0000</pubDate>
+<description>Here’s where to celebrate Small Business Saturday around Tacoma Tacoma News Tribune</description>
 </item>
 <item>
 <title>Tasca’s Strategic Business Partner Says Fly Alliance Is “Insolvent and Will Likely Declare Bankruptcy” - Go Local Prov</title>
@@ -138,102 +881,13 @@
 <description>Tasca’s Strategic Business Partner Says Fly Alliance Is “Insolvent and Will Likely Declare Bankruptcy” Go Local Prov</description>
 </item>
 <item>
-<title>Business of Design Week 2026 Concludes - Morningstar</title>
-<link>https://news.google.com/rss/articles/CBMioAFBVV95cUxNYVhteF8yeGQ5dXRvNHdRaGpGNjQzbHBOQW85QXhpdkE0dWdtTVhHQVVjVmFuZ0ZhYjVKOFFLS1lGeEkzU2QtaDNKdnJCNTRkdk5yaHV3bXpDRm1qeFd4ZTJEZnlrdXpsaFJJdmNod2E0NDRjWnpaenh0ZHdBSnE2dWN3NC00OVFrZXF1RVlQM19JdjR3Z283YkxUQThSV2du?oc=5</link>
-<guid isPermaLink="false">22e74acd23faf5f6a1110c238d9e0bf7d14bd2865915d861e3c8ffc011ed1ecc</guid>
-<source>Google News Business</source>
-<category>business</category>
-<pubDate>Fri, 27 Nov 2026 12:30:00 +0000</pubDate>
-<description>Business of Design Week 2026 Concludes Morningstar</description>
-</item>
-<item>
-<title>A 10% cap on credit-card interest rates? Holiday shoppers shouldn’t bank on it.</title>
-<link>https://www.marketwatch.com/story/trump-is-open-to-capping-credit-card-interest-rates-but-holiday-shoppers-shouldnt-bank-on-it-yet-34260705?mod=mw_rss_topstories</link>
-<guid isPermaLink="false">d4ba88c0be42b249d6292e199bbe387b619dc3e79c48a42e0aa7d9c319ce916d</guid>
-<source>MarketWatch</source>
-<category>business</category>
-<pubDate>Fri, 27 Nov 2026 12:29:00 +0000</pubDate>
-<description>As Americans prepare to pull out their credit cards for the holiday shopping season, President Donald Trump is saying he’s up for capping the interest rates they’re paying on their cards.</description>
-<enclosure url="https://images.mktw.net/im-76732724" type="image/jpeg"/>
-<media:content url="https://images.mktw.net/im-76732724" medium="image"/>
-</item>
-<item>
-<title>Nvidia’s stock has tumbled 27% over one chaotic month. The next big test lies in the week ahead</title>
-<link>https://www.marketwatch.com/story/nvidias-stock-has-tumbled-27-over-one-chaotic-month-the-next-big-test-lies-in-the-week-ahead-06449777?mod=mw_rss_topstories</link>
-<guid isPermaLink="false">0f5da4aafd238635c40316a56ebc9a2aaec27bf5fc56fef7dda31981c71a9312</guid>
-<source>MarketWatch</source>
-<category>business</category>
-<pubDate>Fri, 27 Nov 2026 12:29:00 +0000</pubDate>
-<description>Jensen Huang faces tough questions from Congress this week. Good luck pinning him down, one analyst says.</description>
-<enclosure url="https://images.mktw.net/im-62063935" type="image/jpeg"/>
-<media:content url="https://images.mktw.net/im-62063935" medium="image"/>
-</item>
-<item>
-<title>Local stores are gearing up for this year's Small Business Saturday deals - WFAA</title>
-<link>https://news.google.com/rss/articles/CBMi5gFBVV95cUxQdVBZTjRwaEVUNjREX0RkS0pyUUJoR3NqZ2xXYURVQ29udE9MbWNGSnpYUHVQSUVZbW1tWElReEs2cTlXNy1OQ0w5MFFYSGJ5WC1DV1hGRjZZVEdOazBVZ05DMHdHd2dSRGVkWGJlQXE0MHZ0NHo1MmRhc0l4bHJ2aVpCeE9OcGFLZFU5Ymh6QkhSUjJZRkpDRXB6b0pxeUdEODNOZGR0SFNWQ215NkdPV0xOdzBmMS1jWkhBXzZLZkZXaTllQmxZaE5jQ1IzcnV0V1h6VzNRWC1oT3hHZ1lCeUZVZ0ZHUQ?oc=5</link>
-<guid isPermaLink="false">1ae2899e2bf916d7ad9ba44fde69784baa2317e4e5280362ff6bb4c79a20ef87</guid>
-<source>Google News Business</source>
-<category>business</category>
-<pubDate>Fri, 27 Nov 2026 12:23:46 +0000</pubDate>
-<description>Local stores are gearing up for this year's Small Business Saturday deals WFAA</description>
-</item>
-<item>
-<title>Owner of Christmas tree business in Gainesville marks 77 years - WCJB</title>
-<link>https://news.google.com/rss/articles/CBMikwFBVV95cUxQRGFfOVZ0a09PYkM0c0M3eGZBVlExNW5OUVBWN250Z0h4X1dpMllUUE1RN2RBN3p6bHp2SHZKTGQ0Vmk1dmg1MGlHUlNuZ01RcFRVd0oxX3hGUF91Rzh3MXJUaWRSU2QzSzJrZnhtbHdXelJHUjlXX3NiY2FUUmFWWm9NbWRBdlR3RXoybVNqaWNGekXSAacBQVVfeXFMTTlQeTN3REpPRlA2S0Z0ejhqYmNKNE1ZRll5RlNzdHFfaWVtZmM4QnFOYjZCdUFDbVc0dy1zM2xZbWR1cDdZUWs0T2hrNkN2czJrRU5ZTTZQakM1SzFJNUVXWmtfdWxnUEtHdndXRjJnREw0LUxoUGJ3a0F6LWlrRk5LNTAxMTU5cDZyX01iSzBMMldzWWpsbDItb3BheXVWSlhXX3p0eTg?oc=5</link>
-<guid isPermaLink="false">359918c8551b55bd17fa9ffca4a6d40924e5eab78e93b3b3fefd5a356945c737</guid>
-<source>Google News Business</source>
-<category>business</category>
-<pubDate>Fri, 27 Nov 2026 12:23:00 +0000</pubDate>
-<description>Owner of Christmas tree business in Gainesville marks 77 years WCJB</description>
-</item>
-<item>
-<title>‘My life is in the stock market’: Recent volatility is shaking up holiday spending plans for these shoppers</title>
-<link>https://www.marketwatch.com/story/my-life-is-in-the-stock-market-recent-volatility-is-shaking-up-holiday-spending-plans-for-these-shoppers-bd9485b3?mod=mw_rss_topstories</link>
-<guid isPermaLink="false">81d01617b46f3240d10c0156c786eb62606eabfcd5de522f572bb4cc2e8e7b36</guid>
-<source>MarketWatch</source>
-<category>business</category>
-<pubDate>Fri, 27 Nov 2026 12:22:00 +0000</pubDate>
-<description>Consumers are adapting their year-end spending plans amid a shaky stock market.</description>
-<enclosure url="https://images.mktw.net/im-23538835" type="image/jpeg"/>
-<media:content url="https://images.mktw.net/im-23538835" medium="image"/>
-</item>
-<item>
-<title>Small Business Saturday: Where to shop local in the Upstate - The State</title>
-<link>https://news.google.com/rss/articles/CBMifEFVX3lxTFBBWEtweDdKWWxPb0RjLUFySUwxUVhZT21PUC05V2t3RGQ2Rl9MdllqUTg5NXVBdTFDOWJqeXB3OWVlTGNuRDBHWG1OcWlQc2ZUbGVDVVg0LU90dmdpZDNrcTlBV3MtSXNQVU04RVJfS2xtMTJFbUxjdHp0dU4?oc=5</link>
-<guid isPermaLink="false">f69a71383fb80c05b0e6a9e731522b1744dd6065cfdde66d15d347fe7e098fae</guid>
-<source>Google News Business</source>
-<category>business</category>
-<pubDate>Fri, 27 Nov 2026 12:17:00 +0000</pubDate>
-<description>Small Business Saturday: Where to shop local in the Upstate The State</description>
-</item>
-<item>
-<title>My husband secretly sends his ex-wife $1,500 a month after she lost her job. We have $2.4 million saved. Has he lied by omission?</title>
-<link>https://www.marketwatch.com/story/my-husband-secretly-sends-his-ex-wife-1-500-a-month-after-she-lost-her-job-we-have-2-4-million-saved-has-he-lied-by-omission-ede1972a?mod=mw_rss_topstories</link>
-<guid isPermaLink="false">1b620e6afc9deb8ac89d5e7b135802805ba7eb0a63987dc33975174cbb61c69d</guid>
-<source>MarketWatch</source>
-<category>business</category>
-<pubDate>Fri, 27 Nov 2026 12:15:00 +0000</pubDate>
-<description>“He explained that he wasn’t trying to hide the payment, but his former wife lost her job in a medical billing company.”</description>
-<enclosure url="https://images.mktw.net/im-93318812" type="image/jpeg"/>
-<media:content url="https://images.mktw.net/im-93318812" medium="image"/>
-</item>
-<item>
-<title>A Small-Business Owner Went Viral With Conan O’Brien. Then Her Sales Doubled - Inc.com</title>
-<link>https://news.google.com/rss/articles/CBMisgFBVV95cUxONXA5WW84b2ZtM3k5RlJNTzlaWnBVa0FkRDN4Q0tnWWRFNS1nVUkxVEN2Ul9OTTYyNXRCeTV3c1cyUUFCanlRenJaU3lKR1hzdXVwSVZZZUFqOG5TcnlWaXdtMUJLRFl4TnlCanlhLXZQd1d1X1A3eU1qQlpXVFNsdUZ2d3N2NUFYWk1VbVZsMHpuamZ2YmJ0eWhrLWpWNmQtVWlhVzFmNk1sd2pkR0VTQUFR?oc=5</link>
-<guid isPermaLink="false">105b7ea4ef37de58e740eecee928a2e1718f24ffe443b77fe5fe3e81a70724f3</guid>
+<title>He Started a Side Hustle to Help Friends Use Airline Miles. Now It’s a $20 Million Business - Inc.com</title>
+<link>https://news.google.com/rss/articles/CBMiygFBVV95cUxNOHllemk3bDd0UV9Jd2g1TTZJakVHQlRYblZqel9uM2NoOUkwa1pNV3kzQlcwUkdZWXp4UjZWSjVFd0h0Zkh0UGFJdWE1WW9UV3d3ZVBuLTMzbnhsdTBTOXRtWlctUC1HTjh6d2Rwa3VuUTdrOExOLXVXUmlZZG02eXZvUWVyakFmVzJPQWRjY25tM2RpZEYzZmhaRlA1aTZpWU1CcENicF83bkZvY0ZKN0RDdF9Kdm1RNzMwS01IYVR2QUl4SE41S2RB?oc=5</link>
+<guid isPermaLink="false">f6ea2cb4adb396f505c9a4d30fb8154bf164890b5c4fde422c174301b079593b</guid>
 <source>Google News Business</source>
 <category>business</category>
 <pubDate>Fri, 27 Nov 2026 12:10:58 +0000</pubDate>
-<description>A Small-Business Owner Went Viral With Conan O’Brien. Then Her Sales Doubled Inc.com</description>
-</item>
-<item>
-<title>Tired of sitting on a cold toilet? This TOTO bidet with a heated seat is 40% off - Business Insider</title>
-<link>https://news.google.com/rss/articles/CBMihwFBVV95cUxQR25wTHd6cmFHOHduS21QamJNZk1Bb19hSkIyQ2VyZEYzbDZ2czhFb2w5X0pWNjlzejljQktJT1BpNlByQWRESmxvX2lZd0FqRjFCR2ltYXMtU2ROTHVtZGxHM25lVE1nU2NSdUx3a3RWZ0VXOHVrMHhVZHVONzNHdlZ5cjRyRUk?oc=5</link>
-<guid isPermaLink="false">18c97d03724a1d8c6787a61b6892a919911abfe9f2ca0b7d67b910cfc8d39b94</guid>
-<source>Google News Business</source>
-<category>business</category>
-<pubDate>Fri, 27 Nov 2026 12:07:00 +0000</pubDate>
-<description>Tired of sitting on a cold toilet? This TOTO bidet with a heated seat is 40% off Business Insider</description>
+<description>He Started a Side Hustle to Help Friends Use Airline Miles. Now It’s a $20 Million Business Inc.com</description>
 </item>
 <item>
 <title>Omaha shops impacted by streetcar construction encourage visitors for Small Business Saturday - Nebraska Public Media</title>
@@ -243,24 +897,6 @@
 <category>business</category>
 <pubDate>Fri, 27 Nov 2026 12:06:34 +0000</pubDate>
 <description>Omaha shops impacted by streetcar construction encourage visitors for Small Business Saturday Nebraska Public Media</description>
-</item>
-<item>
-<title>For Small Business Saturday, 2026 Holiday Shoppers Plan to Spend Where the Value Is Clear - Retail TouchPoints</title>
-<link>https://news.google.com/rss/articles/CBMi0AFBVV95cUxOckR3VnduN1dLTFpNX19TQ0k3VTJzeU1TNWZYbWl5bjF0MC0zbXpPNjNkMmV0bHQ1cFdhMFRvMXVWTDl5SXh1bWU2RHpqcnIxUHcwRm1VSVFHQXcyQzBQUW53OF9qUHdwcGNRdEI1NWRvdktSbWd1T2VkTEFzdmQxU1ljdk1ncUZIWEVPdUhWM0Y3VjkxN2o2bHFocVF3a1hCRGFXbFQyV1VIbVlIVnpyWVJHMmJscmd4OFNNWTVVd2dTbEItLWtVMW55YmU5UXZs?oc=5</link>
-<guid isPermaLink="false">8155184225e8ce508d1079070c2d2775ce45f6e43093952d4f6b9ca363a2ac93</guid>
-<source>Google News Business</source>
-<category>business</category>
-<pubDate>Fri, 27 Nov 2026 12:05:16 +0000</pubDate>
-<description>For Small Business Saturday, 2026 Holiday Shoppers Plan to Spend Where the Value Is Clear Retail TouchPoints</description>
-</item>
-<item>
-<title>Mark Zuckerberg's Thanksgiving menu: 'GTA 6,' smoked meat, and Meta's AI gadget - Business Insider</title>
-<link>https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdmhnZExvVTVEWHhibWNmUjBWZkktZFQ4MGM1RG5NMnBETUVLMG43aHdMZFpBck5oVklycDE3THRKS05VOE5adlcxNDMwd29HVkhCVUpKZDV5UnFSQjR1R1dWZGJESWtFaThOTVNyVVUxTUlsaV9IYzlXWlM3X1REclEyUjNOakpTeHIxbmY3OGhwZUNZWmJuZFNFTGRKN0ZpTjRzRFItcUY?oc=5</link>
-<guid isPermaLink="false">4e859d54a2e8900866ace8735b81df4aa321c7bf64bd84f3dff1c84d28f9af56</guid>
-<source>Google News Business</source>
-<category>business</category>
-<pubDate>Fri, 27 Nov 2026 12:02:44 +0000</pubDate>
-<description>Mark Zuckerberg's Thanksgiving menu: 'GTA 6,' smoked meat, and Meta's AI gadget Business Insider</description>
 </item>
 <item>
 <title>Business owners of color are making their mark on Des Moines’ East Village - Business Record</title>
@@ -281,26 +917,6 @@
 <description>On the Move: Week of Nov. 27 Business Record</description>
 </item>
 <item>
-<title>Haaland to focus on community, refining internal systems - Business Record</title>
-<link>https://news.google.com/rss/articles/CBMikAFBVV95cUxORmRXMkJIT1c1ZzN5aXQ0Rk9qbDZzOXY2ZEFwU0FwZmNCUUpvelZVdDVlWndzNW92ZmNSU3dqRVprTDU1dTJwTDZHZFV5ME5tOUVEWFFIYXBSNjM4ZUpaQlpScXk4cEFZSnd2WFhJbDFrUk9PR3hsOG8zNXhMMjRkQ2l3WVFWYmlCQXRQcHd5T1o?oc=5</link>
-<guid isPermaLink="false">33df6dbb67c5bd3c4dcf55faad4d7bcf9c9710cf75db62f15a3990d293f7da27</guid>
-<source>Google News Business</source>
-<category>business</category>
-<pubDate>Fri, 27 Nov 2026 12:01:18 +0000</pubDate>
-<description>Haaland to focus on community, refining internal systems Business Record</description>
-</item>
-<item>
-<title>Stocks look like a Black Friday bargain. Read the fine print.</title>
-<link>https://www.marketwatch.com/story/stocks-look-like-a-black-friday-bargain-read-the-fine-print-b6546539?mod=mw_rss_topstories</link>
-<guid isPermaLink="false">9887ce193b4bfa5185c1c56798e49c22737da7ea9d4ca2ed7d362072f10c6dce</guid>
-<source>MarketWatch</source>
-<category>business</category>
-<pubDate>Fri, 27 Nov 2026 12:01:00 +0000</pubDate>
-<description>Analysts raised their profit forecasts for S&amp;P 500 companies during the selloff. Plus, how to spot a bogus boutique and what Jensen Huang is doing in your 401(k).</description>
-<enclosure url="https://images.mktw.net/im-25984516" type="image/jpeg"/>
-<media:content url="https://images.mktw.net/im-25984516" medium="image"/>
-</item>
-<item>
 <title>The Week in Business: Luxury Hotel Operator Unveiled for 20 Washington - Mpls.St.Paul Magazine</title>
 <link>https://news.google.com/rss/articles/CBMitgFBVV95cUxPXzhVY0Y4bGNuSTZoYWRtRkxua0lUcXZuU2p1bmFkeWlTR2pzVGh6V19wZUZyYWVuUEtnME82WHVCOHEwQUNVQlpkSkh1Skk1SkJVZXZBcEtyS3VIMUI3UnoweXk5bmtiNFQtZFpydk1OcjRaRElmSWFTN3JBMjNlZGFCQ1d1QjgtemFuQ2pmX2NxOU9BM1hOU21vakd3YW9wc0I2M3I2MTZaZFZ3S1BJUnFtblZVQQ?oc=5</link>
 <guid isPermaLink="false">42dc2ae053053f99103c697bbd52b139e4c0697f5768cc8ea03f0e4e33cbb524</guid>
@@ -310,15 +926,6 @@
 <description>The Week in Business: Luxury Hotel Operator Unveiled for 20 Washington Mpls.St.Paul Magazine</description>
 </item>
 <item>
-<title>What shoppers don’t see during the busiest hour of Small Business Saturday - WBAY</title>
-<link>https://news.google.com/rss/articles/CBMioAFBVV95cUxQcS1VNFlqVk5WWngxcGFHZmU1YU1DcWtKb2pwTUhRblFfb2sydUdXb29oRHRDOVlpUWZlRVNJcDVFNjBmT1c0VFctd1JUZ2VVa2hNSDVhMnJKS2I2VFJ4X04td1RUTnZrb3ZPNWtMbmNBOU1WcmV4RGY4Z2ExbmsxZ2RoNzFkZHY4QjFCbEYyamFzUTMwZTloLWR1MkUtMVVG?oc=5</link>
-<guid isPermaLink="false">c4574565b4c4d1240436fdfc1faebb05934d02a3768b32b1023ea568865db704</guid>
-<source>Google News Business</source>
-<category>business</category>
-<pubDate>Fri, 27 Nov 2026 12:00:00 +0000</pubDate>
-<description>What shoppers don’t see during the busiest hour of Small Business Saturday WBAY</description>
-</item>
-<item>
 <title>Support small business from the ballot to the cash register - Colorado Springs Gazette</title>
 <link>https://news.google.com/rss/articles/CBMilgFBVV95cUxONms0dDhGUThXY3liOEFhdTdfeWxGanJjNUx0M1dxTE5xeFYzZzRtU2lpd3BabGFsMmxzQUpCa0NVcFhWVW5IYTJWQ1J5UFVSNTBialZDZzBCeW1ycFd1YlhNVXBIWExaMFBiXzhLUV9XLVZLMjRIUTJWUUdLSHFoRG83Y0pDZWhwV1VHTFc4VE1FMkNIOEE?oc=5</link>
 <guid isPermaLink="false">578a4513b4feda8c94b4521f3e83316d1f4fcf01962c38f3d62e61c271b76f3f</guid>
@@ -326,89 +933,6 @@
 <category>business</category>
 <pubDate>Fri, 27 Nov 2026 12:00:00 +0000</pubDate>
 <description>Support small business from the ballot to the cash register Colorado Springs Gazette</description>
-</item>
-<item>
-<title>Small Business Saturday celebrates heart of the community - Tri City Record</title>
-<link>https://news.google.com/rss/articles/CBMirwFBVV95cUxPdXMzZ05FSktVYVZibVV3VlBZVFYzUTJJenZRWFN5OFI4V2ZVU1V6T1FNX3BLQ1Vsa1dyb2JHNExGVGtOSnkyYzhLUTFqMG8ybGxwZHJqcjRoT3VuNDVoY2kzZWpZQVdaZ004X3A1SnlzeDhhMjFhT1RQbG1pQVh5RVdscTdpb1lPSWVzZGJfRGhHSDlrSkdoY0lpTENMVS1BNThXSHNOMlJsQ1c1TUVV?oc=5</link>
-<guid isPermaLink="false">5a65e3b7d61a79cb478cc968b9cc9740fd477c7bcd271ac27aefa115c4910729</guid>
-<source>Google News Business</source>
-<category>business</category>
-<pubDate>Fri, 27 Nov 2026 12:00:00 +0000</pubDate>
-<description>Small Business Saturday celebrates heart of the community Tri City Record</description>
-</item>
-<item>
-<title>I spent a day only using robot services. Here's how I'd rank them. - Business Insider</title>
-<link>https://news.google.com/rss/articles/CBMimAFBVV95cUxNY2V3aTFOZFRFM0RPbnE5MGJndGlaUml4NThOU09xMk11OVFiZXV1eGVwd3hBcWRPX2t3bTFJdnZfZy1CaXp4dXoxeHZDMWhVX3JpMmF3YmFHY0t3aXVlbWlTNWZtTm5NallDTTBjalpSRnJMU3VnVWxNeHluejlMZXRQWnVmOVMwVlgyNHRtcTJiTWhqRzEyag?oc=5</link>
-<guid isPermaLink="false">2e581d5b566be9f3e36e20be28bb7711a0488bedecf7145a923426ff4f4c4ff1</guid>
-<source>Google News Business</source>
-<category>business</category>
-<pubDate>Fri, 27 Nov 2026 12:00:00 +0000</pubDate>
-<description>I spent a day only using robot services. Here's how I'd rank them. Business Insider</description>
-</item>
-<item>
-<title>For home businesses in Concord, community and creative thinking are key - Concord Monitor</title>
-<link>https://news.google.com/rss/articles/CBMiswFBVV95cUxQZ012TUFRajNZQVdZQ3hpRnZjcTdidUtVc1RUUGlLMjBIOHJ5anlheDJLdDlfRmtMNmJHb1gzbjE0SUF6MTdLdWZ5bjNEcnAzanh4UXhzUG1uY2Q0UFdFRG1HN2Q1Y0hkVUhZNHkxSTBQWUtjTndkTUFOS2poRG50UXd2cFVDOHB5SXNmZlhqQnU0TF9TMUtiMkVkVVhFZ2hpNjZLbUg3ejl2b1NKaTRacDJtTQ?oc=5</link>
-<guid isPermaLink="false">c46d253b757dc2b6757566c0734d04d49b82ca9a7dfd5ced30cb670810c45774</guid>
-<source>Google News Business</source>
-<category>business</category>
-<pubDate>Fri, 27 Nov 2026 12:00:00 +0000</pubDate>
-<description>For home businesses in Concord, community and creative thinking are key Concord Monitor</description>
-</item>
-<item>
-<title>A look at New York City entrepreneurs ahead of Small Business Saturday - KVUE</title>
-<link>https://news.google.com/rss/articles/CBMi4AFBVV95cUxNYWlOaTlNUlJlME5tZU9HdEM5MEg2U1hMa0tqeVhqWjllQW9Rc3M0SDAtRGlYV0FRZG1fS05HTnlialpDQUZIRGtjaVFaR1NVX0hYWXh2Y2tMUVJzYk1sbTJXNUQ0czBlNHZTbFUzeWE0V2trSEpyeGoxS2plQkpEejBhNktXd2llN0lWTmdaa0NMNnZGVzc3Q1ZjeG9LZklhMzIzV18yMHpzVER3X2JQZ29BRkRmbzYzVmlVWmlRRmpiVllQWGR1ZUYzMzduUmdrN2FUeUpBN1p2aWZ3NWNiNA?oc=5</link>
-<guid isPermaLink="false">a7ff6c634f64ea3b5f9ff7112bfc8da8c7d07df753b24a2f19a6786f73f7b85c</guid>
-<source>Google News Business</source>
-<category>business</category>
-<pubDate>Fri, 27 Nov 2026 11:47:37 +0000</pubDate>
-<description>A look at New York City entrepreneurs ahead of Small Business Saturday KVUE</description>
-</item>
-<item>
-<title>Business travel in 2026: The race for the small-company traveler - Hospitality Net</title>
-<link>https://news.google.com/rss/articles/CBMirwFBVV95cUxPdkk3amhCc195TW5LaXRkRjAzM2ZiTjBBYnpGNWhFMXl2UFpDdVVuTEllZU5LQm9LbVdSZkZPenNmTDhYSDVpcUpoYjNxOGVEd1hSOFNaTTZRZk0xemRVc0VwanFxdGJfZVhBdUZPaWxnTTFEWjVCTkNFTUtjaGZPMnNsSVpvclJwWnQzSEhpSnQyQTB6ZUMweDNUVGI5WFdsaWZKTlhHcVRMMktqVjBj?oc=5</link>
-<guid isPermaLink="false">e03c00f852508894416e70dba8a33cd54a447da3bd18a2e0219c837ae32d4c6e</guid>
-<source>Google News Business</source>
-<category>business</category>
-<pubDate>Fri, 27 Nov 2026 11:30:30 +0000</pubDate>
-<description>Business travel in 2026: The race for the small-company traveler Hospitality Net</description>
-</item>
-<item>
-<title>I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?</title>
-<link>https://www.marketwatch.com/story/i-hate-that-jensen-huang-is-back-at-nvidia-but-i-love-what-its-done-for-my-401-k-am-i-a-hypocrite-f63c0303?mod=mw_rss_topstories</link>
-<guid isPermaLink="false">fc405cbfc8ffd361d38a838adf0d8944339cb411dd1f94317d23cb45d68408c4</guid>
-<source>MarketWatch</source>
-<category>business</category>
-<pubDate>Fri, 27 Nov 2026 11:15:00 +0000</pubDate>
-<description>Doing nothing and maintaining an even temperament is often the work of gods.</description>
-<enclosure url="https://images.mktw.net/im-78896707" type="image/jpeg"/>
-<media:content url="https://images.mktw.net/im-78896707" medium="image"/>
-</item>
-<item>
-<title>Local shops celebrate Small Business Saturday 2026 - The Suffolk Times</title>
-<link>https://news.google.com/rss/articles/CBMinAFBVV95cUxPMHkyWXlBRWZtWGl3ZFk0ZzMxcDRkRWN2UUtGenczb1dOQk52SHRSNzB2UngwNEpDVlhjYnFxRDVTWUVsUVZmOG1QNXQzSHhWNmR0emNTVkJjTWtTUG9tQ3VhNFJCelhlanpJcGk0QVdtX2JiWXd2S0hTT2xYVlJzck1fUmJTdDdFY3JOMVI4OWpibkFIaEprNTBueW8?oc=5</link>
-<guid isPermaLink="false">5b88f87add82c55517a31ebcb32a6938f9f6efc4dae6e27ebc118609864ad891</guid>
-<source>Google News Business</source>
-<category>business</category>
-<pubDate>Fri, 27 Nov 2026 11:10:56 +0000</pubDate>
-<description>Local shops celebrate Small Business Saturday 2026 The Suffolk Times</description>
-</item>
-<item>
-<title>New report shows Minnesota economy is stalling out - St. Cloud Times</title>
-<link>https://news.google.com/rss/articles/CBMitwFBVV95cUxPbHdvZ1oxbHctOU9OWTVoTk10WnprN2J4T3N6YkZVRkt4TUhKQUhNQWJWY2NxNThKSHhBcGxBSkRaTW1MODNVTllrcmxtYTVPWWxEM3hXQld5alVTZTk4c3M2VERjdUtmUHRtWFhEd1FoVGVXTHpLbExjaFpRbVRxTlgxLVFPY1otTW1MbnlERHNwTWFtQm5OWl85anRrc3hKMzg4S2RPbmZIS0hVUm43TFM2TUFCZGc?oc=5</link>
-<guid isPermaLink="false">8d95f4f022dd8ee7c1285c1bbe46488249976f4bb344d08408a1693d4140d53f</guid>
-<source>Google News Business</source>
-<category>business</category>
-<pubDate>Fri, 27 Nov 2026 11:01:00 +0000</pubDate>
-<description>New report shows Minnesota economy is stalling out St. Cloud Times</description>
-</item>
-<item>
-<title>Inflation has shoppers hunting for value. That bodes well for Black Friday</title>
-<link>https://www.cnbc.com/2026/11/27/black-friday-2026-inflation-value-deals.html</link>
-<guid isPermaLink="false">637377960abe6da95a4d28d9727598f614c01e6070c9396122768a1026140e18</guid>
-<source>CNBC Business</source>
-<category>business</category>
-<pubDate>Fri, 27 Nov 2026 11:00:01 +0000</pubDate>
-<description>Even as consumers face macroeconomic headwinds, retailers are expecting robust holiday spending through Black Friday and beyond.</description>
 </item>
 <item>
 <title>I pivoted from an architecture career to work at Sweetgreen. I have no regrets. - Business Insider</title>
@@ -429,42 +953,6 @@
 <description>Atlanta Beltline Marketplace shops open for Small Business Saturday Atlanta Intown</description>
 </item>
 <item>
-<title>Some Tulsa small businesses are shutting down. Here’s what aspiring owners should know. - Tulsa Flyer</title>
-<link>https://news.google.com/rss/articles/CBMipAFBVV95cUxPeHR5c0E5bXVFbGtHcVJORGhtRDlhbXN1LW4wcUxUeHAwa3M3QVZNVjNYMGtRVmVwbmpnUWFtREt3M2xlSGsxV0h5cVdVbUd5RGNmbGNlREhuUVV1ODFidlRnN3ZpRnV1R0U3X3g4WFREbklpbUpMTk5Nc1pSVUwtNUJ6Ylh6dEZMWndVQ2txVmp4TS15cV9oRDJNdUVRMjhDVHNZcg?oc=5</link>
-<guid isPermaLink="false">b58781cdd27d3dc6570d095cfada335015c5a94b44e880c35e2ed74857e2e681</guid>
-<source>Google News Business</source>
-<category>business</category>
-<pubDate>Fri, 27 Nov 2026 11:00:00 +0000</pubDate>
-<description>Some Tulsa small businesses are shutting down. Here’s what aspiring owners should know. Tulsa Flyer</description>
-</item>
-<item>
-<title>Downtown York holding Small Business Saturday this weekend - ABC27</title>
-<link>https://news.google.com/rss/articles/CBMingFBVV95cUxNeGpJdVYzV0NmSm93Mmg1SUZtSFpEWGNvbnI2UlU5ZER2UUp6QzBJbll0ZHltVG04STJleFY3RU93cVR4eGRLUkZTOXBlNi1TRnVZVFdpV3BPVXhrZC1faE5meEJucDN0d1BHQTV3U3BzckszNWQwV1puVzhXQXVuaDlsbVNmT2tkdGx4TDRaaVF6RC02Yy01RXk3YXQwZ9IBowFBVV95cUxNcG0ySUNGTDlSQlBDZGw2UXhHLVZJV2FsYVBLZ0k4WGkwdzRpN0x6dy1UTXlualhtZWduOHp2MnRYRkx0ZmF3MVQxWlIwVW5tVDdBQ29hcGRfakh1Z1laVGpWNkYzZjI0ZTlwNzBCem1vakRZalMzLXJ0WlpoaHNZQWZydjVuc0V5cUg2YzQxTEEydnctNkFEQkRQU3cyNTRsZXIw?oc=5</link>
-<guid isPermaLink="false">cdfc28405c3bfaf8f554af1782d35098833fdd696ae3f0305b077b7015fe1f91</guid>
-<source>Google News Business</source>
-<category>business</category>
-<pubDate>Fri, 27 Nov 2026 11:00:00 +0000</pubDate>
-<description>Downtown York holding Small Business Saturday this weekend ABC27</description>
-</item>
-<item>
-<title>'That's my jam': New Wichita assistant city manager oversees quality of life, 10 service sectors - The Business Journals</title>
-<link>https://news.google.com/rss/articles/CBMioAFBVV95cUxQNzZBdmxFMDZvS0J4TEJkS0dGc1NIVFVpUW5GUEM2OWJ5R2x4MndEZ2o1VzZpZmpWWWNYUVJtcnJPN1RFNVFaNmI5dVVVVGlOU3J0QTVVQkpuVF9zSFMzQUQxbDAwMkFYbHV0ZHp4cThXMnQzS3hTWWhjUW5iQXFDakItUDlQdjZ1MC00X1YtVllxekhVNElzb2RFQUxBWTA0?oc=5</link>
-<guid isPermaLink="false">d4082cd3d89c083b0ada2ca7d2717e5bef2793032e5190b2ece196b806977d75</guid>
-<source>Google News Business</source>
-<category>business</category>
-<pubDate>Fri, 27 Nov 2026 11:00:00 +0000</pubDate>
-<description>'That's my jam': New Wichita assistant city manager oversees quality of life, 10 service sectors The Business Journals</description>
-</item>
-<item>
-<title>Scaling sustainability: How ESG priorities and pay-offs shift with business size - YouGov</title>
-<link>https://news.google.com/rss/articles/CBMiuwFBVV95cUxPeUU2QmtLQzZjMlN1Mnc2Vjd2Q0R6alpvZkZ5ZFFHbkhBeFNvMXdVUUZGTVNsODRSYTJyUkUyYnV6YUlRdGhoenN4djBMallvSVNZX3d4VFdFUWYxZHV5d3daa0h1RHpMckZLVVc3UG1hSTRRMmh2WmZVWlIzc0dJcXhUdmp0QnJlU3FQSzBrVUE5U0o3QlZpWVRvMUlXVFMxRUZYZlkwQ2FqN0IzeDJmZEFwWW1yejBzRFNJ?oc=5</link>
-<guid isPermaLink="false">c82ef77fb0eb6be1568a2400eced4c81beaffa2337e525730d010719c8c94971</guid>
-<source>Google News Business</source>
-<category>business</category>
-<pubDate>Fri, 27 Nov 2026 10:57:25 +0000</pubDate>
-<description>Scaling sustainability: How ESG priorities and pay-offs shift with business size YouGov</description>
-</item>
-<item>
 <title>MEDC finds replacement for expired business grant program - WEMU</title>
 <link>https://news.google.com/rss/articles/CBMipgFBVV95cUxQZTlQTDRtREZfb190QzRybktSRVl4Y2JsZFVLVlBDUGxjbzRKUVlTZXlNak1Qa2VrblR2X3gxQ2hTSUo2cldTUzMyWUZWU1pVSlFULVk5V2d4Uktra0hsVXdlRUdGX3ItVFpJcVBMSExYVmZfV2ZIMl94TXkxZVFhODRJUWtxMGVFdWhsWW80MkRiakJkZzlaamEwSHhhVzBmMnBaRlJR?oc=5</link>
 <guid isPermaLink="false">797317c6248a825be01bc76adf3fdf5980b64017dc28ab30b70a449e54c46bc6</guid>
@@ -472,24 +960,6 @@
 <category>business</category>
 <pubDate>Fri, 27 Nov 2026 10:55:00 +0000</pubDate>
 <description>MEDC finds replacement for expired business grant program WEMU</description>
-</item>
-<item>
-<title>4 things on Wall Street’s Black Friday wish list after a wild stretch for stocks - Business Insider</title>
-<link>https://news.google.com/rss/articles/CBMirgFBVV95cUxPZ2VIMTdSMk1BVFRoUWtKZU1SSHlselVoN1kxWEMwRmNoUnk5LUdVWmNDY1ZKUGxFRnFFdnpkUnVFWVhHOHZLUHdzRTUxMjR0eFJRU0pqVW1zTDBGcnlRRkxpU29jeEMzRlp2eFhPc2ZjZzdBa1RiZnIyUkh2bVdQcWhoTWNlUEVqQ2UzSzY2aUNaYnNwUl9yOHVlUUhoaHZPeDI1eDdlbFBCWkozRlE?oc=5</link>
-<guid isPermaLink="false">1bf7c3fa02a3c673eef1e5f42698a51c8cca2a403a14a2e353d83846c9c23089</guid>
-<source>Google News Business</source>
-<category>business</category>
-<pubDate>Fri, 27 Nov 2026 10:50:00 +0000</pubDate>
-<description>4 things on Wall Street’s Black Friday wish list after a wild stretch for stocks Business Insider</description>
-</item>
-<item>
-<title>The fastest-growing opportunity for creators might be something their followers never see - Business Insider</title>
-<link>https://news.google.com/rss/articles/CBMiqAFBVV95cUxOT0tQVzlrMlZ3cHdSSU54dGI0S3BJN3lZaE1EbzVtVTFudThnV29NSFhCUHJMdndLOWkyME1kRW1OcnlRWERpNE02bVRxRUtpVmNaS3YyZU5rWmVCU0NOX2FXX0lnN2NXaHg2TS1xNXNaNUR3Z3ZXTHNraHAzQWFDbHRNTkxnanJEMndlMnBBUXJGLXB0Rm1GZlVUOU5JOU1JcDRoNFk5RE4?oc=5</link>
-<guid isPermaLink="false">4168931fc1d0e341ae2efe6684bad78029afb07268b0d9b4b3cee03e2f0dccf0</guid>
-<source>Google News Business</source>
-<category>business</category>
-<pubDate>Fri, 27 Nov 2026 10:45:00 +0000</pubDate>
-<description>The fastest-growing opportunity for creators might be something their followers never see Business Insider</description>
 </item>
 <item>
 <title>The AI apocalypse believers putting their money where their fears are - Business Insider</title>
@@ -501,13 +971,13 @@
 <description>The AI apocalypse believers putting their money where their fears are Business Insider</description>
 </item>
 <item>
-<title>An exec wanted to better understand entrepreneurs, so he launched a candle company from his kitchen. Here's what he learned. - Business Insider</title>
-<link>https://news.google.com/rss/articles/CBMingFBVV95cUxQVGlneDFWaEhKcExJaFMxYzRwUGZVZ2trM2xXT2U2UDZtN0xQUG9pOHlNRUljTFpWbEFlY0hLQmZjaGUzQjl4UVhvb3NGUXNwbENSbVRhYkJ6Tk5vdUlxdVJaa2J4UE43VG43bHRXSkc1R01qSmlwQi1GWm5KMUVtelRXZG5hNjBlNWVHWWdEaFIydlBzZ05YWHhEOEc1QQ?oc=5</link>
-<guid isPermaLink="false">48024142a97b6f93e3bf46701d6f29c031e78372e93cf5723516ac9f3449e907</guid>
+<title>The fastest-growing opportunity for creators might be something their followers never see - Business Insider</title>
+<link>https://news.google.com/rss/articles/CBMiqAFBVV95cUxOT0tQVzlrMlZ3cHdSSU54dGI0S3BJN3lZaE1EbzVtVTFudThnV29NSFhCUHJMdndLOWkyME1kRW1OcnlRWERpNE02bVRxRUtpVmNaS3YyZU5rWmVCU0NOX2FXX0lnN2NXaHg2TS1xNXNaNUR3Z3ZXTHNraHAzQWFDbHRNTkxnanJEMndlMnBBUXJGLXB0Rm1GZlVUOU5JOU1JcDRoNFk5RE4?oc=5</link>
+<guid isPermaLink="false">4168931fc1d0e341ae2efe6684bad78029afb07268b0d9b4b3cee03e2f0dccf0</guid>
 <source>Google News Business</source>
 <category>business</category>
-<pubDate>Fri, 27 Nov 2026 10:30:01 +0000</pubDate>
-<description>An exec wanted to better understand entrepreneurs, so he launched a candle company from his kitchen. Here's what he learned. Business Insider</description>
+<pubDate>Fri, 27 Nov 2026 10:45:00 +0000</pubDate>
+<description>The fastest-growing opportunity for creators might be something their followers never see Business Insider</description>
 </item>
 <item>
 <title>Berlin: How Maryland’s Hallmark town is preparing for Christmas - The Baltimore Banner</title>
@@ -519,33 +989,6 @@
 <description>Berlin: How Maryland’s Hallmark town is preparing for Christmas The Baltimore Banner</description>
 </item>
 <item>
-<title>Better Business Advice's Pick for Online Bill Pay for Small Business (2026): Better Business Advice Reviews Melio for Managing Vendor Payments - Yahoo Finance</title>
-<link>https://news.google.com/rss/articles/CBMiogFBVV95cUxQQUxQX0NXcE1ZYVhRNkZsZTUzb3c1YVV1U0ZZZnV4SllRQ0RocWR2OERJLXY3UFp1a1hfQnZabHl1ZmZGRFNteUZ2dDFwRXk0OFczdC02eG4tejhlWi1zLVlySzlxRkh4WnZWX0ZtV3M4TGNvcjVDUFd0cWtGNlZzTnZHcy1hNWdTdEQ0ODFhQlZFX0c3eF96VjN4OTlubFRwNlE?oc=5</link>
-<guid isPermaLink="false">2840a869f5f1e3b9047c0ff7f21d5f74129143886ec9557cbeb8f0a4d79adb45</guid>
-<source>Google News Business</source>
-<category>business</category>
-<pubDate>Fri, 27 Nov 2026 10:30:00 +0000</pubDate>
-<description>Better Business Advice's Pick for Online Bill Pay for Small Business (2026): Better Business Advice Reviews Melio for Managing Vendor Payments Yahoo Finance</description>
-</item>
-<item>
-<title>Group benefits chief: 'Insurers don't care about hospital prices' - Insurance Business</title>
-<link>https://news.google.com/rss/articles/CBMixgFBVV95cUxNdkZhdlE2bFlGQVhFTlJmU1JLYXJleXFqekRTMUxqV1c2Q0NRYTNXMENpR2dxVGZFRDEya0h5b2IxWDFMRzdKMW92SGpSdWVJMTZkbUIyb09XTUZrRWlzQkpSSmpZUnd5cVlTSFlVV3dhcV8yZFY5QkhGb1VLQmZITFpKcjdlNG44Qm1McVg5SG55R2hXX0VTQlAtSXFVdFVUcWozQV9yLVg5YjZuZTc2NTZ5eHhFNnBBaDlvQTdWdGtXdWpoVVE?oc=5</link>
-<guid isPermaLink="false">73fa80c1451bd238e1b80ff82b0416f14cd45f1f48871ef89430529a7716c1ff</guid>
-<source>Google News Business</source>
-<category>business</category>
-<pubDate>Fri, 27 Nov 2026 10:23:24 +0000</pubDate>
-<description>Group benefits chief: 'Insurers don't care about hospital prices' Insurance Business</description>
-</item>
-<item>
-<title>Who trusts influencers? These 4 stats reveal the state of creator marketing. - Business Insider</title>
-<link>https://news.google.com/rss/articles/CBMivAFBVV95cUxNc3FKYUgxMTZrS3JkNXVqbVhqZV8zR3J5czR0eEh3WjZZRm12TG4wSDlYOTBPWGt2ZUVwbDJ3SXhGdnVld3Rmc041eWx2UklFWC1iV2VwYlBLc3JsMlhzOUgzTGxtOTcwMWhoSl9zSEJPT3pNbEZvYUJqRjVMUHBRVzFSXy1WdlJVYjJGMlc0ZGJMZUE2MEJsWjVMN2NTamFKMGt2bzhWcTB4WXFYZGdJbFY4SWphT3NtYXZTaw?oc=5</link>
-<guid isPermaLink="false">eb171fdd4918652402321294066cbc6aad7595e6bcd7e767845f43b8c33cf23c</guid>
-<source>Google News Business</source>
-<category>business</category>
-<pubDate>Fri, 27 Nov 2026 10:18:00 +0000</pubDate>
-<description>Who trusts influencers? These 4 stats reveal the state of creator marketing. Business Insider</description>
-</item>
-<item>
 <title>This $70 music player is a good iPod replacement for kids - Business Insider</title>
 <link>https://news.google.com/rss/articles/CBMijwFBVV95cUxOaVNubzd2X0JleG8wWjRzVkdFUFd4dlNPUEJlY1lqQTBiWGF2cGhNZW9iS1JESHp4eC1rT2ttcXZsWEthSWVwaHdyTUJuRWV3V3BMUUJ2NUZpSlRUWDRqaENPeUpENEczRXc5UkV4UzlyOHJhVVlQcVFPYlJWUTY5bnA1STdEWUdRdUpBQll2dw?oc=5</link>
 <guid isPermaLink="false">d3595f81f2f28af277cd258af3996c1ab6c079af67ebc560813e443b27ea334b</guid>
@@ -555,76 +998,13 @@
 <description>This $70 music player is a good iPod replacement for kids Business Insider</description>
 </item>
 <item>
-<title>I flew on an African airline I'd never heard of. Here's what surprised me about the experience. - Business Insider</title>
-<link>https://news.google.com/rss/articles/CBMigwFBVV95cUxQWTVtSmVNb1BBRWp5VWs2UVJtdUxnSC0xLXRDNmtEakRZZjEyUVFYaTBoUEwtSUE4WEJ6YnhnYnk4cnZUV2ZtNHUxUzFqV2sxeS01V01UVWQ1ZGg1VHI2eEp6bDdmUE4zX3pNYXQyR19nUnpKOXNDMTJoVEpJNmpta1ptaw?oc=5</link>
-<guid isPermaLink="false">d96c3676c71911c6075ec08aa65fb62c13dba8865265a3e739f50d872ab21d7c</guid>
+<title>SpaceX's AI Business Is Now Nearly Half of Revenue. Here's What Happens to the Stock if Google and Anthropic Both Renew. - The Motley Fool</title>
+<link>https://news.google.com/rss/articles/CBMilwFBVV95cUxPaUlDNHBsbkhzdHlGM0V5dlowQmpzQ0lYM19vYnRvNFFfVjVlbndIN2YwTlZsUk55UXdySFMwYktSRUsydDBUMGRQbzUyTFJjMUFUSUFuX1Y0VlZ6ZEtDOUJLWVRRdFR3b2dROGV1TXhTWXM1TEZ5Wk45LXhZLUFfNmM0Rjc2ZUp0Zl9XR3FCSEVYRTBMclZn?oc=5</link>
+<guid isPermaLink="false">b788c36a23d748c418a8b346547c3dd3e6cb7edca2cfdb2b7f420378d0dce413</guid>
 <source>Google News Business</source>
 <category>business</category>
-<pubDate>Fri, 27 Nov 2026 10:12:00 +0000</pubDate>
-<description>I flew on an African airline I'd never heard of. Here's what surprised me about the experience. Business Insider</description>
-</item>
-<item>
-<title>In Boulder City, neighbors in business share customers and success - Las Vegas Sun</title>
-<link>https://news.google.com/rss/articles/CBMiqAFBVV95cUxOYXFyQWh3dEo4MmVZM0lBUUVmX1NaOExjWGRxUWN4Z3RuLXhvTXkwek92MC04RUlrTDNkNUhsaDhFYWZCWUs1dVNzZldlOU4wdlZWRkQ0cjdsR25Ob1pnZlFoWXotZ3A3Qk9admhSTVpidndtLU5EelBsb3RqLWxXdnB1dXhJUldxeU5tV0wzNW9mWGtCMkNZWTNPT1pJOW9IWS1kVVo1SDY?oc=5</link>
-<guid isPermaLink="false">6006ecef812ef1fc00765377f935c866a0b08c0a87c833708d3af3b270e5c092</guid>
-<source>Google News Business</source>
-<category>business</category>
-<pubDate>Fri, 27 Nov 2026 10:06:20 +0000</pubDate>
-<description>In Boulder City, neighbors in business share customers and success Las Vegas Sun</description>
-</item>
-<item>
-<title>NAPA's solution to America's blue-collar worker shortage: Make training feel like Madden Football - Business Insider</title>
-<link>https://news.google.com/rss/articles/CBMihgFBVV95cUxPdnhGWlBCUXhnWTNoYjA0S2xkUEROOXNBZlpJYjlnOUtJUEtTTEZCSHpqTU52c214SjkwYjFmRFl1TjlGbU9XZmJUcTNBNWxkUlJlZnZMRklUWGNJMjdoV3hhUWRsQThieVRHejdCM2pVNDZJdlVaZ2tZN3NtaTBVWURHVmUzQQ?oc=5</link>
-<guid isPermaLink="false">28991c8b29fae8828d65de282256bcdd686d0fbed895c72d8634295724b52217</guid>
-<source>Google News Business</source>
-<category>business</category>
-<pubDate>Fri, 27 Nov 2026 10:05:00 +0000</pubDate>
-<description>NAPA's solution to America's blue-collar worker shortage: Make training feel like Madden Football Business Insider</description>
-</item>
-<item>
-<title>How to support Black- and Hispanic-owned Miami shops on Small Business Saturday - Miami Herald</title>
-<link>https://news.google.com/rss/articles/CBMiiAFBVV95cUxQLXl1eUlySUZWX1o2ZDdUOVRJRFZOWjJyVGE3YUFwdk5lZks5eVI0WDJBQ2llREd1M1NXR3VvQmdaWXJEaW9FRF9oTXJwTlc5ZENpbl93NXJaOW56a2tta0Y4ZWZsc3Q2X0NhTnVmX1A1MEdYcGl2OHNwbFpNVlZUTzRsQXpwRzY20gGIAUFVX3lxTE9wNHQ3NDJWMjVibW9GN3Y5S2lTcFZfckVaVFp2Wi1naXkyd2wxQ1BNZURCSENMcm1KWXJMNjUwcTVGZl8wZHFGSUNHS21KZjRhVFNoTTVDNHdaQUtISXp5RzdEWU95VUJ1T0RPVVZhR0JCR2pZNHBkM3dNV0I3NmhoZWhvTk11TTc?oc=5</link>
-<guid isPermaLink="false">67059eabdbad06f607554989febcd359aedd62cb79d320ecf008cf2d70b33af7</guid>
-<source>Google News Business</source>
-<category>business</category>
-<pubDate>Fri, 27 Nov 2026 10:00:00 +0000</pubDate>
-<description>How to support Black- and Hispanic-owned Miami shops on Small Business Saturday Miami Herald</description>
-</item>
-<item>
-<title>Here are the companies in Cincinnati that gave the most - The Business Journals</title>
-<link>https://news.google.com/rss/articles/CBMipgFBVV95cUxPLWY1RVVwdzN3Q0EyNEY4ZjJWbGE5ZjlGNDVRclhBcG5GY3VDbTVDZEtDSFdsazlORmxEbEVmUWJUbEt2ZnEwSXpZM2JMVVhfVkNNQUNKYkhFdl9VaS1PNTAzcnQ4X3F2SlRDSTA2aWNUakxELTNBSmtNZW5WV01zc1FvVGdvclVpQlV3VDVzdUtiZ2JRWXVqNVMxQnNSLW15THd2ODdR?oc=5</link>
-<guid isPermaLink="false">e43dc742a798a92e80e7181574debcdd6d0229fce7d46649327bbd1129d952d3</guid>
-<source>Google News Business</source>
-<category>business</category>
-<pubDate>Fri, 27 Nov 2026 10:00:00 +0000</pubDate>
-<description>Here are the companies in Cincinnati that gave the most The Business Journals</description>
-</item>
-<item>
-<title>These companies donated the most time in 2025 - The Business Journals</title>
-<link>https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTTNXMWpBbjFwOEVuMVZCdER3aHJrajQ3LWwtLUNxU09veWNBZThhOXg2ZV9udS1CUk9adUQwaEhYZDYyTUFoTDhOUndHX3lPUlF6el9xUk55VlJtS29sRHVrc3VaaER6TTBWWE1iekpzX1RUSk5wWHkyZ0hnTE8xbFh6cFl5dXVtQUR2aWF1TmRKVGd0QThCQk9tVG92ZERVbU13eFZCSHg?oc=5</link>
-<guid isPermaLink="false">86fabde163fdece1c95d7681f94899c3234110bc2cc2aa465ddbaed3a24406b3</guid>
-<source>Google News Business</source>
-<category>business</category>
-<pubDate>Fri, 27 Nov 2026 10:00:00 +0000</pubDate>
-<description>These companies donated the most time in 2025 The Business Journals</description>
-</item>
-<item>
-<title>Patrick Fertitta takes more visible role in running family business while father Tilman is away - Houston Business Journal - Howl.Link</title>
-<link>https://news.google.com/rss/articles/CBMiO0FVX3lxTFBLSTV0QzdCbVRUSjNvNWQ1My1Ecno4NnRpSEJ2UEM4QmRfSjEzT2t5dGNFMERUV21Ick9R?oc=5</link>
-<guid isPermaLink="false">1eef11fbc20a8ad87aa082fea9210f3428b4644a8a67b5b17045dd83b059cfe8</guid>
-<source>Google News Business</source>
-<category>business</category>
-<pubDate>Fri, 27 Nov 2026 10:00:00 +0000</pubDate>
-<description>Patrick Fertitta takes more visible role in running family business while father Tilman is away - Houston Business Journal Howl.Link</description>
-</item>
-<item>
-<title>China’s Didi Posts 57% Jump in Revenue from Overseas Business - Bloomberg.com</title>
-<link>https://news.google.com/rss/articles/CBMisAFBVV95cUxNNHdzQVdwdVBDaVBSZElhaVN6a281RG5xTHlBV2x6d0ZwSUZMdGNkbmplRmxWeUFWT2xGY0JQcG1QU3VwdmdwZEQ3akhTaV9paUh2X2JLNUt6YmRMZ2tOc3NDX2xqMm1LY20yS3I1cDNQbTJnbWZIWEltNnBhaEpDejk1dzU3UXEwbXkzLTZiR2l6bnRpeVJkc0s2TUk0ejl5ODVNWkxSTmJZR1BlSkJvag?oc=5</link>
-<guid isPermaLink="false">3c3b7e755633a1594220f1076a82fe9d176bd44d6b9ba34df643ed6a10e5fb1d</guid>
-<source>Google News Business</source>
-<category>business</category>
-<pubDate>Fri, 27 Nov 2026 09:55:15 +0000</pubDate>
-<description>China’s Didi Posts 57% Jump in Revenue from Overseas Business Bloomberg.com</description>
+<pubDate>Fri, 27 Nov 2026 10:06:00 +0000</pubDate>
+<description>SpaceX's AI Business Is Now Nearly Half of Revenue. Here's What Happens to the Stock if Google and Anthropic Both Renew. The Motley Fool</description>
 </item>
 <item>
 <title>Admiral: Money Business Builds on the Group’s Core Strengths - Morningstar</title>
@@ -634,33 +1014,6 @@
 <category>business</category>
 <pubDate>Fri, 27 Nov 2026 09:38:03 +0000</pubDate>
 <description>Admiral: Money Business Builds on the Group’s Core Strengths Morningstar</description>
-</item>
-<item>
-<title>MORNING BUSINESS REPORT: Christmas tree prices, 88% of Black Friday shoppers use AI - WFSB</title>
-<link>https://news.google.com/rss/articles/CBMitwFBVV95cUxPZGJhY0FpMzdmamNxcUxRbnR3TWVtVnN2YUFGWU9Fa0Qtd0ktNWdlR29YbHNHNjVJY2N1MUJCdGYwdy1NRTlhVjdJMjFKYVNZVVBGRXprbWtDclVHUmtlVmk3V1lYZzRobkxWU1BCdWpwMDl3bHBJbExyQVhSQlozQ1lfTmQ2QTJtMW5WU1NKblhPR19jajRjcTZsV1E4RExENVM4RUlXdEVESjl1T0I4X1BhdWl3WGs?oc=5</link>
-<guid isPermaLink="false">289a34af089326306a87e02c51d58c503acf890fc2c94704a48742de374e2b2e</guid>
-<source>Google News Business</source>
-<category>business</category>
-<pubDate>Fri, 27 Nov 2026 09:36:01 +0000</pubDate>
-<description>MORNING BUSINESS REPORT: Christmas tree prices, 88% of Black Friday shoppers use AI WFSB</description>
-</item>
-<item>
-<title>The vehicles that shaped Waymo's robotaxi fleet, from desert racers to luxury SUVs - Business Insider</title>
-<link>https://news.google.com/rss/articles/CBMijwFBVV95cUxQZThJY0FIWE5EYW95R1ZrV18tbjJMMjYtclVrdUZhd05fbWRPZFFsRmg2dEdnU0xWa0pMZnV5YTRIUW4xbkNsNGx6THluUWluMFl5S0JmdFBZSkhxX0ZNb3JWX3l5RmlNR0F1Z3pPbXNXZVJfeWhHTFZVS19hRDk3TEtmRmRpbFMwX2VqdUZYaw?oc=5</link>
-<guid isPermaLink="false">6fc338c4eed275e131e6fc76b19506d6960624c1de913f9088ec7d1dee16e285</guid>
-<source>Google News Business</source>
-<category>business</category>
-<pubDate>Fri, 27 Nov 2026 09:11:00 +0000</pubDate>
-<description>The vehicles that shaped Waymo's robotaxi fleet, from desert racers to luxury SUVs Business Insider</description>
-</item>
-<item>
-<title>What a Small Business Plans to Do With a Loan Says a Lot About Its Growth - PYMNTS.com</title>
-<link>https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeHNGb2tzVWVTQ3REWkVvcmFLWk9ZZnRwQm1XZGJiN01FT3JSWXJlaW5RYWR2d2FPc25GZHkydlJDMzJpZ01lR08wc2JVRzBQWGFFZ3YtaHdacUhoU1lEY0Fyam5kd0tmaVgtVkJtaUw4Um9FaEVuNGJYbDNYaklTNlB5b3NuZUJKcGpBenhzVWJ3S1k5V0VlM2RCZl9samRCY1IwbnVkeDhhQjA?oc=5</link>
-<guid isPermaLink="false">14c147453ca98be8e847c5644c2268e20b9de672c4731e5b2ec16846f32cef70</guid>
-<source>Google News Business</source>
-<category>business</category>
-<pubDate>Fri, 27 Nov 2026 09:02:11 +0000</pubDate>
-<description>What a Small Business Plans to Do With a Loan Says a Lot About Its Growth PYMNTS.com</description>
 </item>
 <item>
 <title>'We're scared to turn our heating on'</title>
@@ -674,69 +1027,6 @@
 <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4f07/live/17f8a980-ea33-11f1-99a1-253766e7ad8b.jpg" medium="image"/>
 </item>
 <item>
-<title>Business Front Page for Nov. 27, 2026 - The Spokesman-Review</title>
-<link>https://news.google.com/rss/articles/CBMiaEFVX3lxTFB6amc3YXFObHBpQmpnQS16cE9ubXRWWjVmQkhHT0dHRFJYVU9EUXlrbGNYRlBGbG1mdDlsQmNwWk1ocHpTdDdiSEQ3RVFTTk9hZ1A5dG4tcTI0RWd2MkViRkRvaUJxTVJw?oc=5</link>
-<guid isPermaLink="false">15aeac06cf3c1372b513e9cbf5e9bd74b97f787f6537fca9f4b6300d05ee6f83</guid>
-<source>Google News Business</source>
-<category>business</category>
-<pubDate>Fri, 27 Nov 2026 08:20:50 +0000</pubDate>
-<description>Business Front Page for Nov. 27, 2026 The Spokesman-Review</description>
-</item>
-<item>
-<title>Pacifica business opens and cooks Thanksgiving meal for those in need - ABC7 Bay Area</title>
-<link>https://news.google.com/rss/articles/CBMiUkFVX3lxTE5JVExtZmVMTXJBdFBzUklxUThuWmY4MEM1aDZfTHdWR29SdmE0REltdzNybEVNZVNTT2pzTzFwU05QNGtETGY0cjBPRlZsQUUtTkE?oc=5</link>
-<guid isPermaLink="false">27bb6cf74fa7b22ae2b48b9d647fe2cfbbee17ed6b96eb425e6ec23d6324aa8f</guid>
-<source>Google News Business</source>
-<category>business</category>
-<pubDate>Fri, 27 Nov 2026 08:09:32 +0000</pubDate>
-<description>Pacifica business opens and cooks Thanksgiving meal for those in need ABC7 Bay Area</description>
-</item>
-<item>
-<title>MIDDLE EAST TAX ALERT | UAE | e-Invoicing Guidelines V2.1: The Changes That Matter for Business - Alvarez &amp; Marsal</title>
-<link>https://news.google.com/rss/articles/CBMi2gFBVV95cUxOTEhOdnQwUXl4eHJZVWNvZ3ZuYzc2R0hPcGRkQXpxUDc0Y1VGeTJwYUN4NkNPWFJLNU80T3BySlc5NEx0WWxITGtPRndseHNuQllTeFRsV3VrOGoyelc5d1FRUkx5NHZxajI4bnNnVndZSzBnbjUxUzBKT2hIaFZNNWF5dWJCX0ItSEhHUlVnVEluUExGWXpIaE1US1N3RmpBQXZBZFhaWHdYbEN0SUhicHBpck5hcmM1OG9CakhzeHpuODQ2c0E0TXBWS2VNVVRlZkY4TEY3MjFJZw?oc=5</link>
-<guid isPermaLink="false">228195c7d0fa563784f779f77ae942d9cc4da78aee75cc52dfb791ca896eda06</guid>
-<source>Google News Business</source>
-<category>business</category>
-<pubDate>Fri, 27 Nov 2026 08:02:06 +0000</pubDate>
-<description>MIDDLE EAST TAX ALERT | UAE | e-Invoicing Guidelines V2.1: The Changes That Matter for Business Alvarez &amp; Marsal</description>
-</item>
-<item>
-<title>'A golden age for builders': Here's what business leaders are thankful for this year - Business Insider</title>
-<link>https://news.google.com/rss/articles/CBMinAFBVV95cUxNZXd0SmRLZDBfOUpnZ1g1M3dHZzhkMkZWdW9ET2p6bkxENnNESDF1UHRPOGo1NHlBLXNPa3U1aWRTX09OUDd5OGpUdVBnYXJkRDU4YXdIR1IwdmNDcHNEVGtjQ0NEVWVzUl9hSnZCSTVOR215bmhUbzZCR1pJRkVDeGVrN3YyamVZazdjcnVKV3pxUEloOUl6a3JzbGM?oc=5</link>
-<guid isPermaLink="false">8a43550b30ddaa676e76862d700cd9b4e572f0fb60a9f4a6c4d4adb8940e9138</guid>
-<source>Google News Business</source>
-<category>business</category>
-<pubDate>Fri, 27 Nov 2026 07:52:00 +0000</pubDate>
-<description>'A golden age for builders': Here's what business leaders are thankful for this year Business Insider</description>
-</item>
-<item>
-<title>Europe joins global stock market rally as AI trade rebounds - business live - The Guardian</title>
-<link>https://news.google.com/rss/articles/CBMi3gFBVV95cUxNTVJ6em5seEtrb1dnM2RzUzlmTmFWVDRjUC03b2V0bjh4c05jZzMxRVlNektCM0xfZ2k0UEFzWjl6bHpTWmxvc0hsQWYyTlhpQVFUbmpzMmZQby1TUFNSRUw0dFQxN19SQ0YwUi1yaVZPYW0ybnNLN25JbW9OejI0SU05NUVqSXJCcTc4b2Vzbk1hcHc3bldFSXF3aEsxbzc1M2Q0RmFwclVVOHd2allNY1dDRU1KMl9rQmhpeFZSTFJ3cWZteHlualkxX3FpcWdjSUxkLWhFbmhsMlQ2MEE?oc=5</link>
-<guid isPermaLink="false">091677158be019274a188864d75aa755957293299d2f64c05a8b838d5c803c70</guid>
-<source>Google News Business</source>
-<category>business</category>
-<pubDate>Fri, 27 Nov 2026 07:47:00 +0000</pubDate>
-<description>Europe joins global stock market rally as AI trade rebounds - business live The Guardian</description>
-</item>
-<item>
-<title>Don't forget local business during this season of gifting - Sandusky Register</title>
-<link>https://news.google.com/rss/articles/CBMioAFBVV95cUxQdW51cHhIOExZSXZ0MndUMndHdHRxX2trUkNMUXRNNXpyTklhY3RWb0pXQ2RUY2pRaWhxQ18xZkRRa1FZcXFhQ3A2Q21zSmFhSmI4X2tLNHdhQ1lHc0NtY1Z5VWJCVjd2b0tqM2s3WFVkZUNqNXZYbWR1U1RjbWFUMkZCNngwdjhSelBFd3VrQ1ZXb3dDYUZ0b1M0OFUwUG4x?oc=5</link>
-<guid isPermaLink="false">8ab72f86c6678aa11d6279332422920c638bab1b129ea23cf8dc7156ea6b4c9d</guid>
-<source>Google News Business</source>
-<category>business</category>
-<pubDate>Fri, 27 Nov 2026 07:00:00 +0000</pubDate>
-<description>Don't forget local business during this season of gifting Sandusky Register</description>
-</item>
-<item>
-<title>Spring Mountain businesses welcome Thanksgiving diners - FOX5 Vegas</title>
-<link>https://news.google.com/rss/articles/CBMilwFBVV95cUxPUXk0MWV3Y0doN1dPSUFwQ25wTHZFb3l0NlcwcVFWdmRMZGRlVklKa1BFenVnMlB3aGtGT0QtcDlqeU1NdU0yLWtfcWkwbFVySFU3dHdsRUZmaksxMmx4Uk9yVFByXzhtdG41MkJLSDJIc1lEZUtUcTFhZGw0eTZmYWlVcHJmR010T2U0NVl4TFRvOWtSQ21B0gGrAUFVX3lxTE5zX2tUY1YzMkdycS1SZlFsUm9iZzY0enZHTXp4Z3ROUG9PTEpfQVFmdGtHb0M4alBOTXg2YlhvclI2SW92cHVJLWVPY3BUUXRTTl9xaFJKTHRNMVBpZzV0Y1MzekVKQ3ZQWm9OeHptYy1IYWRKZzR3WDFzSnJKZUM4ZmlGNnJTZE5LNVhZNHFBZFFhU1NvVnhZdkFYWnFBcmFJTDhGY0hDNTYwSQ?oc=5</link>
-<guid isPermaLink="false">ae912dfa49dc751c31b01091bb16994ef58bca78c4d5adeee4f4793bec29c4c9</guid>
-<source>Google News Business</source>
-<category>business</category>
-<pubDate>Fri, 27 Nov 2026 06:45:00 +0000</pubDate>
-<description>Spring Mountain businesses welcome Thanksgiving diners FOX5 Vegas</description>
-</item>
-<item>
 <title>Small Business Saturday Marks 12 Years Of Doing Business For Anna Dillane And Boomerang! - Los Alamos Reporter</title>
 <link>https://news.google.com/rss/articles/CBMiyAFBVV95cUxNclphNmxOVV92T0NuMlAtbGtNTjI0QTVjWFpubmlGUWxWaXBvVVBmdmlJb0ZLUnpSa2h3UWlnbjZKNkxGWTJGSXpENTBPaDdJUTZDRkpUQzBOMm5wNTZzNWJXMUUxb3lQVHVkQXFxRGk1TWc3ZDNiUmxWY1l5TG56RUgxWDVNMjB5M1R4MTVhRHBwUTZKZGRTT1IxZnFMRURFcFpTSmZCbUtJTnRSaEg3SmR2akZIMFhjS1dudkJLM0wtT01PYXdGRA?oc=5</link>
 <guid isPermaLink="false">5eec8183854b2db55dee53aa9240176231be2284f52dca886457157f64a05d83</guid>
@@ -744,15 +1034,6 @@
 <category>business</category>
 <pubDate>Fri, 27 Nov 2026 06:39:58 +0000</pubDate>
 <description>Small Business Saturday Marks 12 Years Of Doing Business For Anna Dillane And Boomerang! Los Alamos Reporter</description>
-</item>
-<item>
-<title>Young Americans are counting on stocks to build wealth. One economist says there's a catch that could kill this plan. - Business Insider</title>
-<link>https://news.google.com/rss/articles/CBMivwFBVV95cUxPQUxtWXlMQkNrbEthWkpUeTQwWkxGRk15b2c5S1RRZGQxVkVvM3VYbnVmNVJObUh6amJEUUJqQk9jTk1hUlYtNTJuNVc1cG1DdUpnT25zc3hRWVlndjVTc3JzWktjcVZEQTkwR2p4dkVWNXAwR0l3Vy1VUzdSU3VtSkFnZW9ZQXpnZE56bEdSZF9WcnVsSExxRk1Mblh6Vk9kdzRuZ3lldlZPVjlCdmRaczJGMG1Hb1dsMzdCR1ZjSQ?oc=5</link>
-<guid isPermaLink="false">75785275208059424b4127d6191c9b81f630f58be97ce1ce59bce343ce3b9f84</guid>
-<source>Google News Business</source>
-<category>business</category>
-<pubDate>Fri, 27 Nov 2026 06:25:00 +0000</pubDate>
-<description>Young Americans are counting on stocks to build wealth. One economist says there's a catch that could kill this plan. Business Insider</description>
 </item>
 <item>
 <title>How much is your rent in Birmingham?</title>
@@ -777,132 +1058,6 @@
 <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4f11/live/dbde7460-e984-11f1-bb43-d1b6102e3b60.jpg" medium="image"/>
 </item>
 <item>
-<title>Covington invites Northern Kentucky residents to shop small during Small Business Saturday - Northern Kentucky Tribune</title>
-<link>https://news.google.com/rss/articles/CBMizwFBVV95cUxNZWVQS29yX1RpdUFPTTFiWk8xTlZmVXlIS2U2dVpPWmFOdHh4QTlhbzF6NHpSc0NNWTFuOU8weE1mTFlXZm9LcWZ1N0V3MjFLR1RRaGhGMC0tRjlMd1A1eWFOaWZ1R25SejZVZ1JKRmhCcng2cmluTmNvYkFsSGxZX1F6dWdfQ2VlcGNRZWoxQ1JvRFR1R2tVdlVWT1gzZ01QNEtWOGRvWXlpQzJHaUU4c2dVWFYySXA1RExTZFI4ek13WjlHanEwUkZsbkhIRE0?oc=5</link>
-<guid isPermaLink="false">241eb4b1c0b8a677aa109c2d7230f18b0e0c9f442b6b8a40ffdfa79ffe5e74a7</guid>
-<source>Google News Business</source>
-<category>business</category>
-<pubDate>Fri, 27 Nov 2026 05:42:43 +0000</pubDate>
-<description>Covington invites Northern Kentucky residents to shop small during Small Business Saturday Northern Kentucky Tribune</description>
-</item>
-<item>
-<title>Businesses open on Thanksgiving, and the customers who show up, find unexpected rewards - NBC Bay Area</title>
-<link>https://news.google.com/rss/articles/CBMihAFBVV95cUxQMExWTllZN3JsYUhDM0RBVUdKRlA0NjFsWGRtZnhQbFNuX1hST3Jub2hqSVV6ZTlfYThiWTA5QlRIUktIZGdoSjdRdnpJclhvdFFjakNhUjhLSWxCUmF3QmZjenNrVEFTVVp3RkdqOXZTZV9WN3NZako1WDRYYlhQTEtvN0_SAYwBQVVfeXFMTzZNV1pYcFRZTmE3S1lMZ1JtWUJJNVdxbHVfZHZZdG01TDN6cTFsWDNvdlRlQmJyWW9GUEliTWZWS3h0dW5XRGt3SzNYT1dKWlBNRU9OaDJncE1zbXpERFB1VWxOMjhGUzFIUEw4SWhmaVhFalNreGUxNXJnU3lDZG1iTGp2c1FwandjWG0?oc=5</link>
-<guid isPermaLink="false">c5ed983c8e1e1b1d0914419af4cc3aa3970f9bdf69aa79acee0f6dd043be322e</guid>
-<source>Google News Business</source>
-<category>business</category>
-<pubDate>Fri, 27 Nov 2026 05:37:31 +0000</pubDate>
-<description>Businesses open on Thanksgiving, and the customers who show up, find unexpected rewards NBC Bay Area</description>
-</item>
-<item>
-<title>Eagle Rock business owners push back against Metro rapid transit project - NBC Los Angeles</title>
-<link>https://news.google.com/rss/articles/CBMikgFBVV95cUxPM1lxVjNIdUlGYUJKNnEtWjFBWTlucmNhMHFGNHpTek1Vd2tWaTlHNEoxV3lrTEthYmJFdlFTcGtlSnBGRGFkU3kzaUhoRjVYSHZ0aXF5V3hGY1lHdEw2VFpNZW0xVmxRamdOSWRqbm1sMUUxZDRoeWVzTFJsZDRUOWlmU2tiSE15eVg2bEVKODlRZ9IBmgFBVV95cUxQaE8zS0dzZ2ItTUdpazczOWFhdEQyam00aDVlM0pDbkFhQ1R1YlN1MVV0MW9Fck5CUzNraU1vN2VfV3ZEMkFqM2NkTDVkS2wtV2JCQ1RZRE04ODBQRmY4N1FHbzNkSnNzVUk5ZE8wR3JEMjNibHJ1OW1qOTU0ak14VUQ5Q1VGNTNBcEpzOVdpZ0xYNnB6ZXFtZXRn?oc=5</link>
-<guid isPermaLink="false">7a6613c35ab014462a0805cf9642f456152c8b4eafb5967911949b45067e268c</guid>
-<source>Google News Business</source>
-<category>business</category>
-<pubDate>Fri, 27 Nov 2026 05:32:39 +0000</pubDate>
-<description>Eagle Rock business owners push back against Metro rapid transit project NBC Los Angeles</description>
-</item>
-<item>
-<title>Introducing Long Island Business Influencers: Environmental Leaders 2026 - Long Island Business News</title>
-<link>https://news.google.com/rss/articles/CBMiogFBVV95cUxPMXhfWThsN25FeEFlTWJ6SkZHNE5EN1ZJSksyMkpFM2pleENtQ1VORmVoblBzRjNrZWV1ZmdySHQ2SHF0eU9jdjJsZW9WcWoyWTFaVXRJV3dQeHA0YmRrbjJhNjFOZlBhdko2aGNXcHJhWEZCV3RzTE9WeXR3NGJOU05QVUsyMEpWOC10TXViVmtPV0xqYlZHZnNDNHJacm1GeVE?oc=5</link>
-<guid isPermaLink="false">1155092202b55bd10323f95828db88513dfddc2b1b4e9b42d1e11c395471aa18</guid>
-<source>Google News Business</source>
-<category>business</category>
-<pubDate>Fri, 27 Nov 2026 05:28:10 +0000</pubDate>
-<description>Introducing Long Island Business Influencers: Environmental Leaders 2026 Long Island Business News</description>
-</item>
-<item>
-<title>Advent Calendars Go From Religious To Secular To Big Business This Christmas Season - Religion Unplugged</title>
-<link>https://news.google.com/rss/articles/CBMiyAFBVV95cUxOZHp6MTk5MGxSdFM5TWtnMHp6c00tQUVPSlpMQndmejdkTXYzTGVwWGxWNm5JdUFYVjZzTURxeU5jMnNDN0RqdzhncV9JeGk1Y2xjanY0QUI2WDhIZ2JBbnc3UHE1QnhNLWRpZmtLXzRCNV8wMklFYXRvQklTQXBvSGxlUGxhY3N2Z1ZnazlYcVRKUVhxWFFPdmhSSUJLZW1PakRVVElRdU1aQ3Y2Xy1icUdRRVFfNEFvU0VraTVmM2ZsMXFZMnBrSg?oc=5</link>
-<guid isPermaLink="false">ce0028248abbaa43cd0df4457c27df2db2984da5b89a9ff72e8920768a5dbf55</guid>
-<source>Google News Business</source>
-<category>business</category>
-<pubDate>Fri, 27 Nov 2026 05:01:00 +0000</pubDate>
-<description>Advent Calendars Go From Religious To Secular To Big Business This Christmas Season Religion Unplugged</description>
-</item>
-<item>
-<title>Win a Small Business Shopping Spree! - WHAS11</title>
-<link>https://news.google.com/rss/articles/CBMixgFBVV95cUxPQXF0VmNFLVp3ZW8xZURoVTgxV1RxX1JPcnZ5eWhla3ZyVmE0RTJLWnB1aVBUdmJ4dkZiNUhIRGphWmRFV0Z5MldqNWtaZklkekpiTXh2Z1BqWC1kSjRaVUdIMDZZRlVUWV9XQXpfYmRhbFNmYmdMQlo5UnpqUkhndnZYcGRtNVdKSDhMeGhSbF9XZkY5S09ubUx0ZndDQ1FJeHQ4S00zTXg3cjlBeTFHakk0eGt6bTVvSWIwV041UHZORm9hQWc?oc=5</link>
-<guid isPermaLink="false">b007d98d701a7cf4bbb5ab6f96cb5736539bd9c8922a2638600f6d990f9bc4fd</guid>
-<source>Google News Business</source>
-<category>business</category>
-<pubDate>Fri, 27 Nov 2026 05:00:00 +0000</pubDate>
-<description>Win a Small Business Shopping Spree! WHAS11</description>
-</item>
-<item>
-<title>Gulf Coast Small Business Lending Ranks in the Top 4% of SBA Lenders Nationwide - Yahoo Finance UK</title>
-<link>https://news.google.com/rss/articles/CBMiigFBVV95cUxQV1JFOGFkdno0S2k1c1FtVDQwdHpYcVhPbzBZNUcxTDZSYlJod2hDN19zUHB0bTItdE5BcXBTR2VYVUhMMmtlX2VJSjdmS3lyYmo2UENKU3JwZkJzbG9tYXdVWEw3SEFkbm5Vc3Y1dnl5MDQtNDFBM3loUmEybnFiNkVmd2RqeW01Unc?oc=5</link>
-<guid isPermaLink="false">5cb3fbf5b71b76beb5cacf936bc20f33e055126cbbea8cdae546d974f3a13b33</guid>
-<source>Google News Business</source>
-<category>business</category>
-<pubDate>Fri, 27 Nov 2026 04:59:00 +0000</pubDate>
-<description>Gulf Coast Small Business Lending Ranks in the Top 4% of SBA Lenders Nationwide Yahoo Finance UK</description>
-</item>
-<item>
-<title>Southern Indiana business owner accused of illegally selling prescription drugs - WLKY</title>
-<link>https://news.google.com/rss/articles/CBMiqgFBVV95cUxNcFloblNHTU5OOXNDbTJIYUkyWDV6dkZYbi1hNnpNQ0haSFdmZnJ4OHpWNzdwTklqbVNpdE9tMWxubGxpeDlKMUd6UVgySFN0NWg5TzFZcHRtVzVvbXZzenFNcmxoWFdzd1lGMkg3OTNNZFdlNnJYV09fYXhpZ2FaMjUtQ2JsZk5DUzlYTDFiSnpxdWpEeENDZ0ZlQlYyS1ozR183dmlnRFlZZw?oc=5</link>
-<guid isPermaLink="false">317fd8059bd95360d946a141c6efb29b186d5376669cc9bc9ee840914761f7d7</guid>
-<source>Google News Business</source>
-<category>business</category>
-<pubDate>Fri, 27 Nov 2026 04:20:00 +0000</pubDate>
-<description>Southern Indiana business owner accused of illegally selling prescription drugs WLKY</description>
-</item>
-<item>
-<title>Sidney Anderson to lead AI in business education at Texas State’s McCoy College - EdTech Innovation Hub</title>
-<link>https://news.google.com/rss/articles/CBMiuwFBVV95cUxQejBFN0RFdURuR2NQTmNTeVYwOXdabWdlQUhSY2VMVjE1NVRMYXVsekRZTThyQzBNb0JteU05aFNEN3JDNHNCVmFWM3k3Rmx5WkdHeFZEdDJDU2tqRHRFNVMyU09WSlBHclQyd3lFUk5seV91OWtacUNhdEU1Mmw5OUdBUDk1SUlONkwxRjBwNllhU2FsMlBrZHNRSVEwTnYtOVVDS09wVmxrR0cyTTJMTlBSR045T1pGZ3VV?oc=5</link>
-<guid isPermaLink="false">9d752dc36e35153770f8c29b26e1712a028abdee7263a002d9f217abc27462ea</guid>
-<source>Google News Business</source>
-<category>business</category>
-<pubDate>Fri, 27 Nov 2026 03:54:39 +0000</pubDate>
-<description>Sidney Anderson to lead AI in business education at Texas State’s McCoy College EdTech Innovation Hub</description>
-</item>
-<item>
-<title>Coming alive: Downtown Hollidaysburg thriving around local small business environment - Altoona Mirror</title>
-<link>https://news.google.com/rss/articles/CBMi1gFBVV95cUxPaFEyeUpJaUc3RXJ4LVFoMXJtYXRYR3hxMkQzYTNoUlAzTTR3ajI1ZHNhaHoybjdsNE4xZDlTZ2hMdmVja3FQbjR0N295aTBhQ1FkM0FGbFUzSGVkZmNVLV92dVRFMm11OWxPLUVRZWV3U0Y0Yko2c084T3dIbFZuZENCNU1URjExdnQyMTBDa3l4U0wxNHFId0FKMHVqU2JHSGotUko3MGtDVXdxNEQxNkliYllxaDM4SlFtWWxweUh2N3hXUDRkNFZOYzVHbm9BS1drR0tB?oc=5</link>
-<guid isPermaLink="false">be32d5119dfd7b456c2ecb8730d9a85d9799c76d0aa5a1e85ee76f2fe5d36743</guid>
-<source>Google News Business</source>
-<category>business</category>
-<pubDate>Fri, 27 Nov 2026 03:48:50 +0000</pubDate>
-<description>Coming alive: Downtown Hollidaysburg thriving around local small business environment Altoona Mirror</description>
-</item>
-<item>
-<title>Merry Mobile bus connects Orlando’s Main Street districts on Small Business Saturday - Orlando Weekly</title>
-<link>https://news.google.com/rss/articles/CBMizAFBVV95cUxOdjYxWnJJRlo5el9USDlTUS1VNXBaYV9JSDVLRFkzaFJRNDRrUHpJd0VOcmFMQ1MydHJnQ0ZXWEZhY3labTBnazI0NmJOVlpLMk1VX3YyVE1VS3FPeGh1bzZ6bVF5U2JURFMtZ1ZUdS15MXJGOF9seS1SYlJsSmVnZEpKNldYeldQU3ZFb0tiMXA1NFZYNTNvNkI1bGFDZmhLdlk5V1dib1JLbjlPSnp3UklfSHhSRUdkNFhfNXhCazIyeDQ1c2lXdWhkZm8?oc=5</link>
-<guid isPermaLink="false">414b509e9b1ca44e3f5a87702fce478159e335e4c07eb105da4e98345fadb269</guid>
-<source>Google News Business</source>
-<category>business</category>
-<pubDate>Fri, 27 Nov 2026 01:37:21 +0000</pubDate>
-<description>Merry Mobile bus connects Orlando’s Main Street districts on Small Business Saturday Orlando Weekly</description>
-</item>
-<item>
-<title>Storms disrupt Thanksgiving with flight delays, over 960,000 power outages, and a Delta ground stop at LaGuardia - Business Insider</title>
-<link>https://news.google.com/rss/articles/CBMifkFVX3lxTE1WekdzVi1ZVy1ZSVJydTIwUV9OU1pkUFVPOFp2Uld1V0VYS3IyaklYU2NrM2ctdFliNXlYbXpzS0ZRLXVueHZDQ1JzdlpXTElCbmlnOHpMbnNfTnhwT1RPMUFzUWtGampzcjAxdWJMaEhyLTZKaUJzdjJjcnlqdw?oc=5</link>
-<guid isPermaLink="false">6eac1db7b8a5c2d8123b7789ebe154d0dd2b8832d1c6423724f79e8c881dde3c</guid>
-<source>Google News Business</source>
-<category>business</category>
-<pubDate>Fri, 27 Nov 2026 01:34:00 +0000</pubDate>
-<description>Storms disrupt Thanksgiving with flight delays, over 960,000 power outages, and a Delta ground stop at LaGuardia Business Insider</description>
-</item>
-<item>
-<title>Cognition CEO Scott Wu warns that more data breaches are coming for US companies and institutions - Business Insider</title>
-<link>https://news.google.com/rss/articles/CBMihgFBVV95cUxPSjVKSVJEUDNKNktMWXdkTlRpQWhwcVVnTXlSaWxSMXdCY2NzY29sbFBJTG43c2xSVkRoWDZ1ZU1GZ0E4MDYwcFRtb2d0ZzN2clk2dXNTVnVJLWtXdm9KSnB5c21TZURpV3UycDJCWWlScmNCeFlZdTA3Ykxxd0VnRG1vS29aQQ?oc=5</link>
-<guid isPermaLink="false">08185c62d8d148a4335a98b414325d715cbb690b77ce21a68ff2326c85c629cf</guid>
-<source>Google News Business</source>
-<category>business</category>
-<pubDate>Fri, 27 Nov 2026 01:17:00 +0000</pubDate>
-<description>Cognition CEO Scott Wu warns that more data breaches are coming for US companies and institutions Business Insider</description>
-</item>
-<item>
-<title>Small Business Saturday highlights the impact of shopping local in Northern Michigan - 9and10News.com</title>
-<link>https://news.google.com/rss/articles/CBMiwAFBVV95cUxOV2NCd2Uzekc5RTdyMGQwVExYSW1xbG9oRW51dVhRRkFJRUszbXFzdmpjZFdiamVwcVFWZ2pwLWJRS2x5MWxvWEVmZ2s2U3YtWkV4YWNOVzRyYUpzUS1CbGY2TkxKZGdURHU2cW8zTE96T2U2dTVlSEs2d2tISi1admszOFRVS2NYR1hPTGtYY2djb2dtR2RvdkVwX05qbVpRdmVUaEl6eWp6c0NpVE40Um5Wd2puU1A1YTlBbkZnTEY?oc=5</link>
-<guid isPermaLink="false">0b8e048fc95c73c5ed951a79b34e1b10003fcfb9ca49d761769bcaa765dcc242</guid>
-<source>Google News Business</source>
-<category>business</category>
-<pubDate>Fri, 27 Nov 2026 01:00:00 +0000</pubDate>
-<description>Small Business Saturday highlights the impact of shopping local in Northern Michigan 9and10News.com</description>
-</item>
-<item>
 <title>From £250 job to £9,000 bill: Inside the rogue trader networks scamming customers at scale</title>
 <link>https://www.bbc.co.uk/news/articles/c65yme31k7m2o?at_medium=RSS&amp;at_campaign=rss</link>
 <guid isPermaLink="false">084cf0ac26b9ca2071f471bef55622331f96b6b00d179f29982ef2fa008face8</guid>
@@ -912,15 +1067,6 @@
 <description>Networks of plumbers and electricians are scamming people on a large scale, the BBC reveals.</description>
 <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3451/live/fbe22210-e9cb-11f1-99a1-253766e7ad8b.jpg" type="image/jpeg"/>
 <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3451/live/fbe22210-e9cb-11f1-99a1-253766e7ad8b.jpg" medium="image"/>
-</item>
-<item>
-<title>He chose culinary school in New York over a master's in engineering. Now he runs his own restaurant in China. - Business Insider</title>
-<link>https://news.google.com/rss/articles/CBMiogFBVV95cUxPcDFyeXg1cXNkcGFvclhoeEZUYVRqNUdZX3UyNV9sb1oySm9QSXFKOGtCc21UcHdKRUJLTC1OTFloOF9wbmVxZXNlTThydmhFQkxzSGZnSWVwOVVfTlFKa2I5SW11SjBtR01feFZ0dmlnLVdVVTRfOTVmTVRRZGVqd0cwQW9LMTdNNkQyM2szU1dyVHlqVjZib0I2WExPek5yRkE?oc=5</link>
-<guid isPermaLink="false">4bf1e4bf94ef98a64eecd61acff4153bd95402129f07f322530b48c7cbb58e0f</guid>
-<source>Google News Business</source>
-<category>business</category>
-<pubDate>Fri, 27 Nov 2026 00:14:00 +0000</pubDate>
-<description>He chose culinary school in New York over a master's in engineering. Now he runs his own restaurant in China. Business Insider</description>
 </item>
 <item>
 <title>Why is there a shortage of 'wizard' elevator mechanics?</title>
@@ -934,22 +1080,15 @@
 <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8c0e/live/0c8a5940-e7e0-11f1-99a1-253766e7ad8b.jpg" medium="image"/>
 </item>
 <item>
-<title>Business Spotlight: Crystal Nail Spa brings custom holiday glam to Schofield - Wausau Pilot &amp; Review</title>
-<link>https://news.google.com/rss/articles/CBMivAFBVV95cUxORXNzNFZid3k4Uk1CMTh6R0N0Y3NaRndxYzBHems3TU1jc3VFMndwRXdzbjFDMW9mRWVxQVJJTERGdnRhaXgyamJXR3hLU0pEbV9jcXR1d2NvZURxaU5XQVMyaGYzWnlNMVZMWUVaZVQ0NlhYT0MzQjUta2hJR2RGMGRmTlpoSWpMUmItUGZkZzFMYmNFY0pYRDdnaEh2VW9mUFhnRkUyQ1pwYlhuMkV2dXg0Um5SS1dxOUtMNQ?oc=5</link>
-<guid isPermaLink="false">1048d546847c0ecd05c49ca0f4b58562849d6ca27798552cd40d108a08dc1a6c</guid>
-<source>Google News Business</source>
+<title>UK to pay 'participation' fee to deliver EU deals</title>
+<link>https://www.bbc.co.uk/news/articles/ck2057x387ego?at_medium=RSS&amp;at_campaign=rss</link>
+<guid isPermaLink="false">1a9b026564aa8b016c71b7c051321fd6b3581e8bbf467b74785c0e2a71f3ad1c</guid>
+<source>BBC Business</source>
 <category>business</category>
-<pubDate>Thu, 26 Nov 2026 23:52:52 +0000</pubDate>
-<description>Business Spotlight: Crystal Nail Spa brings custom holiday glam to Schofield Wausau Pilot &amp; Review</description>
-</item>
-<item>
-<title>‘It’s a very magical feeling’: Annapolis businesses ready for Midnight Madness - Maryland Matters</title>
-<link>https://news.google.com/rss/articles/CBMitAFBVV95cUxPakNCOTFSMmNuWlhMZ01PSjQ2VnFKeDNEa2Y0dWYtQjRILWhWZjR4UUhXUkdCVEszTWFRNlZDRHlPdnA0Vk5oazREeTNjS3lYVUNUWnRPS2FROXNFNXE5Y05OZGpQeWh1WnAxSTlFX1R2bWROaGNPc0tDNTdzY19xSXRHN0pWUXlUY0lKSHdZbFZVaFkxZ21vd3dZcS1jS3oxaHdEaDgydjdRbFcyc2ZZSFpsd3o?oc=5</link>
-<guid isPermaLink="false">65f73f75d0aa21a3c5214c0de2e91526893466434032e7b4ef0288e4936abd0e</guid>
-<source>Google News Business</source>
-<category>business</category>
-<pubDate>Thu, 26 Nov 2026 23:11:42 +0000</pubDate>
-<description>‘It’s a very magical feeling’: Annapolis businesses ready for Midnight Madness Maryland Matters</description>
+<pubDate>Thu, 26 Nov 2026 23:17:12 +0000</pubDate>
+<description>Details of the contribution towards EU running costs have been revealed in new legal documents.</description>
+<enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e264/live/8e58c180-e9e5-11f1-ab41-f1f84c0c758a.png" type="image/jpeg"/>
+<media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e264/live/8e58c180-e9e5-11f1-ab41-f1f84c0c758a.png" medium="image"/>
 </item>
 <item>
 <title>Asia made a big AI bet on Nvidia. What happens now?</title>
@@ -963,33 +1102,6 @@
 <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2c76/live/9f54a560-e956-11f1-a629-63e812fa871f.jpg" medium="image"/>
 </item>
 <item>
-<title>Support Sacramento businesses by shopping local on Small Business Saturday. Here’s how - Sacramento Bee</title>
-<link>https://news.google.com/rss/articles/CBMiakFVX3lxTE1pUG1hLV9ER1d6NUJPTUcxMUY5eU9KOHROaEVMM2Jsd01zQlF1LVVFT0hjVUREaU1fYmNLanVsSFpzRExUTEdJdVNyS1J2dFlMRHhzZ1U4R3F2Yjgtd2lwY2lHbjFLTG5Hc3fSAWpBVV95cUxOMTJKMnZSOE5yMWw2TzZUY01FNHdza3BNeWJNNnVUSXI2MmlBbVh4T29zVGk4NVF1MDhkVC1uN2g2Rzl2bEl6UGJGdVdCWUhsQUpuLWZKOUtyT3dRaUJTS2ttR1JQVTNtcVNB?oc=5</link>
-<guid isPermaLink="false">b3d412cf048fa0d9db6698dc1fd02008c3b64ca4f513cf6912eb174cb20e5458</guid>
-<source>Google News Business</source>
-<category>business</category>
-<pubDate>Thu, 26 Nov 2026 23:00:00 +0000</pubDate>
-<description>Support Sacramento businesses by shopping local on Small Business Saturday. Here’s how Sacramento Bee</description>
-</item>
-<item>
-<title>Turkeys Not Just on Dinner Table at One LA County Business - KQED</title>
-<link>https://news.google.com/rss/articles/CBMimAFBVV95cUxNS2FTeGhRWFRKNHduTE9mLWJmR1dWM2dxLW5UQ1FLWUd4eTBLdXpjT3BZQW4yMjVqdnhTZDdTbU5EYlFwYW1PZEdUeXprbTl2eUMxdnU4RmdleEZabnhXQ25BWjJyT1R3YzFGaWM4ZTZORWg2a1JYUlRZV0lWeFlKa2ZpQm5NNlQxdXhqR1o5SGQxd1ZkamI4TA?oc=5</link>
-<guid isPermaLink="false">8d218f23f252eb8d5fb51f67316b542e3d6b9fbaf8c7aa56754d87454d15aaf9</guid>
-<source>Google News Business</source>
-<category>business</category>
-<pubDate>Thu, 26 Nov 2026 20:30:18 +0000</pubDate>
-<description>Turkeys Not Just on Dinner Table at One LA County Business KQED</description>
-</item>
-<item>
-<title>Ford unveils GT41 Hypercar as it gears up for Le Mans showdown - Fox Business</title>
-<link>https://news.google.com/rss/articles/CBMilAFBVV95cUxOZFVkb1M5Z3pfNHRDZlVHQXF2ZGkxNThWZ0I3UTVtT0VCRXpGcEhWZzJCdEJCcDFMRGl3a0hiZ1lLbUF1emFHYV82ZF82LTRpa0FUVkR2TzV4SGtkT2dpNW5Hc0JfYTkxNXhXTzRCOWJIV01jMDZudEhUQjFfVkk5VmR6VjM1RUdJU0p5Ql9fYkxhR0FC0gGaAUFVX3lxTE45YVdndUJkM01KdVdKMnRzaEhpbHhPeDB6TVo0ZDJCbVNkVjc2SDRCNmgtWTRyakFuOU5CWkt6RVpjcnc5WkJKM2RyVGdRTlRmTlRsSmwtRWlTckVKQUlOQUZTY2lFMkpka19KdjRtVXZzSzFJMHAteW9xLV9sMEg5WjFqUE1TbnR5a2RhN3lqQ2JVRFBCSEJpdkE?oc=5</link>
-<guid isPermaLink="false">25fa118c8a93d4adfc509caa1cc55ece721b5a2336f7b2b528a06fde15d4f946</guid>
-<source>Google News Business</source>
-<category>business</category>
-<pubDate>Thu, 26 Nov 2026 20:00:04 +0000</pubDate>
-<description>Ford unveils GT41 Hypercar as it gears up for Le Mans showdown Fox Business</description>
-</item>
-<item>
 <title>Faisal Islam: Why Trump's new tariffs are less of a threat</title>
 <link>https://www.bbc.co.uk/news/articles/c6r7g4e3yep1o?at_medium=RSS&amp;at_campaign=rss</link>
 <guid isPermaLink="false">77ed0ea9783dbc608b293322b1c49c0a98ef057d1b78671d64b3aa715ead35c8</guid>
@@ -1001,15 +1113,6 @@
 <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a44e/live/be7b3450-e9af-11f1-859a-37130cd3a1d7.jpg" medium="image"/>
 </item>
 <item>
-<title>Think big, shop small: San Diego County guide to Small Business Saturday and Museum Store Sunday - Times of San Diego</title>
-<link>https://news.google.com/rss/articles/CBMitgFBVV95cUxPTGVaZkxKY05wb0dFQlpqamhUcVotNGtVYXpDTGhxVm55Zjc2ZnhZenp6cHJZR0liSnVFVktOTVFkWmJVVFRGcno3VjJ5N1o3MlZJNEVpbFlwYWpxQUZnTzY0MnoxMVYxdVpXVzZnOGhTZWEybzBzRmc4UVhNREJLcGRuLUUyX3V3LUNuRnp6YlR6V3RSSTRDVmVCM1ltYmxiYnMzdjhqSlhiTTNYeUFyZ1E0NmdNQQ?oc=5</link>
-<guid isPermaLink="false">f184971c0a8210bf5e357094331bc7822b3dd88c735961135d80a3faa5bafeef</guid>
-<source>Google News Business</source>
-<category>business</category>
-<pubDate>Thu, 26 Nov 2026 19:05:00 +0000</pubDate>
-<description>Think big, shop small: San Diego County guide to Small Business Saturday and Museum Store Sunday Times of San Diego</description>
-</item>
-<item>
 <title>Microdrama apps chase profits as Hollywood moves into short-form, vertical video</title>
 <link>https://www.cnbc.com/2026/11/26/micro-drama-apps-hollywood-vertical-video.html</link>
 <guid isPermaLink="false">760a332429d5d84350faead23f02edf5ac2680f6c7c95c9a28e4724ed433155f</guid>
@@ -1017,15 +1120,6 @@
 <category>business</category>
 <pubDate>Thu, 26 Nov 2026 18:27:43 +0000</pubDate>
 <description>The microdrama category has exploded at a time when traditional forms of media face waning interest and YouTube claims more viewing hours.</description>
-</item>
-<item>
-<title>Why So Many College Students Are Majoring in Sports Business - WSJ</title>
-<link>https://news.google.com/rss/articles/CBMiqwFBVV95cUxPenV6bEVNcnFNQXV2Q3d2Qi1PakJsb1Bxc1dxRmRqbW14c2l3eFVHcEtuRmtTY1JtV3FPQ2hSRG4taTEydUJXWEtURzI1dml3OWpsVm1xZUFLZ2JCUWJ1dXpLOUFQTFhrUEQ4RWNoVjRNYUR3VHRFcVFHRVBWbnlnNlBPOTVOcWtfNndmVmVVSDZSd2sta1Z6UTlqd21ibjRVOElCaUxiY09yaDQ?oc=5</link>
-<guid isPermaLink="false">02826c8086e32dc2cb9b681c55d35c2f1d3a938dfac7e2258860f31080204a70</guid>
-<source>Google News Business</source>
-<category>business</category>
-<pubDate>Thu, 26 Nov 2026 18:00:00 +0000</pubDate>
-<description>Why So Many College Students Are Majoring in Sports Business WSJ</description>
 </item>
 <item>
 <title>When will Poundland shops close? Five key questions answered</title>
@@ -1039,24 +1133,6 @@
 <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b760/live/084c3aa0-e9b2-11f1-859a-37130cd3a1d7.jpg" medium="image"/>
 </item>
 <item>
-<title>As shop owners face new challenges, they hope Small Business Saturday will boost local support - Colorado Public Radio</title>
-<link>https://news.google.com/rss/articles/CBMigwFBVV95cUxPR3lxdEV2WmhaTjFDMElkUF9wWjZWUlBaVXU1X01POWJrcnNUbzlVRHIzS1c2MUN0SlhmOW4xUEtpUHVnaE9GM0NsZVNQX0xqSGFicGVZakV1TlJmaFNXdzRYdjFqN0stV3NlSGJnUnVNdk5XTU9yRDVCM3h4SkZaMlNVWQ?oc=5</link>
-<guid isPermaLink="false">9c6094c190860f7ad98b60c07d1f734f7e9e210f98117c5ce54d46012d0aa7b1</guid>
-<source>Google News Business</source>
-<category>business</category>
-<pubDate>Thu, 26 Nov 2026 17:01:53 +0000</pubDate>
-<description>As shop owners face new challenges, they hope Small Business Saturday will boost local support Colorado Public Radio</description>
-</item>
-<item>
-<title>An Exec Who Helped Turn Starlink Into SpaceX's Cash Machine Is Leaving - Business Insider</title>
-<link>https://news.google.com/rss/articles/CBMihAFBVV95cUxObUsxa2t5T21LRlIyU0hFaUh2WWVZS0Q5cG5DZ2s4eVBNWlNtdGc0OXd4bTgzd1lBOXppWU95NUNQTy1sRmYwcXZXOFlicWQya2lzejdBZW5WRmJ4b0R4OHo2aFVBZm1faDFzb2RsRkh3X3lHTmJlVHA3X2xjVldZbXBJTW8?oc=5</link>
-<guid isPermaLink="false">88c6bc30892b12b2856ccf40966eaa247e882b892152dbb12f8f5222b07e732e</guid>
-<source>Google News Business</source>
-<category>business</category>
-<pubDate>Thu, 26 Nov 2026 15:27:00 +0000</pubDate>
-<description>An Exec Who Helped Turn Starlink Into SpaceX's Cash Machine Is Leaving Business Insider</description>
-</item>
-<item>
 <title>New UK-EU treaty has 10-year termination clause</title>
 <link>https://www.bbc.co.uk/news/articles/c98r7p65edvgo?at_medium=RSS&amp;at_campaign=rss</link>
 <guid isPermaLink="false">ab16224e8d1cd5dd506ef208f520deb37f85ba6080002bf54c34bbd4249229e0</guid>
@@ -1066,15 +1142,6 @@
 <description>Text of the treaties was published this afternoon, alongside legislation designed to enact the bulk of the deal.</description>
 <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/65b5/live/0c44e020-e972-11f1-99b6-a35a62fa4264.jpg" type="image/jpeg"/>
 <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/65b5/live/0c44e020-e972-11f1-99b6-a35a62fa4264.jpg" medium="image"/>
-</item>
-<item>
-<title>Big Apple retail blues: More than 16,000 NYC storefronts sit empty as businesses struggle - New York Post</title>
-<link>https://news.google.com/rss/articles/CBMixgFBVV95cUxPNzJJZHdOb1FuMEI3WVJuZ0oxTjNQOF8xTHhfWmJYU0RvZ194OUoyWDBUYlYxUXhnYk4zZXBhVUQ4M1N0N3U4VU1HSXAwRWtfdzVJUTVLVVJSMGVXTlkzQ0M2ZHZDRjY5ZXNSYkdjN2RlNkZ4X01ocjMycnRFTW1IRGxHOE4wNXpSanl6SHJrTXQ5TEdkMUduQVA2UldjTHRIRWd1MHZzclpyM1UwY0ZQR2pZQkNwRzdNSDJmTmpDWnJXTnVsdVE?oc=5</link>
-<guid isPermaLink="false">eed1970f48aed756235627ae3bf33ce3196e254cef828b34ac978466afd81a1c</guid>
-<source>Google News Business</source>
-<category>business</category>
-<pubDate>Thu, 26 Nov 2026 14:43:00 +0000</pubDate>
-<description>Big Apple retail blues: More than 16,000 NYC storefronts sit empty as businesses struggle New York Post</description>
 </item>
 <item>
 <title>Norse Atlantic suspends all flights as it faces potential collapse</title>
@@ -1097,15 +1164,6 @@
 <description>More people face higher mortgage repayments when they roll off a fixed deal than previously estimated.</description>
 <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0133/live/865c5960-e9a9-11f1-99b6-a35a62fa4264.jpg" type="image/jpeg"/>
 <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0133/live/865c5960-e9a9-11f1-99b6-a35a62fa4264.jpg" medium="image"/>
-</item>
-<item>
-<title>Business - The Economist</title>
-<link>https://news.google.com/rss/articles/CBMic0FVX3lxTE1NNmktVXB3T3JpSWpZeG5OZm5WU1Z3a2QtRTREenQ5ellFc0FWX0thbEFWSDg2czE1b1Qyb1JOS0x3N2lhRm15bUZMN1ZTTjZwdlc1bWRTSmliWkZxallKMUZjTFdzbGp2SW1jZnhuVlRCbkk?oc=5</link>
-<guid isPermaLink="false">1ee5b86d22b938a5664509cecfacf235e6ca0a6a5b060e85da1e27cc9bb5a7c1</guid>
-<source>Google News Business</source>
-<category>business</category>
-<pubDate>Thu, 26 Nov 2026 13:45:02 +0000</pubDate>
-<description>Business The Economist</description>
 </item>
 <item>
 <title>Simon Jack: Is Poundland's US owner to blame for its collapse?</title>
@@ -1196,15 +1254,6 @@
 <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cdd4/live/6fdb6db0-e946-11f1-8b2f-671485cea0be.jpg" medium="image"/>
 </item>
 <item>
-<title>Gov. Pillen Urges Nebraskans to Support Small Business Saturday - Nebraska Governor's Office (.gov)</title>
-<link>https://news.google.com/rss/articles/CBMikwFBVV95cUxOOUU2eHVldERMVlBxTktIX1NjSklLLUp1TkFvZGV2UXMtRk9UZ1VFU2ZJSlE0Z1pLNWVkc2tlVFRqSWtQblNTYi1oeF8tZGFac0I5cllHNnJyTTBUbnRBZXhQdlNxbzloZWI1S0RRbWx2TzFkR1k2X05KN0J3MGN1NG9JMEtxNFFmeklLUlAyRTJ0ZE0?oc=5</link>
-<guid isPermaLink="false">36ad7896e08055f87ac8ddcc49cd1373d2216ad0cb520da24092e87121798c8d</guid>
-<source>Google News Business</source>
-<category>business</category>
-<pubDate>Thu, 26 Nov 2026 03:15:24 +0000</pubDate>
-<description>Gov. Pillen Urges Nebraskans to Support Small Business Saturday Nebraska Governor's Office (.gov)</description>
-</item>
-<item>
 <title>Guitar wars - the transatlantic battle over the Stratocaster</title>
 <link>https://www.bbc.co.uk/news/articles/cqd01l9x8k48o?at_medium=RSS&amp;at_campaign=rss</link>
 <guid isPermaLink="false">40530bdc7146b086f0574301fcc7af2528bc42c6604db357a609be61e1e8e973</guid>
@@ -1258,17 +1307,6 @@
 <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ded6/live/4c913ad0-e8ef-11f1-99b6-a35a62fa4264.jpg" medium="image"/>
 </item>
 <item>
-<title>Why has Poundland collapsed and what happens next?</title>
-<link>https://www.bbc.co.uk/news/videos/ckregn0gq2ydo?at_medium=RSS&amp;at_campaign=rss</link>
-<guid isPermaLink="false">3f365d1f73e14fb49db3194e58a942c16574bbff2c673e142086cd92a3faf4d8</guid>
-<source>BBC Business</source>
-<category>business</category>
-<pubDate>Wed, 25 Nov 2026 16:24:30 +0000</pubDate>
-<description>The retail chain has collapsed just one year after being bought for £1 by an American firm.</description>
-<enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bc81/live/3c9523e0-e8f3-11f1-a094-5fdc692f3e33.jpg" type="image/jpeg"/>
-<media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bc81/live/3c9523e0-e8f3-11f1-a094-5fdc692f3e33.jpg" medium="image"/>
-</item>
-<item>
 <title>Secondhand shopping is going mainstream this holiday season as consumers seek value</title>
 <link>https://www.cnbc.com/2026/11/25/secondhand-holiday-shopping-grows-as-shoppers-seek-value.html</link>
 <guid isPermaLink="false">7526cfd15e5b2f9ca0055abfe812e3a3a3bdeeedbe04913a7e06dea8b9b3581e</guid>
@@ -1276,24 +1314,6 @@
 <category>business</category>
 <pubDate>Wed, 25 Nov 2026 14:17:01 +0000</pubDate>
 <description>More consumers are shopping secondhand this holiday season as they emphasize value and uniqueness in their purchases.</description>
-</item>
-<item>
-<title>Trump Doesn’t Care Who Might Get Hurt - The Atlantic</title>
-<link>https://news.google.com/rss/articles/CBMifEFVX3lxTFBVYmV5NWVuVFNVY1ZfOTNaN2tuTjVuZEVvTmdnVlRQZkI0b003X0JybFBhbElyWnZIeU9sNHRmRWN2b2JzRF9BSDRrcGYteEY5OEdsdkxOU0FDWnlESGUzUWVCaW0zeHVpOGR5TzZFUTZTWFp1YldoNlYtSW8?oc=5</link>
-<guid isPermaLink="false">860cbb6db34b51be266ae82a527a630795d6fe157612fc3576ff9f2c7a0d2cd9</guid>
-<source>Google News Business</source>
-<category>business</category>
-<pubDate>Wed, 25 Nov 2026 11:00:00 +0000</pubDate>
-<description>Trump Doesn’t Care Who Might Get Hurt The Atlantic</description>
-</item>
-<item>
-<title>Why it’s getting harder to tell first and business class cabins apart - CNN</title>
-<link>https://news.google.com/rss/articles/CBMieEFVX3lxTE9SUW1nVHRxc3EzaFhWeFFwY29ObF9XdVUwczVPQVAzY2RRM2xWbjNMTXpYRUswWURMYVByQ0pqdUhHRmEyS1VwbXhBUFR6akhlUy02Qmczcl9mRWRPOGMxem9YamtuMjNiRk9xM0JObC0tMUNPcU1VLQ?oc=5</link>
-<guid isPermaLink="false">b2ba9f1cd4e12f7a1cc597e23015e550cc7e5b3e8a7a64775fa40b01146f5e73</guid>
-<source>Google News Business</source>
-<category>business</category>
-<pubDate>Wed, 25 Nov 2026 10:39:47 +0000</pubDate>
-<description>Why it’s getting harder to tell first and business class cabins apart CNN</description>
 </item>
 <item>
 <title>Why tiny cars are taking off across Europe</title>
@@ -1361,15 +1381,6 @@
 <category>business</category>
 <pubDate>Mon, 23 Nov 2026 21:55:27 +0000</pubDate>
 <description>In addition to ESPN channels, Super Bowl 61 will also be available on streaming platform Disney+ as well as the company's broadcast network ABC.</description>
-</item>
-<item>
-<title>EITC Business Participants by County - PA Department of Community &amp; Economic Development (.gov)</title>
-<link>https://news.google.com/rss/articles/CBMiaEFVX3lxTFA0aDRQdFBUYjUzR21lNXJWcjlIWkVKRG04ZXB0QzdpVWtNTzQtNG14V285aGxlVTFoc3YtYmVWWmpGMWtZZVlpSEx5bUd4TExJejRndXRRSWZWV3VEaV9sa1hpS0dsMGVr?oc=5</link>
-<guid isPermaLink="false">71c2ac13518fd4497b1314847bffeae2fbbc57c75dd863861168d0205da43fee</guid>
-<source>Google News Business</source>
-<category>business</category>
-<pubDate>Mon, 23 Nov 2026 08:00:00 +0000</pubDate>
-<description>EITC Business Participants by County PA Department of Community &amp; Economic Development (.gov)</description>
 </item>
 <item>
 <title>San Francisco is enjoying an AI boom, but worries about a crash are growing</title>
